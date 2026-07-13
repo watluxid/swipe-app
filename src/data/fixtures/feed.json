@@ -1,0 +1,82 @@
+[
+  {
+    "id": "item-001",
+    "title": "The Quiet Rise of Local-First Software",
+    "subtitle": "Why your data may be moving back to your device",
+    "summary": "A growing movement of developers is building apps that treat the local device as the source of truth, syncing to the cloud only as a convenience. Proponents argue it restores speed, privacy, and offline resilience.",
+    "url": "https://example.com/articles/local-first",
+    "tags": ["software", "privacy"],
+    "date": "2026-07-12T08:30:00Z",
+    "pinned": true
+  },
+  {
+    "id": "item-002",
+    "title": "City Bike Networks Hit Record Ridership",
+    "subtitle": "Shared mobility keeps climbing post-2025",
+    "summary": "Bike-share systems in twelve major cities reported all-time-high trips last quarter. Planners credit protected lanes and cheaper monthly passes; critics note coverage gaps in outer districts remain.",
+    "url": "https://example.com/articles/bike-networks",
+    "tags": ["cities", "transport"],
+    "date": "2026-07-11T14:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-003",
+    "title": "Fermentation Startups Chase Dairy Flavor",
+    "subtitle": "Precision fermentation closes the taste gap",
+    "summary": "A new wave of food-tech companies says lab-grown casein finally makes vegan cheese melt and stretch like the real thing. Early taste tests are promising, but scaling production remains expensive.",
+    "url": "https://example.com/articles/fermentation-dairy",
+    "tags": ["food", "science"],
+    "date": "2026-07-11T09:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-004",
+    "title": "The Return of the Personal Website",
+    "subtitle": "Small web, big comeback",
+    "summary": "Tired of algorithmic feeds, a visible cohort of writers and artists are moving back to hand-rolled homepages and RSS. Hosting tools aimed at non-programmers are quietly booming.",
+    "url": "https://example.com/articles/personal-websites",
+    "tags": ["web", "culture"],
+    "date": "2026-07-10T18:45:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-005",
+    "title": "Deep-Sea Robots Map Uncharted Trenches",
+    "subtitle": "Autonomous gliders reach new depths",
+    "summary": "An international survey fleet of autonomous underwater vehicles has mapped three previously uncharted trench systems in the western Pacific, revealing dozens of candidate hydrothermal vents.",
+    "url": "https://example.com/articles/deep-sea-robots",
+    "tags": ["science", "ocean"],
+    "date": "2026-07-10T07:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-006",
+    "title": "Why Rest Days Make You Faster",
+    "subtitle": "Sports science on recovery",
+    "summary": "New longitudinal data on amateur runners suggests that athletes who took two full rest days per week improved race times more than those training daily. Sleep quality was the strongest single predictor.",
+    "url": "https://example.com/articles/rest-days",
+    "tags": ["health", "sport"],
+    "date": "2026-07-09T12:20:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-007",
+    "title": "Libraries Become Neighborhood Cooling Hubs",
+    "subtitle": "Public buildings adapt to hotter summers",
+    "summary": "Facing longer heat waves, dozens of public libraries now advertise themselves as cooling centers, extending hours and adding water stations. Librarians report record foot traffic — and record signups.",
+    "url": "https://example.com/articles/library-cooling",
+    "tags": ["cities", "climate"],
+    "date": "2026-07-08T16:10:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-008",
+    "title": "A Beginner's Guide to Night-Sky Photography",
+    "subtitle": "You need less gear than you think",
+    "summary": "Modern phone sensors plus a cheap tripod can capture the Milky Way. This guide walks through exposure basics, light-pollution maps, and why the best editing move is usually restraint.",
+    "url": "https://example.com/articles/night-sky-photo",
+    "tags": ["photography", "hobby"],
+    "date": "2026-07-07T21:00:00Z",
+    "pinned": false
+  }
+]

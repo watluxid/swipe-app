@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { DiscardedStore, FeedItem, SavedStore } from "../types";
-import { getFeedItems } from "../data/adapter";
+import { dedupeById, getFeedItems } from "../data/adapter";
 import { load, save } from "../store/persistence";
 
 interface UseFeedOptions {
@@ -53,10 +53,10 @@ export function useFeed({ pollInterval }: UseFeedOptions = {}): Feed {
     setLoading(true);
     setError(null);
     try {
-      const fetched = await getFeedItems();
-      // Dedupe by id — a refresh may return items we already have.
-      const byId = new Map(fetched.map((item) => [item.id, item]));
-      setItems([...byId.values()]);
+      // Belt-and-braces: sources dedupe their own output, but this also
+      // covers merging across refreshes if we ever accumulate instead of
+      // replace.
+      setItems(dedupeById(await getFeedItems()));
     } catch (e) {
       setError(e instanceof Error ? e.message : "Failed to load feed");
     } finally {

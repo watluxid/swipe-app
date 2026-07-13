@@ -32,21 +32,31 @@ resurfaces something the user already dealt with.
 | `saved` | `Record<id, { item, savedAt }>` | Full item **snapshots**, so the Saved list works even if the source stops returning an item |
 | `pinOverrides` | `Record<id, boolean>` | Local user overrides of the source-provided `pinned` flag |
 
-The persistence layer is behind `load`/`save` helpers so the backend can be
-swapped (IndexedDB, remote sync) without touching the state hook.
+The persistence layer is behind a pluggable `StorageBackend` interface
+(`get`/`set` string pairs). The default backend is `localStorage`, chosen by a
+feature probe at startup; if it's unavailable (private mode, sandboxed
+embeds), an in-memory backend takes over automatically — the app keeps
+working, state just doesn't survive a reload. An artifact-style host would
+supply a `window.storage`-backed implementation here instead. `useFeed` only
+ever sees the `load`/`save` helpers, so backends swap without touching it.
 
 ## Source-agnostic data adapter
 
-`src/data/adapter.ts` exposes exactly one function:
+`src/data/adapter.ts` defines the contract every data source must satisfy:
 
 ```ts
-getFeedItems(): Promise<FeedItem[]>
+interface FeedSource {
+  getFeedItems(): Promise<FeedItem[]>;
+}
 ```
 
-Nothing above it knows where items come from. Today it resolves a local JSON
-fixture (`src/data/fixtures/feed.json`) with simulated latency; swapping in a
-remote API is a one-file change as long as the response maps into
-`FeedItem[]`.
+The rest of the app calls the module-level `getFeedItems()`, which delegates
+to `activeSource`. Today that's `fixtureSource`, resolving a local JSON
+fixture (`src/data/fixtures/feed.json`, 15 demo items) with simulated
+latency. Dropping in a real remote source means writing one `FeedSource`
+object and repointing `activeSource` — the file contains a commented example.
+Sources dedupe their own output by `id` via the shared `dedupeById` helper
+(last occurrence wins, so a re-fetched item can carry updated fields).
 
 ## Refresh strategy
 
@@ -54,8 +64,8 @@ remote API is a one-file change as long as the response maps into
 `refreshFeed()`, which:
 
 1. calls `getFeedItems()`,
-2. dedupes by `id` (a refresh may return items already in memory),
-3. filters out discarded and saved items,
+2. dedupes by `id` against what's in memory (a refresh may return known items),
+3. filters out discarded ("seen") and saved items by `id`,
 4. sorts pinned-first, then newest-first by `date`.
 
 Refresh is triggered on mount, manually (header ⟳ button, empty-state and

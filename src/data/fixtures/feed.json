@@ -78,5 +78,75 @@
     "tags": ["photography", "hobby"],
     "date": "2026-07-07T21:00:00Z",
     "pinned": false
+  },
+  {
+    "id": "item-009",
+    "title": "Community Solar Gets Its Breakout Year",
+    "subtitle": "Renters finally get a piece of the panel",
+    "summary": "Subscription programs that let apartment dwellers buy shares of nearby solar farms doubled their enrollment in twelve months. Utilities are split between embracing the model and fighting it in rate cases.",
+    "url": "https://example.com/articles/community-solar",
+    "tags": ["climate", "energy"],
+    "date": "2026-07-07T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-010",
+    "title": "The Board Game Café Business Is Thriving",
+    "subtitle": "Analog play as an antidote to screens",
+    "summary": "Board game cafés keep opening at a pace that surprises even their owners, driven by twenty-somethings booking tables weeks out. The winning formula pairs a deep game library with staff who teach rules fast.",
+    "url": "https://example.com/articles/board-game-cafes",
+    "tags": ["culture", "business"],
+    "date": "2026-07-06T17:40:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-011",
+    "title": "What Ancient Roman Concrete Keeps Teaching Us",
+    "subtitle": "Self-healing chemistry, two millennia early",
+    "summary": "Researchers replicating hot-mixed Roman mortar report cracks that reseal themselves under rainfall, and a major cement maker has licensed the approach. The dream: bridges that patch their own hairline fractures.",
+    "url": "https://example.com/articles/roman-concrete",
+    "tags": ["science", "history"],
+    "date": "2026-07-05T09:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-012",
+    "title": "Slow Trains Are Selling Out Across Europe",
+    "subtitle": "Night rail's second golden age",
+    "summary": "New sleeper routes between major European capitals are booking out months ahead, pushed by travelers trading one flight a year for the view from a couchette. Operators are scrambling to refurbish decades-old rolling stock.",
+    "url": "https://example.com/articles/night-trains",
+    "tags": ["travel", "transport"],
+    "date": "2026-07-04T19:25:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-013",
+    "title": "The Case for Tiny Forests in Big Cities",
+    "subtitle": "Miyawaki planting on vacant lots",
+    "summary": "Pocket forests the size of a tennis court, planted densely with native species, are maturing years faster than conventional parks. Early studies show measurable cooling and a surprising jump in bird diversity.",
+    "url": "https://example.com/articles/tiny-forests",
+    "tags": ["cities", "nature"],
+    "date": "2026-07-03T11:50:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-014",
+    "title": "Handwriting Is Having a Cognitive Moment",
+    "subtitle": "What note-taking studies actually show",
+    "summary": "A run of recent studies finds that writing by hand engages memory and motor networks that typing doesn't, especially in children learning to read. Stationery brands, unsurprisingly, are delighted.",
+    "url": "https://example.com/articles/handwriting-brain",
+    "tags": ["science", "education"],
+    "date": "2026-07-02T14:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "item-015",
+    "title": "Repair Cafés Move Into the Mainstream",
+    "subtitle": "Fixing things is becoming infrastructure",
+    "summary": "Volunteer repair events have grown from a niche hobby into city-funded programs, with several municipalities now covering venue costs and spare-part libraries. The most-fixed items: lamps, toasters, and headphones.",
+    "url": "https://example.com/articles/repair-cafes",
+    "tags": ["sustainability", "community"],
+    "date": "2026-07-01T08:45:00Z",
+    "pinned": false
   }
 ]

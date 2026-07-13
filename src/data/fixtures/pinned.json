@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pin-001",
+    "title": "Welcome to Swipe Reader",
+    "subtitle": "Placeholder pin — replace with your own",
+    "summary": "Swipe left to discard a card, right to save it for later. Pinned items like this one stay put at the top of your feed and can't be swiped away.",
+    "url": "https://example.com/pinned/welcome",
+    "tags": ["meta"],
+    "date": "2026-07-13T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "pin-002",
+    "title": "Weekly Digest — July 13",
+    "subtitle": "Placeholder pin — replace with your own",
+    "summary": "A stand-in for a recurring editorial pick or team announcement that should stay visible all week regardless of how much of the feed gets swiped through.",
+    "url": "https://example.com/pinned/weekly-digest",
+    "tags": ["digest"],
+    "date": "2026-07-13T06:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "pin-003",
+    "title": "Reader Survey: Two Minutes, Big Impact",
+    "subtitle": "Placeholder pin — replace with your own",
+    "summary": "A stand-in for a call-to-action pin — the kind of item you'd want every reader to see until a campaign ends, no matter when they open the app.",
+    "url": "https://example.com/pinned/survey",
+    "tags": ["community"],
+    "date": "2026-07-12T12:00:00Z",
+    "pinned": true
+  }
+]

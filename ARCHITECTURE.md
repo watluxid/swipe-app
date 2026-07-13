@@ -30,7 +30,17 @@ resurfaces something the user already dealt with.
 | --- | --- | --- |
 | `discarded` | `Record<id, { discardedAt }>` | "Seen" items swiped left; filtered out of the feed queue |
 | `saved` | `Record<id, { item, savedAt }>` | Full item **snapshots**, so the Saved list works even if the source stops returning an item |
-| `pinOverrides` | `Record<id, boolean>` | Local user overrides of the source-provided `pinned` flag |
+
+### Pinned items
+
+Pinned items come from a **separate static list** (`getPinnedItems()`, backed
+by `src/data/fixtures/pinned.json`) using the same `FeedItem` schema. They
+render in an always-visible strip above the card stack, are excluded from the
+swipe queue entirely, and **can't be discarded** — `discard()` refuses pinned
+ids at the store level, so it's a guarantee rather than a UI convention. They
+can still be saved (heart toggle on the strip). Independently, a source may
+flag an ordinary feed item `pinned: true` to float it to the front of the
+swipe queue; that's a sort hint, not the same thing as the pinned list.
 
 The persistence layer is behind a pluggable `StorageBackend` interface
 (`get`/`set` string pairs). The default backend is `localStorage`, chosen by a
@@ -46,15 +56,17 @@ ever sees the `load`/`save` helpers, so backends swap without touching it.
 
 ```ts
 interface FeedSource {
-  getFeedItems(): Promise<FeedItem[]>;
+  getFeedItems(): Promise<FeedItem[]>;   // the swipeable feed
+  getPinnedItems(): Promise<FeedItem[]>; // the always-visible pinned list
 }
 ```
 
-The rest of the app calls the module-level `getFeedItems()`, which delegates
-to `activeSource`. Today that's `fixtureSource`, resolving a local JSON
-fixture (`src/data/fixtures/feed.json`, 15 demo items) with simulated
-latency. Dropping in a real remote source means writing one `FeedSource`
-object and repointing `activeSource` — the file contains a commented example.
+The rest of the app calls the module-level `getFeedItems()`/`getPinnedItems()`,
+which delegate to `activeSource`. Today that's `fixtureSource`, resolving
+local JSON fixtures (`src/data/fixtures/feed.json`, 15 demo items, and
+`pinned.json`, 3 placeholder pins) with simulated latency. Dropping in a real
+remote source means writing one `FeedSource` object and repointing
+`activeSource` — the file contains a commented example.
 Sources dedupe their own output by `id` via the shared `dedupeById` helper
 (last occurrence wins, so a re-fetched item can carry updated fields).
 
@@ -63,10 +75,14 @@ Sources dedupe their own output by `id` via the shared `dedupeById` helper
 `useFeed()` (`src/hooks/useFeed.ts`) owns all feed state and exposes
 `refreshFeed()`, which:
 
-1. calls `getFeedItems()`,
-2. dedupes by `id` against what's in memory (a refresh may return known items),
-3. filters out discarded ("seen") and saved items by `id`,
-4. sorts pinned-first, then newest-first by `date`.
+1. calls `getFeedItems()` and `getPinnedItems()` in parallel,
+2. dedupes by `id` (a refresh may return known items),
+3. filters the queue: no discarded ("seen"), saved, or pinned-list ids,
+4. sorts pinned-flag-first, then newest-first by `date`.
+
+Overlapping refreshes (slow network + manual refresh + poll tick) are
+serialized by a monotonic sequence counter: only the newest request's
+response is applied, so a stale slow response can never clobber fresh data.
 
 Refresh is triggered on mount, manually (header ⟳ button, empty-state and
 error-state buttons), and optionally on a schedule: `useFeed({ pollInterval })`
@@ -79,6 +95,8 @@ of crashing the stack.
 
 ## UI
 
+- `PinnedSection` renders the pinned list as a horizontally scrolling strip
+  above the stack, with open-link and save-toggle actions only (no discard).
 - `CardStack` renders the top 3 queue items as a stack; only the top card is
   interactive.
 - `SwipeCard` implements the gesture with raw pointer events (no gesture

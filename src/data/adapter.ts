@@ -1,5 +1,6 @@
 import type { FeedItem } from "../types";
-import fixture from "./fixtures/feed.json";
+import feedFixture from "./fixtures/feed.json";
+import pinnedFixture from "./fixtures/pinned.json";
 
 /**
  * The contract every data source must satisfy. The UI and stores only ever
@@ -8,7 +9,13 @@ import fixture from "./fixtures/feed.json";
  * and pointing `activeSource` at it; nothing above this file changes.
  */
 export interface FeedSource {
+  /** The swipeable feed. */
   getFeedItems(): Promise<FeedItem[]>;
+  /**
+   * The always-visible pinned list, kept separate from the feed: pinned
+   * items can't be discarded and never enter the swipe queue.
+   */
+  getPinnedItems(): Promise<FeedItem[]>;
 }
 
 /**
@@ -19,7 +26,11 @@ export interface FeedSource {
 export const fixtureSource: FeedSource = {
   async getFeedItems() {
     await new Promise((resolve) => setTimeout(resolve, 300));
-    return dedupeById(fixture as FeedItem[]);
+    return dedupeById(feedFixture as FeedItem[]);
+  },
+  async getPinnedItems() {
+    await new Promise((resolve) => setTimeout(resolve, 300));
+    return dedupeById(pinnedFixture as FeedItem[]);
   },
 };
 
@@ -29,8 +40,13 @@ export const fixtureSource: FeedSource = {
  *
  *   export const remoteSource: FeedSource = {
  *     async getFeedItems() {
- *       const res = await fetch(FEED_URL);
+ *       const res = await fetch(`${API_BASE}/feed`);
  *       if (!res.ok) throw new Error(`Feed request failed: ${res.status}`);
+ *       return dedupeById(await res.json());
+ *     },
+ *     async getPinnedItems() {
+ *       const res = await fetch(`${API_BASE}/pinned`);
+ *       if (!res.ok) throw new Error(`Pinned request failed: ${res.status}`);
  *       return dedupeById(await res.json());
  *     },
  *   };
@@ -38,9 +54,13 @@ export const fixtureSource: FeedSource = {
 
 const activeSource: FeedSource = fixtureSource;
 
-/** The single entry point the rest of the app calls. */
+/** The single entry points the rest of the app calls. */
 export function getFeedItems(): Promise<FeedItem[]> {
   return activeSource.getFeedItems();
+}
+
+export function getPinnedItems(): Promise<FeedItem[]> {
+  return activeSource.getPinnedItems();
 }
 
 /**

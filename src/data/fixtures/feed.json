@@ -7,7 +7,7 @@
     "url": "https://example.com/articles/local-first",
     "tags": ["software", "privacy"],
     "date": "2026-07-12T08:30:00Z",
-    "pinned": true
+    "pinned": false
   },
   {
     "id": "item-002",

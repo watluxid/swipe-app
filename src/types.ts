@@ -11,6 +11,11 @@ export interface FeedItem {
   tags: string[];
   /** ISO 8601 timestamp */
   date: string;
+  /**
+   * On feed items: floats the card to the front of the swipe queue.
+   * Items from the separate pinned list (getPinnedItems) always carry
+   * true and never enter the queue at all — they can't be discarded.
+   */
   pinned: boolean;
 }
 

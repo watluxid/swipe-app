@@ -65,16 +65,97 @@ body {
 
 .app-main {
   flex: 1;
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
   overflow: hidden;
   padding: 12px 16px;
+}
+
+/* ---- pinned section ---- */
+
+.pinned-section {
+  flex-shrink: 0;
+}
+
+.pinned-heading {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+
+.pinned-strip {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 4px;
+  scrollbar-width: none;
+}
+
+.pinned-strip::-webkit-scrollbar {
+  display: none;
+}
+
+.pinned-card {
+  flex: 0 0 230px;
+  scroll-snap-align: start;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  background: var(--surface);
+  border: 1px solid rgba(79, 140, 255, 0.35);
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+
+.pinned-link {
+  flex: 1;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+}
+
+.pinned-title {
+  font-size: 0.9rem;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.pinned-subtitle {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  margin-top: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.pinned-save {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 1.05rem;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+
+.pinned-save.is-saved {
+  color: var(--save);
 }
 
 /* ---- card stack ---- */
 
 .stack {
   position: relative;
-  height: 100%;
+  flex: 1;
+  min-height: 0;
 }
 
 .stack-slot {
@@ -219,7 +300,7 @@ body {
 /* ---- empty / loading states ---- */
 
 .feed-empty {
-  height: 100%;
+  flex: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -253,7 +334,8 @@ body {
   flex-direction: column;
   gap: 10px;
   overflow-y: auto;
-  height: 100%;
+  flex: 1;
+  min-height: 0;
   padding-bottom: 12px;
 }
 

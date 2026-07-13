@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useFeed } from "./hooks/useFeed";
 import { CardStack } from "./components/CardStack";
+import { PinnedSection } from "./components/PinnedSection";
 import { SavedList } from "./components/SavedList";
 
 type View = "feed" | "saved";
@@ -26,7 +27,14 @@ export default function App() {
       </header>
 
       <main className="app-main">
-        {view === "feed" ? <CardStack feed={feed} /> : <SavedList feed={feed} />}
+        {view === "feed" ? (
+          <>
+            <PinnedSection feed={feed} />
+            <CardStack feed={feed} />
+          </>
+        ) : (
+          <SavedList feed={feed} />
+        )}
       </main>
 
       <nav className="app-nav">

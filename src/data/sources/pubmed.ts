@@ -3,9 +3,9 @@
  * nephrology context).
  *
  * ── Where this runs ────────────────────────────────────────────────────────
- * SERVER-SIDE ONLY. It calls the NCBI E-utilities API and the Anthropic API
- * with secret keys, so it must never ship to the browser. Wire it in behind
- * the app's `getFeedItems()` in one of two shapes:
+ * SERVER-SIDE ONLY. It calls the NCBI E-utilities API (and optionally the
+ * Anthropic API), so it must never ship to the browser. Wire it in behind the
+ * app's `getFeedItems()` in one of two shapes:
  *
  *   1. As a scheduled job that writes the results to feed.json (or a DB), which
  *      the client-facing adapter then serves — closest to the current fixture
@@ -18,14 +18,23 @@
  * ── What it does ───────────────────────────────────────────────────────────
  *   esearch  → PMIDs for nephrology MeSH/keyword terms, last N days
  *   dedupe   → drop PMIDs already in the caller's "seen" set (before any
- *              expensive summary work)
+ *              summary work)
  *   esummary → title, journal, publication date
  *   efetch   → abstract text + MeSH headings (for tags)
- *   Claude   → a 1–2 sentence plain-language paraphrase of each conclusion
+ *   summarize → 1–2 sentence summary of the conclusion
  *   → returns FeedItem[] in the app's exact schema.
+ *
+ * ── Summaries: no gen-AI by default ────────────────────────────────────────
+ * The default summarizer is *extractive* and deterministic — it runs locally
+ * with no model inference (see `extractiveSummarizer`). An opt-in LLM
+ * paraphrase is available via `createLlmSummarizer()`. Either can be wrapped
+ * in a `SummaryCache` keyed by PMID so any given paper is summarized once,
+ * ever — a PMID's abstract never changes, so re-running the job re-uses cached
+ * summaries instead of recomputing them.
  */
 
 import Anthropic from "@anthropic-ai/sdk";
+import { readFileSync, writeFileSync } from "node:fs";
 import { XMLParser } from "fast-xml-parser";
 import type { FeedItem } from "../../types";
 import type { FeedSource } from "../adapter";
@@ -46,10 +55,8 @@ interface PubMedConfig {
   email?: string;
   /** Look-back window in days. */
   sinceDays: number;
-  /** Hard cap on PMIDs pulled per run — bounds both NCBI and Anthropic spend. */
+  /** Hard cap on PMIDs pulled per run — bounds NCBI (and any LLM) spend. */
   maxItems: number;
-  /** Anthropic model for the plain-language summaries. */
-  summaryModel: string;
   /** How many summaries to generate concurrently. */
   summaryConcurrency: number;
 }
@@ -61,7 +68,6 @@ function loadConfig(overrides: Partial<PubMedConfig> = {}): PubMedConfig {
     email: process.env.NCBI_EMAIL,
     sinceDays: 30,
     maxItems: 40,
-    summaryModel: "claude-opus-4-8",
     summaryConcurrency: 3,
     ...overrides,
   };
@@ -316,6 +322,151 @@ function extractMeshTags(meshHeadingList: unknown): string[] {
   return tags.slice(0, 4);
 }
 
+/**
+ * A summarizer turns one article's abstract into the feed's summary text.
+ * May be sync (extractive) or async (LLM) — callers `await` the result either
+ * way.
+ */
+export type Summarizer = (
+  title: string,
+  record: AbstractRecord,
+) => string | Promise<string>;
+
+// ── Extractive summarizer (default: no AI, no per-iteration inference) ───────
+
+const MAX_SUMMARY_SENTENCES = 2;
+const MAX_SUMMARY_CHARS = 320;
+
+/**
+ * Deterministic, local summarizer — the default. No model inference, so no
+ * per-iteration power cost.
+ *
+ *   - Structured abstract: the labeled CONCLUSIONS section is already the
+ *     takeaway, so we return its lead sentence(s) verbatim.
+ *   - Unstructured abstract: a classic frequency-based extractive pass (Luhn /
+ *     LexRank style) scores each sentence by the salience of the content words
+ *     it contains, nudged by conclusion cue-words and a mild bias toward the
+ *     end of the abstract (where conclusions live), then keeps the top
+ *     sentences in reading order.
+ *
+ * Trade-off vs. the LLM path: this reuses the authors' wording rather than
+ * paraphrasing in plain language. For a skim feed of abstracts that's usually
+ * fine; switch to `createLlmSummarizer()` where you specifically need the
+ * plain-language rewrite.
+ */
+export const extractiveSummarizer: Summarizer = (_title, record) => {
+  const source = (record.conclusion || record.abstract).trim();
+  if (!source) return "";
+
+  const sentences = splitSentences(source);
+  if (sentences.length <= MAX_SUMMARY_SENTENCES) {
+    return clamp(sentences.join(" "));
+  }
+
+  // A labeled conclusion is already isolated — its lead is the takeaway.
+  if (record.conclusion) {
+    return clamp(sentences.slice(0, MAX_SUMMARY_SENTENCES).join(" "));
+  }
+
+  // Unstructured: score and pick the most salient sentences.
+  const freq = wordFrequencies(source);
+  const scored = sentences.map((sentence, index) => ({
+    sentence,
+    index,
+    score: scoreSentence(sentence, freq, index, sentences.length),
+  }));
+  const top = [...scored]
+    .sort((a, b) => b.score - a.score)
+    .slice(0, MAX_SUMMARY_SENTENCES)
+    .sort((a, b) => a.index - b.index); // back into reading order
+
+  return clamp(top.map((t) => t.sentence).join(" "));
+};
+
+const CONCLUSION_CUES = [
+  "conclud",
+  "suggest",
+  "demonstrat",
+  "indicat",
+  "we found",
+  "our findings",
+  "in summary",
+  "associated with",
+  "improve",
+  "reduce",
+  "increase",
+  "no difference",
+  "effective",
+  "benefit",
+  "risk",
+];
+
+const STOPWORDS = new Set(
+  ("a an and are as at be by for from has have in is it its of on or that the to " +
+    "was were will with we our this these those study patients results background " +
+    "methods objective aim among between during than which who whom into over under")
+    .split(" "),
+);
+
+function tokenize(text: string): string[] {
+  return text.toLowerCase().match(/[a-z][a-z-]+/g) ?? [];
+}
+
+function wordFrequencies(text: string): Map<string, number> {
+  const freq = new Map<string, number>();
+  for (const word of tokenize(text)) {
+    if (STOPWORDS.has(word) || word.length < 3) continue;
+    freq.set(word, (freq.get(word) ?? 0) + 1);
+  }
+  return freq;
+}
+
+function scoreSentence(
+  sentence: string,
+  freq: Map<string, number>,
+  index: number,
+  total: number,
+): number {
+  const words = tokenize(sentence);
+  if (words.length === 0) return 0;
+
+  let contentScore = 0;
+  for (const word of words) {
+    if (STOPWORDS.has(word) || word.length < 3) continue;
+    contentScore += freq.get(word) ?? 0;
+  }
+  // Normalize by length so long sentences don't win by volume alone.
+  let score = contentScore / Math.sqrt(words.length);
+
+  const lower = sentence.toLowerCase();
+  if (CONCLUSION_CUES.some((cue) => lower.includes(cue))) score *= 1.35;
+
+  // Conclusions land at the end: mild recency bonus (0 → 1 across the abstract).
+  score *= 1 + 0.25 * (index / Math.max(1, total - 1));
+
+  return score;
+}
+
+function splitSentences(text: string): string[] {
+  // Protect a few common abstract abbreviations from the naive splitter.
+  const guarded = text
+    .replace(/\b(vs|e\.g|i\.e|cf|approx|no|fig)\.\s/gi, "$1<DOT> ")
+    .replace(/\b([A-Z])\.\s/g, "$1<DOT> "); // single-letter initials
+  return guarded
+    .split(/(?<=[.!?])\s+(?=[A-Z0-9])/)
+    .map((s) => s.replace(/<DOT>/g, ".").trim())
+    .filter(Boolean);
+}
+
+function clamp(text: string): string {
+  if (text.length <= MAX_SUMMARY_CHARS) return text;
+  const cut = text.slice(0, MAX_SUMMARY_CHARS);
+  const lastSpace = cut.lastIndexOf(" ");
+  return `${cut.slice(0, lastSpace > 0 ? lastSpace : MAX_SUMMARY_CHARS).trimEnd()}…`;
+}
+
+// ── LLM summarizer (opt-in) ──────────────────────────────────────────────────
+
 const SUMMARY_SYSTEM = `You rewrite the conclusion of a medical abstract as a short, plain-language summary for a nephrology-literate reader skimming a feed.
 
 Rules:
@@ -327,36 +478,69 @@ Rules:
 - Output only the summary text — no preamble, quotes, or citations.`;
 
 /**
- * Generates the plain-language summary for one article. We feed the conclusion
- * when the abstract is structured, else the whole abstract — so the model
- * always has the takeaway, not just background.
+ * Opt-in Claude paraphrase. Construct it only when you actually want the
+ * plain-language rewrite; the default path never touches the Anthropic API.
+ * Wrap it in a SummaryCache so a given PMID is only ever sent once.
  */
-async function summarizeConclusion(
-  anthropic: Anthropic,
-  cfg: PubMedConfig,
-  title: string,
-  record: AbstractRecord,
-): Promise<string> {
-  const source = record.conclusion || record.abstract;
-  if (!source) return "";
+export function createLlmSummarizer(options: {
+  client?: Anthropic;
+  model?: string;
+} = {}): Summarizer {
+  const client = options.client ?? new Anthropic();
+  const model = options.model ?? "claude-opus-4-8";
 
-  const message = await anthropic.messages.create({
-    model: cfg.summaryModel,
-    max_tokens: 200,
-    system: SUMMARY_SYSTEM,
-    messages: [
-      {
-        role: "user",
-        content: `Title: ${title}\n\nAbstract conclusion:\n${source}`,
-      },
-    ],
-  });
+  return async (title, record) => {
+    const source = record.conclusion || record.abstract;
+    if (!source) return "";
 
-  return message.content
-    .filter((block): block is Anthropic.TextBlock => block.type === "text")
-    .map((block) => block.text.trim())
-    .join(" ")
-    .trim();
+    const message = await client.messages.create({
+      model,
+      max_tokens: 200,
+      system: SUMMARY_SYSTEM,
+      messages: [
+        { role: "user", content: `Title: ${title}\n\nAbstract conclusion:\n${source}` },
+      ],
+    });
+
+    return message.content
+      .filter((block): block is Anthropic.TextBlock => block.type === "text")
+      .map((block) => block.text.trim())
+      .join(" ")
+      .trim();
+  };
+}
+
+// ── Summary cache (skip re-summarizing a PMID across runs) ────────────────────
+
+export interface SummaryCache {
+  get(pmid: string): string | undefined;
+  set(pmid: string, summary: string): void;
+}
+
+/**
+ * JSON-file-backed cache keyed by PMID. Loaded once on creation; each new
+ * summary is written through. Because a PMID's abstract is immutable, a cached
+ * summary is valid forever — this is what turns "summarize on every run" into
+ * "summarize once, ever", whichever summarizer you use.
+ */
+export function fileSummaryCache(filePath: string): SummaryCache {
+  let store: Record<string, string> = {};
+  try {
+    store = JSON.parse(readFileSync(filePath, "utf8")) as Record<string, string>;
+  } catch {
+    // No cache yet (or unreadable) — start empty.
+  }
+  return {
+    get: (pmid) => store[pmid],
+    set: (pmid, summary) => {
+      store[pmid] = summary;
+      try {
+        writeFileSync(filePath, JSON.stringify(store, null, 2));
+      } catch {
+        // Best-effort persistence; an unwritable cache just means recompute.
+      }
+    },
+  };
 }
 
 /** Run an async mapper over items with a fixed concurrency ceiling. */
@@ -387,12 +571,25 @@ export interface FetchFeedOptions {
   sinceDays?: number;
   /** Override the per-run item cap (default 40). */
   maxItems?: number;
+  /**
+   * How to summarize each conclusion. Defaults to the deterministic,
+   * inference-free `extractiveSummarizer`. Pass `createLlmSummarizer()` for a
+   * plain-language paraphrase.
+   */
+  summarizer?: Summarizer;
+  /**
+   * Optional cache so a PMID is summarized once, ever. On a cache hit the
+   * summarizer isn't called at all. Use `fileSummaryCache(path)` to persist
+   * across runs.
+   */
+  cache?: SummaryCache;
 }
 
 /**
  * The main job. Returns FeedItem[] in the app's exact schema, ready to serve
- * or persist. Articles the caller has already seen are skipped up front, so a
- * daily run only summarizes genuinely new papers.
+ * or persist. Articles the caller has already seen are skipped up front, and
+ * cached PMIDs skip summarization entirely — so a daily run does no
+ * redundant summary work.
  */
 export async function fetchNephrologyFeed(
   options: FetchFeedOptions = {},
@@ -402,8 +599,9 @@ export async function fetchNephrologyFeed(
     maxItems: options.maxItems,
   });
   const seen = options.seenIds ?? new Set<string>();
+  const summarize = options.summarizer ?? extractiveSummarizer;
+  const cache = options.cache;
   const ncbi = new NcbiClient(cfg);
-  const anthropic = new Anthropic(); // reads ANTHROPIC_API_KEY / ant profile
 
   // 1. Search, then dedupe against the seen set before spending anything.
   const allPmids = await searchPmids(ncbi, cfg);
@@ -416,13 +614,18 @@ export async function fetchNephrologyFeed(
     fetchAbstracts(ncbi, pmids),
   ]);
 
-  // 3. Summarize new abstracts under a concurrency ceiling.
+  // 3. Summarize new abstracts under a concurrency ceiling. A cached PMID
+  //    skips the summarizer entirely.
   const items = await mapWithConcurrency(pmids, cfg.summaryConcurrency, async (pmid) => {
     const m = meta.get(pmid);
     const a = abstracts.get(pmid);
     if (!m || !a || !a.abstract) return null;
 
-    const summary = await summarizeConclusion(anthropic, cfg, m.title, a);
+    let summary = cache?.get(pmid);
+    if (summary === undefined) {
+      summary = await summarize(m.title, a);
+      if (summary && cache) cache.set(pmid, summary);
+    }
     if (!summary) return null;
 
     const year = m.date.slice(0, 4);

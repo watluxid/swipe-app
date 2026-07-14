@@ -89,12 +89,32 @@ Pipeline: `esearch` (nephrology MeSH major topics + palliative-care-in-kidney
 terms, last 30 days by publication date) → **dedupe** the returned PMIDs
 against the caller's "seen" set (`pmid-<PMID>`) *before* any summary work →
 `esummary` (title, journal, date) + `efetch` (abstract, conclusion section,
-MeSH tags) → Claude generates a 1–2 sentence plain-language paraphrase of each
-conclusion (`claude-opus-4-8`, prompted to avoid verbatim abstract text and
-templated openers) → `FeedItem[]`.
+MeSH tags) → **summarize** the conclusion → `FeedItem[]`.
+
+### Summarization: no gen-AI by default
+
+Summaries are pluggable, and the default does **no model inference**:
+
+- `extractiveSummarizer` (default) — deterministic and local. Structured
+  abstracts have a labeled `CONCLUSIONS` section (parsed in `efetch`), returned
+  as-is; unstructured abstracts get a frequency-based extractive pass
+  (Luhn/LexRank-style sentence scoring with conclusion cue-words and a mild
+  end-of-abstract bias). No API, no per-iteration power cost.
+- `createLlmSummarizer()` — opt-in Claude paraphrase (`claude-opus-4-8`),
+  prompted against verbatim text and templated openers, for a plain-language
+  rewrite. The Anthropic client is constructed only if you use this path.
+- `fileSummaryCache(path)` — wrap either summarizer so a PMID is summarized
+  **once, ever**. An abstract is immutable, so a cached summary never expires;
+  re-runs reuse it instead of recomputing. Combined with seen-dedupe, a daily
+  run does no redundant summary work.
+
+The trade-off: extractive reuses the authors' wording; the LLM path
+paraphrases in plain language. `fetchNephrologyFeed({ summarizer, cache })`
+selects the strategy; `pubmedSource` defaults to extractive (fully AI-free).
 
 Configuration is all environment-driven (`NCBI_API_KEY`, `NCBI_TOOL`,
-`NCBI_EMAIL`, `ANTHROPIC_API_KEY`). API scoping and rate-limiting:
+`NCBI_EMAIL`; `ANTHROPIC_API_KEY` only if you opt into the LLM summarizer).
+API scoping and rate-limiting:
 
 - **Scoped:** `db=pubmed` only; `retmax` capped (default 40/run); every request
   carries `tool`/`email` per NCBI etiquette.

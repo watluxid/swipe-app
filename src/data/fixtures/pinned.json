@@ -1,32 +1,92 @@
 [
   {
-    "id": "pin-001",
-    "title": "Welcome to Swipe Reader",
-    "subtitle": "Placeholder pin — replace with your own",
-    "summary": "Swipe left to discard a card, right to save it for later. Pinned items like this one stay put at the top of your feed and can't be swiped away.",
-    "url": "https://example.com/pinned/welcome",
-    "tags": ["meta"],
-    "date": "2026-07-13T00:00:00Z",
+    "id": "trial-renaal",
+    "title": "RENAAL — Losartan in Type 2 Diabetic Nephropathy",
+    "subtitle": "N Engl J Med · 2001",
+    "summary": "Blocking the renin-angiotensin system with losartan slowed the decline toward kidney failure in people with type 2 diabetes and nephropathy, independent of its blood-pressure effect. It helped establish angiotensin blockade as a cornerstone of diabetic kidney protection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=RENAAL+losartan+nephropathy",
+    "tags": ["diabetic-kidney-disease", "raas-blockade"],
+    "date": "2001-09-20T00:00:00Z",
     "pinned": true
   },
   {
-    "id": "pin-002",
-    "title": "Weekly Digest — July 13",
-    "subtitle": "Placeholder pin — replace with your own",
-    "summary": "A stand-in for a recurring editorial pick or team announcement that should stay visible all week regardless of how much of the feed gets swiped through.",
-    "url": "https://example.com/pinned/weekly-digest",
-    "tags": ["digest"],
-    "date": "2026-07-13T06:00:00Z",
+    "id": "trial-idnt",
+    "title": "IDNT — Irbesartan in Diabetic Nephropathy",
+    "subtitle": "N Engl J Med · 2001",
+    "summary": "Irbesartan protected the kidneys of hypertensive type 2 diabetics better than either amlodipine or placebo, and the benefit went beyond blood-pressure lowering. Together with RENAAL it made angiotensin-receptor blockers standard therapy in diabetic kidney disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=IDNT+irbesartan+diabetic+nephropathy",
+    "tags": ["diabetic-kidney-disease", "raas-blockade"],
+    "date": "2001-09-20T00:00:00Z",
     "pinned": true
   },
   {
-    "id": "pin-003",
-    "title": "Reader Survey: Two Minutes, Big Impact",
-    "subtitle": "Placeholder pin — replace with your own",
-    "summary": "A stand-in for a call-to-action pin — the kind of item you'd want every reader to see until a campaign ends, no matter when they open the app.",
-    "url": "https://example.com/pinned/survey",
-    "tags": ["community"],
-    "date": "2026-07-12T12:00:00Z",
+    "id": "trial-sprint",
+    "title": "SPRINT — Intensive vs Standard Blood-Pressure Control",
+    "subtitle": "N Engl J Med · 2015",
+    "summary": "Targeting a systolic pressure under 120 rather than under 140 cut cardiovascular events and deaths, though at the cost of more acute kidney injury and electrolyte problems. It reshaped how aggressively clinicians treat blood pressure, including in many patients with CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SPRINT+intensive+blood+pressure+trial",
+    "tags": ["hypertension", "ckd-progression"],
+    "date": "2015-11-26T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "trial-credence",
+    "title": "CREDENCE — Canagliflozin in Diabetic Kidney Disease",
+    "subtitle": "N Engl J Med · 2019",
+    "summary": "The first trial designed around kidney endpoints showed an SGLT2 inhibitor markedly reduced kidney failure and cardiovascular events in type 2 diabetics with established nephropathy. It launched SGLT2 inhibitors as disease-modifying kidney drugs rather than just glucose-lowering agents.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=CREDENCE+canagliflozin+renal",
+    "tags": ["diabetic-kidney-disease", "sglt2-inhibitors"],
+    "date": "2019-06-13T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "trial-dapa-ckd",
+    "title": "DAPA-CKD — Dapagliflozin in Chronic Kidney Disease",
+    "subtitle": "N Engl J Med · 2020",
+    "summary": "Dapagliflozin slowed kidney disease and reduced deaths in people with CKD whether or not they had diabetes, extending SGLT2 benefit well beyond diabetic nephropathy. The result pushed these drugs into the core of CKD care generally.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=DAPA-CKD+dapagliflozin",
+    "tags": ["ckd-progression", "sglt2-inhibitors"],
+    "date": "2020-10-08T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "trial-empa-kidney",
+    "title": "EMPA-KIDNEY — Empagliflozin in Chronic Kidney Disease",
+    "subtitle": "N Engl J Med · 2023",
+    "summary": "In the broadest CKD population studied for an SGLT2 inhibitor, empagliflozin reduced progression and cardiovascular death across a wide range of kidney function and causes. It solidified SGLT2 inhibition as a near-universal option for slowing chronic kidney disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=EMPA-KIDNEY+empagliflozin",
+    "tags": ["ckd-progression", "sglt2-inhibitors"],
+    "date": "2023-01-12T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "trial-fidelio-dkd",
+    "title": "FIDELIO-DKD — Finerenone in Diabetic Kidney Disease",
+    "subtitle": "N Engl J Med · 2020",
+    "summary": "The non-steroidal mineralocorticoid-receptor antagonist finerenone lowered kidney and cardiovascular events in type 2 diabetics already on maximal angiotensin blockade, with less hyperkalemia risk than older agents. It opened a distinct therapeutic pathway on top of existing standard care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=FIDELIO-DKD+finerenone",
+    "tags": ["diabetic-kidney-disease", "mra"],
+    "date": "2020-12-03T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "trial-tempo-3-4",
+    "title": "TEMPO 3:4 — Tolvaptan in Polycystic Kidney Disease",
+    "subtitle": "N Engl J Med · 2012",
+    "summary": "Tolvaptan slowed the relentless growth of kidney cysts and the loss of function in autosomal dominant polycystic kidney disease, the first therapy shown to alter its course. Its benefit has to be weighed against thirst, frequent urination, and liver-enzyme monitoring.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=TEMPO+3:4+tolvaptan+ADPKD",
+    "tags": ["adpkd", "disease-modifying-therapy"],
+    "date": "2012-12-20T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "trial-mentor",
+    "title": "MENTOR — Rituximab vs Cyclosporine in Membranous Nephropathy",
+    "subtitle": "N Engl J Med · 2019",
+    "summary": "Rituximab was better than cyclosporine at achieving and, crucially, maintaining remission of proteinuria in membranous nephropathy over two years. The durability of response moved B-cell depletion toward first-line treatment for this glomerular disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=MENTOR+rituximab+membranous+nephropathy",
+    "tags": ["membranous-nephropathy", "glomerular-disease"],
+    "date": "2019-07-04T00:00:00Z",
     "pinned": true
   }
 ]

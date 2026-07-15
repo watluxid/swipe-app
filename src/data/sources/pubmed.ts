@@ -269,6 +269,11 @@ async function fetchAbstracts(
   const parser = new XMLParser({
     ignoreAttributes: false,
     attributeNamePrefix: "@_",
+    // fast-xml-parser only decodes numeric character references (the
+    // &#x2009;/&#xa0; thin-space/nbsp codes PubMed abstracts are full of)
+    // when htmlEntities is set — processEntities alone covers only the 5
+    // predefined XML entities (&amp; &lt; &gt; &quot; &apos;).
+    htmlEntities: true,
     // Keep AbstractText and MeshHeading as arrays even when singular.
     isArray: (name) => name === "AbstractText" || name === "MeshHeading",
   });

@@ -159,7 +159,12 @@ class NcbiClient {
       }
       const res = await fetch(url, { headers: { Accept: "*/*" } });
       if (!res.ok) {
-        throw new Error(`NCBI ${endpoint} failed: ${res.status} ${res.statusText}`);
+        const body = await res.text().catch(() => "");
+        throw new Error(
+          `NCBI ${endpoint} failed: ${res.status} ${res.statusText}\n` +
+            `Request: ${url}\n` +
+            `Response: ${body.slice(0, 500)}`,
+        );
       }
       return res.text();
     });

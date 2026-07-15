@@ -62,15 +62,22 @@ interface PubMedConfig {
 }
 
 function loadConfig(overrides: Partial<PubMedConfig> = {}): PubMedConfig {
-  return {
+  const defaults: PubMedConfig = {
     apiKey: process.env.NCBI_API_KEY,
     tool: process.env.NCBI_TOOL ?? "swipe-reader-nephrology",
     email: process.env.NCBI_EMAIL,
     sinceDays: 30,
     maxItems: 40,
     summaryConcurrency: 3,
-    ...overrides,
   };
+  // Spreading `overrides` directly would let an explicit `{ sinceDays:
+  // undefined }` (e.g. from a caller that only sets one option) clobber the
+  // default — object spread overwrites on key *presence*, not value. Drop
+  // undefined entries first so only genuine overrides apply.
+  const provided = Object.fromEntries(
+    Object.entries(overrides).filter(([, value]) => value !== undefined),
+  );
+  return { ...defaults, ...provided };
 }
 
 /**

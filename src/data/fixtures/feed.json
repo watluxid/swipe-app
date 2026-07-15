@@ -1,152 +1,582 @@
 [
   {
-    "id": "item-001",
-    "title": "The Quiet Rise of Local-First Software",
-    "subtitle": "Why your data may be moving back to your device",
-    "summary": "A growing movement of developers is building apps that treat the local device as the source of truth, syncing to the cloud only as a convenience. Proponents argue it restores speed, privacy, and offline resilience.",
-    "url": "https://example.com/articles/local-first",
-    "tags": ["software", "privacy"],
-    "date": "2026-07-12T08:30:00Z",
+    "id": "pmid-42438056",
+    "title": "Lactiplantibacillus plantarum (WJL) ameliorates chronic kidney disease by inhibiting fibroblast growth factor 21 adaptive stress response via low protein diet",
+    "subtitle": "Gut microbes · 2026",
+    "summary": "In both experimental and clinical settings, LPD improved glucose tolerance and significantly decreased circulating levels of gut-derived UTs while reducing body weight (-33% weight gain in mice and a decrease in body mass index of ~-0.5&#x2009;kg/min humans). Lprestored circulating amino acid levels, suppressed FGF21…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42438056/",
+    "tags": [
+      "fibroblast-growth-factors",
+      "diet-protein-restricted",
+      "renal-insufficiency-chronic",
+      "lactiplantibacillus-plantarum"
+    ],
+    "date": "2026-12-31T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-002",
-    "title": "City Bike Networks Hit Record Ridership",
-    "subtitle": "Shared mobility keeps climbing post-2025",
-    "summary": "Bike-share systems in twelve major cities reported all-time-high trips last quarter. Planners credit protected lanes and cheaper monthly passes; critics note coverage gaps in outer districts remain.",
-    "url": "https://example.com/articles/bike-networks",
-    "tags": ["cities", "transport"],
-    "date": "2026-07-11T14:00:00Z",
+    "id": "pmid-42443728",
+    "title": "Impact of dual antiplatelet therapy duration after percutaneous coronary intervention on outcomes in acute coronary syndrome patients with and without chronic kidney disease: a nationwide cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In patients undergoing PCI for ACS, no clear association was observed between longer DAPT duration and reduced cardiovascular events. In prespecified subgroup analyses, prolonged DAPT was associated with a higher incidence of bleeding events among patients with claims-defined CKD; however, this finding should be…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42443728/",
+    "tags": [
+      "acute-coronary-syndrome",
+      "percutaneous-coronary-intervention",
+      "renal-insufficiency-chronic",
+      "platelet-aggregation-inhibitors"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-003",
-    "title": "Fermentation Startups Chase Dairy Flavor",
-    "subtitle": "Precision fermentation closes the taste gap",
-    "summary": "A new wave of food-tech companies says lab-grown casein finally makes vegan cheese melt and stretch like the real thing. Early taste tests are promising, but scaling production remains expensive.",
-    "url": "https://example.com/articles/fermentation-dairy",
-    "tags": ["food", "science"],
-    "date": "2026-07-11T09:15:00Z",
+    "id": "pmid-42443716",
+    "title": "Combined podocyte, fibrotic and echocardiographic correlates of an operationally defined subclinical cardiorenal phenotype in chronic kidney disease: an exploratory study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In addition to transthoracic echocardiography at rest and after exercise, biomarkers of podocyte injury (urinary nephrin), fibrosis (urinary type IV collagen and serum galectin-3), cardiac wall stress (serum NT-proBNP) and renal filtration/cardiovascular risk integration (serum cystatin C) were assessed. These…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42443716/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "podocytes",
+      "cardio-renal-syndrome"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-004",
-    "title": "The Return of the Personal Website",
-    "subtitle": "Small web, big comeback",
-    "summary": "Tired of algorithmic feeds, a visible cohort of writers and artists are moving back to hand-rolled homepages and RSS. Hosting tools aimed at non-programmers are quietly booming.",
-    "url": "https://example.com/articles/personal-websites",
-    "tags": ["web", "culture"],
-    "date": "2026-07-10T18:45:00Z",
+    "id": "pmid-42445750",
+    "title": "GLP-1 Receptor Agonists and SGLT-2 Inhibitors in Diabetic Nephropathy: A Comparative Study",
+    "subtitle": "Saudi medical journal · 2026",
+    "summary": "Both medications offered comparable glycemic and renal benefits. The GLP-1RAs, however, demonstrated more favorable effects on albuminuria, suggesting potential for superior renal protection in nascent diabetic nephropathy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42445750/",
+    "tags": [
+      "diabetic-nephropathies",
+      "sodium-glucose-transporter-2-inhibitors",
+      "diabetes-mellitus-type-2",
+      "glucagon-like-peptide-1-receptor-agonists"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-005",
-    "title": "Deep-Sea Robots Map Uncharted Trenches",
-    "subtitle": "Autonomous gliders reach new depths",
-    "summary": "An international survey fleet of autonomous underwater vehicles has mapped three previously uncharted trench systems in the western Pacific, revealing dozens of candidate hydrothermal vents.",
-    "url": "https://example.com/articles/deep-sea-robots",
-    "tags": ["science", "ocean"],
-    "date": "2026-07-10T07:00:00Z",
+    "id": "pmid-42445746",
+    "title": "Emerging Strategies for Cardio-Renal Protection Beyond RAAS Blockade: Emphasis on Non-diabetic CKD and Resistant Hypertension",
+    "subtitle": "Saudi medical journal · 2026",
+    "summary": "Non-diabetic chronic kidney disease (ND-CKD) complicated by resistant hypertension remains a high-risk phenotype even when renin-angiotensin system blockade is optimized. Non-steroidal mineralocorticoid receptor antagonism (MRA) like finerenone targets inflammatory and fibrotic signaling and may add incremental…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42445746/",
+    "tags": [
+      "hypertension",
+      "renal-insufficiency-chronic",
+      "renin-angiotensin-system"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-006",
-    "title": "Why Rest Days Make You Faster",
-    "subtitle": "Sports science on recovery",
-    "summary": "New longitudinal data on amateur runners suggests that athletes who took two full rest days per week improved race times more than those training daily. Sleep quality was the strongest single predictor.",
-    "url": "https://example.com/articles/rest-days",
-    "tags": ["health", "sport"],
-    "date": "2026-07-09T12:20:00Z",
+    "id": "pmid-42447098",
+    "title": "Knowledge and practice of hemodialysis catheter care and associated factors among patients on maintenance hemodialysis: An analytical cross-sectional study",
+    "subtitle": "PloS one · 2026",
+    "summary": "Less than half of patients demonstrated satisfactory HDC care practices despite moderate levels of knowledge. Knowledge was strongly associated with practice, highlighting its potential importance in supporting optimal catheter care behaviors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447098/",
+    "tags": [
+      "renal-dialysis",
+      "health-knowledge-attitudes-practice",
+      "catheter-related-infections"
+    ],
+    "date": "2026-07-14T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-007",
-    "title": "Libraries Become Neighborhood Cooling Hubs",
-    "subtitle": "Public buildings adapt to hotter summers",
-    "summary": "Facing longer heat waves, dozens of public libraries now advertise themselves as cooling centers, extending hours and adding water stations. Librarians report record foot traffic — and record signups.",
-    "url": "https://example.com/articles/library-cooling",
-    "tags": ["cities", "climate"],
-    "date": "2026-07-08T16:10:00Z",
+    "id": "pmid-42446417",
+    "title": "Chronic Pruritus in Predialysis Chronic Kidney Disease: Prevalence, Phenotype and Temporal Patterns in a Prospective Cohort",
+    "subtitle": "Acta dermato-venereologica · 2026",
+    "summary": "No laboratory parameter, including PTH, was independently associated with pruritus. Dyslipidaemia was the only clinical characteristic significantly associated with pruritus status (69.2% vs 43.3%, p=0.035).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446417/",
+    "tags": [
+      "pruritus",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-14T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-008",
-    "title": "A Beginner's Guide to Night-Sky Photography",
-    "subtitle": "You need less gear than you think",
-    "summary": "Modern phone sensors plus a cheap tripod can capture the Milky Way. This guide walks through exposure basics, light-pollution maps, and why the best editing move is usually restraint.",
-    "url": "https://example.com/articles/night-sky-photo",
-    "tags": ["photography", "hobby"],
-    "date": "2026-07-07T21:00:00Z",
+    "id": "pmid-42442896",
+    "title": "Fractional Flow Reserve-Guided Renal Artery Stenting in Renovascular Hypertension: 1-Year Results of the FAIR Study",
+    "subtitle": "JACC. Cardiovascular interventions · 2026",
+    "summary": "At the 1-year follow-up, FFR-guided renal artery stenting reduced stent use without loss of blood pressure control or renal safety compared with angiography guidance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42442896/",
+    "tags": [
+      "renal-artery-obstruction",
+      "stents",
+      "hypertension-renovascular",
+      "renal-artery"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-009",
-    "title": "Community Solar Gets Its Breakout Year",
-    "subtitle": "Renters finally get a piece of the panel",
-    "summary": "Subscription programs that let apartment dwellers buy shares of nearby solar farms doubled their enrollment in twelve months. Utilities are split between embracing the model and fighting it in rate cases.",
-    "url": "https://example.com/articles/community-solar",
-    "tags": ["climate", "energy"],
-    "date": "2026-07-07T10:30:00Z",
+    "id": "pmid-42440206",
+    "title": "Fulminant drug-induced immune thrombocytopenia in polycystic kidney disease with cyst infection",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "This case illustrates fulminant thrombocytopenia highly suggestive of drug-induced immune thrombocytopenia in which the platelet count fell to an undetectable level overnight. In patients receiving multiple drugs, clinicians should remain vigilant for drug-induced immune thrombocytopenia and should closely monitor…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440206/",
+    "tags": [
+      "polycystic-kidney-diseases",
+      "anti-bacterial-agents",
+      "purpura-thrombocytopenic-idiopathic",
+      "cysts"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-010",
-    "title": "The Board Game Café Business Is Thriving",
-    "subtitle": "Analog play as an antidote to screens",
-    "summary": "Board game cafés keep opening at a pace that surprises even their owners, driven by twenty-somethings booking tables weeks out. The winning formula pairs a deep game library with staff who teach rules fast.",
-    "url": "https://example.com/articles/board-game-cafes",
-    "tags": ["culture", "business"],
-    "date": "2026-07-06T17:40:00Z",
+    "id": "pmid-42440187",
+    "title": "Intra-abdominal abscess caused by Rhodotorula mucilaginosa in a peritoneal dialysis patient: a case report",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Although Rhodotorula species are rare opportunistic yeasts known to cause PD-associated peritonitis, IAA due to Rhodotorula in PD patients has not been previously reported. New-onset fever during intraperitoneal antibiotic therapy for bacterial peritonitis led to the identification of an IAA, and R. mucilaginosa was…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440187/",
+    "tags": [
+      "peritoneal-dialysis",
+      "rhodotorula",
+      "abdominal-abscess"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-011",
-    "title": "What Ancient Roman Concrete Keeps Teaching Us",
-    "subtitle": "Self-healing chemistry, two millennia early",
-    "summary": "Researchers replicating hot-mixed Roman mortar report cracks that reseal themselves under rainfall, and a major cement maker has licensed the approach. The dream: bridges that patch their own hairline fractures.",
-    "url": "https://example.com/articles/roman-concrete",
-    "tags": ["science", "history"],
-    "date": "2026-07-05T09:00:00Z",
+    "id": "pmid-42440148",
+    "title": "Investigation of the cleaning effect by the intermittent backfiltration in diafilters with polysulfone and polymethylmethacrylate membranes",
+    "subtitle": "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs · 2026",
+    "summary": "Although intermittent backfiltration did not show any effect on the removal efficiency of creatinine and inulin, it was slightly effective in maintaining protein permeability under certain conditions. In conclusion, backfiltraion had an effect on resolving fouling and recovering solute removal performance for both…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440148/",
+    "tags": [
+      "membranes-artificial",
+      "polymethyl-methacrylate",
+      "sulfones",
+      "polymers"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-012",
-    "title": "Slow Trains Are Selling Out Across Europe",
-    "subtitle": "Night rail's second golden age",
-    "summary": "New sleeper routes between major European capitals are booking out months ahead, pushed by travelers trading one flight a year for the view from a couchette. Operators are scrambling to refurbish decades-old rolling stock.",
-    "url": "https://example.com/articles/night-trains",
-    "tags": ["travel", "transport"],
-    "date": "2026-07-04T19:25:00Z",
+    "id": "pmid-42439996",
+    "title": "Monoclonal immunotactoid glomerulopathy with masked IgG associated with symptomatic multiple myeloma: a case report diagnosed by paraffin-immunofluorescence and mass spectrometry",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "We describe a rare case of monoclonal ITG with masked IgG, diagnosed by mass spectrometry and paraffin-IF, in a patient with symptomatic multiple myeloma. Early diagnosis and therapy for multiple myeloma stabilized renal function and reduced proteinuria.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439996/",
+    "tags": [
+      "multiple-myeloma",
+      "immunoglobulin-g",
+      "glomerulonephritis"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-013",
-    "title": "The Case for Tiny Forests in Big Cities",
-    "subtitle": "Miyawaki planting on vacant lots",
-    "summary": "Pocket forests the size of a tennis court, planted densely with native species, are maturing years faster than conventional parks. Early studies show measurable cooling and a surprising jump in bird diversity.",
-    "url": "https://example.com/articles/tiny-forests",
-    "tags": ["cities", "nature"],
-    "date": "2026-07-03T11:50:00Z",
+    "id": "pmid-42435285",
+    "title": "Adipose-derived mesenchymal stem cells improved acute renal failure induced by ischemia-reperfusion injury: Focusing on toll-like receptor 4 activity and endoplasmic reticulum stress response",
+    "subtitle": "Journal of physiology and biochemistry · 2026",
+    "summary": "In the group treated with AD-MSCs, there were notable reductions in serum blood urea nitrogen (BUN) and creatinine levels (P&#x2009;<&#x2009;0.001), along with improvements in renal tissue damage and oxidative stress (P&#x2009;<&#x2009;0.01). Additionally, the IRI&#x2009;+&#x2009;AD-MSC group showed significant…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42435285/",
+    "tags": [
+      "toll-like-receptor-4",
+      "reperfusion-injury",
+      "acute-kidney-injury",
+      "mesenchymal-stem-cell-transplantation"
+    ],
+    "date": "2026-07-11T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-014",
-    "title": "Handwriting Is Having a Cognitive Moment",
-    "subtitle": "What note-taking studies actually show",
-    "summary": "A run of recent studies finds that writing by hand engages memory and motor networks that typing doesn't, especially in children learning to read. Stationery brands, unsurprisingly, are delighted.",
-    "url": "https://example.com/articles/handwriting-brain",
-    "tags": ["science", "education"],
-    "date": "2026-07-02T14:15:00Z",
+    "id": "pmid-42433002",
+    "title": "COVID-19 and Diabetes: Clinical Symptoms, Acute Kidney Injury, Inflammatory Response, and Poor Prognosis Factors",
+    "subtitle": "Medical science monitor : international medical journal of experimental and clinical research · 2026",
+    "summary": "CONCLUSIONS Among patients hospitalized with COVID-19, diabetes was associated with higher comorbidity burden, respiratory involvement, altered renal function markers, and higher unadjusted 90-day mortality. Adjusted mortality was associated with age, coronary artery disease, and high admission SII.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42433002/",
+    "tags": [
+      "covid-19",
+      "acute-kidney-injury",
+      "diabetes-mellitus",
+      "inflammation"
+    ],
+    "date": "2026-07-11T00:00:00.000Z",
     "pinned": false
   },
   {
-    "id": "item-015",
-    "title": "Repair Cafés Move Into the Mainstream",
-    "subtitle": "Fixing things is becoming infrastructure",
-    "summary": "Volunteer repair events have grown from a niche hobby into city-funded programs, with several municipalities now covering venue costs and spare-part libraries. The most-fixed items: lamps, toasters, and headphones.",
-    "url": "https://example.com/articles/repair-cafes",
-    "tags": ["sustainability", "community"],
-    "date": "2026-07-01T08:45:00Z",
+    "id": "pmid-42446301",
+    "title": "Efectos adversos psiquiátricos en pacientes en hemodiálisis por enfermedad renal crónica: una dimensión clínica con implicaciones pronósticas",
+    "subtitle": "Vertex (Buenos Aires, Argentina) · 2026",
+    "summary": "Carta de lectores.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446301/",
+    "tags": [
+      "renal-dialysis",
+      "renal-insufficiency-chronic",
+      "mental-disorders"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432980",
+    "title": "Evaluation of the effect of the PRECEDE PROCEED model-based education program on hemodialysis patients' treatment compliance, healthy lifestyle behaviors, and quality of life",
+    "subtitle": "Medicine · 2026",
+    "summary": "The findings suggest that a PPM-based educational program may improve health-promoting lifestyle behaviors, treatment adherence, and quality of life among patients undergoing hemodialysis. These results support the use of theory-based educational interventions in hemodialysis care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432980/",
+    "tags": [
+      "quality-of-life",
+      "renal-dialysis",
+      "patient-education-as-topic",
+      "healthy-lifestyle"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432978",
+    "title": "Combining biomarkers with clinical risk factors to predict acute kidney injury after cardiopulmonary bypass surgery: An observational cohort study",
+    "subtitle": "Medicine · 2026",
+    "summary": "At 2 hours postoperatively, urinary NGAL (AUC&#x2005;=&#x2005;0.807) and urinary MMP-7 (AUC&#x2005;=&#x2005;0.805) were identified as the earliest postoperative predictive biomarkers. The simultaneous assessment of preoperative plasma suPAR, postoperative 2-hour urinary NGAL, and urinary MMP-7 markedly improves the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432978/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiopulmonary-bypass",
+      "receptors-urokinase-plasminogen-activator",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432951",
+    "title": "The associations between cardiometabolic index and mortalities in chronic kidney disease",
+    "subtitle": "Medicine · 2026",
+    "summary": "This study aimed to investigate the relationship between cardiometabolic index (CMI) and all-cause and cardiovascular mortality in patients with CKD using data from the National Health and Nutrition Examination Survey and to analyze the potential mediating roles of inflammatory markers. After multivariate adjustment,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432951/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cardiovascular-diseases"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432948",
+    "title": "Bidirectional associations of hypertension and chronic kidney disease risks under metal exposure: A mixture exposure and exploratory decomposition analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "Exploratory decomposition analysis was used to estimate the exploratory decomposition effects of blood pressure and renal function indicators. Exploratory decomposition analysis demonstrated that renal function had exploratory decomposition effects in the metal-hypertension associations, whereas blood pressure had…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432948/",
+    "tags": [
+      "hypertension",
+      "renal-insufficiency-chronic",
+      "environmental-exposure",
+      "metals"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432943",
+    "title": "Machine learning-based evaluation of lipid biomarkers for cardiovascular risk prediction in chronic kidney disease: A cross-sectional study",
+    "subtitle": "Medicine · 2026",
+    "summary": "This study analyzed 2696 CKD participants from the National Health and Nutrition Examination Survey from 2005 to 2018 through multivariate logistic regression to examine the relationship between various lipid markers and CVD, used restricted cubic splines to evaluate linear and nonlinear relationships between…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432943/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cardiovascular-diseases",
+      "machine-learning",
+      "lipids"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432935",
+    "title": "Evaluation of narrative nursing combined with motivational care in improving emotional status and reducing anxiety among chronic renal failure patients receiving hemodialysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "Furthermore, patients in the observation group demonstrated more positive coping patterns, higher quality of life scores, and greater satisfaction with nursing care. The integration of narrative and motivational nursing markedly mitigates negative emotional states, enhances self-management and engagement, and improves…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432935/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "anxiety",
+      "motivational-interviewing"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432932",
+    "title": "Multiple metabolic factors and kidney dysfunction: Causal evidence and translational insights from a mendelian randomization study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Genetically predicted SBP was causally associated with reduced eGFR, while ApoB was inversely associated with albuminuria risk. serum urate showed no significant causal effects. These findings provide genetic evidence linking SBP to renal dysfunction, suggest that albuminuria may partially mediate the association…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432932/",
+    "tags": [
+      "albuminuria",
+      "blood-pressure",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432930",
+    "title": "Extreme atherogenic index of plasma (log[TG_max/HDL_min]) and prognosis in sepsis-associated acute kidney injury: A MIMIC-IV retrospective study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Higher log(TG_max/HDL_min) was independently associated with increased 1-year mortality and prolonged lengths of stay in both the intensive care unit and hospital after multivariable adjustment for age, sex, blood urea nitrogen, serum creatinine, and Sequential Organ Failure Assessment (SOFA) score. These findings…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432930/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "triglycerides",
+      "cholesterol-hdl"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42432901",
+    "title": "Cardiac remodeling in CKD: Diagnostic utility of circulating fibroblast growth factor‑23",
+    "subtitle": "Medicine · 2026",
+    "summary": "Multivariate regression confirmed FGF-23 as an independent risk factor for remodeling across all adjustment models (odds ratio range, 1.021-1.039; P&#x2005;<&#x2005;.01). Circulating FGF-23 is independently associated with cardiac remodeling in non-dialysis CKD patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432901/",
+    "tags": [
+      "fibroblast-growth-factors",
+      "renal-insufficiency-chronic",
+      "ventricular-remodeling",
+      "hypertrophy-left-ventricular"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42431703",
+    "title": "Medullary haemorrhagic interstitial nephritis in multisystem inflammatory syndrome in adults following COVID-19",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "He was diagnosed with MIS-A and corticosteroid therapy produced marked clinical improvement. Renal biopsy demonstrated medullary haemorrhagic interstitial nephritis with preserved cortex, an uncommon pathological finding in renal injury secondary to COVID-19, which is consistent with possible immune-mediated…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42431703/",
+    "tags": [
+      "nephritis-interstitial",
+      "covid-19",
+      "systemic-inflammatory-response-syndrome",
+      "coronavirus-infections"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42445741",
+    "title": "From Initiation to Recovery: A Longitudinal Analysis of Polymyxin B-Induced Kidney Injury in Clinical Practice",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "Key risk factors for PMB-associated AKI included the use of vancomycin, aminoglycosides, amphotericin B, high-dose furosemide (>20 mg/day), and the loading dose of PMB.&#xa0;Close monitoring of serum creatinine within the first week of PMB therapy is crucial for improving outcomes.&#xa0;Clinicians should minimize…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42445741/",
+    "tags": [
+      "polymyxin-b",
+      "acute-kidney-injury",
+      "anti-bacterial-agents"
+    ],
+    "date": "2026-07-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42436736",
+    "title": "The Efficacy and Safety of Telitacicept versus the Recommended Regimens in IgA Nephropathy: A Single-Center Experience",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "Our study confirmed that glucocorticoids have superior efficacy to nefecon, but are associated with a higher incidence of adverse events. Telitacicept offered both efficacy and safety, and can be recommended for high-risk IgAN patients who are intolerant to glucocorticoids.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42436736/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "glucocorticoids"
+    ],
+    "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42444406",
+    "title": "Rhabdomyolysis After COVID-19",
+    "subtitle": "The Medical journal of Australia · 2026",
+    "summary": "Investigations demonstrated rhabdomyolysis with elevated creatine kinase levels and severe acute kidney injury (AKI). This case indicates the potential for severe myositis to develop in patients with SARS-CoV-2 infection with the potential for rhabdomyolysis and AKI to occur.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42444406/",
+    "tags": [
+      "rhabdomyolysis",
+      "kidney-transplantation",
+      "covid-19",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42444359",
+    "title": "Finerenone in Asian Patients with Type 2 Diabetes Mellitus and Albuminuric Chronic Kidney Disease: From Evidence to Implementation",
+    "subtitle": "Diabetes & metabolism journal · 2026",
+    "summary": "Recent Asian subgroup, pooled, combination-therapy, Asian versus non-Asian, and real-world analyses have expanded the evidence base relevant to Asian practice. Focus is placed on persistent albuminuric risk, potassium monitoring, treatment sequencing with sodium-glucose cotransporter 2 inhibitors, and implementation…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42444359/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic",
+      "albuminuria",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42444207",
+    "title": "Effect of positive fluid balance on acute kidney injury and in-hospital mortality in patients admitted to ICU after major surgery or trauma",
+    "subtitle": "JPMA. The Journal of the Pakistan Medical Association · 2026",
+    "summary": "Positive fluid balance was significantly associated with stage 3 acute kidney injury. Intravenous fluids in post-traumatic or post-surgical intensive care patients should be carefully handled to avoid overloading.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42444207/",
+    "tags": [
+      "acute-kidney-injury",
+      "hospital-mortality",
+      "water-electrolyte-balance",
+      "wounds-and-injuries"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42439406",
+    "title": "Effectiveness of AST-120 and probiotics (lactobacillus) on renal function in patients with chronic kidney disease: A retrospective cohort study from the TriNetX global collaborative network",
+    "subtitle": "Science progress · 2026",
+    "summary": "Time-to-event analyses were performed using Cox proportional hazards models.ResultsOver mean follow-up of 2.3 years, AST-120 use was associated with lower risks of progression to stage 4 CKD (HR 0.294; 95% CI 0.148-0.586), stage 5 CKD (HR 0.488; 95% CI 0.296-0.805), ESKD (HR 0.333; 95% CI 0.168-0.663), and all-cause…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439406/",
+    "tags": [
+      "probiotics",
+      "carbon",
+      "renal-insufficiency-chronic",
+      "oxides"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42438104",
+    "title": "Association of Selected Anthropometric Indices With Diabetic Kidney Disease Among Iranian Adults With Diabetes",
+    "subtitle": "Endocrinology, diabetes & metabolism · 2026",
+    "summary": "In this large sample of Iranian adults with diabetes, low-cost indices were associated with DKD and may help identify high-risk individuals, particularly in resource-limited settings. However, their moderate discriminative performance suggests limited standalone diagnostic utility, and longitudinal studies are needed…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42438104/",
+    "tags": [
+      "diabetic-nephropathies",
+      "anthropometry"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42438072",
+    "title": "Knowledge, Attitudes and Practices of Pre-Pregnancy Risk Management Among Childbearing-Age Women With a Kidney Transplant: A Cross-Sectional Study",
+    "subtitle": "Nursing open · 2026",
+    "summary": "Women of child-bearing age with a kidney transplant showed generally positive attitudes towards pre-pregnancy risk management. However, their knowledge and practice levels need improvement.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42438072/",
+    "tags": [
+      "kidney-transplantation",
+      "health-knowledge-attitudes-practice",
+      "risk-management"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42445198",
+    "title": "Promising non-invasive biomarkers for kidney allograft monitoring: a mini review",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Significant advancements have been made in kidney transplantation, with a wealth of immunosuppressive and antimicrobial therapies that have significantly improved graft survival. Despite these accomplishments, the ability to promptly identify kidney allograft pathology for these therapies has been limited by the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42445198/",
+    "tags": [
+      "kidney-transplantation",
+      "biomarkers",
+      "graft-rejection"
+    ],
+    "date": "2026-06-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42439648",
+    "title": "Gut Microbiota Dysbiosis Is a Key Driver of Inflammaging in Chronic Kidney Disease",
+    "subtitle": "Cells · 2026",
+    "summary": "Modulation of microbiota could correct critical alterations, such as F/B ratio and T reg/Th17 unbalance, blunting inflammaging and potentially reducing progression of CKD and cardiovascular disease. Despite current limitations, gut microbiota is emerging as a powerful environmental factor which could be harnessed to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439648/",
+    "tags": [
+      "dysbiosis",
+      "renal-insufficiency-chronic",
+      "gastrointestinal-microbiome",
+      "inflammation"
+    ],
+    "date": "2026-06-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42441550",
+    "title": "The Diagnostic Value of LINC00426 in Type 2 Diabetes and Diabetic Kidney Disease and its Regulatory Effects on Renal Cells",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "In contrast, overexpression of LINC00426 enhances the proliferative capacity of HK-2 and HGMC cells, inhibits apoptosis, and reduces inflammatory responses. Downregulation of LINC00426 may exacerbate DKD progression by inhibiting the proliferation of renal cells (HK-2 and HGMC) and promoting apoptosis and inflammatory…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42441550/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "rna-long-noncoding",
+      "kidney"
+    ],
+    "date": "2026-06-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42441491",
+    "title": "Serum C1q/TNF-Related Protein 7 and Dapagliflozin in Diabetic Kidney Disease: A Cross-Sectional and Longitudinal Study",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "A nomogram integrating systolic blood pressure, glycated hemoglobin, body mass index, and serum CTRP7 demonstrated strong predictive performance for identifying DKD risk. These findings suggest that serum CTRP7 may serve as a potential biomarker of DKD and that dapagliflozin treatment is associated with improvements…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42441491/",
+    "tags": [
+      "benzhydryl-compounds",
+      "diabetic-nephropathies",
+      "glucosides"
+    ],
+    "date": "2026-06-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42434305",
+    "title": "Effect of RAS inhibitors on retinal microvasculature in DKD using AI-based ultra-wide-field images",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "RASi therapy might be associated with retinal peripheral venous alterations, providing clues to a vascular- and topography-specific therapeutic response and shedding light on a potential imaging biomarker for diabetes management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42434305/",
+    "tags": [
+      "retinal-vessels",
+      "diabetic-retinopathy",
+      "diabetic-nephropathies",
+      "microvessels"
+    ],
+    "date": "2026-06-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42433359",
+    "title": "Efficacy and safety of obinutuzumab in patients with primary membranous nephropathy: a focus on refractory and rituximab-resistant patients",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Obinutuzumab demonstrates high clinical remission rates and acceptable safety in PMN patients, with good efficacy even in refractory and RTX-resistant patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42433359/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "antibodies-monoclonal-humanized",
+      "rituximab"
+    ],
+    "date": "2026-06-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42440498",
+    "title": "Mining biomarkers for type 2 diabetic nephropathy based on urinary proteomics and metabolomics",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Traditional proteins, especially UTRF/UIgG, hold diagnostic value. The 20-amino-acid combination (AUC&#xa0;=&#xa0;0.928) outperformed them.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440498/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "biomarkers",
+      "proteomics"
+    ],
+    "date": "2026-06-22T00:00:00.000Z",
     "pinned": false
   }
 ]

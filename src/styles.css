@@ -170,10 +170,10 @@ body {
   background: var(--surface);
   border: 1px solid var(--surface-2);
   border-radius: var(--radius);
-  padding: 24px 22px;
+  padding: 20px 20px;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 9px;
   user-select: none;
   cursor: grab;
   will-change: transform;
@@ -194,20 +194,25 @@ body {
 }
 
 .card-title {
-  font-size: 1.45rem;
-  line-height: 1.25;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.3;
 }
 
 .card-subtitle {
   color: var(--text-dim);
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 
 .card-summary {
-  font-size: 1rem;
-  line-height: 1.55;
+  font-size: 0.95rem;
+  line-height: 1.5;
   color: var(--text);
   flex: 1;
+  /* Scroll rather than clip if it's ever still too tall to fit — the whole
+     point is previewing the full conclusion without opening the article. */
+  min-height: 0;
+  overflow-y: auto;
 }
 
 .card-meta {
@@ -223,13 +228,13 @@ body {
 }
 
 .tag {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--text-dim);
   background: var(--surface-2);
   border-radius: 999px;
-  padding: 4px 10px;
+  padding: 3px 9px;
 }
 
 .card-date {

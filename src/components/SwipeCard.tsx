@@ -54,7 +54,6 @@ export function SwipeCard({
 
   const x = leaving ? (leaving === "left" ? -600 : 600) : drag.x;
   const rotation = x / 18;
-  const opacity = leaving ? 0 : 1;
   const verdict =
     drag.x <= -SWIPE_THRESHOLD || leaving === "left"
       ? "discard"
@@ -67,8 +66,7 @@ export function SwipeCard({
       className={`card ${dragging ? "dragging" : ""}`}
       style={{
         transform: `translate(${x}px, ${drag.y}px) rotate(${rotation}deg)`,
-        opacity,
-        transition: dragging ? "none" : "transform 0.25s ease, opacity 0.25s ease",
+        transition: dragging ? "none" : "transform 0.25s ease",
         touchAction: interactive ? "none" : "auto",
       }}
       onPointerDown={onPointerDown}

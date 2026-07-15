@@ -66,11 +66,12 @@ interface FeedSource {
 ```
 
 The rest of the app calls the module-level `getFeedItems()`/`getPinnedItems()`,
-which delegate to `activeSource`. Today that's `fixtureSource`, resolving
-local JSON fixtures (`src/data/fixtures/feed.json`, 15 demo items, and
-`pinned.json`, 3 placeholder pins) with simulated latency. Dropping in a real
-remote source means writing one `FeedSource` object and repointing
-`activeSource` — the file contains a commented example.
+which delegate to `activeSource`. That's still `fixtureSource`, resolving
+local JSON fixtures with simulated latency — the app doesn't call PubMed at
+runtime. Instead, a scheduled job keeps `feed.json`'s *contents* current (see
+"Keeping the deployed feed live" below); `activeSource` itself is unchanged.
+Dropping in a live remote source instead means writing one `FeedSource`
+object and repointing `activeSource` — the file contains a commented example.
 Sources dedupe their own output by `id` via the shared `dedupeById` helper
 (last occurrence wins, so a re-fetched item can carry updated fields).
 
@@ -133,6 +134,34 @@ serves the static landmark-trial list from `pinned.json`.
 > here, but it was not executed end-to-end against the live APIs — that runs in
 > the deployment environment where those hosts are reachable.
 
+## Keeping the deployed feed live
+
+The app is deployed as a static site (GitHub Pages), so `feed.json` has to be
+refreshed by something outside the browser. `.github/workflows/refresh-feed.yml`
+runs `scripts/refresh-feed.ts` once a day (cron `0 6 * * *`, plus manual
+`workflow_dispatch`):
+
+1. Reads the current `src/data/fixtures/feed.json`, keeping only its
+   `pmid-*` entries — anything else is superseded demo/fixture content.
+2. Calls `fetchNephrologyFeed({ seenIds })` with those ids, so PubMed is only
+   queried for studies not already on file — not the full 30-day window every
+   run.
+3. Merges the new items in, sorts newest-first, caps the file at 300 items,
+   and writes it back.
+4. Commits the file **only if it changed**, and pushes.
+
+That push lands on the same branch `deploy-pages.yml` watches, so a feed
+update triggers an automatic rebuild and republish — no manual step. The
+workflow uses the extractive summarizer only, so it needs no
+`ANTHROPIC_API_KEY`; `NCBI_EMAIL` (repo variable) and `NCBI_API_KEY` (repo
+secret) are optional, raising the NCBI rate-limit ceiling if set.
+
+**Scheduled (`schedule:`) triggers only run against the repository's default
+branch.** Right now `claude/mobile-card-feed-architecture-rznau9` is the only
+branch, so it *is* the default and this works as-is — but if `main` is later
+created as the default branch, this workflow (and `deploy-pages.yml`) need to
+exist there too, or the cron simply won't fire.
+
 ## Refresh strategy
 
 `useFeed()` (`src/hooks/useFeed.ts`) owns all feed state and exposes
@@ -172,6 +201,7 @@ of crashing the stack.
 
 ```sh
 npm install
-npm run dev      # dev server
-npm run build    # typecheck + production build
+npm run dev           # dev server
+npm run build         # typecheck + production build
+npm run refresh-feed  # regenerate feed.json from PubMed (extractive summaries)
 ```

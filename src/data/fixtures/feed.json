@@ -15,6 +15,48 @@
     "pinned": false
   },
   {
+    "id": "pmid-42449509",
+    "title": "The relationship between the non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio and tubular atrophy/interstitial fibrosis in patients with IgA nephropathy",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The association between NHHR and T lesions was assessed using Spearman's rank correlation analysis, binary logistic regression analysis, restricted cubic spline (RCS) analysis, receiver operating characteristic (ROC) curve analysis, and subgroup analysis.Compared to the lowest quartile (Q1), the highest NHHR quartile…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449509/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "kidney-tubules",
+      "cholesterol-hdl",
+      "cholesterol"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42449199",
+    "title": "Acute kidney injury after cytoreductive surgery and HIPEC: incidence and timing in a 10-year single-center cohort",
+    "subtitle": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group · 2026",
+    "summary": "AKI was frequent after CRS-HIPEC, and more than one third of cases peaked beyond the first 48 h. These findings support postoperative renal surveillance through POD 5.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449199/",
+    "tags": [
+      "acute-kidney-injury",
+      "cytoreduction-surgical-procedures",
+      "hyperthermic-intraperitoneal-chemotherapy"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42448446",
+    "title": "Novel biomarkers for acute kidney injury in high-risk pediatric populations: a systematic review",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Observational studies and randomized trials assessing diagnostic biomarkers for AKI in high-risk pediatric populations were included, while studies limited to traditional biomarkers, adult populations, or non-original research were excluded. The review further discusses the integration of novel biomarkers within…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448446/",
+    "tags": [
+      "biomarkers",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42443728",
     "title": "Impact of dual antiplatelet therapy duration after percutaneous coronary intervention on outcomes in acute coronary syndrome patients with and without chronic kidney disease: a nationwide cohort study",
     "subtitle": "Renal failure · 2026",
@@ -73,6 +115,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42455365",
+    "title": "Improving hard-to-place kidney allocation: A machine learning approach to center ranking",
+    "subtitle": "Health care management science · 2026",
+    "summary": "Expedited out-of-sequence placement of hard-to-place kidneys to centers with a high likelihood of acceptance has been recommended in the literature as a strategy to improve placement success. Our analysis demonstrates that the proposed policy can reduce the average number of centers considered before placement by…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455365/",
+    "tags": [
+      "kidney-transplantation",
+      "machine-learning",
+      "tissue-and-organ-procurement"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42455187",
+    "title": "Ultrasound evaluation of quadriceps muscle thickness and body fat distribution in children receiving maintenance hemodialysis: a cross-sectional case-control study",
+    "subtitle": "European journal of pediatrics · 2026",
+    "summary": "Quadriceps muscle US appears to be a practical adjunct and complementary assessment tool to conventional nutritional assessment in children receiving maintenance HD. US-derived subcutaneous and visceral fat measurements provide complementary information on body composition and fat distribution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455187/",
+    "tags": [
+      "quadriceps-muscle",
+      "renal-dialysis",
+      "body-fat-distribution",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42448384",
+    "title": "Relationship between cognitive impairment and chronic kidney disease",
+    "subtitle": "Practical neurology · 2026",
+    "summary": "By recognising the characteristic cognitive profile associated with CKD, and distinguishing it from coexisting neurodegenerative pathology, clinicians can implement early interventions that improve outcomes. We outline mechanisms that link CKD to cognitive dysfunction, present diagnostic approaches and offer…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448384/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cognitive-dysfunction",
+      "cognition-disorders"
+    ],
+    "date": "2026-07-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42447098",
     "title": "Knowledge and practice of hemodialysis catheter care and associated factors among patients on maintenance hemodialysis: An analytical cross-sectional study",
     "subtitle": "PloS one · 2026",
@@ -97,6 +182,19 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-07-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42443827",
+    "title": "Impaired fatty acid metabolism in AKI: experimental evidence - a narrative review",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Under certain conditions, adequate fatty acid oxidation may be considered nephroprotective; however, the complexity of the syndrome's pathophysiology must always be taken into account. Distinct fatty acids have the potential to offer therapeutic benefits in AKI cases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42443827/",
+    "tags": [
+      "acute-kidney-injury",
+      "fatty-acids"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -200,6 +298,21 @@
       "inflammation"
     ],
     "date": "2026-07-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42454817",
+    "title": "Family functionality and social support in Brazilian older people with chronic kidney disease in hemodialysis: a cross-sectional study",
+    "subtitle": "Sao Paulo medical journal = Revista paulista de medicina · 2026",
+    "summary": "Social support was positively associated with family functioning, indicating that patients with CKD undergoing hemodialysis who reported better family functioning also perceived higher levels of social support.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42454817/",
+    "tags": [
+      "renal-dialysis",
+      "social-support",
+      "family-relations",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -391,6 +504,51 @@
     "pinned": false
   },
   {
+    "id": "pmid-42450287",
+    "title": "Investigating the Kidney-Gut-Brain Axis in CKD: Uremic Toxins and Brain Microhemorrhages",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "CKD mice had higher serum levels of creatinine, cystatin C and gut-derived toxins, a 2.5-fold increase in brain microhemorrhages, and decreased locomotor activity. Sex differences were observed; in male animals, higher TMAO was associated with increased brain microhemorrhages, whereas in female mice, pCS was…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450287/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "uremic-toxins",
+      "gastrointestinal-microbiome",
+      "brain"
+    ],
+    "date": "2026-07-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42450285",
+    "title": "Uromodulin: A Novel Regulator of the Kidney-Adipose Axis in Diabetic Kidney Disease",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "Uromodulin, a kidney-enriched protein, has been associated with metabolic disorders in human studies, yet its functional role in systemic lipid metabolism remains elusive. Moreover,rats displayed exacerbated tubular injury and enhanced renal lipid accumulation in DKD relative torats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450285/",
+    "tags": [
+      "uromodulin",
+      "diabetic-nephropathies",
+      "kidney",
+      "diabetes-mellitus-experimental"
+    ],
+    "date": "2026-07-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42455512",
+    "title": "Comparison of Electronic Health Data-Based Frailty Assessment Tools for Prediction of Adverse Outcomes of Patients With Chronic Kidney Disease",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "Among the evaluated EHR-based frailty indices, FI-Lab offers the most robust utility for risk stratification in hospitalised patients with CKD, followed closely by eFI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455512/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "electronic-health-records",
+      "frailty",
+      "geriatric-assessment"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42444406",
     "title": "Rhabdomyolysis After COVID-19",
     "subtitle": "The Medical journal of Australia · 2026",
@@ -478,6 +636,65 @@
     "pinned": false
   },
   {
+    "id": "pmid-42454056",
+    "title": "Highly sensitized kidney transplant candidates: integrating acceptable mismatch, desensitization, imlifidase, and emerging immune-cell targeting strategies",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Highly sensitized kidney transplant candidates are difficult to transplant because anti-human leukocyte antigen (HLA) sensitization restricts access to immunologically compatible organs, as transplantation across donor-specific antibodies (DSA) increases the risk of antibody-mediated rejection (AMR) and premature…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42454056/",
+    "tags": [
+      "kidney-transplantation",
+      "desensitization-immunologic",
+      "graft-rejection",
+      "hla-antigens"
+    ],
+    "date": "2026-06-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42453508",
+    "title": "Development and validation of a predictive model for diabetic kidney disease risk in patients with T2DM: a hospital data platform study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Based on real-world clinical data, this study used LASSO regression to identify risk factors associated with DKD in patients with T2DM. We developed a nomogram that integrates multidimensional predictors to estimate individualized DKD risk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42453508/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "nomograms"
+    ],
+    "date": "2026-06-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42450176",
+    "title": "FBP1 Is Associated with Attenuated Mitochondrial Injury in Renal Tubular Epithelial Cells of Diabetic Kidney Disease via Modulation of Lactate Metabolism",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "In vivo, tubular-specific FBP1 overexpression in BKS-db mice reduced 24-h urinary protein and decreased renal lactate accumulation (< 0.05) compared with diabetic controls. Our findings suggest that FBP1 represents a potential experimental therapeutic target associated with alleviation of renal lactic acid…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450176/",
+    "tags": [
+      "mitochondria",
+      "kidney-tubules",
+      "epithelial-cells",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-06-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42450149",
+    "title": "Revolutionizing Renal Replacement: Current Advancements in Development and Transplantation of Bioengineered Kidneys",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "This narrative review assesses the feasibility of bioengineered kidneys as an alternative to current treatments by discussing advances in decellularization, recellularization, and the transplantation of cell-on-scaffold kidneys. Current work on bioengineered kidneys shows promising results regarding feasibility for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450149/",
+    "tags": [
+      "tissue-engineering",
+      "kidney-transplantation",
+      "kidney",
+      "bioengineering"
+    ],
+    "date": "2026-06-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42445198",
     "title": "Promising non-invasive biomarkers for kidney allograft monitoring: a mini review",
     "subtitle": "Frontiers in immunology · 2026",
@@ -504,6 +721,20 @@
       "inflammation"
     ],
     "date": "2026-06-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42450038",
+    "title": "The Need for Omics Studies in Chronic Kidney Disease of Unknown Etiology (CKDu): A Narrative Review and Perspective",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "Unlike traditional chronic kidney disease (CKD), CKDu occurs without common risk factors such as diabetes, hypertension, or kidney stones. Advancing omics-based investigations may provide critical insights into disease mechanisms, improve diagnostic precision, and inform targeted interventions for vulnerable…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450038/",
+    "tags": [
+      "chronic-kidney-diseases-of-uncertain-etiology",
+      "genomics",
+      "proteomics"
+    ],
+    "date": "2026-06-26T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -562,6 +793,65 @@
       "rituximab"
     ],
     "date": "2026-06-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42451060",
+    "title": "Kidney Transplantation and the Gut-Kidney Axis: Microbial, Metabolic, and Nutritional Implications for Graft and Patient Outcomes",
+    "subtitle": "Nutrients · 2026",
+    "summary": "Gut microbiota signatures and microbial metabolites are promising markers of transplant-related risk, but not established causal determinants or therapeutic targets. Clinical translation requires standardized methods, multi-omics integration, and prospective patient- and graft-centered trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42451060/",
+    "tags": [
+      "kidney-transplantation",
+      "gastrointestinal-microbiome",
+      "kidney"
+    ],
+    "date": "2026-06-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42449939",
+    "title": "Aldosterone in Diabetic Kidney Disease: From Mineralocorticoid Receptor Antagonism to Aldosterone Synthase Inhibition",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "Despite these advances, a considerable degree of residual cardiovascular and renal risk persists, attributable in part to the incomplete attenuation of aldosterone activity and the well-characterized phenomenon of aldosterone escape under sustained RAAS blockade. Aldosterone synthase inhibitors (ASIs) represent a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449939/",
+    "tags": [
+      "diabetic-nephropathies",
+      "mineralocorticoid-receptor-antagonists",
+      "aldosterone",
+      "cytochrome-p-450-cyp11b2"
+    ],
+    "date": "2026-06-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42449927",
+    "title": "Global DNA Methylation in Children with Posterior Urethral Valves: Association with Kidney Function and Kidney Scarring",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "Within the PUV cohort, global 5-mC% increased with CKD severity (< 0.05) and showed a logarithmic association with CKD stage (R= 0.8012). These findings suggest altered systemic global 5-mC content in boys with PUV and support larger, longitudinal studies incorporating locus-specific methylation profiling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449927/",
+    "tags": [
+      "dna-methylation",
+      "cicatrix",
+      "renal-insufficiency-chronic",
+      "urethra"
+    ],
+    "date": "2026-06-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42449925",
+    "title": "Activation of the Endothelin System in Chronic Kidney Disease and Kidney Transplant Recipients-Implications for Disease Progression",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "ET-1 and ETAR concentrations were markedly elevated compared to controls, with the highest ET-1 levels detected in the post-KTx group, whereas ETAR-Ab levels were reduced. The endothelin activation, observed in transplant patients particularly, highlights the potential clinical relevance of endothelin-related…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449925/",
+    "tags": [
+      "kidney-transplantation",
+      "receptor-endothelin-a",
+      "endothelin-1",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-06-23T00:00:00.000Z",
     "pinned": false
   },
   {

@@ -15,6 +15,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42459055",
+    "title": "Association of CBC‑derived inflammation indices with prevalent CKD: a cross‑sectional analysis of a Chinese data set and NHANES",
+    "subtitle": "Annals of medicine · 2026",
+    "summary": "Elevated SIRI, NLR, and NMLR are associated with prevalent CKD, suggesting systemic inflammation may play a role, yet prospective studies are required to establish temporality and causality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42459055/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "inflammation"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42449509",
     "title": "The relationship between the non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio and tubular atrophy/interstitial fibrosis in patients with IgA nephropathy",
     "subtitle": "Renal failure · 2026",
@@ -112,6 +125,121 @@
       "renin-angiotensin-system"
     ],
     "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42461941",
+    "title": "Acute kidney injury severity in ICU patients: Developing and evaluating a data-driven analysis of clinical covariates using machine learning",
+    "subtitle": "PloS one · 2026",
+    "summary": "Our machine learning-based model effectively identified key covariates of acute kidney injury severity in ICU patients using routinely collected clinical data. The findings provide a foundation for early identification, risk stratification, and targeted intervention strategies for acute kidney injury in critical care…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461941/",
+    "tags": [
+      "acute-kidney-injury",
+      "intensive-care-units",
+      "machine-learning"
+    ],
+    "date": "2026-07-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42461834",
+    "title": "Association between glycemic control and chronic kidney disease development in older patients with type 2 diabetes: A retrospective cohort study",
+    "subtitle": "PloS one · 2026",
+    "summary": "Poor glycemic control is independently associated with CKD development and a shorter time to CKD onset, supporting its potential relevance for kidney-related outcomes in older patients with T2D. These findings highlight the need to consider glycemic control within a broader, individualized clinical approach in this…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461834/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic",
+      "glycemic-control"
+    ],
+    "date": "2026-07-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42461793",
+    "title": "Machine Perfusion as a Temporal and Resuscitative Bridge in Emergent Renal Autotransplantation: A Novel Case Report",
+    "subtitle": "The American journal of case reports · 2026",
+    "summary": "CONCLUSIONS This case demonstrates the safety and viability of renal autotransplantation following preservation with hypothermic machine perfusion. Machine perfusion can function as a temporal bridge in emergent situations when immediate reimplantation is unsafe, expanding the indications for organ preservation beyond…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461793/",
+    "tags": [
+      "kidney-transplantation",
+      "perfusion",
+      "organ-preservation"
+    ],
+    "date": "2026-07-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42457658",
+    "title": "Remodeling of ferroptotic necroinflammation by dexamethasone in acute tubular necrosis",
+    "subtitle": "Cell death & disease · 2026",
+    "summary": "Mechanistically, we found that dexamethasone reduced availability of ferrous iron via effects of the glucocorticoid receptor 1 (GR1), which also resulted in attenuated renal tubular injury. However, this cytoprotective effect did not translate into improved renal function, as dexamethasone exerted additional…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457658/",
+    "tags": [
+      "dexamethasone",
+      "ferroptosis",
+      "kidney-tubular-necrosis-acute",
+      "inflammation"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42457657",
+    "title": "Bispecific antibody against sclerostin and DKK1 improves bone health and reduces bone marrow adipose tissue accumulation in experimental chronic kidney disease",
+    "subtitle": "Bone research · 2026",
+    "summary": "MicroCT revealed that long bones of CKD mice were characterised by lower bone mineral density, trabecular and cortical bone, and impaired biomechanical properties, but their vertebrae were unaffected. In conclusion, dual inhibition of sclerostin and DKK1 improved bone integrity and suppressed BMAT in experimental CKD,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457657/",
+    "tags": [
+      "intercellular-signaling-peptides-and-proteins",
+      "adipose-tissue",
+      "bone-marrow",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42457390",
+    "title": "Renal injury and hypocalcaemia in newborns with birth asphyxia at a tertiary care centre: a prospective observational study",
+    "subtitle": "BMJ paediatrics open · 2026",
+    "summary": "A high incidence of AKI and hypocalcaemia was found in neonates with birth asphyxia. These findings highlight the importance of routine biochemical monitoring and early intervention to mitigate complications and improve neonatal outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457390/",
+    "tags": [
+      "asphyxia-neonatorum",
+      "hypocalcemia",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42457337",
+    "title": "Integrated immune profiling identifies a coordinated T-cell activation and inflammatory signature in SLE",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "Patients with SLE with renal involvement show coordinated disturbances in T-cell and B-cell compartments linked to chronic immune activation, interferon-related responses and disease duration. These findings support the relevance of integrated immune profiling in SLE but should be interpreted as exploratory and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457337/",
+    "tags": [
+      "lupus-erythematosus-systemic",
+      "lymphocyte-activation",
+      "lupus-nephritis",
+      "t-lymphocytes"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42457313",
+    "title": "Lower gastrointestinal bleeding (haematochezia) as the initial clue to disseminated histoplasmosis with central nervous system involvement in a renal transplant recipient",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "Histopathology demonstrated necrotising granulomatous inflammation with intracellular yeast forms on H&E staining, with Grocott methenamine silver stain highlighting oval budding yeast consistent withSerum Histoplasma antigen was positive (5.2 ng/mL).MRI demonstrated multifocal enhancing lesions involving the brain…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457313/",
+    "tags": [
+      "histoplasmosis",
+      "kidney-transplantation",
+      "gastrointestinal-hemorrhage"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -531,6 +659,80 @@
       "diabetes-mellitus-experimental"
     ],
     "date": "2026-07-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42461568",
+    "title": "A Snapshot View of Sarcopenia and Frailty Status in Kidney Transplant Recipients",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Pre-frailty and sarcopenia are common in KT recipients and are associated with higher serum phosphorus. Notably, sarcopenia was linked to having a deceased donor transplantation, underscoring the importance of targeted screening and management in this population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461568/",
+    "tags": [
+      "kidney-transplantation",
+      "sarcopenia",
+      "frailty",
+      "quality-of-life"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42461366",
+    "title": "Expanding the Pancreas Donor Pool: Reassessing the Impact of Donor Body Mass Index on Transplant Outcomes",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Donor BMI was not associated with significant differences in one- or three-year patient survival or death-censored pancreas and kidney graft survival, and multivariable Cox regression analysis found donor BMI to not be an independent predictor of graft loss. These findings indicate that carefully selected pancreata…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461366/",
+    "tags": [
+      "pancreas-transplantation",
+      "body-mass-index",
+      "tissue-donors",
+      "graft-rejection"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42461237",
+    "title": "Acute Kidney Injury After Pediatric Hematopoietic Stem Cell Transplantation: Incidence, Risk Factors, and Outcomes",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "In this group, AKI after pediatric HSCT showed a bimodal risk pattern: frequent mild cases triggered by infection within the first 100 days, and rare but always fatal severe cases linked to GVHD. Older age was the only independent predictor in multivariable analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461237/",
+    "tags": [
+      "hematopoietic-stem-cell-transplantation",
+      "acute-kidney-injury",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42459815",
+    "title": "Landscape of current practices and future perspectives in living donor kidney donation in Europe: proceedings of a pan-European symposium by the European kidney transplant association section of the European Society for Organ Transplantation",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "The symposium identified wide variation in donor selection criteria, risk assessment, informed consent practices, and long-term donor follow-up, despite existing international guidelines. Emerging strategies to address these challenges include harmonisation of donor evaluation and consent, expansion of paired and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42459815/",
+    "tags": [
+      "kidney-transplantation",
+      "living-donors",
+      "kidney-failure-chronic",
+      "tissue-and-organ-procurement"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42459673",
+    "title": "Moss-derived recombinant Factor H, CPV-104, effectively antagonizes alternative pathway C3/C5 convertases stabilization by NeFs from patients with primary C3 glomerulopathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "CPV-104 effectively limits both stabilization and formation of AP C3 convertases in NeF-positive C3G, demonstrating superior functional activity compared with sd-FH. By restoring physiological AP regulation rather than broadly inhibiting complement activation, CPV-104 represents a promising and potentially safer…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42459673/",
+    "tags": [
+      "complement-pathway-alternative",
+      "complement-factor-h",
+      "complement-c3-c5-convertases",
+      "bryopsida"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

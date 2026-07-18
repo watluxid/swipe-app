@@ -15,6 +15,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42464731",
+    "title": "Predictive value of the uric acid to high-density cholesterol ratio (UHR) combined with intact parathyroid hormone for protein-energy wasting after incident hemodialysis: a multicenter study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Trajectory analysis showed that both rapidly increasing and decreasing UHR patterns with higher mean levels were linked to the lowest PEW risk. UHR and iPTH were associated with PEW risk within specific ranges.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464731/",
+    "tags": [
+      "parathyroid-hormone",
+      "renal-dialysis",
+      "uric-acid",
+      "protein-energy-malnutrition"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42459055",
     "title": "Association of CBC‑derived inflammation indices with prevalent CKD: a cross‑sectional analysis of a Chinese data set and NHANES",
     "subtitle": "Annals of medicine · 2026",
@@ -99,6 +114,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42464649",
+    "title": "Tubular PFKFB3 drives diabetic kidney fibrosis via lactate‑dependent H4K12 lactylation and HIPK2 transactivation",
+    "subtitle": "International journal of molecular medicine · 2026",
+    "summary": "Moreover, it was demonstrated that the reduction in the levels of lactate levels markedly alleviated renal fibrosis in DKD. These findings indicated that PFKFB3 in renal tubules upregulates HIPK2 expression via facilitating H4K12la‑dependent gene transcription.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464649/",
+    "tags": [
+      "diabetic-nephropathies",
+      "phosphofructokinase-2",
+      "protein-serine-threonine-kinases",
+      "histones"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42445750",
     "title": "GLP-1 Receptor Agonists and SGLT-2 Inhibitors in Diabetic Nephropathy: A Comparative Study",
     "subtitle": "Saudi medical journal · 2026",
@@ -125,6 +155,49 @@
       "renin-angiotensin-system"
     ],
     "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42469004",
+    "title": "Pericardiectomy for constrictive pericarditis in a cystic fibrosis patient",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "People with CF-related diabetes are increasingly developing microvascular complications, including end-stage renal disease (ESRD) requiring haemodialysis. This is the first ever case report to describe a CF patient with constrictive pericarditis secondary to ESRD, treated with pericardiectomy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469004/",
+    "tags": [
+      "pericarditis-constrictive",
+      "cystic-fibrosis",
+      "pericardiectomy",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42467738",
+    "title": "Malnutrition in maintenance hemodialysis: Prevalence, patterns, and clinical implications in Bangladesh",
+    "subtitle": "PloS one · 2026",
+    "summary": "Based on the International Society of Renal Nutrition and Metabolism (ISRNM) criteria, 42.5% of patients were malnourished, including 10.5% with severe malnutrition, while the Malnutrition Inflammation Score (MIS) identified malnutrition in 72.9% of participants. Implementing validated diagnostic tools, such as those…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42467738/",
+    "tags": [
+      "renal-dialysis",
+      "malnutrition"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42463198",
+    "title": "Implementation of a learning health system for the management of non-communicable diseases in Thailand: a realist evaluation protocol",
+    "subtitle": "BMJ open · 2026",
+    "summary": "Learning health systems (LHS) are an approach to translate patient data into actionable clinical insights, empower healthcare teams to drive quality improvement and reduce health inequalities. As part of the trial, 16 primary care units (PCUs) in Chiang Mai and Lamphun provinces will be randomly selected to receive a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463198/",
+    "tags": [
+      "learning-health-system",
+      "quality-improvement",
+      "primary-health-care",
+      "hypertension"
+    ],
+    "date": "2026-07-16T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -659,6 +732,106 @@
       "diabetes-mellitus-experimental"
     ],
     "date": "2026-07-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42466352",
+    "title": "From pathogenic carriers to therapeutic hope: the dual role and translational prospects of exosomes in diabetic kidney disease",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In diabetic kidney disease, exosomes play a dual role: on the one hand, \"pathogenic exosomes\", produced under pathological stimuli such as hyperglycemia, can transmit harmful substances, exacerbating kidney damage, through inflammation and fibrosis; on the other hand, \"therapeutic exosomes\" that are derived from stem…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42466352/",
+    "tags": [
+      "exosomes",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42465766",
+    "title": "Clinical implications of plasma sADAM10: integrating renal function, histopathology and prognostic outcomes in chronic kidney disease and kidney transplantation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Plasma sADAM10 is a context-dependent biomarker with endpoint-specific prognostic value. It shows an independent association with renal dysfunction in CKD and inflammatory activation in KTR, and predicts post-transplant infection risk with incremental value beyond traditional markers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42465766/",
+    "tags": [
+      "kidney-transplantation",
+      "renal-insufficiency-chronic",
+      "adam10-protein",
+      "kidney"
+    ],
+    "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42468972",
+    "title": "Association of Acute Kidney Injury and Chronic Kidney Disease With Concentration-To-Dose Ratios of Midazolam and Its Main Metabolites in Critically Ill Adults",
+    "subtitle": "Fundamental & clinical pharmacology · 2026",
+    "summary": "AKI and CKD are associated with accumulation of 1-OH-MDZ-G in critically ill patients. Monitoring 1-OH-MDZ-G may help identify patients at risk of prolonged sedation and adverse outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42468972/",
+    "tags": [
+      "midazolam",
+      "acute-kidney-injury",
+      "renal-insufficiency-chronic",
+      "hypnotics-and-sedatives"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42464605",
+    "title": "Placebo-Referenced Class-Level Treatment Effects on Chronic Kidney Disease Progression in Patients With Diabetes: A Network Meta-Analysis",
+    "subtitle": "Endocrinology, diabetes & metabolism · 2026",
+    "summary": "Multiple pharmacologic classes were associated with reduced CKD progression compared with placebo in patients with diabetes. Among placebo-referenced comparisons, the most consistent and highest-confidence estimates were observed for SGLT2i.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464605/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "diabetic-nephropathies",
+      "hypoglycemic-agents",
+      "diabetes-mellitus-type-2"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42464422",
+    "title": "CORO1A, A Novel Upregulated Protein in Renal Tubular Epithelial Cells of Diabetic Nephropathy, Participates in Regulating Vesicular Trafficking and the Ferroptosis Pathway",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "CORO1A is elevated in diabetic renal tubular epithelial cells and regulates vesicular trafficking and ferroptosis. This mechanistic axis suggests CORO1A as a potential therapeutic target for mitigating tubular injury and diabetic nephropathy progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464422/",
+    "tags": [
+      "ferroptosis",
+      "diabetic-nephropathies",
+      "kidney-tubules",
+      "epithelial-cells"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42464065",
+    "title": "Knowledge Mapping of Alport Syndrome: A Bibliometric Analysis From 2000 to 2025",
+    "subtitle": "Molecular genetics & genomic medicine · 2026",
+    "summary": "Global interest in AS research has increased significantly. With academic exchanges and international cooperation, its pathogenesis mechanisms are gradually clarified.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464065/",
+    "tags": [
+      "nephritis-hereditary",
+      "bibliometrics"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42462212",
+    "title": "Renoprotective effects of curcumin in cats with chronic kidney disease",
+    "subtitle": "Journal of veterinary internal medicine · 2026",
+    "summary": "Curcumin supplementation was associated with improvement in SDMA and favorable changes in mechanistic biomarkers in cats with IRIS stage 3 CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42462212/",
+    "tags": [
+      "curcumin",
+      "cat-diseases",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

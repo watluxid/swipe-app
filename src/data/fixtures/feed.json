@@ -158,6 +158,119 @@
     "pinned": false
   },
   {
+    "id": "pmid-42470046",
+    "title": "Association between the number of antibiotic types used and in-hospital mortality in patients with chronic kidney disease stage 5: A propensity score-matched study",
+    "subtitle": "Medicine · 2026",
+    "summary": "After propensity score matching (31 in-hospital mortality matched with 62 survivors), multivariable analysis showed that the number of antibiotic types used was significantly associated with in-hospital mortality (Firth odds ratio = 1.650, 95% CI: 1.148-2.492, P = .006; E-value = 1.889). These results support more…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470046/",
+    "tags": [
+      "hospital-mortality",
+      "anti-bacterial-agents",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42470038",
+    "title": "The role of renal angina index and tissue perfusion indicators in predicting the development and stage of acute kidney injury in sepsis patients in intensive care unit: A prospective observational study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Serum lactate levels at 24, 48, and 72 hours in the AKI group and serum lactate levels at all hours in patients with severe AKI were statistically significantly higher (P < .05). The RAI score and 24-hour lactate demonstrated strong diagnostic performance in predicting AKI severity, with the RAI score showing superior…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470038/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42470022",
+    "title": "Analysis of risk factors associated with intimal hyperplasia in arteriovenous fistulas among patients undergoing hemodialysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "The IH group also showed higher rates of diabetes mellitus and recent infection, higher inflammatory burden reflected by C-reactive protein (CRP) and neutrophil-to-lymphocyte ratio (NLR), lower albumin, higher d-dimer, and higher serum phosphate. In multivariable analysis, longer time from AVF creation to evaluation,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470022/",
+    "tags": [
+      "renal-dialysis",
+      "hyperplasia",
+      "tunica-intima",
+      "arteriovenous-shunt-surgical"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42470009",
+    "title": "The prognostic value of the neutrophil percentage-to-albumin ratio for all-cause and cardiovascular mortality in chronic kidney disease: A retrospective cohort study using NHANES 1999 to 2018",
+    "subtitle": "Medicine · 2026",
+    "summary": "Higher NPAR quartiles were significantly associated with increased all-cause mortality (Q4 vs Q1: adjusted hazard ratio = 2.04, 95% confidence interval = 1.41-3.00, P < .001) and cardiovascular mortality (Q4 vs Q1: hazard ratio = 2.33, 95% confidence interval = 1.20-4.50, P = .012). NPAR is an independent predictor of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470009/",
+    "tags": [
+      "cardiovascular-diseases",
+      "renal-insufficiency-chronic",
+      "neutrophils",
+      "serum-albumin"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42469993",
+    "title": "Machine learning models of depressive symptoms in middle-aged and elderly patients with chronic kidney disease: A cross-sectional study based on CHARLS",
+    "subtitle": "Medicine · 2026",
+    "summary": "Seven machine learning algorithms were applied to build models for identifying depressive symptom status: logistic regression, decision tree, random forest, Extreme Gradient Boosting (XGBoost), Light Gradient Boosting Machine, support vector machine, and artificial neural network. The XGBoost model exhibited strong…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469993/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "depression",
+      "machine-learning"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42469992",
+    "title": "Impact of sepsis with acute kidney injury and acute respiratory distress syndrome on patient prognosis: A multicenter retrospective cohort study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Patients were stratified into 4 groups according to their organ status within 7 days of sepsis onset: those who did not develop AKI or ARDS (non-AKI and non-ARDS group), those who developed AKI but not ARDS (AKI and non-ARDS group), those who developed ARDS but not AKI (ARDS and non-AKI group), and those who developed…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469992/",
+    "tags": [
+      "respiratory-distress-syndrome",
+      "sepsis",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42469989",
+    "title": "Global burden and projections of chronic kidney disease attributable to chronic glomerulonephritis in women of childbearing age",
+    "subtitle": "Medicine · 2026",
+    "summary": "From 1990 to 2021, the global burden of CKD attributable to GN in WCBA increased. Health inequalities persist; high and high-middle SDI regions bear a lower burden compared to middle and low-middle SDI regions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469989/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "glomerulonephritis",
+      "global-burden-of-disease",
+      "global-health"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42469987",
+    "title": "Health-related quality of life for patients on hemodialysis in Saudi Arabia: A cross-sectional study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Males had significantly higher PCS (65.72 ± 29.44) and MCS (72.01 ± 23.70) compared to females (PCS: 45.31 ± 29.75; MCS: 56.17 ± 27.18; P < .001). Higher itching in the past 24 hours was associated with lower odds of both PCS (adjusted odds ratio (aOR) = 0.76, 95% confidence intervals [CI]: 0.61-0.96, P = .018) and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469987/",
+    "tags": [
+      "quality-of-life",
+      "renal-dialysis"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42469004",
     "title": "Pericardiectomy for constrictive pericarditis in a cystic fibrosis patient",
     "subtitle": "BMJ case reports · 2026",
@@ -760,6 +873,36 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42470307",
+    "title": "Echocardiographic Probability of Pulmonary Hypertension, Cardiac Structural Alterations and All-Cause Mortality in Maintenance Hemodialysis Patients: A Single-Center Retrospective Cohort Study With Competing Risk Analysis",
+    "subtitle": "Clinical cardiology · 2026",
+    "summary": "PH severity, age, and cardiac structural remodeling are independent mortality risk factors in MHD patients. Risk predictors vary by vascular access, and individualized cardiovascular stratification may improve long-term outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470307/",
+    "tags": [
+      "renal-dialysis",
+      "hypertension-pulmonary",
+      "echocardiography",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42470259",
+    "title": "Clinicopathological Correlations, Treatment Response, and Predictors of Outcomes in Childhood Lupus Nephritis in China",
+    "subtitle": "International journal of rheumatic diseases · 2026",
+    "summary": "Modern treatment yields favorable outcomes for cLN. Baseline disease activity, hypocomplementemia, and histological AI predict treatment response.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470259/",
+    "tags": [
+      "lupus-nephritis",
+      "immunosuppressive-agents",
+      "kidney",
+      "glucocorticoids"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

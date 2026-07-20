@@ -15,6 +15,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42472673",
+    "title": "Predictive modeling of fluid status in hemodialysis: model development and internal validation using the MONitoring dialysis outcomes (MONDO) global database",
+    "subtitle": "Renal failure · 2026",
+    "summary": "These findings indicate that fluid volume compartments can be reliably estimated from routinely collected clinical data and history BIS measurements, offering valuable support for interim assessment of fluid status between scheduled BIS measurements.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42472673/",
+    "tags": [
+      "renal-dialysis",
+      "body-water",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42464731",
     "title": "Predictive value of the uric acid to high-density cholesterol ratio (UHR) combined with intact parathyroid hormone for protein-energy wasting after incident hemodialysis: a multicenter study",
     "subtitle": "Renal failure · 2026",

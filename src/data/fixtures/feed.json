@@ -15,6 +15,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42476945",
+    "title": "Activation of the TGF-β1/HIPK2 signaling pathway exacerbates EMT injury in renal tubular epithelial cells in diabetic kidney disease",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Here, we reveal that renal interstitial fibrosis (RIF) and EMT constitute important pathological foundations for DKD progression, validated in both clinical DKD patients and DKD mouse models. Here, we found that inhibiting HIPK2 expression significantly delayed EMT progression and improved RIF in DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476945/",
+    "tags": [
+      "epithelial-mesenchymal-transition",
+      "diabetic-nephropathies",
+      "protein-serine-threonine-kinases",
+      "transforming-growth-factor-beta1"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42473685",
+    "title": "Fibrinogen-like protein 2-complement C3 interaction exacerbates tubular inflammation in acute kidney injury by elevating complement C3a levels",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In contrast, knockdown of FGL2 resulted in a marked decline in C3a levels, which not only conferred a substantial protective effect against hypoxia/reoxygenation-induced injury in tubular cells but also effectively alleviated kidney injury in mice. Targeting FGL2 may hold potential prevention and treatment strategy…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42473685/",
+    "tags": [
+      "fibrinogen",
+      "acute-kidney-injury",
+      "complement-c3",
+      "complement-c3a"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42472673",
     "title": "Predictive modeling of fluid status in hemodialysis: model development and internal validation using the MONitoring dialysis outcomes (MONDO) global database",
     "subtitle": "Renal failure · 2026",
@@ -169,6 +199,120 @@
       "renin-angiotensin-system"
     ],
     "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42476966",
+    "title": "Connexin 43-dependent mesenchymal stem cell mitochondrial transfer activates PGC1α disrupting oxidative-inflammation axis in ischemia-reperfusion injury",
+    "subtitle": "Signal transduction and targeted therapy · 2026",
+    "summary": "Here, we observed that MSCs, specifically BM-MSCs, mitigated mitochondrial dysfunction during the early stages of IRI-AKI, leading to reduced inflammation, preventing cellular injury and recovery of renal function. Mechanistic studies demonstrated the importance of Connexin 43 (Cx43)-mediated gap junctions in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476966/",
+    "tags": [
+      "mesenchymal-stem-cells",
+      "peroxisome-proliferator-activated-receptor-gamma-coactivator-1-alpha",
+      "connexin-43",
+      "reperfusion-injury"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42476106",
+    "title": "Nurse-Led Digital Intervention for Sodium Restriction in Chronic Kidney Disease: Mixed Methods Implementation Study",
+    "subtitle": "JMIR nursing · 2026",
+    "summary": "A nurse-led digital intervention was associated with modest improvements in sodium knowledge in chronic kidney disease. However, success requires reducing the monitoring burden and improving real-world fit.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476106/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "diet-sodium-restricted"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42475362",
+    "title": "Incidence and risk factors for recurrent IgA nephropathy after kidney transplantation: A multicenter cohort study from Denmark",
+    "subtitle": "PloS one · 2026",
+    "summary": "Recurrence of IgAN after kidney transplantation remains a clinically significant challenge, associated with younger age, rapid progression to KF, and transplantation from living or genetically related donors. Maintenance post-transplant steroid use was not associated with recurrence risk in this cohort.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475362/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "kidney-transplantation"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42475332",
+    "title": "Pre-transplant dialysis vintage and post-transplant outcomes: A retrospective cohort study in Korean kidney transplant recipients",
+    "subtitle": "PloS one · 2026",
+    "summary": "Prolonged pre-transplant dialysis was associated with a higher risk of all-cause mortality, whereas its association with graft failure was less consistent, particularly among deceased-donor KT recipients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475332/",
+    "tags": [
+      "kidney-transplantation",
+      "renal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42474929",
+    "title": "A case of overcoming De Novo thrombotic microangiopathy associated with hyperacute rejection in a living donor ABO-incompatible kidney transplantation despite severe intraoperative graft injury",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Ultrasound re-evaluation revealed an elevated vascular resistance index in the transplanted renal cortex, raising hyperacute rejection suspicion. A renal biopsy performed 1 h after reperfusion revealed fibrin thrombi and inflammatory cell infiltrates in the glomerular capillaries (g1), resulting in the diagnosis of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474929/",
+    "tags": [
+      "kidney-transplantation",
+      "thrombotic-microangiopathies",
+      "graft-rejection",
+      "blood-group-incompatibility"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42474631",
+    "title": "Multifactorial acute kidney injury with findings suggestive of arcuate venous thrombosis: a case report",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Renal biopsy revealed acute tubular injury and thrombus-like material within arcuate veins, accompanied by mild medullary hemorrhage and focal vascular necrosis, findings suggestive of arcuate venous thrombosis. Renal function recovered completely after supportive therapy within eight days.This case highlights that an…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474631/",
+    "tags": [
+      "acute-kidney-injury",
+      "venous-thrombosis",
+      "renal-veins"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42474592",
+    "title": "Robotic kidney transplantation with deceased donor grafts: a comparative analysis of outcomes following donation after brain death and donation after circulatory death",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "When comparing DCD NRP grafts to DCD RR grafts, the difference in DGF rates was not significant, and NRP and RR grafts had comparable graft and patient survival. Robotic kidney transplantation using deceased donor grafts appears technically feasible in selected DBD and DCD recipients at an experienced transplant…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474592/",
+    "tags": [
+      "kidney-transplantation",
+      "brain-death",
+      "robotic-surgical-procedures",
+      "tissue-donors"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42474531",
+    "title": "Klotho revisited: tubular heterogeneity reshapes mineral metabolism, aging, and CKD",
+    "subtitle": "Pflugers Archiv : European journal of physiology · 2026",
+    "summary": "Recent findings from nephron segment-specific Klotho knockout mice reveal functional specialization of tubular Klotho along the nephron. This review re-evaluates the long-standing paradigm of renal Klotho biology in light of emerging evidence for functionally distinct proximal and distal nephron Klotho.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474531/",
+    "tags": [
+      "glucuronidase",
+      "aging",
+      "renal-insufficiency-chronic",
+      "minerals"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -862,6 +1006,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42475281",
+    "title": "Predicting Renal Replacement Therapy Requirement In Sepsis-Associated Acute Kidney Injury Using Furosemide Stress Testing and Urinary Biomarkers",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "ROC analysis demonstrated that the area under the curve (AUC) for FST, baseline TIMP-2*IGFBP-7, TIMP-2*IGFBP-7 measured 2 h after FST, and the combined model were 0.878, 0.820, 0.845, and 0.966, respectively. Multivariate logistic regression further confirmed that the combined FST and urinary TIMP-2*IGFBP-7 indicator…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475281/",
+    "tags": [
+      "acute-kidney-injury",
+      "renal-replacement-therapy",
+      "sepsis",
+      "furosemide"
+    ],
+    "date": "2026-07-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42475265",
+    "title": "Clinical Observation of Adding Vitamin D to a Probucol-Based Regimen in Diabetic Nephropathy Patients",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Results demonstrated that the observation group showed significantly greater improvements in renal function, glycemic control, lipid profiles, and immune modulation (elevated proportions of CD3+ and CD4+, a higher CD4+/CD8+ ratio, and reduced inflammatory markers) compared with the control group (all P <0.05). In…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475265/",
+    "tags": [
+      "probucol",
+      "diabetic-nephropathies",
+      "vitamin-d"
+    ],
+    "date": "2026-07-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42466352",
     "title": "From pathogenic carriers to therapeutic hope: the dual role and translational prospects of exosomes in diabetic kidney disease",
     "subtitle": "Frontiers in endocrinology · 2026",
@@ -887,6 +1060,20 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42473290",
+    "title": "Prevalence, Etiologies, and Long-Term Impact of Early and Late Post-Transplant Anemia in Pediatric Kidney Transplant Recipients",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Anemia was frequently encountered after pediatric kidney transplantation. Both early and late PTA were strongly linked to iron deficiency.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42473290/",
+    "tags": [
+      "kidney-transplantation",
+      "anemia",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

@@ -15,6 +15,50 @@
     "pinned": false
   },
   {
+    "id": "pmid-42478359",
+    "title": "The dual role of exosomes in renal fibrosis and their potential for clinical translational applications",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In particular, we examine how renal tubular epithelial cell-derived exosomes promote renal fibrosis through multiple mechanisms by delivering specific cargoes-including miRNAs (e.g., miR-21, miR-19b-3p), mRNA (TGF-β1), and proteins (OPN, TNFAIP8)-signaling pathways such as PTEN/Akt, NF-κB, and HIF-1α. Furthermore, we…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478359/",
+    "tags": [
+      "exosomes",
+      "kidney",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42478234",
+    "title": "Illness perception and insomnia among patients with maintenance hemodialysis: a moderated mediation model of fear of progression and self-compassion",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The Brief Illness Perception Questionnaire, Athens Insomnia Scale, Fear of Progression Questionnaire-Short Form, and Self-Compassion Scale-Short Form were evaluated in 332 maintenance hemodialysis patients. Insomnia showed a positive relationship with illness perception ( = 0.629, < 0.01) and fear of progression…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478234/",
+    "tags": [
+      "sleep-initiation-and-maintenance-disorders",
+      "renal-dialysis",
+      "fear",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42478222",
+    "title": "Prognostic value of valve calcification and high cardiothoracic ratio for major adverse cardiovascular events and mortality in hemodialysis patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Of 312 MHD patients, 37 had no VC with CTR <0.5, 47 had no VC with CTR ≥0.5, 96 had VC with CTR <0.5, and 132 had VC with CTR ≥0.5. Compared to MHD patients without VC and CTR <0.5, those with VC and CTR ≥0.5 had higher risks of MACEs, cardiovascular mortality and overall mortality (adjusted hazard ratios: 4.174,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478222/",
+    "tags": [
+      "renal-dialysis",
+      "calcinosis",
+      "kidney-failure-chronic",
+      "cardiovascular-diseases"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42476945",
     "title": "Activation of the TGF-β1/HIPK2 signaling pathway exacerbates EMT injury in renal tubular epithelial cells in diabetic kidney disease",
     "subtitle": "Renal failure · 2026",
@@ -199,6 +243,36 @@
       "renin-angiotensin-system"
     ],
     "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42479184",
+    "title": "Four weeks of romosozumab treatment increases trabecular bone volume and differentially improves cortical bone in young and aging mice with chronic kidney disease",
+    "subtitle": "Calcified tissue international · 2026",
+    "summary": "Romosozumab-treated young mice had higher midshaft femur cortical bone area and cortical thickness, but there were no differences in cortical porosity compared to untreated adenine. These data demonstrate positive cortical bone effects from four weeks of romosozumab treatment in both young and aging mice with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479184/",
+    "tags": [
+      "cortical-bone",
+      "renal-insufficiency-chronic",
+      "cancellous-bone",
+      "aging"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42478024",
+    "title": "Tongue Carcinoma in Immunosuppressed Patients After Liver and Kidney Transplantation: A Case Series",
+    "subtitle": "Annals of transplantation · 2026",
+    "summary": "CASE REPORT Case 1 involved a 44-year-old man who developed T1N0 SCC of the lateral tongue 23 months after orthotopic liver transplantation for alcoholic cirrhosis. Case 2 involved a 59-year-old man who developed T2N1M0 SCC of the tongue 8 months after kidney transplantation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478024/",
+    "tags": [
+      "kidney-transplantation",
+      "liver-transplantation",
+      "tongue-neoplasms",
+      "carcinoma-squamous-cell"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1060,6 +1134,80 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42479924",
+    "title": "Reproducibility of the 6-Minute Step Test in Individuals on Hemodialysis",
+    "subtitle": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy · 2026",
+    "summary": "The 6MST demonstrated good test-retest reliability for total steps (ICC = 0.80), with most differences between tests remaining below the MDC95, indicating the absence of a clinically meaningful learning effect. The 6 minute step test is a reliable and clinically applicable tool for assessing functional capacity in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479924/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "exercise-test",
+      "walk-test"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42479111",
+    "title": "Characterisation of the Novel HLA-B*51:01:01:126 Allele in a Greek Renal Transplant Candidate",
+    "subtitle": "HLA · 2026",
+    "summary": "The HLA-B*51:01:01:126 allele differs from HLA-B*51:01:01:01 by a single nucleotide substitution in intron 5.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479111/",
+    "tags": [
+      "alleles",
+      "kidney-transplantation",
+      "introns",
+      "polymorphism-single-nucleotide"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42478406",
+    "title": "NMDA Receptor-Associated Encephalitis and Renal Failure - A Unique Association",
+    "subtitle": "Neurology India · 2026",
+    "summary": "We present a noteworthy case involving a young adult male exhibiting seizures and renal failure, initially prompting an evaluation for vasculitis, hyperuricemia-induced acute kidney injury (AKI), and rhabdomyolysis-induced AKI. This case sheds light on the association between renal failure and NMDA receptor…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42478406/",
+    "tags": [
+      "anti-n-methyl-d-aspartate-receptor-encephalitis",
+      "acute-kidney-injury",
+      "renal-insufficiency"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42477910",
+    "title": "Efficacy of Reticulocyte Haemoglobin Equivalent-Guided Versus Transferrin Saturation-Guided Iron Supplement Protocol in Haemodialysis Patients: A Multicenter Cluster Randomized Controlled Trial",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "RET-He-guided intravenous iron supplementation was non-inferior to TSAT-guided supplementation for reducing ERI over 6 months. Use of RET-He may offer a lower-cost and more accessible strategy for anaemia management in haemodialysis patients, particularly in resource-limited settings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477910/",
+    "tags": [
+      "renal-dialysis",
+      "hemoglobins",
+      "reticulocytes",
+      "transferrin"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42477895",
+    "title": "Effect of complement 3/5 knockout on renal proteomics landscape after ischemia and reperfusion injury in rats",
+    "subtitle": "Physiological reports · 2026",
+    "summary": "C3 and C5 deficiency conferred strong protection against renal IRI with improved renal function, reduced tubular necrosis, and lower expression of injury markers (KIM-1, NGAL). We demonstrate for the first time that upstream C3impacts a diverse range of renal injury and repair mechanisms compared to C5alone, although…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477895/",
+    "tags": [
+      "reperfusion-injury",
+      "complement-c3",
+      "kidney",
+      "complement-c5"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

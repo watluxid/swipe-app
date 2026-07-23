@@ -15,6 +15,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42481065",
+    "title": "Association of serum spermidine level with vascular calcification in peritoneal dialysis patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "We investigated whether serum spermidine, a naturally occurring polyamine, is associated with VC in PD patients and developed an exploratory model incorporating spermidine and routine clinical variables. The final nomogram, which included serum spermidine, age, diabetes, serum albumin, statins use, and peritonitis…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42481065/",
+    "tags": [
+      "spermidine",
+      "peritoneal-dialysis",
+      "vascular-calcification",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42478359",
     "title": "The dual role of exosomes in renal fibrosis and their potential for clinical translational applications",
     "subtitle": "Renal failure · 2026",
@@ -246,6 +261,91 @@
     "pinned": false
   },
   {
+    "id": "pmid-42485571",
+    "title": "GLP-1 receptor agonists in kidney transplant recipients with post-transplant diabetes: efficacy and safety outcomes from a retrospective cohort study",
+    "subtitle": "Archives of endocrinology and metabolism · 2026",
+    "summary": "In KTRs with PTDM, GLP-1 RA therapy was associated with improvements in lipid profile and blood pressure, accompanied by non-significant trends toward weight reduction and stable renal function, and demonstrated an acceptable safety profile. Prospective studies are warranted to confirm long-term cardiorenal benefits.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42485571/",
+    "tags": [
+      "kidney-transplantation",
+      "glucagon-like-peptide-1-receptor-agonists",
+      "hypoglycemic-agents",
+      "diabetes-mellitus"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42485372",
+    "title": "Predictive value of complete blood cell count-based inflammatory markers for peritonitis risk in peritoneal dialysis patients: A multicenter cohort study",
+    "subtitle": "PloS one · 2026",
+    "summary": "Elevated PIV, SII, and PLR levels at PD initiation independently predict higher peritonitis risk. Although their discriminative ability is moderate, these routine, cost-effective indices may aid risk stratification and help identify patients needing closer monitoring or preventive interventions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42485372/",
+    "tags": [
+      "peritonitis",
+      "peritoneal-dialysis",
+      "inflammation"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42485344",
+    "title": "Pragmatic cardiovascular-kidney-metabolic burden categories and 5-year all-cause mortality in Vietnamese outpatients: A retrospective cohort study",
+    "subtitle": "PloS one · 2026",
+    "summary": "In this Vietnamese outpatient cohort, pragmatic CKM burden categories identified a subgroup with combined CKD and CAD that had the highest absolute 5-year mortality. The age-group- and sex-adjusted estimate remained elevated for this small subgroup, although confidence intervals were wide.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42485344/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cardiovascular-diseases",
+      "coronary-artery-disease"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42482021",
+    "title": "Amino acids for the prevention of acute kidney injury after cardiac surgery: a narrative review of trials and meta-analyses",
+    "subtitle": "Journal of cardiothoracic surgery · 2026",
+    "summary": "Although many causes and risk factors have been identified, effective measures to prevent AKI after cardiac surgery are still lacking. Recent randomized trials and meta-analyses suggest a potential role for amino acids in preventing AKI after cardiac surgery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42482021/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiac-surgical-procedures",
+      "amino-acids",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42481411",
+    "title": "Bronchiectasis in renal transplant patients: a narrative review",
+    "subtitle": "BMJ open respiratory research · 2026",
+    "summary": "Non-cystic fibrosis bronchiectasis is associated with many causes including post-infectious damage, immunodeficiency, connective tissue disease and ciliary dysfunction and can also overlap with chronic obstructive pulmonary disease and asthma. This narrative review, supported by the extensive literature in PubMed,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42481411/",
+    "tags": [
+      "kidney-transplantation",
+      "bronchiectasis"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42481190",
+    "title": "Understanding the implementation of kidney supportive care interventions to improve palliative care outcomes for adults receiving haemodialysis: protocol for a rapid realist review",
+    "subtitle": "BMJ open · 2026",
+    "summary": "Rapid realist review is a structured, theory-driven approach to evidence synthesis conducted within a condensed timeframe, aiming to explain how and why interventions work, for whom and in what contexts, to identify effective models of service delivery. This rapid realist review will be conducted following a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42481190/",
+    "tags": [
+      "palliative-care",
+      "renal-dialysis",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42479184",
     "title": "Four weeks of romosozumab treatment increases trabecular bone volume and differentially improves cortical bone in young and aging mice with chronic kidney disease",
     "subtitle": "Calcified tissue international · 2026",
@@ -387,6 +487,35 @@
       "minerals"
     ],
     "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42484242",
+    "title": "Cardiac surgery-associated acute kidney injury in a single healthcare system: a retrospective observational study",
+    "subtitle": "Critical care science · 2026",
+    "summary": "Cardiac surgery-associated acute kidney injury is a common postoperative complication associated with substantially increased mortality, prolonged ventilation, longer length of stay, and reduced renal recovery. These findings underscore the clinical importance of early identification, risk stratification, and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42484242/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiac-surgical-procedures",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42484196",
+    "title": "Risk perception in peritoneal dialysis waste management: contributions for audiovisual material",
+    "subtitle": "Revista brasileira de enfermagem · 2026",
+    "summary": "to identify the risk perceptions of professionals, patients, and caregivers/family members regarding the proper disposal of waste from home peritoneal dialysis, with a view to verifying content/topics to be considered in the development of audiovisual material intended for patients and healthcare professionals. a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42484196/",
+    "tags": [
+      "peritoneal-dialysis",
+      "perception",
+      "waste-management",
+      "audiovisual-aids"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1037,6 +1166,64 @@
     "pinned": false
   },
   {
+    "id": "pmid-42483682",
+    "title": "Inverse association of circulating kallikrein-related peptidase 7 with renal function and mortality risk in patients with chronic kidney disease",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Circulating KLK7 associates inversely with renal function and inflammation, likely reflecting reduced renal clearance. Higher circulating KLK7 independently predicts lower all-cause mortality, whereas baseline KLK7 was not related to composite renal and CV outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42483682/",
+    "tags": [
+      "kallikreins",
+      "renal-insufficiency-chronic",
+      "kidney"
+    ],
+    "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42483681",
+    "title": "Development and validation of a nomogram for predicting peripheral atherosclerosis in early-stage type 2 diabetic kidney disease: a retrospective hospital-based study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "CVAI alone shows limited predictive value for peripheral AS in early-stage T2DM-DKD patients. However, a combined nomogram incorporating CVAI, Age, and FCP demonstrates good discrimination, calibration, and clinical utility, facilitating early identification of high-risk patients and improving prognosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42483681/",
+    "tags": [
+      "nomograms",
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "peripheral-arterial-disease"
+    ],
+    "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42483194",
+    "title": "Innate-immune crosstalk orchestrates T cell-mediated rejection in kidney transplants",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This hypothesis-generating study, based on a single TCMR case, provides a single-cell atlas of the TCMR immune microenvironment and suggests several subsets and pathways that may be involved. Our findings suggest that innate immune cells may initiate and amplify adaptive responses through chemokine and inflammatory…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42483194/",
+    "tags": [
+      "graft-rejection",
+      "immunity-innate",
+      "kidney-transplantation",
+      "cd8-positive-t-lymphocytes"
+    ],
+    "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42483168",
+    "title": "Immunological overlap stratification in anti-GBM disease: prognostic differences and serological correlations-a single-center retrospective cohort study",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This study identifies the distinct phenotypic traits of anti-GBM disease with concurrent other autoimmune antibodies, underscoring that sole reliance on anti-GBM antibody titers is inappropriate for prognostic judgment and treatment decision-making. For patients with anti-GBM disease overlapping with non-ANCA…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42483168/",
+    "tags": [
+      "anti-glomerular-basement-membrane-disease",
+      "autoantibodies",
+      "antibodies-antineutrophil-cytoplasmic"
+    ],
+    "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42436736",
     "title": "The Efficacy and Safety of Telitacicept versus the Recommended Regimens in IgA Nephropathy: A Single-Center Experience",
     "subtitle": "Drug design, development and therapy · 2026",
@@ -1134,6 +1321,49 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42485625",
+    "title": "Successful treatment of severe iatrogenic hypercalcemia and acute kidney injury with hemodialysis in a cat",
+    "subtitle": "Journal of veterinary internal medicine · 2026",
+    "summary": "The cat developed iatrogenic hypercalcemia (ionized calcium > 4 mmol/L, total calcium 57 mg/dL) and an acute kidney injury (creatinine 9.81 mg/dL) suspected to be a consequence of an overdose of calcium gluconate. This case demonstrates the successful application of hemodialysis in veterinary medicine to treat an…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42485625/",
+    "tags": [
+      "cat-diseases",
+      "hypercalcemia",
+      "acute-kidney-injury",
+      "renal-dialysis"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42485123",
+    "title": "Renal resistance index reveals 'driving effect' of vericiguat for heart failure therapy: the possible way for guideline-directed medical therapy implementation?",
+    "subtitle": "Journal of cardiovascular medicine (Hagerstown, Md.) · 2026",
+    "summary": "Guideline-directed medical therapy (GDMT) improves outcomes in heart failure. Vericiguat is the latest approved drug for heart failure associated with cardiovascular clinical benefits as add-on therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42485123/",
+    "tags": [
+      "heart-failure",
+      "kidney",
+      "cardiovascular-agents",
+      "vascular-resistance"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42483856",
+    "title": "Chronic Kidney Disease Frequently Observed in Adults With Spina Bifida",
+    "subtitle": "International journal of urology : official journal of the Japanese Urological Association · 2026",
+    "summary": "Young to middle-aged adults with spina bifida with a history of pediatric febrile urinary tract infection or vesico-ureteral reflux and those with current hypertension or albuminuria have an increased risk of chronic kidney disease, suggesting the need for renal function monitoring.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42483856/",
+    "tags": [
+      "spinal-dysraphism",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

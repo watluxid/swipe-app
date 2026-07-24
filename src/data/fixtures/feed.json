@@ -261,6 +261,133 @@
     "pinned": false
   },
   {
+    "id": "pmid-42493690",
+    "title": "Early Posttransplant urine ammonium-pH index levels and graft outcomes in kidney transplant recipients",
+    "subtitle": "Pflugers Archiv : European journal of physiology · 2026",
+    "summary": "A higher uAPI likely informs about better tubulointerstitial function posttransplant and is associated with better early and 12-month kidney graft function.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493690/",
+    "tags": [
+      "kidney-transplantation",
+      "ammonium-compounds"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42493217",
+    "title": "Kidney function recovery in immunoglobulin A nephropathy patient following bimekizumab therapy",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "6 months after starting on bimekizumab, his renal parameters improved with a reduction in his albuminuria and an increase in his estimated glomerular filtration rate (eGFR). This improvement may be explained by bimekizumab's dual blockade of IL-17 A and F, blunting the inflammatory pathways relevant to IgAN although…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493217/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "antibodies-monoclonal-humanized"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42493211",
+    "title": "Circulating kidney injury molecule-1 as a prognostic biomarker for long-term renal outcomes in lupus nephritis: a retrospective cohort study",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "Elevated circulating KIM-1 at the time of renal biopsy was associated with adverse long-term renal outcomes in LN and independently associated with relapse, although its incremental predictive value beyond conventional clinical markers was modest. KIM-1 may support early risk stratification and individualised…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493211/",
+    "tags": [
+      "lupus-nephritis",
+      "hepatitis-a-virus-cellular-receptor-1",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42492944",
+    "title": "Early treatment with rasburicase and risk of kidney replacement therapy and death in adults with tumour lysis syndrome: emulated target trial",
+    "subtitle": "BMJ (Clinical research ed.) · 2026",
+    "summary": "Among adults with TLS, early rasburicase treatment for TLS was associated with about one third lower risk of acute kidney injury requiring kidney replacement therapy or death compared with delayed or no rasburicase treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42492944/",
+    "tags": [
+      "tumor-lysis-syndrome",
+      "urate-oxidase",
+      "acute-kidney-injury",
+      "renal-replacement-therapy"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42490553",
+    "title": "Urinary podocalyxin as an early biomarker for diabetic nephropathy",
+    "subtitle": "PloS one · 2026",
+    "summary": "Urinary podocalyxin is a sensitive early biomarker of diabetic nephropathy, rising before overt albuminuria and correlating with albuminuria severity and declining eGFR. However, longitudinal validation is required before u-PDX can be recommended for routine screening in adults with T2DM.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42490553/",
+    "tags": [
+      "diabetic-nephropathies",
+      "sialoglycoproteins",
+      "diabetes-mellitus-type-2"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42487079",
+    "title": "Research evolution and evidence-generation priorities in robot-assisted living donor nephrectomy: a bibliometric and knowledge-mapping analysis",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "Among 107 publications (81 Articles and 26 Review Articles), output remained limited early on, became more consistent after 2012, and increased markedly after 2021, peaking in 2024. Robot-assisted living donor nephrectomy research has entered a more active phase of clinical investigation, but increasing publication…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42487079/",
+    "tags": [
+      "nephrectomy",
+      "robotic-surgical-procedures",
+      "living-donors",
+      "bibliometrics"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42487013",
+    "title": "Robot-assisted kidney transplantation in obese recipients: wound-risk reduction, graft safety, and access implications",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "Obese kidney transplant recipients are at increased risk of surgical site infection, impaired wound healing, lymphocele, hematoma, and incisional hernia, and these wound-related risks have led some transplant programs to apply restrictive body mass index (BMI) thresholds. Future multicenter studies should integrate…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42487013/",
+    "tags": [
+      "kidney-transplantation",
+      "robotic-surgical-procedures",
+      "obesity"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42487011",
+    "title": "Feasibility of simultaneous donor nephrectomy and kidney transplantation using a shared single-port robotic platform",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "15 pairs underwent a simultaneous SP robotic approach in which both donor nephrectomy and recipient transplant were completed using the same SP robotic platform, while 30 cases underwent laparoscopic donor nephrectomy followed by SP robotic kidney transplantation. In recipients, the simultaneous SP robotic approach…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42487011/",
+    "tags": [
+      "nephrectomy",
+      "kidney-transplantation",
+      "robotic-surgical-procedures",
+      "living-donors"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42486653",
+    "title": "Use of avacopan in granulomatosis with polyangiitis with predominant gastrointestinal and kidney involvement",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "We report the case of a middle-aged man with granulomatosis with polyangiitis (GPA) presenting with severe gastrointestinal involvement complicated by recurrent bleeding and bowel perforations together with rapidly progressive glomerulonephritis. This case illustrates real-world use of avacopan in a severe multisystem…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42486653/",
+    "tags": [
+      "granulomatosis-with-polyangiitis",
+      "glomerulonephritis",
+      "gastrointestinal-hemorrhage"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42485571",
     "title": "GLP-1 receptor agonists in kidney transplant recipients with post-transplant diabetes: efficacy and safety outcomes from a retrospective cohort study",
     "subtitle": "Archives of endocrinology and metabolism · 2026",
@@ -388,6 +515,33 @@
       "reperfusion-injury"
     ],
     "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42486832",
+    "title": "[Buffering effect of intensive lipid lowering on mortality risk in type 2 diabetic patients with chronic kidney disease and challenging glycemic management: a cohort study based on dual metabolic trajectories]",
+    "subtitle": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University · 2026",
+    "summary": "This study reveals for the first time the longitudinal synergistic evolution of glucose and lipid metabolic trajectories in patients with T2DM and CKD and their superimposed impact on prognosis. Intensive lipid lowering (LDL-C<1.8 mmol/L) confers a significant protective effect in patients with difficulty in glycemic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42486832/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42486830",
+    "title": "[Rehmanniae radix preparata alleviates chronic kidney disease in mice through a multi-target mechanism]",
+    "subtitle": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University · 2026",
+    "summary": "The ameliorative effect of RRP against renal fibrosis and CKD progression in mice is mediated by a multi-component, multi-target, and multi-pathway mechanism targeting the JUN/STAT3 signaling pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42486830/",
+    "tags": [
+      "drugs-chinese-herbal",
+      "renal-insufficiency-chronic",
+      "rehmannia"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1166,6 +1320,136 @@
     "pinned": false
   },
   {
+    "id": "pmid-42488683",
+    "title": "A novel machine learning approach generates personalized estimates of graft and patient survival to better inform older kidney transplant candidates",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "The most important variables in tree development for graft survival were recipient age, recipient diabetes, KDRI, recipient ethnicity, and time on dialysis. For patient survival, these variables were recipient age, recipient diabetes, time on dialysis, recipient cause of chronic kidney disease, and recipient HCV…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488683/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-survival",
+      "machine-learning"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42488675",
+    "title": "Case Report: Successful treatment of new onset plaque psoriasis with secukinumab in a peritoneal dialysis patient",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Although initial symptoms improved with intensified dialysis and topical corticosteroids, the disease subsequently was exacerbated, presenting with extensive lesions and severe generalized pruritus that significantly impaired sleep quality. While IL-17A is implicated in dialysis-induced peritoneal damage, whether…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488675/",
+    "tags": [
+      "psoriasis",
+      "antibodies-monoclonal-humanized",
+      "peritoneal-dialysis",
+      "dermatologic-agents"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42488661",
+    "title": "TLR7/9-mediated mucosal innate immune dysregulation in IgA nephropathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Experimental and clinical studies have demonstrated increased expression of TLR7 and TLR9 in mucosal tissues, including the tonsils of patients with IgAN. Recent humanized mouse models further suggest that Gd-IgA1 alone may be insufficient to induce disease, highlighting the importance of mucosal immune context in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488661/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "immunity-innate",
+      "toll-like-receptor-9",
+      "immunity-mucosal"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42488655",
+    "title": "The potential role of antimetabolite in preventing allosensitization before kidney retransplantation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "The intake of antimetabolite at retransplantation showed a protective effect against allosensitization. Waiting time to retransplantation had only a weak correlation with allosensitization over the whole cPRA spectrum in this Swiss cohort study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488655/",
+    "tags": [
+      "kidney-transplantation",
+      "immunosuppressive-agents",
+      "graft-rejection"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42488652",
+    "title": "Modified Huangqi Chifeng decoction alleviates IgA nephropathy inflammation and renal fibrosis via miR-146a/TLR4/NF-κB signaling modulation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "MHCD alleviates IgA nephropathy inflammation and renal fibrosis partially through upregulating miR-146a and subsequently suppressing the TLR4/NF-κB signaling pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488652/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "toll-like-receptor-4",
+      "micrornas",
+      "drugs-chinese-herbal"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42488643",
+    "title": "Case report: Sequential complement inhibition and BAFF/APRIL blockade in progressive IgA nephropathy and IgA vasculitis nephritis: a report of two cases",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Here, we report two patients with rapidly progressive crescentic disease, one with primary IgAN and one with IgAVN, who received sequential complement inhibition combined with BAFF/APRIL blockade. These cases suggest that multi-pathway targeted therapy may represent a promising approach for selected patients with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488643/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "b-cell-activating-factor",
+      "tumor-necrosis-factor-ligand-superfamily-member-13",
+      "vasculitis"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42488631",
+    "title": "Autoantibody repertoire in lupus nephritis: from pathogenic mechanisms to clinical integration for precision decision-making",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Lupus nephritis (LN) represents the most severe renal manifestation of systemic lupus erythematosus (SLE), and timely, risk-stratified intervention is essential to mitigate irreversible kidney damage and improve long-term clinical outcomes. We critically evaluate the clinical validity and utility of conventional…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42488631/",
+    "tags": [
+      "lupus-nephritis",
+      "autoantibodies"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42487999",
+    "title": "Prognostic significance of interstitial fibrosis and tubular atrophy in biopsy-proven diabetic kidney disease: a single-center retrospective cohort study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In biopsy-proven DKD, IFTA 2/3 was associated with the composite kidney endpoint. Higher 24-hour proteinuria and lower serum calcium were associated with poor kidney outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42487999/",
+    "tags": [
+      "diabetic-nephropathies",
+      "kidney-tubules",
+      "diabetes-mellitus-type-2"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42487783",
+    "title": "The mediating role of self-efficacy in the association between social support and eHealth literacy among kidney transplant recipients",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "Among kidney transplant recipients, social support and self-efficacy were positively associated with eHealth literacy, and self-efficacy partly accounted for the association between social support and eHealth literacy. These findings suggest that perceived social support and self-efficacy may represent promising…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42487783/",
+    "tags": [
+      "kidney-transplantation",
+      "self-efficacy",
+      "health-literacy",
+      "social-support"
+    ],
+    "date": "2026-07-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42483682",
     "title": "Inverse association of circulating kallikrein-related peptidase 7 with renal function and mortality risk in patients with chronic kidney disease",
     "subtitle": "Frontiers in endocrinology · 2026",
@@ -1267,6 +1551,48 @@
     "pinned": false
   },
   {
+    "id": "pmid-42490921",
+    "title": "Timing of parathyroidectomy in kidney transplant candidates: a systematic review and a proposed clinical algorithm",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Pre-transplant PTx may be associated with lower graft loss and comparable long-term renal function compared with post-transplant PTx. Given the limitations of the current evidence, a personalized approach using the proposed algorithm may optimize clinical decision-making.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42490921/",
+    "tags": [
+      "kidney-transplantation",
+      "parathyroidectomy",
+      "algorithms",
+      "hyperparathyroidism-secondary"
+    ],
+    "date": "2026-07-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42490882",
+    "title": "Allograft nephrectomy: a systematic review of immunological consequences and management of immunosuppressants",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Eligible designs included meta-analyses, randomized trials, and prospective or retrospective studies evaluating the immunological impact of AN and/or immunosuppression management before, during, or after graft removal in adult or pediatric kidney transplant recipients returning to dialysis. Consistent evidence…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42490882/",
+    "tags": [
+      "kidney-transplantation",
+      "immunosuppressive-agents",
+      "nephrectomy"
+    ],
+    "date": "2026-07-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42490785",
+    "title": "Immune dysregulation drives the relapse of peritoneal dialysis-associated peritonitis: a single-center prospective study",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Relapsing PDAP is linked to peritoneal immune dysregulation, and 16S rDNA sequencing represents a complementary diagnostic tool. These findings may guide precise management and improve patient outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42490785/",
+    "tags": [
+      "peritonitis",
+      "peritoneal-dialysis"
+    ],
+    "date": "2026-07-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42475281",
     "title": "Predicting Renal Replacement Therapy Requirement In Sepsis-Associated Acute Kidney Injury Using Furosemide Stress Testing and Urinary Biomarkers",
     "subtitle": "Journal of visualized experiments : JoVE · 2026",
@@ -1321,6 +1647,36 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42489672",
+    "title": "Graft Outcomes in For-Cause Biopsy-Proven Recurrent IgA Nephropathy After Kidney Transplantation: Rare but Clinically Meaningful",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In this for-cause biopsy cohort, clinically detected recurrent IgAN was associated with meaningful graft loss. Severe chronic injury at recurrence identified patients with poorer prognosis, although this likely reflects advanced nonspecific allograft damage rather than a recurrence-specific mechanism.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42489672/",
+    "tags": [
+      "kidney-transplantation",
+      "glomerulonephritis-iga",
+      "graft-rejection",
+      "graft-survival"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42489648",
+    "title": "Cancer Risk After Simultaneous Pancreas-Kidney Transplantation Compared With Kidney Transplant Alone: A Propensity-Matched Cohort Study",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In this propensity score-matched cohort study, overall post-transplant malignancy incidence was comparable between SPK and KA recipients. Both groups experienced substantially elevated cancer risk relative to the general population, and incident malignancy was strongly associated with mortality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42489648/",
+    "tags": [
+      "pancreas-transplantation",
+      "kidney-transplantation",
+      "neoplasms",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

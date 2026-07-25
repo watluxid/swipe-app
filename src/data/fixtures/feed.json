@@ -15,6 +15,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42494251",
+    "title": "Soy protein alleviates DKD by restraining inflammation via the MAPKs/PPAR-γ signaling pathway",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Soy protein alleviates DKDgenistein, which inhibits p38 MAPK and activates PPAR-γ to reduce inflammation/oxidative stress, supporting soy-based DKD interventions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42494251/",
+    "tags": [
+      "ppar-gamma",
+      "soybean-proteins",
+      "inflammation",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42481065",
     "title": "Association of serum spermidine level with vascular calcification in peritoneal dialysis patients",
     "subtitle": "Renal failure · 2026",
@@ -217,6 +232,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42495760",
+    "title": "Gut‑liver‑kidney axis: A systems biology framework for understanding and treating chronic kidney disease (Review)",
+    "subtitle": "International journal of molecular medicine · 2026",
+    "summary": "Chronic kidney disease (CKD) is traditionally studied through an organ‑centric paradigm, despite its frequent coexistence with intestinal dysbiosis and metabolic dysfunction‑associated steatotic liver disease, which confers a 38% increased CKD risk. Reframing CKD as gut‑liver‑kidney axis dysfunction enables…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42495760/",
+    "tags": [
+      "systems-biology",
+      "renal-insufficiency-chronic",
+      "liver",
+      "kidney"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42495768",
+    "title": "Chronic kidney disease‑associated encephalopathy: Clinical features, pathomechanisms and emerging therapeutic strategies (Review)",
+    "subtitle": "Molecular medicine reports · 2026",
+    "summary": "Clinically, early identification of neurological complications (such as through neuropsychological assessment, gait analysis and neuroimaging), along with monitoring of specific biomarkers, is crucial for timely intervention and improved prognosis. A deeper understanding of these mechanisms will provide a solid…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42495768/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "brain-diseases"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42464649",
     "title": "Tubular PFKFB3 drives diabetic kidney fibrosis via lactate‑dependent H4K12 lactylation and HIPK2 transactivation",
     "subtitle": "International journal of molecular medicine · 2026",
@@ -261,6 +304,77 @@
     "pinned": false
   },
   {
+    "id": "pmid-42498964",
+    "title": "Intraoperative hemoadsorption and cardiac surgery-associated acute kidney injury: an updated systematic review and meta-analysis with trial sequential analysis",
+    "subtitle": "Critical care (London, England) · 2026",
+    "summary": "Intraoperative hemoadsorption did not significantly reduce CSA-AKI or improve clinical outcomes in adult cardiac surgery. Although trends favored severe AKI, very low certainty evidence and insufficient information preclude definitive conclusions, warranting further large-scale RCTs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42498964/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiac-surgical-procedures"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42498317",
+    "title": "Serum PLA2R-negative, biopsy-proven PLA2R-positive primary membranous nephropathy in a dichorionic-diamniotic twin pregnancy",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "Anti-phospholipase A2 receptor (PLA2R) antibodies are used to confirm diagnosis.We report a case of biopsy-confirmed PLA2R-positive but seronegative PMN in a woman in her late 20s with a dichorionic-diamniotic twin pregnancy. Renal biopsy at 21 weeks confirmed PMN with positive PLA2R and IgG4 staining, despite…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42498317/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "pregnancy-complications",
+      "receptors-phospholipase-a2"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42497247",
+    "title": "ELF3 links kidney function GWAS loci to maladaptive epithelial inflammation",
+    "subtitle": "Science advances · 2026",
+    "summary": "Here, we demonstrate thatis the effector gene at a kidney function GWAS locus and acts as an epithelial proinflammatory amplifier of the reprogramming of injured proximal tubules (iPTs). E74-like factor 3 (ELF3) expression is induced in iPTs in both mouse models and human chronic kidney disease (CKD), where it defines…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497247/",
+    "tags": [
+      "genome-wide-association-study",
+      "proto-oncogene-proteins-c-ets",
+      "transcription-factors",
+      "inflammation"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42495748",
+    "title": "Effects of exercise on clinical outcomes in patients undergoing haemodialysis for chronic kidney disease: an umbrella review",
+    "subtitle": "Journal of global health · 2026",
+    "summary": "Aerobic exercise may improve cardiorespiratory fitness, dialysis efficiency, inflammation, and depression; resistance may enhance muscle strength and physical function; combined training offers the broadest benefits. Individualized prescriptions are supported, but high-certainty evidence is lacking.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42495748/",
+    "tags": [
+      "renal-dialysis",
+      "renal-insufficiency-chronic",
+      "exercise",
+      "exercise-therapy"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42495747",
+    "title": "Exploring the liver-kidney axis in the Ghanaian population: the RODAM prospective study",
+    "subtitle": "Journal of global health · 2026",
+    "summary": "In our study, markers of liver cell injury were associated with increased risk of CKD over six years in the African population. Our findings support a potential link between hepatic metabolic dysfunction and early renal injury, highlighting the need for integrated cardiometabolic risk assessment in sub-Saharan Africa.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42495747/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "liver",
+      "kidney"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42493690",
     "title": "Early Posttransplant urine ammonium-pH index levels and graft outcomes in kidney transplant recipients",
     "subtitle": "Pflugers Archiv : European journal of physiology · 2026",
@@ -271,6 +385,21 @@
       "ammonium-compounds"
     ],
     "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42493798",
+    "title": "Association between preoperative hydration and cardiac surgery-associated acute kidney injury: a prospective observational study",
+    "subtitle": "Journal of cardiothoracic surgery · 2026",
+    "summary": "Lower preoperative fluid intake was associated with higher observed rates of postoperative rates of CSA-AKI after applying a data-derived threshold. These exploratory data-driven findings and thresholds require prospective validation studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493798/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiac-surgical-procedures",
+      "fluid-therapy",
+      "preoperative-care"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -371,6 +500,21 @@
       "living-donors"
     ],
     "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42493781",
+    "title": "Assessing frailty in hemodialysis patients: utility of a self-rated visual analogue scale and the role of routine parameters in clinical prediction",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "A self-rated VAS for frailty has the potential to simplify frailty screening and enhance its integration into routine nephrology care. A model based on routine parameters can support the identification of frail patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493781/",
+    "tags": [
+      "renal-dialysis",
+      "frailty",
+      "visual-analog-scale",
+      "geriatric-assessment"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1306,6 +1450,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42494867",
+    "title": "Therapeutic monoclonal antibodies for diabetic kidney disease: a narrative review from basic mechanisms to clinical evidence",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Monoclonal antibodies represent a biologically compelling but clinically underdeveloped strategy for DKD. Future progress will require earlier biomarker-informed patient selection, confirmation of intrarenal target engagement, appropriate renal endpoints, and rational combination with established kidney-protective…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42494867/",
+    "tags": [
+      "diabetic-nephropathies",
+      "antibodies-monoclonal"
+    ],
+    "date": "2026-07-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42445741",
     "title": "From Initiation to Recovery: A Longitudinal Analysis of Polymyxin B-Induced Kidney Injury in Clinical Practice",
     "subtitle": "Drug design, development and therapy · 2026",
@@ -1521,6 +1678,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42496255",
+    "title": "Prevalence and Impact of Pulmonary Hypertension Associated with Arteriovenous Fistulas and Grafts in End-Stage Renal Disease: A Systematic Review and Meta-Analysis",
+    "subtitle": "Advances in respiratory medicine · 2026",
+    "summary": "In this synthesis of observational data, AVF/AVG use was associated with higher odds of pulmonary hypertension than non-AVF/AVG access. Because all included studies were observational and the pooled estimate is sensitive to individual influential studies, these findings indicate a possible association rather than a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42496255/",
+    "tags": [
+      "hypertension-pulmonary",
+      "kidney-failure-chronic",
+      "renal-dialysis",
+      "arteriovenous-shunt-surgical"
+    ],
+    "date": "2026-07-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42450287",
     "title": "Investigating the Kidney-Gut-Brain Axis in CKD: Uremic Toxins and Brain Microhemorrhages",
     "subtitle": "International journal of molecular sciences · 2026",
@@ -1619,6 +1791,21 @@
       "vitamin-d"
     ],
     "date": "2026-07-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42496254",
+    "title": "Clinical Impact of RSV Vaccination in Hemodialysis Patients: Real-World Evidence on Hospitalization Risk and the Role of Chronic Lung Disease",
+    "subtitle": "Advances in respiratory medicine · 2026",
+    "summary": "CLD was significantly associated with pneumonia (= 0.001) and showed trends toward higher rates of ILI (= 0.09) and hospitalization for respiratory infection (= 0.1).In our exploratory study, RSV vaccination in HD patients was associated with fewer hospitalizations for respiratory infection, despite greater…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42496254/",
+    "tags": [
+      "renal-dialysis",
+      "respiratory-syncytial-virus-infections",
+      "hospitalization",
+      "respiratory-syncytial-virus-vaccines"
+    ],
+    "date": "2026-07-02T00:00:00.000Z",
     "pinned": false
   },
   {

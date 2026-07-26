@@ -304,6 +304,63 @@
     "pinned": false
   },
   {
+    "id": "pmid-42499101",
+    "title": "Quality assessment of lupus nephritis health information on China's mainstream short-form video platforms: A cross-sectional study",
+    "subtitle": "Medicine · 2026",
+    "summary": "The content on both platforms mainly focused on \"treatment\" and \"symptoms\" while rarely covering topics such as \"prevention\" and \"epidemiology.\" A positive correlation was found between content quality and the professional background of the creator: the median GQS and mDISCERN scores for videos released by…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499101/",
+    "tags": [
+      "lupus-nephritis",
+      "video-recording",
+      "consumer-health-information"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42499072",
+    "title": "A bibliometric analysis of the pathophysiology of sepsis-associated acute kidney injury from 2015 to 2024",
+    "subtitle": "Medicine · 2026",
+    "summary": "In summary, this research comprehensively analyzed the research status and development trend in the field of the pathophysiology of SA-AKI by bibliometric analysis. The findings can offer valuable information for scholars seeking academic cooperation and identifying future research directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499072/",
+    "tags": [
+      "bibliometrics",
+      "sepsis",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42499042",
+    "title": "Determinants of uremic pruritus severity among patients undergoing chronic hemodialysis: A cross-sectional study",
+    "subtitle": "Medicine · 2026",
+    "summary": "The severity of itching was assessed using a single-item scale from 0 to 10, with 0 indicating no itching and 10 indicating maximum itching. The prevalence of severe itching among participants was 10.8%, with a mean itching scale score of 2.35 ± 2.85 out of 10.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499042/",
+    "tags": [
+      "pruritus",
+      "renal-dialysis",
+      "uremia",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42499041",
+    "title": "Tooth loss elevates all-cause and cause-specific mortality in adults with chronic kidney disease: The mediating role of frailty",
+    "subtitle": "Medicine · 2026",
+    "summary": "Greater tooth loss was independently associated with higher all-cause, cardiovascular, and cancer mortality. In US adults with CKD, tooth loss predicts higher mortality; frailty explains ~30% of this association, suggesting that the integration of routine oral health screening and dental interventions with frailty…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499041/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "tooth-loss",
+      "frailty"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42498964",
     "title": "Intraoperative hemoadsorption and cardiac surgery-associated acute kidney injury: an updated systematic review and meta-analysis with trial sequential analysis",
     "subtitle": "Critical care (London, England) · 2026",
@@ -572,6 +629,21 @@
       "coronary-artery-disease"
     ],
     "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42500203",
+    "title": "From mechanism to therapeutics: targeting the mitogen-activated protein kinase 1 (MAPK1)/extracellular signal-regulated kinase 2 (ERK2) pathway in renal fibrosis",
+    "subtitle": "PeerJ · 2026",
+    "summary": "The review highlights that these compounds demonstrate notable antifibrotic efficacy in preclinical models, primarily by directly or indirectly inhibiting MAPK1/ERK2 phosphorylation. This narrative review synthesizes current knowledge on the MAPK1/ERK2 pathway in renal fibrosis, highlighting its regulatory mechanisms…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42500203/",
+    "tags": [
+      "map-kinase-signaling-system",
+      "mitogen-activated-protein-kinase-1",
+      "kidney-diseases",
+      "kidney"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1274,6 +1346,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42500665",
+    "title": "Impact of tumor immunotherapy on kidney injury and multi-organ outcomes: a mechanistic and clinical perspective",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Tumor immunotherapy substantially impacts renal and multi-organ homeostasis, supported by moderate-certainty evidence. Immune microenvironment-targeted protective strategies emerge as crucial for optimizing therapeutic outcomes, while future investigations should prioritize biomarker-guided precision approaches to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42500665/",
+    "tags": [
+      "immune-checkpoint-inhibitors",
+      "neoplasms",
+      "immunotherapy",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-07-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42454817",
     "title": "Family functionality and social support in Brazilian older people with chronic kidney disease in hemodialysis: a cross-sectional study",
     "subtitle": "Sao Paulo medical journal = Revista paulista de medicina · 2026",
@@ -1834,6 +1921,20 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42499179",
+    "title": "Renal Cortical Thickness and Derived Ratios as Superior Ultrasonographic Markers for Detecting Feline Chronic Kidney Disease",
+    "subtitle": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association · 2026",
+    "summary": "Ultrasonographic parameters including renal cortical thickness (RCT), medullary thickness (MT), renal length (RL), abdominal aorta diameter (Ao) and their ratios (RCT/Ao, RCT/MT, RCT/RL, MT/Ao, RL/Ao) were evaluated. The results show that RCT, RCT/Ao, RCT/MT, and RCT/RL were significantly lower in CKD cats, especially…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499179/",
+    "tags": [
+      "cat-diseases",
+      "renal-insufficiency-chronic",
+      "kidney-cortex"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

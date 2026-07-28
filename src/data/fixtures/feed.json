@@ -304,6 +304,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42507648",
+    "title": "Risk factors for decline in estimated glomerular filtration rate amongst Malawian adults living in rural Karonga: Protocol for a prospective cohort study using cystatin C- and creatinine-based eGFR",
+    "subtitle": "PloS one · 2026",
+    "summary": "The primary outcome will be sustained 25% reduction in estimated GFR (eGFR) from baseline and change in eGFR category, determined using serum cystatin C. Multivariable logistic regression will be used to determine effect size estimates of key risk factors for kidney function decline. This study will provide important…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507648/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "cystatin-c",
+      "creatinine",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42503574",
     "title": "Robot-assisted versus open kidney transplantation: an umbrella review of systematic reviews and meta-analyses",
     "subtitle": "Journal of robotic surgery · 2026",
@@ -870,6 +885,35 @@
       "minerals"
     ],
     "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42506732",
+    "title": "Uremic Toxins and Hemodiafiltration: From Molecular Mechanisms to Clinical Outcomes",
+    "subtitle": "Toxins · 2026",
+    "summary": "This review summarizes the mechanisms of uremic toxin accumulation, the biologic and clinical relevance of major retained solutes, and current evidence supporting improved toxin removal with HDF. Randomized trials, meta-analyses, and observational studies have associated HDF with reduced inflammatory burden, improved…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506732/",
+    "tags": [
+      "hemodiafiltration",
+      "uremic-toxins",
+      "uremia",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42506731",
+    "title": "Targeting Uremic Toxins in Chronic Kidney Disease: Current Challenges and Emerging Therapeutic Strategies",
+    "subtitle": "Toxins · 2026",
+    "summary": "Current dialysis therapies only partially mitigate uremic toxicity, highlighting the need for strategies that reduce uremic toxin generation as well as more efficient dialysis modalities. Given the importance of uremic toxins in CKD progression, this review provides a comprehensive overview of uremic toxicity,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506731/",
+    "tags": [
+      "uremic-toxins",
+      "renal-insufficiency-chronic",
+      "uremia"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1550,6 +1594,50 @@
     "pinned": false
   },
   {
+    "id": "pmid-42506355",
+    "title": "Effects of Flammable and Non-Flammable Nicotine Products on Kidney Health",
+    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
+    "summary": "Cigarette smoking is a widely recognized risk factor for several diseases and a crucial problem in global health, as it contributes to the development and worsening of various diseases, resulting in an increase in both morbidity and mortality. One of the strategies to reduce the impact of tobacco damage is based on…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506355/",
+    "tags": [
+      "nicotine",
+      "kidney",
+      "renal-insufficiency-chronic",
+      "tobacco-products"
+    ],
+    "date": "2026-07-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42506352",
+    "title": "Agreement of Electrolyte Measurements Between Arterial Blood Gas Analyzers and Central Laboratories in Critically Ill Patients with Acute Kidney Injury",
+    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
+    "summary": "Clinically meaningful discrepancies were observed in 7.0% of sodium, 14.1% of potassium, and 31.4% of chloride measurements.ABG-derived sodium and potassium measurements showed relatively good agreement with central laboratory measurements, particularly for potassium. ABG-derived electrolyte measurements may support…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506352/",
+    "tags": [
+      "acute-kidney-injury",
+      "electrolytes",
+      "blood-gas-analysis"
+    ],
+    "date": "2026-07-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42506350",
+    "title": "Retinal Structural and Microvascular Findings on OCT and OCTA in Hemodialysis and Kidney Transplant Recipients and Their Association with Mineral Metabolism Parameters",
+    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
+    "summary": "Retinal microvascular and inner-retinal structural parameters were largely comparable between HD patients and KTR, with SCT the only parameter showing a consistent between-cohort difference (higher in KTR). Serum magnesium and HTN grade were the metabolic and clinical variables most consistently associated with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506350/",
+    "tags": [
+      "tomography-optical-coherence",
+      "kidney-transplantation",
+      "renal-dialysis",
+      "retina"
+    ],
+    "date": "2026-07-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42494867",
     "title": "Therapeutic monoclonal antibodies for diabetic kidney disease: a narrative review from basic mechanisms to clinical evidence",
     "subtitle": "Frontiers in endocrinology · 2026",
@@ -1707,6 +1795,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42507745",
+    "title": "Body Mass Index Modifies The Protective Association of Physical Activity With Incident Chronic Kidney Disease: A Prospective Cohort Study",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Specifically, each 1000 MET-min/week increase in PA was associated with a greater reduction in CKD risk in individuals with obesity (HR = 0.72) compared with those with overweight (HR ≈ 0.84). The protective effect of PA on CKD risk is modified by BMI, with greater benefits observed in individuals with overweight or…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507745/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "body-mass-index",
+      "exercise"
+    ],
+    "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42483682",
     "title": "Inverse association of circulating kallikrein-related peptidase 7 with renal function and mortality risk in patients with chronic kidney disease",
     "subtitle": "Frontiers in endocrinology · 2026",
@@ -1790,6 +1892,19 @@
       "arteriovenous-shunt-surgical"
     ],
     "date": "2026-07-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42506342",
+    "title": "Nationwide Implementation of a Digital Health Module for Chronic Kidney Disease Screening: A RE-AIM Evaluation in Peru's Social Health System",
+    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
+    "summary": "Therefore, this study aims to evaluate the implementation of a digital module for CKD detection in at-risk patients within the Peruvian Social Health Insurance system (EsSalud) during 2024.Data were collected through the Renal Health Module (MOSARE), a digital tool integrated into EsSalud's electronic health record…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506342/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "mass-screening"
+    ],
+    "date": "2026-07-04T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1934,6 +2049,20 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42507120",
+    "title": "Incidence of Severe Infectious Complications in Hemodialysis Patients: A Systematic Review and Meta-Analysis of Sepsis and Bloodstream Infections",
+    "subtitle": "The new microbiologica · 2026",
+    "summary": "From 49 included studies (over 1.7 million patients across 21 countries), the pooled incidence rate of sepsis or BSI was 136.75 episodes per 1,000 person-years (95% CI 88.88-210.41) and 1.98 episodes per 1,000 catheter-days (95% CI 1.22-3.23). Studies published after 2010 reported lower incidence than earlier studies,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507120/",
+    "tags": [
+      "renal-dialysis",
+      "sepsis",
+      "bacteremia"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

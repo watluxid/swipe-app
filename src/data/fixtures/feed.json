@@ -332,6 +332,18 @@
     "pinned": false
   },
   {
+    "id": "pmid-42509536",
+    "title": "Examining commonly used equations for estimating the glomerular filtration rate (GFR) in a healthy cohort of children and adolescents",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "We found that the EKFC equations, Schwartz, and U25 resulted in eGFR distributions within the expected physiological range for an apparently healthy pediatric cohort. Estimates from simpler equations such as Bedside and CAPA were more prone to implausible results.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509536/",
+    "tags": [
+      "glomerular-filtration-rate"
+    ],
+    "date": "2026-07-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42499101",
     "title": "Quality assessment of lupus nephritis health information on China's mainstream short-form video platforms: A cross-sectional study",
     "subtitle": "Medicine · 2026",
@@ -2516,6 +2528,21 @@
       "risk-management"
     ],
     "date": "2026-07-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42512810",
+    "title": "Cold Dialysis Combined with Intradialytic Exercise Improves Insulin Sensitivity in Hemodialysis Patients: A Pilot Randomized Clinical Trial",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "The present study aimed to examine the long-term effect of the combined effect of cold dialysis and intradialytic exercise training on glucose disposal and various health and quality-of-life parameters in hemodialysis patients.: Fourteen stable hemodialysis patients were randomly allocated in one of the two groups:…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512810/",
+    "tags": [
+      "renal-dialysis",
+      "insulin-resistance",
+      "cold-temperature",
+      "exercise-therapy"
+    ],
+    "date": "2026-06-30T00:00:00.000Z",
     "pinned": false
   },
   {

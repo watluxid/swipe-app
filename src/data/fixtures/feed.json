@@ -318,6 +318,75 @@
     "pinned": false
   },
   {
+    "id": "pmid-42517346",
+    "title": "The Impact of Omega Fatty Acids on DKD: A Multimodal Study Integrating Mendelian Randomization, Proteomic Mediation Analysis, and Meta-Analysis",
+    "subtitle": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology · 2026",
+    "summary": "Genetically predicted higher plasma omega-3 fatty acid levels were causally associated with reduced DKD risk (odds ratio [OR] = 0.869, 95% confidence interval [CI]: 0.772-0.978, p = 0.020), while omega-6 fatty acids showed no significant causal association (OR = 0.895, 95% CI: 0.731-1.096, p = 0.283). Genetic evidence…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517346/",
+    "tags": [
+      "diabetic-nephropathies",
+      "fatty-acids-omega-3",
+      "proteomics"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42533176",
+    "title": "Correlation between real sieving coefficient determined using novel lab-scale module and pore structure of hemodiafiltration membranes",
+    "subtitle": "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs · 2026",
+    "summary": "The novel lab-scale hollow fiber membrane module was fabricated to determine the apparent sieving coefficient ([Formula: see text]) of commercial hemodiafiltration membranes, MFX-SW eco (polyethersulfone, Sample A) and NVF-P (polysulfone, Sample B), using the aqueous solution of dextran with a broader molecular weight…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42533176/",
+    "tags": [
+      "membranes-artificial",
+      "hemodiafiltration",
+      "polymers"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42531233",
+    "title": "Association of troponin-defined myocardial injury with adverse long-term survival among patients with chronic kidney disease",
+    "subtitle": "PloS one · 2026",
+    "summary": "As a marker for troponin-defined myocardial injury, hs-cTns were independently associated with worse long-term survival among CKD patients. However, the observational design precludes causal inference, and single time-point troponin measurements limit the assessment of dynamic changes in myocardial injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531233/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "troponin"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42531230",
+    "title": "Navigating the potassium dilemma: a qualitative study of nephrologists' strategies for renin-angiotensin-aldosterone system inhibitor preservation and hyperkalaemia management in Spain",
+    "subtitle": "PloS one · 2026",
+    "summary": "Nephrologists in Spain prioritised preservation of RAASi therapy when managing hyperkalaemia in predialysis CKD. Although newer potassium binders supported this objective, their use was limited by access and care coordination challenges.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531230/",
+    "tags": [
+      "hyperkalemia",
+      "potassium",
+      "renin-angiotensin-system",
+      "angiotensin-converting-enzyme-inhibitors"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42531210",
+    "title": "Environmental footprint of in-center hemodialysis in Türkiye: A national, scenario-based analysis of water, energy, and waste",
+    "subtitle": "PloS one · 2026",
+    "summary": "In-center HD in Türkiye imposes a substantial yet modifiable environmental burden. Measured Turkish facility data demonstrated that actual water consumption is meaningfully lower than international estimates, highlighting the importance of locally validated parameters.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531210/",
+    "tags": [
+      "renal-dialysis",
+      "carbon-footprint"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42527744",
     "title": "Diagnosis of fibrillary glomerulonephritis suggests possible atypical familial Mediterranean fever in a patient with ulcerative colitis",
     "subtitle": "CEN case reports · 2026",
@@ -344,6 +413,20 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42529977",
+    "title": "Development and Internal Validation of the Soluble ST2, Age, and Estimated Glomerular Filtration Rate-Heart Failure Score for Predicting 30-Day Major Adverse Cardiovascular Events After Heart Failure Hospitalization in a Two-Center Vietnamese Cohort: Prospective Cohort Study",
+    "subtitle": "JMIR cardio · 2026",
+    "summary": "The SAGE-HF score, incorporating age, sST2, and estimated glomerular filtration rate, demonstrated acceptable performance for predicting 30-day MACE after HF hospitalization and may support early risk stratification, pending external validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42529977/",
+    "tags": [
+      "heart-failure",
+      "interleukin-1-receptor-like-1-protein",
+      "glomerular-filtration-rate"
+    ],
+    "date": "2026-07-29T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -441,6 +524,20 @@
       "glomerular-filtration-rate"
     ],
     "date": "2026-07-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42528423",
+    "title": "How to Safely Anticoagulate Patients With Renal Impairment",
+    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
+    "summary": "Chronic kidney disease (CKD), a highly prevalent condition worldwide, is associated with increased thrombotic and bleeding risks. Although warfarin and low-molecular-weight heparin are currently recommended in the guidelines, direct oral anticoagulants (DOACs) may offer a favourable profile in mild-to-moderate CKD…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42528423/",
+    "tags": [
+      "anticoagulants",
+      "venous-thromboembolism",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -802,6 +899,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42528432",
+    "title": "Chronic Kidney Disease-Associated Cardiomyopathy: Mechanisms and Therapeutic Strategies",
+    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
+    "summary": "However, functional abnormalities and myocardial injury have been shown to begin much earlier, with diffuse interstitial fibrosis preceding overt hypertrophy or reduced ejection fraction. A better understanding of CKD-CM pathogenesis is likely to enable early intervention and prevention, with successful outcomes…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42528432/",
+    "tags": [
+      "cardiomyopathies",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42500203",
     "title": "From mechanism to therapeutics: targeting the mitogen-activated protein kinase 1 (MAPK1)/extracellular signal-regulated kinase 2 (ERK2) pathway in renal fibrosis",
     "subtitle": "PeerJ · 2026",
@@ -901,6 +1011,21 @@
       "reperfusion-injury"
     ],
     "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42530264",
+    "title": "Distinct Temporal Modulation of Mesenchymal Stem Cells and Empagliflozin on Renal c-Kit Cells in Diabetic Kidney Disease",
+    "subtitle": "Frontiers in bioscience (Landmark edition) · 2026",
+    "summary": "MSC therapy and empagliflozin are associated with distinct temporal patterns of c-Kit expression in DKD. MSC treatment showed early modulation of c-Kit expression, whereas empagliflozin exhibited more delayed effects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530264/",
+    "tags": [
+      "benzhydryl-compounds",
+      "proto-oncogene-proteins-c-kit",
+      "diabetic-nephropathies",
+      "glucosides"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1343,6 +1468,51 @@
       "organ-preservation"
     ],
     "date": "2026-07-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42529142",
+    "title": "Latent profile analysis of oral health self-efficacy in maintenance hemodialysis patients and its impact on oral health",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "Oral health self-efficacy in MHD patients exhibits significant heterogeneity and can be categorized into three latent classes, with notable differences in OHRQoL across classes. Healthcare providers ought to develop class-specific stratified intervention strategies: focusing on improving basic oral care skills in the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42529142/",
+    "tags": [
+      "renal-dialysis",
+      "oral-health",
+      "self-efficacy",
+      "quality-of-life"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42529124",
+    "title": "National divergence in cardio-kidney-metabolic syndrome burden and implications for health policy: a global burden of disease analysis with projections to 2050",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "The burden of CKM syndrome is substantial and dynamic, with marked cross-country differences. These findings support the need for integrated, multi-organ risk management strategies for metabolic disorders.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42529124/",
+    "tags": [
+      "metabolic-syndrome",
+      "global-burden-of-disease",
+      "cardio-renal-syndrome",
+      "health-policy"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42528539",
+    "title": "Understanding the role of non-HLA antibodies in kidney transplantation: a literature review",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Instead, individual non-HLA antibodies should be investigated through targeted mechanistic and clinical studies to clarify their specific roles in transplant outcomes. Future research should prioritize large-scale, multicenter prospective studies with standardized methodologies, alongside mechanistic investigations,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42528539/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection",
+      "autoantibodies",
+      "isoantibodies"
+    ],
+    "date": "2026-07-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2583,6 +2753,19 @@
       "kidney"
     ],
     "date": "2026-07-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42531489",
+    "title": "Recommendations of the Brazilian Society of Nephrology for sustainable nephrology in Brazil",
+    "subtitle": "Jornal brasileiro de nefrologia · 2026",
+    "summary": "In 2023, the Brazilian Society of Nephrology (SBN) established the Committee on Sustainable Nephrology with the objective of developing national guidelines to reduce the environmental impact of kidney care services. After two years of work, the Committee developed ten recommendations structured across key domains,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531489/",
+    "tags": [
+      "nephrology",
+      "conservation-of-natural-resources"
+    ],
+    "date": "2026-07-01T00:00:00.000Z",
     "pinned": false
   },
   {

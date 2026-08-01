@@ -15,6 +15,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42535878",
+    "title": "Prognostic value of left ventricular peak strain dispersion for cardiovascular events in patients undergoing maintenance haemodialysis: a single-center retrospective cohort study with propensity score matching",
+    "subtitle": "Renal failure · 2026",
+    "summary": "High PSD was associated with a higher hazard of MACE (adjusted hazard ratio [aHR]: 2.05, 95% confidence interval [CI]: 1.48-2.84; < 0.001), cardiovascular mortality (aHR: 2.18, 95% CI: 1.08-4.40; = 0.030) and all-cause mortality (aHR: 1.58, 95% CI: 1.02-2.45; = 0.041). Baseline LV PSD was associated with adverse…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535878/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "cardiovascular-diseases"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42535737",
+    "title": "Shared genetics of IgA nephropathy and cardiometabolic diseases revealed by integrative genomic analysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Immunoglobulin A nephropathy (IgAN), the most common primary glomerular disease and a leading cause of end-stage kidney disease (ESKD), is associated with cardiovascular and metabolic abnormalities. To explore these genetic overlaps, we integrated large-scale GWAS data from IgAN, 21 pan-vascular diseases (PVDs), 13…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535737/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "cardiovascular-diseases",
+      "metabolic-diseases"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42535733",
+    "title": "Proteinuria selectivity index as a predictor of remission and rituximab efficacy in primary membranous nephropathy: a single-center retrospective analysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In conclusion, PSI predicts proteinuria remission and treatment response in PMN. Prospective multicenter studies are needed to validate its clinical utility.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535733/",
+    "tags": [
+      "rituximab",
+      "glomerulonephritis-membranous",
+      "proteinuria",
+      "immunologic-factors"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42494251",
     "title": "Soy protein alleviates DKD by restraining inflammation via the MAPKs/PPAR-γ signaling pathway",
     "subtitle": "Renal failure · 2026",
@@ -289,6 +332,92 @@
     "pinned": false
   },
   {
+    "id": "pmid-42538121",
+    "title": "The Safety of Single Aminoglycoside Dose in Emergency Departments (SAD-ED) Among Patients With and Without Chronic Kidney Disease: A Retrospective Cohort Study",
+    "subtitle": "Emergency medicine Australasia : EMA · 2026",
+    "summary": "Patients with CKD who received single-dose aminoglycosides were more likely to have AKI compared to patients without CKD. Clinicians should carefully balance the risks and benefits of empiric aminoglycosides in patients with CKD and consider such therapy only if no other suitable alternatives exist.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42538121/",
+    "tags": [
+      "aminoglycosides",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42536084",
+    "title": "ISOT Position Statement on Immunological Evaluation in Kidney Transplantation",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "These recommendations offer a practical and standardized framework for immunological evaluation in kidney transplantation within low- and middle-income settings. Their adoption has the potential to improve patient safety and optimize graft outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42536084/",
+    "tags": [
+      "kidney-transplantation",
+      "histocompatibility-testing",
+      "practice-guidelines-as-topic",
+      "graft-rejection"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42535406",
+    "title": "Can Photoacoustic Imaging Provide a Sensitive Marker for Early Detection of Diabetic Nephropathy",
+    "subtitle": "Journal of biophotonics · 2026",
+    "summary": "The results showed that compared with the control group, the average blood oxygen saturation (sOAvr) significantly elevated at early-stage group, then gradually decreased at the advanced stage. The average hemoglobin concentration (HbT Avr) and lipid PA signal intensity dramatically drop down at advanced stage of DN.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535406/",
+    "tags": [
+      "photoacoustic-techniques",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42530567",
+    "title": "Outcomes After 4-Week Course of Sofosbuvir/Velpatasvir Therapy in Hepatitis C Seronegative Recipients of Kidneys From Hepatitis C Viremic Deceased Donors",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "A 4-week SOF/VEL prophylaxis regimen coupled with HCV RNA surveillance and treatment appears to be safe and effective in a Veterans Affairs population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530567/",
+    "tags": [
+      "sofosbuvir",
+      "kidney-transplantation",
+      "heterocyclic-compounds-4-or-more-rings",
+      "carbamates"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42528174",
+    "title": "Preformed HLA-DQ Donor-Specific Antibodies: Distinct Immunological Characteristics and Clinical Implications in Kidney Transplantation",
+    "subtitle": "HLA · 2026",
+    "summary": "In early-onset ABMR, cases in the DQ group developed after the complete resolution of preformed DSAs, whereas those in the non-DQ group were associated with preformed DSAs. Preformed DQ DSAs carry a higher immunological risk and exhibit greater resistance to treatment than non-DQ DSAs, and tend to cause late-onset…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42528174/",
+    "tags": [
+      "kidney-transplantation",
+      "hla-dq-antigens",
+      "graft-rejection",
+      "isoantibodies"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42525482",
+    "title": "Keeping Our Promise: Expedited Allocation for Prior Living Kidney Donors and Trends in Waiting Times According to Race",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "LKD allocation priority results in a higher transplant rate and significant reduction in waiting time compared to matched controls, which improved post-KAS 2014. Concerning, more than half of LKDs are on dialysis prior to listing and transplant with no substantial improvements in the post-KAS era.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42525482/",
+    "tags": [
+      "waiting-lists",
+      "kidney-transplantation",
+      "living-donors",
+      "tissue-and-organ-procurement"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42445750",
     "title": "GLP-1 Receptor Agonists and SGLT-2 Inhibitors in Diabetic Nephropathy: A Comparative Study",
     "subtitle": "Saudi medical journal · 2026",
@@ -318,6 +447,47 @@
     "pinned": false
   },
   {
+    "id": "pmid-42538057",
+    "title": "Role of repeat kidney biopsy after 6 months of treatment in proliferative lupus nephritis",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "In this real-world cohort of proliferative LN, substantial discordance between clinical and histological response was observed following induction therapy. While histological activity improved in most patients, chronic damage progressed in half of the cohort despite favourable clinical evolution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42538057/",
+    "tags": [
+      "lupus-nephritis",
+      "kidney",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42536615",
+    "title": "Global, Regional, and National Burden of chronic kidney disease in older adults from 1990 to 2021: Results from the Global Burden of Disease Study 2021",
+    "subtitle": "PloS one · 2026",
+    "summary": "The burden of chronic kidney disease (CKD) among the global older adult population is rapidly shifting from a pattern of 'high prevalence' to one characterised by 'high incidence, high mortality and high disability', with the underlying drivers exhibiting fundamental differences across regions at various stages of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42536615/",
+    "tags": [
+      "global-burden-of-disease",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42536587",
+    "title": "Immunoadsorption therapy for chronic inflammatory demyelinating polyradiculoneuropathy in a patient on maintenance hemodialysis: A case report",
+    "subtitle": "Medicine · 2026",
+    "summary": "Subsequent electrophysiological testing indicated demyelinating lesions in 2 peripheral nerves. The use of IA for both initial and maintenance therapy may represent an optimal individualized treatment for patients with CIDP undergoing hemodialysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42536587/",
+    "tags": [
+      "polyradiculoneuropathy-chronic-inflammatory-demyelinating",
+      "renal-dialysis",
+      "immunosorbent-techniques"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42517346",
     "title": "The Impact of Omega Fatty Acids on DKD: A Multimodal Study Integrating Mendelian Randomization, Proteomic Mediation Analysis, and Meta-Analysis",
     "subtitle": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology · 2026",
@@ -329,6 +499,21 @@
       "proteomics"
     ],
     "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42538540",
+    "title": "Therapeutic potential of amino acid-based peritoneal dialysis solutions: a systematic review",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Replacing one daily exchange of 1.36% glucose-based solution with one 1.1% amino acid-based PD solution may provide nutritional benefits of amino acid supplementation, improve biocompatibility, and reduce the peritoneal glucose load while maintaining similar ultrafiltration and solute removal capacity. Amino…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42538540/",
+    "tags": [
+      "peritoneal-dialysis",
+      "dialysis-solutions",
+      "amino-acids",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -524,6 +709,21 @@
       "glomerular-filtration-rate"
     ],
     "date": "2026-07-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42533353",
+    "title": "Endostatin, chronic kidney disease (CKD) and anemia among older people: a secondary analysis of the screening for CKD among older people across Europe (SCOPE) study",
+    "subtitle": "Journal of translational medicine · 2026",
+    "summary": "These findings suggest that vascular dysfunction may contribute to anemia in older adults and identify endostatin as a potential biomarker of the risk of anemia, particularly among individuals with CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42533353/",
+    "tags": [
+      "anemia",
+      "endostatins",
+      "renal-insufficiency-chronic",
+      "mass-screening"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -899,6 +1099,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42535947",
+    "title": "Glyphosate's role in renal tubular injury at low exposure levels: evidence from a patient cohort",
+    "subtitle": "Renal failure · 2026",
+    "summary": "After full adjustment in multivariable logistic regression, individuals in the third quartile of urinary GLY (2.50-3.12 ng/ml) had a 26.30-fold higher risk of moderate-to-severe tubular injury compared with the lowest quartile ( = 0.008). Urinary GLY demonstrated good predictive performance for moderate-to-severe…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535947/",
+    "tags": [
+      "glycine",
+      "herbicides",
+      "kidney-tubules",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42528432",
     "title": "Chronic Kidney Disease-Associated Cardiomyopathy: Mechanisms and Therapeutic Strategies",
     "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
@@ -1011,6 +1226,19 @@
       "reperfusion-injury"
     ],
     "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42533662",
+    "title": "[Strengthen the quality control of occupational contraindication \"chronic kidney disease\" determination in occupational health surveillance]",
+    "subtitle": "Zhonghua lao dong wei sheng zhi ye bing za zhi = Zhonghua laodong weisheng zhiyebing zazhi = Chinese journal of industrial hygiene and occupational diseases · 2026",
+    "summary": "Since the implementation of GBZ 188-2014 \"Technical Specifications for Occupational Health Surveillance\", it has played a significant role in the determination of target diseases in occupational health examinations, effectively safeguarding the health of workers. From the perspective of quality control, this paper…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42533662/",
+    "tags": [
+      "occupational-health",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1414,6 +1642,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42534804",
+    "title": "Hypertension is associated with an increased risk of peritoneal dialysis-associated peritonitis: a retrospective cohort study",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "Baseline hypertension was independently associated with a higher risk of PDAP in patients undergoing PD. These findings highlight the potential importance of blood pressure status in PDAP risk stratification and long-term PD management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42534804/",
+    "tags": [
+      "peritoneal-dialysis",
+      "peritonitis",
+      "hypertension"
+    ],
+    "date": "2026-07-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42534724",
+    "title": "Long-term HLA-incompatible kidney transplant outcomes",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Class II DSAs indicated higher risk for BPAR (HR 4.2 vs. HR 3.1), and AMR (HR 32.3 vs. HR 21.9), than class I DSAs. Collectively, pretransplant DSAs and higher cumulative MFI were associated with poorer graft survival, and especially class II DSAs were associated with higher risk of AMR.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42534724/",
+    "tags": [
+      "kidney-transplantation",
+      "hla-antigens",
+      "graft-rejection"
+    ],
+    "date": "2026-07-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42463198",
     "title": "Implementation of a learning health system for the management of non-communicable diseases in Thailand: a realist evaluation protocol",
     "subtitle": "BMJ open · 2026",
@@ -1756,6 +2012,20 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-07-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42535050",
+    "title": "Construction of nursing-sensitive quality indicators for hemodialysis vascular access: a Delphi study",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "The developed nursing quality-sensitive indicator system for hemodialysis vascular access was constructed through a rigorous Delphi process and aligns with the practical features of hemodialysis vascular access nursing management. It may serve as a reference basis for evaluating the quality of vascular access nursing,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535050/",
+    "tags": [
+      "quality-indicators-health-care",
+      "renal-dialysis",
+      "vascular-access-devices"
+    ],
+    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   },
   {

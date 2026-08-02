@@ -642,6 +642,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42540682",
+    "title": "Acute Kidney Injury After Cardiac Surgery in Low- and Middle-Income Countries",
+    "subtitle": "Annals of global health · 2026",
+    "summary": "While reported incidence appears broadly similar across high-income countries (HICs) and low- and middle-income countries (LMICs), emerging evidence suggests marked disparities in severity at presentation and clinical outcomes.To compare the epidemiology, severity, outcomes, and health-system determinants of CSA-AKI…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42540682/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiac-surgical-procedures",
+      "developing-countries",
+      "postoperative-complications"
+    ],
+    "date": "2026-07-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42524943",
     "title": "Perioperative albumin versus other fluids to prevent cardiac surgery-associated kidney injury: a systematic review and meta-analysis of randomized trials",
     "subtitle": "Critical care science · 2026",
@@ -1395,6 +1410,34 @@
       "extracellular-vesicles"
     ],
     "date": "2026-07-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42539859",
+    "title": "Application of metagenomic next-generation sequencing as an adjunct to conventional microbiological testing for the diagnosis of infection in kidney transplant recipients",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "mNGS serves as a valuable adjunct to CMT in kidney transplant recipients, providing rapid and comprehensive pathogen identification. However, from a health economics perspective, mNGS should be applied selectively according to clinical needs, rather than as a universal first-line diagnostic method.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42539859/",
+    "tags": [
+      "kidney-transplantation",
+      "high-throughput-nucleotide-sequencing",
+      "metagenomics",
+      "transplant-recipients"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42539421",
+    "title": "Objective tongue phenotyping identifies phenotypic heterogeneity in diabetic kidney disease: a dual-center clustering analysis",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Objective tongue phenotyping identified two reproducible DKD subtypes. Tongue-based heterogeneity did not overlap with conventional laboratory profiles, suggesting complementary value for precision syndrome differentiation in DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42539421/",
+    "tags": [
+      "diabetic-nephropathies",
+      "tongue"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2777,6 +2820,20 @@
       "glucocorticoids"
     ],
     "date": "2026-07-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42540877",
+    "title": "Ascertainment of Chronic Kidney Disease and Palliative Care using routine health administrative data consolidated in a Health Information Exchange, Western Cape South Africa",
+    "subtitle": "International journal of population data science · 2026",
+    "summary": "Identifying patients living with CKD and requiring palliative care is essential for effective health service delivery, as existing data sources, such as the national kidney replacement therapy registry and morphine monitoring, underestimate true prevalence. These findings demonstrate effective use of routine, linked…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42540877/",
+    "tags": [
+      "palliative-care",
+      "renal-insufficiency-chronic",
+      "health-information-exchange"
+    ],
+    "date": "2026-07-06T00:00:00.000Z",
     "pinned": false
   },
   {

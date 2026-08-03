@@ -318,6 +318,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42543015",
+    "title": "[Albuminuria for detection of chronic kidney disease: biomarker and therapeutic target]",
+    "subtitle": "Orvosi hetilap · 2026",
+    "summary": "Modern four-pillar pharmacotherapy - RAS inhibitors (ACE inhibitors/ARBs), SGLT2 inhibitors, non-steroidal mineralocorticoid receptor antagonists (finerenone), and GLP1 receptor agonists in type 2 diabetes - acts on these processes through complementary mechanisms. When tailored to the degree of albuminuria and eGFR,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543015/",
+    "tags": [
+      "albuminuria",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42525612",
     "title": "Renal nutrition knowledge among haemodialysis patients: a multicentre cross-sectional study",
     "subtitle": "British journal of community nursing · 2026",
@@ -329,6 +342,19 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42543026",
+    "title": "Functional Role of ALKBH5 in Kidney Injury: Insights Into Mechanisms and Therapeutic Potential",
+    "subtitle": "Journal of cellular biochemistry · 2026",
+    "summary": "ALKBH5, as an m6A demethylase, plays a crucial regulatory role in various kidney diseases such as acute kidney injury, chronic kidney disease, renal fibrosis and renal cell carcinoma. However, its function often exhibits contradictory effects: In renal fibrosis, ALKBH5 has been reported to both promote and suppress…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543026/",
+    "tags": [
+      "alkb-homolog-5-rna-demethylase",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {

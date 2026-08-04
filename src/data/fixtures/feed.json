@@ -15,6 +15,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42543753",
+    "title": "Electromyographic findings and frailty in hemodialysis vs peritoneal dialysis patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Although median FFP scores were similar, frailty distribution and its correlates differed by modality - inflammation in HD, age, and dialysis adequacy in PD. These hypothesis-generating findings warrant larger multicenter evaluation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543753/",
+    "tags": [
+      "peritoneal-dialysis",
+      "kidney-failure-chronic",
+      "renal-dialysis",
+      "frailty"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42535878",
     "title": "Prognostic value of left ventricular peak strain dispersion for cardiovascular events in patients undergoing maintenance haemodialysis: a single-center retrospective cohort study with propensity score matching",
     "subtitle": "Renal failure · 2026",
@@ -318,6 +333,66 @@
     "pinned": false
   },
   {
+    "id": "pmid-42547265",
+    "title": "Peripheral blood CD19+B cell proportion at baseline predicts early complete response to belimumab treatment in patients with refractory lupus nephritis",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "Findings support the baseline CD19+B cell proportion could be used to predict CR to treatment with belimumab in refractory lupus nephritis patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547265/",
+    "tags": [
+      "lupus-nephritis",
+      "antibodies-monoclonal-humanized",
+      "antigens-cd19",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42547238",
+    "title": "Multicentre, controlled, randomised and single-blind, adaptive phase IV protocol to evaluate effectiveness and cost-effectiveness of a pre-emptive genotyping strategy to optimise tacrolimus dosage in a pretransplant chronic kidney disease population cohort: iPHARMGx TRANSPGx nested clinical trial",
+    "subtitle": "BMJ open · 2026",
+    "summary": "The iPHARMGx Consortium addresses this by developing the TRANSPGx clinical trial to assess the hypothesis that widespread adoption of a pre-emptive genotyping scheme in populations susceptible to receiving tacrolimus as immunosuppressive therapy following a kidney transplant is effective, cost-effective and feasible…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547238/",
+    "tags": [
+      "tacrolimus",
+      "immunosuppressive-agents",
+      "kidney-transplantation",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42545636",
+    "title": "Maintenance of clinical remission with cyclosporine after discontinuation of prednisolone in a patient with tubulointerstitial nephritis with IgM-positive plasma cells",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Combination treatment with 5 mg/day PSL and 100-125 mg/day cyclosporine stabilized the TIN. This case provides original evidence regarding the optimal treatment regimen for patients with IgMPC-TIN who are unsuitable for prolonged PSL administration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545636/",
+    "tags": [
+      "nephritis-interstitial",
+      "cyclosporine",
+      "prednisolone",
+      "plasma-cells"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42545395",
+    "title": "Immune-complex-mediated membranoproliferative glomerulonephritis with linear IgG staining resembling atypical anti-glomerular basement membrane disease: a case report",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "We report a case of MPGN associated with the spectrum of atypical anti-GBM nephritis that showed a slowly progressive course over more than eight years. Although some indolent cases of atypical anti-GBM syndrome were reported previously, compared with these cases, our patient had more stable renal function for a long…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545395/",
+    "tags": [
+      "glomerulonephritis-membranoproliferative",
+      "anti-glomerular-basement-membrane-disease",
+      "immunoglobulin-g",
+      "antigen-antibody-complex"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42543015",
     "title": "[Albuminuria for detection of chronic kidney disease: biomarker and therapeutic target]",
     "subtitle": "Orvosi hetilap · 2026",
@@ -342,6 +417,50 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42547459",
+    "title": "Antibody Responses Against Swine Leukocyte Antigens Contribute to Early Rejection After Pig-To-Monkey Kidney Xenotransplantation",
+    "subtitle": "HLA · 2026",
+    "summary": "In our recent kidney xenotransplantation study in rhesus monkeys using GTKO/hCD55 or GTKO/β4GalNT2KO/hCD55/hTBM pigs as donors, 5 of 13 recipients experienced early AMR accompanied by a marked increase in anti-donor pig antibodies. These results demonstrate that induced anti-SLA antibodies can be generated in the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547459/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection",
+      "histocompatibility-antigens-class-i",
+      "histocompatibility-antigens-class-ii"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42544710",
+    "title": "Aligning Words With What Matters: Evaluation of a Nationwide Sample of Pediatric Kidney Transplant Educational Materials",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "There are important opportunities to enhance transplant educational materials by tailoring content to children, increasing accessibility, and more consistently and comprehensively addressing concerns about life participation after transplant.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42544710/",
+    "tags": [
+      "kidney-transplantation",
+      "patient-education-as-topic",
+      "teaching-materials"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42543789",
+    "title": "Persistent Haematuria Is Associated With Reduced Kidney Survival in Primary Podocytopathies",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "Persistent haematuria is prevalent among patients with podocytopathies and is significantly and independently associated with ESKD. Urinalysis, including microscopic haematuria assessment, is widely available and inexpensive, providing a valuable data point to help formulate patient prognosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543789/",
+    "tags": [
+      "hematuria",
+      "kidney-failure-chronic",
+      "glomerulonephritis-membranous",
+      "glomerulosclerosis-focal-segmental"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -624,6 +743,20 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42544269",
+    "title": "Development and Internal Validation of Machine Learning-Based Risk Prediction Models for Depression in Older Adults Undergoing Maintenance Hemodialysis",
+    "subtitle": "Clinical interventions in aging · 2026",
+    "summary": "We identified five key predictors and developed internally validated machine learning models for depression risk screening in older MHD patients. The models require external validation before clinical application.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42544269/",
+    "tags": [
+      "renal-dialysis",
+      "depression",
+      "machine-learning"
+    ],
+    "date": "2026-07-29T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1068,6 +1201,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42545319",
+    "title": "[Primary aldosteronism as an independent factor of kidney damage. Potential therapeutic strategies and research prospects]",
+    "subtitle": "Problemy endokrinologii · 2026",
+    "summary": "Chronic aldosterone excess leads to podocyte injury, microvascular dysfunction, and interstitial fibrosis, resulting in decreased glomerular filtration rate and CKD progression.Genetic mutations (KCNJ5, ATP1A1, CACNA1D) and tubular stress biomarkers (L-FABP, KIM-1, microalbuminuria) are discussed as key factors of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545319/",
+    "tags": [
+      "hyperaldosteronism",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42493781",
     "title": "Assessing frailty in hemodialysis patients: utility of a self-rated visual analogue scale and the role of routine parameters in clinical prediction",
     "subtitle": "BMC nephrology · 2026",
@@ -1436,6 +1582,21 @@
       "extracellular-vesicles"
     ],
     "date": "2026-07-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42545902",
+    "title": "Measurement of Combined Serum-Urine Cystatin C, Neutrophil Gelatinase-Associated Lipocalin, and Retinol-Binding Protein in Early Diabetic Nephropathy",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "The combined detection of serum Cys-C, NGAL, and RBP-S provided a diagnostic sensitivity of 89.0%, specificity of 92.0%, and an AUC of 0.935. The combined detection of Cys-C, NGAL, and RBP in serum offers the highest diagnostic value for early DN, while urine analysis provides complementary information about tubular…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545902/",
+    "tags": [
+      "cystatin-c",
+      "diabetic-nephropathies",
+      "lipocalins",
+      "retinol-binding-proteins"
+    ],
+    "date": "2026-07-17T00:00:00.000Z",
     "pinned": false
   },
   {

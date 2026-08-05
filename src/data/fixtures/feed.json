@@ -15,6 +15,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42549834",
+    "title": "Real-world effectiveness of central dialysis fluid delivery system (CDDS) in maintenance hemodialysis: a retrospective multicenter study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "This study aimed to compare the real-world effectiveness of a central dialysis fluid delivery system (CDDS) with single-patient dialysis delivery systems (SPDDS) in patients undergoing maintenance hemodialysis (MHD), focusing on inflammation markers, nutritional status, and dialysis adequacy. In conclusion, CDDS use…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549834/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "dialysis-solutions"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42549818",
+    "title": "Development of a nomogram for predicting hyperkalemia in advanced chronic kidney disease",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Independent predictors included higher serum creatinine, calcium, and age, while higher sodium levels, hemoglobin, obesity, and thiazide use were associated with lower risk. These findings provide validated, sex-specific nomograms that enable individualized risk prediction of HyperK in advanced CKD, supporting…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549818/",
+    "tags": [
+      "nomograms",
+      "hyperkalemia",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42548161",
+    "title": "Clinicopathological features and outcomes of glomerular microangiopathy: a retrospective cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The most common primary diseases were idiopathic multicenter Castleman disease (iMCD) (31.2%), POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal plasma cell disorder, and skin changes) syndrome (21.9%), and exposure to anti-vascular endothelial growth factor (VEGF) agents (21.9%). Treatments targeting…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548161/",
+    "tags": [
+      "castleman-disease",
+      "kidney-glomerulus",
+      "poems-syndrome",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42543753",
     "title": "Electromyographic findings and frailty in hemodialysis vs peritoneal dialysis patients",
     "subtitle": "Renal failure · 2026",
@@ -305,6 +348,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42549785",
+    "title": "Pharmacy Resident Performed Longitudinal Medication Adherence Assessments in Candidates for Deceased Donor Kidney Transplant",
+    "subtitle": "Progress in transplantation (Aliso Viejo, Calif.) · 2026",
+    "summary": "We aimed to 1) estimate resident time commitments to KACE, 2) evaluate changes in medication adherence tool usage from initial to last KACE encounters, and 3) assess transplant listing status at 6 months after KACE completion.DesignA retrospective longitudinal cohort, single-center program assessment was conducted of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549785/",
+    "tags": [
+      "kidney-transplantation",
+      "pharmacy-residencies",
+      "drug-monitoring"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42495768",
     "title": "Chronic kidney disease‑associated encephalopathy: Clinical features, pathomechanisms and emerging therapeutic strategies (Review)",
     "subtitle": "Molecular medicine reports · 2026",
@@ -330,6 +387,93 @@
       "histones"
     ],
     "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42551001",
+    "title": "Association of Enlarged Perivascular Spaces and Total Small Vessel Disease Burden With Kidney Function",
+    "subtitle": "Neurology · 2026",
+    "summary": "Compared with normal glomerular filtration, eGFR <30 (aOR 1.27, 95% CI 1.03-1.57) was independently associated with increased cSVD burden, but eGFR 30-60 (aOR 1.06, 95% CI 0.95-1.20) and hyperfiltration (aOR 1.15, 95% CI 0.98-1.34) were not. Glomerular hyperfiltration was independently associated with EPVS severity,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551001/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "cerebral-small-vessel-diseases",
+      "glymphatic-system",
+      "kidney"
+    ],
+    "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42550824",
+    "title": "Associations between e-Health literacy, self-efficacy, and quality of life among hemodialysis patients: A cross-sectional study from Northern Jordan",
+    "subtitle": "PloS one · 2026",
+    "summary": "Health-related quality of life among HD patients appears to be influenced primarily by socioeconomic and clinical factors, particularly educational attainment, employment status, and diabetes mellitus. Although e-health literacy and self-efficacy were associated with HRQoL in unadjusted analyses, these associations…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42550824/",
+    "tags": [
+      "quality-of-life",
+      "renal-dialysis",
+      "self-efficacy",
+      "health-literacy"
+    ],
+    "date": "2026-08-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42550366",
+    "title": "Enhanced urinary CXCL10 levels: a key urinary marker for rejection in kidney graft recipients",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "Urinary CXCL10 and CXCR3 markers showed rising transcript and protein levels in kidney transplant recipients, correlating with inflammation and suggesting their potential as noninvasive, early biomarkers to predict rejection within the first week post-transplant. While findings support integrating these markers into…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42550366/",
+    "tags": [
+      "chemokine-cxcl10",
+      "kidney-transplantation",
+      "graft-rejection"
+    ],
+    "date": "2026-08-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42550320",
+    "title": "The NLRP3 inflammasome in chronic kidney disease progression: systematic review of preclinical models reveals a critical gap in pyroptosis research and therapeutic translation",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "Furthermore, both genetic and pharmacological inhibition of NLRP3 reproducibly attenuated CKD, establishing a causal role rather than association of NLRP3 inflammasome in CKD progression. The lack of evaluation of NLRP3-mediated pyroptosis in CKD, along with limited clinical trials evaluating NLRP3 inflammasome…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42550320/",
+    "tags": [
+      "nlr-family-pyrin-domain-containing-3-protein",
+      "renal-insufficiency-chronic",
+      "inflammasomes",
+      "pyroptosis"
+    ],
+    "date": "2026-08-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42550275",
+    "title": "Fluid balance and acute lung injury in children and young adults receiving continuous renal replacement therapy: a report from the Worldwide Exploration of Renal Replacement Outcomes Collaborative in Kidney Disease (WE-ROCK)",
+    "subtitle": "European journal of pediatrics · 2026",
+    "summary": "In children and young adults with ALI receiving CRRT for AKI or FA, longer time to CRRT initiation and illness severity at CRRT initiation were associated with mortality. When accounting for multiple factors, neither ALI nor FA at CRRT initiation were associated with MAKE90 or mortality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42550275/",
+    "tags": [
+      "water-electrolyte-balance",
+      "acute-kidney-injury",
+      "acute-lung-injury",
+      "continuous-renal-replacement-therapy"
+    ],
+    "date": "2026-08-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42547796",
+    "title": "Vegetarian diet is associated with a lower risk of chronic kidney disease in a population-based study",
+    "subtitle": "Scientific reports · 2026",
+    "summary": "Compared to high meat eaters, the strongest association was observed among vegetarians which had a statistically significant lower risk of CKD [HR = 0.81, 95% CI: 0.71- 0.93]. Our population-based study on plant-based diet types and CKD risk suggests that vegetarian diets are associated with a lower risk of CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547796/",
+    "tags": [
+      "diet-vegetarian",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -417,6 +561,21 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42549673",
+    "title": "Physical Activity Across the Clinical Trajectory of Chronic Kidney Disease and in Patients Undergoing Peritoneal Dialysis: A Cross-Sectional Study Using Accelerometry",
+    "subtitle": "Geriatrics & gerontology international · 2026",
+    "summary": "Physical activity declined with CKD progression, reaching low levels among patients undergoing PD. In this group, exercise self-efficacy was associated with physical activity, suggesting its relevance when developing strategies to support activity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549673/",
+    "tags": [
+      "peritoneal-dialysis",
+      "accelerometry",
+      "exercise",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {

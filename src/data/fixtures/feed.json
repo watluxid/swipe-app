@@ -15,6 +15,66 @@
     "pinned": false
   },
   {
+    "id": "pmid-42554043",
+    "title": "Kidney failure risk equation and early renal risk in adults with sickle cell disease: comparison with KDIGO classification using measured GFR",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Increased renal risk was independently associated with vaso-occlusive crises (aOR 2.80, = 0.012), leg ulcers (aOR 1.90, = 0.030), stroke (aOR 2.66, = 0.035), elevated LDH >220 U/L (aOR 3.19, = 0.006), CRP ≥6 mg/L (aOR 3.04, = 0.024), AST >40 IU/L (aOR 2.60, = 0.002), and tricuspid regurgitant velocity ≥2.5 m/s (aOR…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42554043/",
+    "tags": [
+      "anemia-sickle-cell",
+      "glomerular-filtration-rate",
+      "renal-insufficiency-chronic",
+      "renal-insufficiency"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42552963",
+    "title": "Indoxyl sulfate exacerbates chronic inflammation and susceptibility to severe infection via modulating T-cell CD73/adenosine signaling in chronic kidney disease",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Indoxyl sulfate disrupts the T-cell CD73/ADO axis, promoting basal microinflammation while impairing anti-infective immunity and exacerbating organ damage during sepsis. Targeting the IS-CD73-ADO pathway offers a therapeutic strategy for restoring immune homeostasis in uremia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42552963/",
+    "tags": [
+      "adenosine",
+      "t-lymphocytes",
+      "indican",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42552952",
+    "title": "Proactive iron supplementation alone in patients on chronic hemodialysis is not sufficient",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Intravenous iron supplementation can be given in two forms: one is to replace iron when the iron content or total iron binding capacity saturation (FeSat) is too low, that is, a reactive dosing (RE); or by administering iron on a schedule of weekly proactive dosing (PRO), as recommended by guidelines. Thus, we…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42552952/",
+    "tags": [
+      "renal-dialysis",
+      "anemia-iron-deficiency",
+      "ferric-compounds",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42552947",
+    "title": "Prevention of new-onset chronic kidney disease with renin-angiotensin system blockers in type 2 diabetes with preserved kidney function",
+    "subtitle": "Renal failure · 2026",
+    "summary": "ACEI/ARB therapy was associated with a significantly lower risk of new-onset CKD (HR 0.72; 95% CI 0.60-0.86), with consistent findings after accounting for competing risks (HR 0.73; 95% CI 0.61-0.87) and time-dependent exposure (HR 0.81; 95% CI 0.68-0.96). These findings suggest that RAS blockade may confer early…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42552947/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "angiotensin-converting-enzyme-inhibitors",
+      "renal-insufficiency-chronic",
+      "angiotensin-receptor-antagonists"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42549834",
     "title": "Real-world effectiveness of central dialysis fluid delivery system (CDDS) in maintenance hemodialysis: a retrospective multicenter study",
     "subtitle": "Renal failure · 2026",
@@ -405,6 +465,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42555719",
+    "title": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase",
+    "subtitle": "Science advances · 2026",
+    "summary": "Tubular GCGR expression is reduced in humans and mice with DKD and correlates with worse kidney function and increased renal injury. Consistently, re-expression of tubular GCGR via AAV9 restores lysosomal function, reduces phospholipid accumulation, and mitigates renal injury in DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555719/",
+    "tags": [
+      "vacuolar-proton-translocating-atpases",
+      "kidney-tubules",
+      "receptors-glucagon",
+      "glucagon-like-peptide-1-receptor"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42555603",
+    "title": "Feasibility, safety and tolerability of intradialytic creatine supplementation in hemodialysis: A double-blind, randomized, placebo-controlled pilot study",
+    "subtitle": "PloS one · 2026",
+    "summary": "Intra-dialytic creatine supplementation is a feasible, safe, well-tolerated method to increase circulating creatine concentrations in patients treated with hemodialysis. These findings support the rationale for a larger randomized controlled trial to investigate its potential to improve health-related quality of life…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555603/",
+    "tags": [
+      "renal-dialysis",
+      "creatine",
+      "dietary-supplements"
+    ],
+    "date": "2026-08-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42550824",
     "title": "Associations between e-Health literacy, self-efficacy, and quality of life among hemodialysis patients: A cross-sectional study from Northern Jordan",
     "subtitle": "PloS one · 2026",
@@ -561,6 +650,21 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42555277",
+    "title": "Preoperative Computed Tomography Aortic Calcification and Attenuation of the Vertebral Body Predict Fractures Post-Kidney Transplantation Using Machine Learning",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Pre-transplant lower vertebral trabecular bone attenuation and higher aortic calcification on CT are strongly associated with post-transplant fractures.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555277/",
+    "tags": [
+      "kidney-transplantation",
+      "tomography-x-ray-computed",
+      "vascular-calcification",
+      "machine-learning"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -748,6 +852,21 @@
       "renin-angiotensin-system"
     ],
     "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42553762",
+    "title": "Programmed Cell Death: A Key Mechanism of Traditional Chinese Medicine in the Treatment of Membranous Nephropathy",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "PCD represents a core mechanism mediating podocyte injury and MN progression. TCM effectively modulates PCD imbalance through multi-target regulation, demonstrating prominent clinical efficacy and safety.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42553762/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "medicine-chinese-traditional",
+      "apoptosis",
+      "drugs-chinese-herbal"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1442,6 +1561,47 @@
       "coronary-artery-disease"
     ],
     "date": "2026-07-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42554240",
+    "title": "Challenges and strategies for managing early-to-moderate chronic kidney disease in primary care: A systematic integrative review in high-income countries",
+    "subtitle": "The European journal of general practice · 2026",
+    "summary": "Management of early-to-moderate CKD in primary care varies considerably across high-income countries. Reported findings suggest that improving CKD care may require context-adapted strategies combining organisational, clinical, and educational components, particularly those involving multidisciplinary collaboration and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42554240/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "primary-health-care"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42553309",
+    "title": "Efficacy and safety of obinutuzumab in refractory membranous nephropathy: a single-arm meta-analysis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Obinutuzumab demonstrates marked efficacy in treating refractory MN, with an overall clinical remission rate of 86% and a low incidence of severe adverse events. This profile signifies a potential therapeutic role for this condition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42553309/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "antibodies-monoclonal-humanized"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42553224",
+    "title": "Zinc, type 2 diabetes, diabetic kidney disease: focus on hypoxia",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In this review, we focus on the role of zinc homeostasis in the development of diabetes and DKD, with particular emphasis on hypoxia as the central trigger of DKD. We also discuss the role of the zinc signaling in the cellular and systemic carbohydrate metabolism in the context of diabetes and DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42553224/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "zinc",
+      "hypoxia"
+    ],
+    "date": "2026-07-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4154,36 +4314,6 @@
       "urethra"
     ],
     "date": "2026-06-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42449925",
-    "title": "Activation of the Endothelin System in Chronic Kidney Disease and Kidney Transplant Recipients-Implications for Disease Progression",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "ET-1 and ETAR concentrations were markedly elevated compared to controls, with the highest ET-1 levels detected in the post-KTx group, whereas ETAR-Ab levels were reduced. The endothelin activation, observed in transplant patients particularly, highlights the potential clinical relevance of endothelin-related…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42449925/",
-    "tags": [
-      "kidney-transplantation",
-      "receptor-endothelin-a",
-      "endothelin-1",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-06-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42440498",
-    "title": "Mining biomarkers for type 2 diabetic nephropathy based on urinary proteomics and metabolomics",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Traditional proteins, especially UTRF/UIgG, hold diagnostic value. The 20-amino-acid combination (AUC = 0.928) outperformed them.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42440498/",
-    "tags": [
-      "diabetic-nephropathies",
-      "diabetes-mellitus-type-2",
-      "biomarkers",
-      "proteomics"
-    ],
-    "date": "2026-06-22T00:00:00.000Z",
     "pinned": false
   }
 ]

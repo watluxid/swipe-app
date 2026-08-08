@@ -15,6 +15,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42563380",
+    "title": "Pill burden and health-related quality of life across dialysis modalities: a multimodal assessment using KDQOL-36 and eQ-5D-5L",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Pill burden demonstrated a complex relationship with HRQoL. Dialysis modality appeared to exert a stronger influence on HRQoL than pill burden itself.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563380/",
+    "tags": [
+      "quality-of-life",
+      "renal-dialysis",
+      "peritoneal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42563361",
+    "title": "Integrative multi-omics analysis identifies VCAN and ESM1 as candidate cell-type-associated biomarkers of NET-related glomerular injury in diabetic kidney disease",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In bulk cohorts, VCAN was upregulated and ESM1 downregulated, yielding strong combined diagnostic performance. scRNA-seq revealed ESM1 decreases predominantly in glomerular endothelial cells, while VCAN increases in mesangial cells. NET-related activity enriched primarily in the endothelium, whereas VCAN-expressing…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563361/",
+    "tags": [
+      "diabetic-nephropathies",
+      "kidney-glomerulus",
+      "proteoglycans",
+      "neoplasm-proteins"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42557795",
     "title": "Anti-nephrin autoantibodies in post-transplant recurrence of focal segmental glomerulosclerosis: a review",
     "subtitle": "Renal failure · 2026",
@@ -493,6 +523,119 @@
     "pinned": false
   },
   {
+    "id": "pmid-42566776",
+    "title": "A Mobile-Based Mindfulness Intervention for Reducing Demoralization in Patients on Maintenance Hemodialysis: Randomized Controlled Trial",
+    "subtitle": "Journal of medical Internet research · 2026",
+    "summary": "Avoidance coping represents an important pathway associated with demoralization among patients with end-stage renal disease receiving maintenance hemodialysis, and trait mindfulness may serve as a protective psychological resource. A tailored MMI showed promising effects in reducing demoralization and improving…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566776/",
+    "tags": [
+      "renal-dialysis",
+      "mindfulness",
+      "kidney-failure-chronic",
+      "mobile-applications"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566640",
+    "title": "Risk analysis and warning model of post-noncardiac surgery acute kidney injury: A retrospective observational study",
+    "subtitle": "Medicine · 2026",
+    "summary": "This study aimed to identify risk factors for noncardiac PO-AKI and to develop and validate a practical early warning model based on readily available clinical parameters across multiple surgical subspecialties. Eleven independent risk variables were identified using LR, including age, surgical department, prolonged…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566640/",
+    "tags": [
+      "acute-kidney-injury",
+      "postoperative-complications"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566615",
+    "title": "Fear of disease progression as a mediator of the association between symptom clusters and social alienation among hemodialysis patients: A cross-sectional study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Symptom-clusters were positively associated with FoP (B = 4.910, β = 0.705, P < .001), and FoP was positively associated with social alienation (B = 0.112, β = 0.358, P < .001). Greater symptom-cluster severity was associated with greater FoP and social alienation, with FoP showing a significant statistical indirect…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566615/",
+    "tags": [
+      "renal-dialysis",
+      "disease-progression",
+      "social-alienation",
+      "fear"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566589",
+    "title": "Association of anemia with diabetic kidney disease in adults with type 2 diabetes: A cross-sectional NHANES study and 2-sample Mendelian randomization analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "Mendelian randomization estimates suggested potential associations of genetically predicted general anemia, iron deficiency anemia, and vitamin B12 deficiency anemia with DKD; however, significant heterogeneity was observed across SNP-specific estimates. Anemia was associated with higher odds of presumed DKD,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566589/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "anemia"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566582",
+    "title": "Burden of chronic kidney disease and its attributable risk factors in 204 countries and territories, 1990-2021: Results from the Global Burden of Disease study 2021",
+    "subtitle": "Medicine · 2026",
+    "summary": "The global burden of CKD continues to rise, with mortality and DALYs increasing particularly in low- and middle-income countries. Urgent public health strategies targeting high blood glucose, hypertension, and obesity are critical to reducing the rising global burden of CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566582/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "global-burden-of-disease"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566486",
+    "title": "The association between atherogenic index of plasma, cumulative atherogenic index of plasma and type 2 diabetes mellitus with chronic kidney disease among older Chinese adults: Findings from the CHARLS study",
+    "subtitle": "PloS one · 2026",
+    "summary": "AIP and CumAIP is significantly associated with incident T2DM with CKD among Chinese middle-aged and older adults. CumAIP demonstrated superior predictive performance over single AIP measurement.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566486/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "atherosclerosis",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566081",
+    "title": "Are SGLT2 inhibitors really associated with increased urinary tract infection risk? A trial-level meta-analysis across type 2 diabetes, heart failure, and chronic kidney disease",
+    "subtitle": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences · 2026",
+    "summary": "SGLT2 inhibitors were not associated with a statistically significant increase in any UTI or serious/complicated UTI. These findings support a distinction between lower-grade urinary events and clinically severe urinary infection, and suggest that urinary safety concerns should not be considered equivalent to the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566081/",
+    "tags": [
+      "sodium-glucose-transporter-2-inhibitors",
+      "urinary-tract-infections",
+      "diabetes-mellitus-type-2",
+      "heart-failure"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42566062",
+    "title": "Factors associated with clinically significant nephritis in systemic lupus erythematosus patients who present with glomerular hematuria: a cross-sectional study",
+    "subtitle": "Rheumatology international · 2026",
+    "summary": "Among patients with glomerular hematuria (n = 137), independent factors associated with clinically significant LN included anti-dsDNA positivity (OR 12.00, 95% CI 3.36-51.40), higher non-renal SLEDAI score (OR 1.20 per point, 95% CI 1.02-1.46), higher proteinuria (OR 3.77 per 1 g/d, 95% CI 2.00-9.03), and younger age…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566062/",
+    "tags": [
+      "hematuria",
+      "lupus-nephritis",
+      "lupus-erythematosus-systemic"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42555719",
     "title": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase",
     "subtitle": "Science advances · 2026",
@@ -809,6 +952,20 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42563336",
+    "title": "Frequency of Crescentic Glomerulonephritis in Adults Presenting with Acute Kidney Injury",
+    "subtitle": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP · 2026",
+    "summary": "The study identified a significant but low prevalence of CRGN (8%) among AKI patients. This finding provides a crucial insight into the burden of CRGN in a developing country such as Pakistan, highlighting the need for heightened clinical awareness and diagnostic vigilance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563336/",
+    "tags": [
+      "acute-kidney-injury",
+      "glomerulonephritis",
+      "kidney"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1587,6 +1744,19 @@
       "ammonium-compounds"
     ],
     "date": "2026-07-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42564101",
+    "title": "Clustering-derived clinical subtypes and outcomes of chronic kidney disease in patients with diabetes: a multicenter cohort study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Our study identified three distinct subgroups of diabetic patients with CKD with differential risks for major outcomes. This highlights the heterogeneity of CKD in patients with diabetes, and suggest that identified subtypes may provide additional prognostic information for risk stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564101/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-07-23T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4127,182 +4297,6 @@
       "kidney-transplantation",
       "anemia",
       "postoperative-complications"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42470307",
-    "title": "Echocardiographic Probability of Pulmonary Hypertension, Cardiac Structural Alterations and All-Cause Mortality in Maintenance Hemodialysis Patients: A Single-Center Retrospective Cohort Study With Competing Risk Analysis",
-    "subtitle": "Clinical cardiology · 2026",
-    "summary": "PH severity, age, and cardiac structural remodeling are independent mortality risk factors in MHD patients. Risk predictors vary by vascular access, and individualized cardiovascular stratification may improve long-term outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42470307/",
-    "tags": [
-      "renal-dialysis",
-      "hypertension-pulmonary",
-      "echocardiography",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42470259",
-    "title": "Clinicopathological Correlations, Treatment Response, and Predictors of Outcomes in Childhood Lupus Nephritis in China",
-    "subtitle": "International journal of rheumatic diseases · 2026",
-    "summary": "Modern treatment yields favorable outcomes for cLN. Baseline disease activity, hypocomplementemia, and histological AI predict treatment response.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42470259/",
-    "tags": [
-      "lupus-nephritis",
-      "immunosuppressive-agents",
-      "kidney",
-      "glucocorticoids"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42468972",
-    "title": "Association of Acute Kidney Injury and Chronic Kidney Disease With Concentration-To-Dose Ratios of Midazolam and Its Main Metabolites in Critically Ill Adults",
-    "subtitle": "Fundamental & clinical pharmacology · 2026",
-    "summary": "AKI and CKD are associated with accumulation of 1-OH-MDZ-G in critically ill patients. Monitoring 1-OH-MDZ-G may help identify patients at risk of prolonged sedation and adverse outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42468972/",
-    "tags": [
-      "midazolam",
-      "acute-kidney-injury",
-      "renal-insufficiency-chronic",
-      "hypnotics-and-sedatives"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42464605",
-    "title": "Placebo-Referenced Class-Level Treatment Effects on Chronic Kidney Disease Progression in Patients With Diabetes: A Network Meta-Analysis",
-    "subtitle": "Endocrinology, diabetes & metabolism · 2026",
-    "summary": "Multiple pharmacologic classes were associated with reduced CKD progression compared with placebo in patients with diabetes. Among placebo-referenced comparisons, the most consistent and highest-confidence estimates were observed for SGLT2i.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42464605/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "diabetic-nephropathies",
-      "hypoglycemic-agents",
-      "diabetes-mellitus-type-2"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42464422",
-    "title": "CORO1A, A Novel Upregulated Protein in Renal Tubular Epithelial Cells of Diabetic Nephropathy, Participates in Regulating Vesicular Trafficking and the Ferroptosis Pathway",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "CORO1A is elevated in diabetic renal tubular epithelial cells and regulates vesicular trafficking and ferroptosis. This mechanistic axis suggests CORO1A as a potential therapeutic target for mitigating tubular injury and diabetic nephropathy progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42464422/",
-    "tags": [
-      "ferroptosis",
-      "diabetic-nephropathies",
-      "kidney-tubules",
-      "epithelial-cells"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42464065",
-    "title": "Knowledge Mapping of Alport Syndrome: A Bibliometric Analysis From 2000 to 2025",
-    "subtitle": "Molecular genetics & genomic medicine · 2026",
-    "summary": "Global interest in AS research has increased significantly. With academic exchanges and international cooperation, its pathogenesis mechanisms are gradually clarified.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42464065/",
-    "tags": [
-      "nephritis-hereditary",
-      "bibliometrics"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42462212",
-    "title": "Renoprotective effects of curcumin in cats with chronic kidney disease",
-    "subtitle": "Journal of veterinary internal medicine · 2026",
-    "summary": "Curcumin supplementation was associated with improvement in SDMA and favorable changes in mechanistic biomarkers in cats with IRIS stage 3 CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42462212/",
-    "tags": [
-      "curcumin",
-      "cat-diseases",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42461568",
-    "title": "A Snapshot View of Sarcopenia and Frailty Status in Kidney Transplant Recipients",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Pre-frailty and sarcopenia are common in KT recipients and are associated with higher serum phosphorus. Notably, sarcopenia was linked to having a deceased donor transplantation, underscoring the importance of targeted screening and management in this population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461568/",
-    "tags": [
-      "kidney-transplantation",
-      "sarcopenia",
-      "frailty",
-      "quality-of-life"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42461366",
-    "title": "Expanding the Pancreas Donor Pool: Reassessing the Impact of Donor Body Mass Index on Transplant Outcomes",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Donor BMI was not associated with significant differences in one- or three-year patient survival or death-censored pancreas and kidney graft survival, and multivariable Cox regression analysis found donor BMI to not be an independent predictor of graft loss. These findings indicate that carefully selected pancreata…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461366/",
-    "tags": [
-      "pancreas-transplantation",
-      "body-mass-index",
-      "tissue-donors",
-      "graft-rejection"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42461237",
-    "title": "Acute Kidney Injury After Pediatric Hematopoietic Stem Cell Transplantation: Incidence, Risk Factors, and Outcomes",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "In this group, AKI after pediatric HSCT showed a bimodal risk pattern: frequent mild cases triggered by infection within the first 100 days, and rare but always fatal severe cases linked to GVHD. Older age was the only independent predictor in multivariable analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461237/",
-    "tags": [
-      "hematopoietic-stem-cell-transplantation",
-      "acute-kidney-injury",
-      "postoperative-complications"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42459815",
-    "title": "Landscape of current practices and future perspectives in living donor kidney donation in Europe: proceedings of a pan-European symposium by the European kidney transplant association section of the European Society for Organ Transplantation",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "The symposium identified wide variation in donor selection criteria, risk assessment, informed consent practices, and long-term donor follow-up, despite existing international guidelines. Emerging strategies to address these challenges include harmonisation of donor evaluation and consent, expansion of paired and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459815/",
-    "tags": [
-      "kidney-transplantation",
-      "living-donors",
-      "kidney-failure-chronic",
-      "tissue-and-organ-procurement"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42459673",
-    "title": "Moss-derived recombinant Factor H, CPV-104, effectively antagonizes alternative pathway C3/C5 convertases stabilization by NeFs from patients with primary C3 glomerulopathy",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "CPV-104 effectively limits both stabilization and formation of AP C3 convertases in NeF-positive C3G, demonstrating superior functional activity compared with sd-FH. By restoring physiological AP regulation rather than broadly inhibiting complement activation, CPV-104 represents a promising and potentially safer…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459673/",
-    "tags": [
-      "complement-pathway-alternative",
-      "complement-factor-h",
-      "complement-c3-c5-convertases",
-      "bryopsida"
     ],
     "date": "2026-07-01T00:00:00.000Z",
     "pinned": false

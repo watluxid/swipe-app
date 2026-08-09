@@ -523,6 +523,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42571003",
+    "title": "Characterisation and management of therapy-interrupting system errors associated with the use of the HomeChoice cycler for automated peritoneal dialysis",
+    "subtitle": "BMC health services research · 2026",
+    "summary": "These findings may be useful to guide training purposes for nephrology personnel and persons doing APD. For the manufacturer, the information provided may be helpful to improve error management and information transmission to the persons doing APD with the HomeChoice devices.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571003/",
+    "tags": [
+      "peritoneal-dialysis",
+      "medical-errors"
+    ],
+    "date": "2026-08-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42570033",
+    "title": "Association of the combined triglyceride-glucose and frailty index with chronic kidney disease: evidence from two national cohort studies",
+    "subtitle": "Endocrine · 2026",
+    "summary": "In two national datasets, higher TyGFI was associated with prevalent CKD in the cross-sectional analyses and with incident CKD in the longitudinal CHARLS analysis. TyGFI may serve as a compact epidemiological marker combining metabolic and frailty-related burden, although its predictive and clinical utility requires…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42570033/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "triglycerides",
+      "blood-glucose",
+      "frailty"
+    ],
+    "date": "2026-08-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42568017",
+    "title": "Distinct immunometabolic signatures in peripheral blood mononuclear cells are linked to systemic inflammation in type 2 diabetes and diabetic kidney disease",
+    "subtitle": "Molecular biomedicine · 2026",
+    "summary": "Patients with DKD showed increased inflammatory biomarkers and reduced PBMC mitochondrial membrane potential and mass, consistent with mitochondrial dysfunction. In conclusion, these findings suggest that PBMCs reflect immunometabolic remodeling in response to DKD, thus highlighting an association between systemic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568017/",
+    "tags": [
+      "leukocytes-mononuclear",
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "inflammation"
+    ],
+    "date": "2026-08-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42566776",
     "title": "A Mobile-Based Mindfulness Intervention for Reducing Demoralization in Patients on Maintenance Hemodialysis: Randomized Controlled Trial",
     "subtitle": "Journal of medical Internet research · 2026",
@@ -952,6 +995,20 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42570669",
+    "title": "Increased Blood Urea Nitrogen-To-Creatinine Ratio is an Independent Predictor of Mortality in Patients with End-Stage Renal Disease",
+    "subtitle": "Clinical laboratory · 2026",
+    "summary": "BCR serves as an independent predictor of all-cause mortality risk in patients with ESRD and may provide a novel reference index for clinical prognosis assessment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42570669/",
+    "tags": [
+      "blood-urea-nitrogen",
+      "kidney-failure-chronic",
+      "creatinine"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1559,6 +1616,21 @@
       "glomerular-filtration-rate"
     ],
     "date": "2026-07-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42568471",
+    "title": "The role of gut microbiome disruption in the development of metabolic dysfunction-associated kidney disease",
+    "subtitle": "Acta biochimica Polonica · 2026",
+    "summary": "This review provides an overview of current knowledge regarding the role of the gut microbiota and gut-derived metabolites in the pathogenesis of chronic kidney disease (CKD) associated with metabolic disorders. Accumulating experimental and clinical evidence suggests that dysbiosis may contribute to chronic low-grade…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568471/",
+    "tags": [
+      "gastrointestinal-microbiome",
+      "renal-insufficiency-chronic",
+      "dysbiosis",
+      "metabolic-diseases"
+    ],
+    "date": "2026-07-24T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4224,79 +4296,6 @@
       "kidney-failure-chronic",
       "exercise-test",
       "walk-test"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42479111",
-    "title": "Characterisation of the Novel HLA-B*51:01:01:126 Allele in a Greek Renal Transplant Candidate",
-    "subtitle": "HLA · 2026",
-    "summary": "The HLA-B*51:01:01:126 allele differs from HLA-B*51:01:01:01 by a single nucleotide substitution in intron 5.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42479111/",
-    "tags": [
-      "alleles",
-      "kidney-transplantation",
-      "introns",
-      "polymorphism-single-nucleotide"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42478406",
-    "title": "NMDA Receptor-Associated Encephalitis and Renal Failure - A Unique Association",
-    "subtitle": "Neurology India · 2026",
-    "summary": "We present a noteworthy case involving a young adult male exhibiting seizures and renal failure, initially prompting an evaluation for vasculitis, hyperuricemia-induced acute kidney injury (AKI), and rhabdomyolysis-induced AKI. This case sheds light on the association between renal failure and NMDA receptor…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42478406/",
-    "tags": [
-      "anti-n-methyl-d-aspartate-receptor-encephalitis",
-      "acute-kidney-injury",
-      "renal-insufficiency"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42477910",
-    "title": "Efficacy of Reticulocyte Haemoglobin Equivalent-Guided Versus Transferrin Saturation-Guided Iron Supplement Protocol in Haemodialysis Patients: A Multicenter Cluster Randomized Controlled Trial",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "RET-He-guided intravenous iron supplementation was non-inferior to TSAT-guided supplementation for reducing ERI over 6 months. Use of RET-He may offer a lower-cost and more accessible strategy for anaemia management in haemodialysis patients, particularly in resource-limited settings.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42477910/",
-    "tags": [
-      "renal-dialysis",
-      "hemoglobins",
-      "reticulocytes",
-      "transferrin"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42477895",
-    "title": "Effect of complement 3/5 knockout on renal proteomics landscape after ischemia and reperfusion injury in rats",
-    "subtitle": "Physiological reports · 2026",
-    "summary": "C3 and C5 deficiency conferred strong protection against renal IRI with improved renal function, reduced tubular necrosis, and lower expression of injury markers (KIM-1, NGAL). We demonstrate for the first time that upstream C3impacts a diverse range of renal injury and repair mechanisms compared to C5alone, although…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42477895/",
-    "tags": [
-      "reperfusion-injury",
-      "complement-c3",
-      "kidney",
-      "complement-c5"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42473290",
-    "title": "Prevalence, Etiologies, and Long-Term Impact of Early and Late Post-Transplant Anemia in Pediatric Kidney Transplant Recipients",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Anemia was frequently encountered after pediatric kidney transplantation. Both early and late PTA were strongly linked to iron deficiency.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42473290/",
-    "tags": [
-      "kidney-transplantation",
-      "anemia",
-      "postoperative-complications"
     ],
     "date": "2026-07-01T00:00:00.000Z",
     "pinned": false

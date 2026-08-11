@@ -15,6 +15,50 @@
     "pinned": false
   },
   {
+    "id": "pmid-42573605",
+    "title": "Association of transglutaminase-2 with contrast-induced acute kidney injury in Chinese patients with acute coronary syndrome: a prospective cohort study",
+    "subtitle": "Annals of medicine · 2026",
+    "summary": "In ACS patients undergoing CAG, elevated serum and urinary TG2 levels and greater peri-procedural changes in these levels are closely associated with the occurrence of CI-AKI. Detecting TG2 levels, particularly their dynamic changes, may serve as an effective biomarker for predicting the risk of CI-AKI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573605/",
+    "tags": [
+      "acute-coronary-syndrome",
+      "transglutaminases",
+      "gtp-binding-proteins",
+      "contrast-media"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42572798",
+    "title": "Calciphylaxis in chronic kidney disease: a systematic review of pathomechanisms and risk factors for calcific uremic arteriolopathy",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The factors that consistently emerged related to CUA were decreased albumin, higher alkaline phosphatase, diabetes, increased body mass index, female sex, vitamin K antagonist (VKA) use, increased calcium phosphate product, and calcification and thrombosis in subcutaneous small arteries. In summary, our review…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42572798/",
+    "tags": [
+      "calciphylaxis",
+      "renal-insufficiency-chronic",
+      "uremia"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42572520",
+    "title": "An epidemiological assessment of hemodialysis, continuous kidney replacement therapy, and peritoneal dialysis in pediatric acute kidney injury patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "CKRT had the greatest ten-year incidence (3.6%) and prevalence (3.8%). HD and PD had lower observed mortality and ICU admission than CKRT, a pattern likely reflecting confounding by indication rather than a causal effect of modality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42572520/",
+    "tags": [
+      "acute-kidney-injury",
+      "peritoneal-dialysis",
+      "renal-dialysis",
+      "continuous-renal-replacement-therapy"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42563380",
     "title": "Pill burden and health-related quality of life across dialysis modalities: a multimodal assessment using KDQOL-36 and eQ-5D-5L",
     "subtitle": "Renal failure · 2026",
@@ -523,6 +567,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42575521",
+    "title": "CD163: a potential biomarker for lupus nephritis activity",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "uCD163 distinguishes active LN from inactive renal and extra-renal disease and tracks treatment response. The association with intrarenal CD163+ macrophages supports its biological relevance as a non-invasive marker of renal inflammation, complementary to histopathology when repeat biopsy is not feasible.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42575521/",
+    "tags": [
+      "lupus-nephritis",
+      "antigens-differentiation-myelomonocytic",
+      "receptors-cell-surface",
+      "antigens-cd"
+    ],
+    "date": "2026-08-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42573890",
+    "title": "Common genetic variants in dyslipidemia, inflammation, and angiogenesis pathways associated with diabetic nephropathy in Tunisians",
+    "subtitle": "Endocrine · 2026",
+    "summary": "APOC1 rs4420638 and CXCL8 rs4073 seem to be associated with DN risk in Tunisian T2DM patients both individually and within multilocus genetic profiles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573890/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "dyslipidemias",
+      "inflammation"
+    ],
+    "date": "2026-08-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42571003",
     "title": "Characterisation and management of therapy-interrupting system errors associated with the use of the HomeChoice cycler for automated peritoneal dialysis",
     "subtitle": "BMC health services research · 2026",
@@ -995,6 +1069,36 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42573133",
+    "title": "Hypothermic Machine Perfusion in Deceased Donor Kidney Transplantation: Provider and Transplant Center Practices and Perspectives",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "HMP is used as a tool to assess organ viability and to overcome logistical hurdles by improving flexibility in operative timing. OPOs play a critical role in the ability to perform HMP.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573133/",
+    "tags": [
+      "kidney-transplantation",
+      "organ-preservation",
+      "perfusion",
+      "tissue-donors"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42573011",
+    "title": "O-Glycosylation of E-Cadherin Induced by Endoplasmic Reticulum Stress Negatively Regulates Cell Polarity and Proliferation in Acute Kidney Injury",
+    "subtitle": "Journal of biochemical and molecular toxicology · 2026",
+    "summary": "Together, these results establish ER stress‑driven E‑cadherin O‑glycosylation as a critical upstream event in AKI‑associated tubular repair failure and suggest that targeting this axis holds therapeutic promise. These findings establish ER stress-driven E-cadherin O-glycosylation as a critical upstream mechanism of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573011/",
+    "tags": [
+      "acute-kidney-injury",
+      "endoplasmic-reticulum-stress",
+      "cadherins",
+      "cell-proliferation"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4194,108 +4298,6 @@
       "renal-dialysis",
       "sepsis",
       "bacteremia"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42499179",
-    "title": "Renal Cortical Thickness and Derived Ratios as Superior Ultrasonographic Markers for Detecting Feline Chronic Kidney Disease",
-    "subtitle": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association · 2026",
-    "summary": "Ultrasonographic parameters including renal cortical thickness (RCT), medullary thickness (MT), renal length (RL), abdominal aorta diameter (Ao) and their ratios (RCT/Ao, RCT/MT, RCT/RL, MT/Ao, RL/Ao) were evaluated. The results show that RCT, RCT/Ao, RCT/MT, and RCT/RL were significantly lower in CKD cats, especially…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42499179/",
-    "tags": [
-      "cat-diseases",
-      "renal-insufficiency-chronic",
-      "kidney-cortex"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42489672",
-    "title": "Graft Outcomes in For-Cause Biopsy-Proven Recurrent IgA Nephropathy After Kidney Transplantation: Rare but Clinically Meaningful",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "In this for-cause biopsy cohort, clinically detected recurrent IgAN was associated with meaningful graft loss. Severe chronic injury at recurrence identified patients with poorer prognosis, although this likely reflects advanced nonspecific allograft damage rather than a recurrence-specific mechanism.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42489672/",
-    "tags": [
-      "kidney-transplantation",
-      "glomerulonephritis-iga",
-      "graft-rejection",
-      "graft-survival"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42489648",
-    "title": "Cancer Risk After Simultaneous Pancreas-Kidney Transplantation Compared With Kidney Transplant Alone: A Propensity-Matched Cohort Study",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "In this propensity score-matched cohort study, overall post-transplant malignancy incidence was comparable between SPK and KA recipients. Both groups experienced substantially elevated cancer risk relative to the general population, and incident malignancy was strongly associated with mortality.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42489648/",
-    "tags": [
-      "pancreas-transplantation",
-      "kidney-transplantation",
-      "neoplasms",
-      "postoperative-complications"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42485625",
-    "title": "Successful treatment of severe iatrogenic hypercalcemia and acute kidney injury with hemodialysis in a cat",
-    "subtitle": "Journal of veterinary internal medicine · 2026",
-    "summary": "The cat developed iatrogenic hypercalcemia (ionized calcium > 4 mmol/L, total calcium 57 mg/dL) and an acute kidney injury (creatinine 9.81 mg/dL) suspected to be a consequence of an overdose of calcium gluconate. This case demonstrates the successful application of hemodialysis in veterinary medicine to treat an…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42485625/",
-    "tags": [
-      "cat-diseases",
-      "hypercalcemia",
-      "acute-kidney-injury",
-      "renal-dialysis"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42485123",
-    "title": "Renal resistance index reveals 'driving effect' of vericiguat for heart failure therapy: the possible way for guideline-directed medical therapy implementation?",
-    "subtitle": "Journal of cardiovascular medicine (Hagerstown, Md.) · 2026",
-    "summary": "Guideline-directed medical therapy (GDMT) improves outcomes in heart failure. Vericiguat is the latest approved drug for heart failure associated with cardiovascular clinical benefits as add-on therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42485123/",
-    "tags": [
-      "heart-failure",
-      "kidney",
-      "cardiovascular-agents",
-      "vascular-resistance"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42483856",
-    "title": "Chronic Kidney Disease Frequently Observed in Adults With Spina Bifida",
-    "subtitle": "International journal of urology : official journal of the Japanese Urological Association · 2026",
-    "summary": "Young to middle-aged adults with spina bifida with a history of pediatric febrile urinary tract infection or vesico-ureteral reflux and those with current hypertension or albuminuria have an increased risk of chronic kidney disease, suggesting the need for renal function monitoring.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42483856/",
-    "tags": [
-      "spinal-dysraphism",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42479924",
-    "title": "Reproducibility of the 6-Minute Step Test in Individuals on Hemodialysis",
-    "subtitle": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy · 2026",
-    "summary": "The 6MST demonstrated good test-retest reliability for total steps (ICC = 0.80), with most differences between tests remaining below the MDC95, indicating the absence of a clinically meaningful learning effect. The 6 minute step test is a reliable and clinically applicable tool for assessing functional capacity in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42479924/",
-    "tags": [
-      "renal-dialysis",
-      "kidney-failure-chronic",
-      "exercise-test",
-      "walk-test"
     ],
     "date": "2026-07-01T00:00:00.000Z",
     "pinned": false

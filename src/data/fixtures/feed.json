@@ -15,6 +15,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42596645",
+    "title": "Association of Chuanhuang Patent Formula with prognosis in patients with acute kidney injury on chronic kidney disease: a retrospective cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In conclusion, CHPF could be a promising adjunctive therapeutic strategy for patients with A on C and was associated with more favorable 2- and 4-week renal function parameters and long-term outcome-free survival. Patients with comorbid hypertension might represent a potential subgroup that could derive greater…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42596645/",
+    "tags": [
+      "drugs-chinese-herbal",
+      "acute-kidney-injury",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42576380",
     "title": "Potential targets and molecular mechanisms of D-pinitol against acute kidney injury based on network pharmacology and experimental validation",
     "subtitle": "Renal failure · 2026",
@@ -509,6 +523,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42596833",
+    "title": "[Expression of Concern] Exogenous spermine attenuates diabetic kidney injury in rats by inhibiting AMPK/mTOR signaling pathway",
+    "subtitle": "International journal of molecular medicine · 2026",
+    "summary": "6 were strikingly similar, suggesting that the same data had apparently been used to represent the two different proteins. Owing to the fact that the Editorial Office has been made aware of potential issues surrounding the scientific integrity of this paper, we are issuing an Expression of Concern to notify readers of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42596833/",
+    "tags": [
+      "signal-transduction",
+      "tor-serine-threonine-kinases",
+      "amp-activated-protein-kinases",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42495760",
     "title": "Gut‑liver‑kidney axis: A systems biology framework for understanding and treating chronic kidney disease (Review)",
     "subtitle": "International journal of molecular medicine · 2026",
@@ -521,6 +550,21 @@
       "kidney"
     ],
     "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42598516",
+    "title": "Preoperative Urine Albumin-to-Creatinine Ratio Predicts Acute Kidney Injury After Coronary Artery Bypass Grafting",
+    "subtitle": "Saudi medical journal · 2026",
+    "summary": "In this single center cohort, elevated preoperative uACR, particularly in the macroalbuminuric range, was associated with AKI and early renal dysfunction after CABG and remained an independent predictor after adjustment. Routine preoperative uACR measurement may aid risk stratification and identify patients for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42598516/",
+    "tags": [
+      "acute-kidney-injury",
+      "coronary-artery-bypass",
+      "creatinine",
+      "albuminuria"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -578,6 +622,50 @@
       "kidney"
     ],
     "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42599906",
+    "title": "Understanding perceived quality of nursing care among adults receiving haemodialysis in Northern Ghana: A qualitative inquiry",
+    "subtitle": "PloS one · 2026",
+    "summary": "Enhancing patient-centered care for individuals undergoing HD requires practical and context-appropriate interventions that address both interpersonal and system-level factors. Key strategies to improve quality nursing care include nurse-led patient education using simple local language, routine pain assessment,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599906/",
+    "tags": [
+      "renal-dialysis",
+      "quality-of-health-care",
+      "kidney-failure-chronic",
+      "nursing-care"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42599620",
+    "title": "Clinical risk factors associated with bone biopsy findings in CKD-associated osteoporosis: insights from the Brazilian Registry of Bone Biopsy (REBRABO)",
+    "subtitle": "Archives of osteoporosis · 2026",
+    "summary": "Our findings suggest that younger patients undergoing hemodialysis with elevated PTH and ALP levels may benefit from a more intensive approach to the management of hyperparathyroidism. In contrast, older and more frail patients with relatively low PTH levels may be more likely to exhibit low bone volume and turnover…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599620/",
+    "tags": [
+      "osteoporosis",
+      "renal-insufficiency-chronic",
+      "bone-and-bones"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42595915",
+    "title": "Effects of Dapagliflozin on the Bone of Patients with CKD on Dialysis",
+    "subtitle": "Calcified tissue international · 2026",
+    "summary": "After 24 weeks, the between-group analysis of the change from baseline (delta), adjusted by baseline, revealed a significant difference in serum Klotho [19.1 (- 38.9-86.3) pg/mL, Control group; - 29.1 (- 94.1-43.9) pg/mL, Dapagliflozin group (F:4.946, p = 0.03)], but not on FGF23 levels, nor other biomarkers.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42595915/",
+    "tags": [
+      "glucosides",
+      "benzhydryl-compounds",
+      "renal-dialysis",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1594,6 +1682,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42599744",
+    "title": "The Benefit of Sequential Normothermic Regional Perfusion and Hypothermic Machine Perfusion in Kidney Transplantation From Donation After Circulatory Death Donors",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "The adoption of HMP after NRP has increased substantially in the United States and was associated with reduced DGF, but no difference was observed for LOS, 6-month eGFR, graft survival, and patient survival. These findings support the routine use of HMP after NRP.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599744/",
+    "tags": [
+      "kidney-transplantation",
+      "perfusion",
+      "organ-preservation",
+      "tissue-donors"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42596540",
+    "title": "Low Rate of Urological Complications in Pediatric Kidney Transplantation Using a Stentless Ureteral Anastomosis",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "In pediatric kidney transplantation, our extravesical ureteroneocystostomy technique without routine ureteral stent placement was associated with a low incidence of post-transplant urological complications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42596540/",
+    "tags": [
+      "kidney-transplantation",
+      "ureter",
+      "postoperative-complications",
+      "urologic-diseases"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42593848",
     "title": "Recipient Selection and Outcomes After Out-of-Sequence Kidney Allocation Since Implementation of Kidney Allocation System 250 (KAS250): A Single-Center Experience",
     "subtitle": "Clinical transplantation · 2026",
@@ -2221,6 +2339,49 @@
       "proteomics"
     ],
     "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42598512",
+    "title": "Bidirectional regulation between mitochondrial metabolic reprogramming and epigenetic modifications in renal tubular epithelial cell injury of diabetic kidney disease",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "This narrative review elaborates the closed-loop crosstalk between mitochondrial metabolism and epigenetics in tubular injury, highlights the therapeutic prospect of targeting this bidirectional regulatory axis, and provides novel theoretical evidence for revealing DKD pathogenesis and developing targeted intervention…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42598512/",
+    "tags": [
+      "diabetic-nephropathies",
+      "epigenesis-genetic",
+      "metabolic-reprogramming",
+      "kidney-tubules"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42597405",
+    "title": "Clinical application of PIRCHE scores: reclassifying immunologic risk in patients with medium eplet mismatch",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Medium eplet mismatch recipients with low PIRCHE scores had no statistically significant increase in risk compared with the zero/low mismatch group, although confidence intervals were wide. Molecular matching may help refine risk stratification and expand donor options, but the PIRCHE-T2/-B thresholds-derived from an…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597405/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection",
+      "histocompatibility-testing",
+      "hla-antigens"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42597259",
+    "title": "Assessing and cataloguing cognitive impairment in older potential kidney transplant patients: key recommendations from the ethical and legal issues working group of ELPAT",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Survey data demonstrate substantial variability in screening practices, documentation, and capacity assessment during transplant workup, contrasting with the standardised evaluation of other transplant domains. Cognitive impairment may affect decision-making capacity, perioperative risk, post-transplant…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597259/",
+    "tags": [
+      "kidney-transplantation",
+      "cognitive-dysfunction"
+    ],
+    "date": "2026-07-30T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3021,6 +3182,21 @@
       "living-donors"
     ],
     "date": "2026-07-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42597327",
+    "title": "Impact of Angiotensin Receptor-Neprilysin Inhibition Combined with Enteral Nutritional Therapy on Cardiac Performance and Inflammatory Burden in Hemodialysis-Associated Heart Failure: Clinical and Experimental Evidence",
+    "subtitle": "Malawi medical journal : the journal of Medical Association of Malawi · 2026",
+    "summary": "The integration of sacubitril/valsartan therapy with enteral nutritional supplementation exerts synergistic effects on cardiac remodeling, inflammatory modulation, and metabolic recovery in MHD-associated HF. These findings support a multidimensional therapeutic strategy targeting both neurohormonal activation and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597327/",
+    "tags": [
+      "heart-failure",
+      "enteral-nutrition",
+      "aminobutyrates",
+      "neprilysin"
+    ],
+    "date": "2026-07-22T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4135,175 +4311,6 @@
       "graft-rejection"
     ],
     "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42511619",
-    "title": "Mogroside V Alleviates Renal Injury in Diabetic Mice via Regulation of the TLR4/NF-κB Pathway and Modulation of ECM Remodeling",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Diabetic kidney disease (DKD) is a leading cause of end-stage renal disease, yet effective therapeutic strategies targeting its underlying mechanisms remain limited. Mechanistically, MV downregulated,, and p-NF-κBp65 expression, suppressed inflammatory cytokine release (TNF-α, IL-1β, IL-6, MCP-1, IL-18), attenuated…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42511619/",
-    "tags": [
-      "toll-like-receptor-4",
-      "triterpenes",
-      "nf-kappa-b",
-      "signal-transduction"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42448384",
-    "title": "Relationship between cognitive impairment and chronic kidney disease",
-    "subtitle": "Practical neurology · 2026",
-    "summary": "By recognising the characteristic cognitive profile associated with CKD, and distinguishing it from coexisting neurodegenerative pathology, clinicians can implement early interventions that improve outcomes. We outline mechanisms that link CKD to cognitive dysfunction, present diagnostic approaches and offer…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42448384/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "cognitive-dysfunction",
-      "cognition-disorders"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42447098",
-    "title": "Knowledge and practice of hemodialysis catheter care and associated factors among patients on maintenance hemodialysis: An analytical cross-sectional study",
-    "subtitle": "PloS one · 2026",
-    "summary": "Less than half of patients demonstrated satisfactory HDC care practices despite moderate levels of knowledge. Knowledge was strongly associated with practice, highlighting its potential importance in supporting optimal catheter care behaviors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42447098/",
-    "tags": [
-      "renal-dialysis",
-      "health-knowledge-attitudes-practice",
-      "catheter-related-infections"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42446417",
-    "title": "Chronic Pruritus in Predialysis Chronic Kidney Disease: Prevalence, Phenotype and Temporal Patterns in a Prospective Cohort",
-    "subtitle": "Acta dermato-venereologica · 2026",
-    "summary": "No laboratory parameter, including PTH, was independently associated with pruritus. Dyslipidaemia was the only clinical characteristic significantly associated with pruritus status (69.2% vs 43.3%, p=0.035).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42446417/",
-    "tags": [
-      "pruritus",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42535050",
-    "title": "Construction of nursing-sensitive quality indicators for hemodialysis vascular access: a Delphi study",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "The developed nursing quality-sensitive indicator system for hemodialysis vascular access was constructed through a rigorous Delphi process and aligns with the practical features of hemodialysis vascular access nursing management. It may serve as a reference basis for evaluating the quality of vascular access nursing,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42535050/",
-    "tags": [
-      "quality-indicators-health-care",
-      "renal-dialysis",
-      "vascular-access-devices"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42516745",
-    "title": "Serum adropin as a potential renoprotective factor in diabetic kidney disease: evidence from a Chinese elderly cohort and an experimental mouse model",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Serum adropin was inversely associated with both prevalent and incident DKD in a community-based cohort, and experimental findings support a potential renoprotective role of adropin.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42516745/",
-    "tags": [
-      "diabetic-nephropathies",
-      "intercellular-signaling-peptides-and-proteins",
-      "blood-proteins",
-      "peptides"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42516395",
-    "title": "Neutrophil extracellular traps and acute kidney injury: a narrative review",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "While they play a role in host defence under physiological conditions, there is evidence to suggest that excessive production or impaired clearance of NETs may contribute to the pathological progression of acute kidney injury (AKI). However, translating NET-related research into clinical practice faces numerous…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42516395/",
-    "tags": [
-      "extracellular-traps",
-      "acute-kidney-injury",
-      "neutrophils"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42516381",
-    "title": "The crucial role of N6-methyladenosine modification in acute kidney injury: mechanisms and therapeutic potential",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Existing studies suggest that m6A modification profoundly influences the fate of renal tubular epithelial cells (TECs) by regulating the expression of genes associated with inflammatory responses and programmed cell death, thereby modulating the severity of AKI and the subsequent renal repair process. This review…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42516381/",
-    "tags": [
-      "acute-kidney-injury",
-      "adenosine"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42443827",
-    "title": "Impaired fatty acid metabolism in AKI: experimental evidence - a narrative review",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "Under certain conditions, adequate fatty acid oxidation may be considered nephroprotective; however, the complexity of the syndrome's pathophysiology must always be taken into account. Distinct fatty acids have the potential to offer therapeutic benefits in AKI cases.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42443827/",
-    "tags": [
-      "acute-kidney-injury",
-      "fatty-acids"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42442896",
-    "title": "Fractional Flow Reserve-Guided Renal Artery Stenting in Renovascular Hypertension: 1-Year Results of the FAIR Study",
-    "subtitle": "JACC. Cardiovascular interventions · 2026",
-    "summary": "At the 1-year follow-up, FFR-guided renal artery stenting reduced stent use without loss of blood pressure control or renal safety compared with angiography guidance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42442896/",
-    "tags": [
-      "renal-artery-obstruction",
-      "stents",
-      "hypertension-renovascular",
-      "renal-artery"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42440206",
-    "title": "Fulminant drug-induced immune thrombocytopenia in polycystic kidney disease with cyst infection",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "This case illustrates fulminant thrombocytopenia highly suggestive of drug-induced immune thrombocytopenia in which the platelet count fell to an undetectable level overnight. In patients receiving multiple drugs, clinicians should remain vigilant for drug-induced immune thrombocytopenia and should closely monitor…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42440206/",
-    "tags": [
-      "polycystic-kidney-diseases",
-      "anti-bacterial-agents",
-      "purpura-thrombocytopenic-idiopathic",
-      "cysts"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42440187",
-    "title": "Intra-abdominal abscess caused by Rhodotorula mucilaginosa in a peritoneal dialysis patient: a case report",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "Although Rhodotorula species are rare opportunistic yeasts known to cause PD-associated peritonitis, IAA due to Rhodotorula in PD patients has not been previously reported. New-onset fever during intraperitoneal antibiotic therapy for bacterial peritonitis led to the identification of an IAA, and R. mucilaginosa was…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42440187/",
-    "tags": [
-      "peritoneal-dialysis",
-      "rhodotorula",
-      "abdominal-abscess"
-    ],
-    "date": "2026-07-13T00:00:00.000Z",
     "pinned": false
   }
 ]

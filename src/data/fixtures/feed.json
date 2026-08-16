@@ -625,6 +625,108 @@
     "pinned": false
   },
   {
+    "id": "pmid-42603229",
+    "title": "Association of non-invasive liver-related scores with cardiovascular disease and a four-domain cardiovascular-renal-hepatic-metabolic phenotype in patients with type 2 diabetes mellitus and MASLD",
+    "subtitle": "Endocrine · 2026",
+    "summary": "In patients with T2DM and MASLD, liver-related scores showed distinct associations with cardiovascular and multidomain disease burden. FNI was associated with CVD, whereas FIB-4 was associated with a study-specific four-domain CRHM phenotype.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603229/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "cardiovascular-diseases",
+      "non-alcoholic-fatty-liver-disease",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42602921",
+    "title": "Development and Evaluation of a Clinical Prediction Model for Acute Kidney Injury Risk in Elderly Patients with Heart Failure with Reduced Ejection Fraction",
+    "subtitle": "Global heart · 2026",
+    "summary": "This study developed and validated a nomogram model for predicting AKI in patients with HFrEF. Clinicians can utilize this model to optimize clinical decision-making based on individualized patient characteristics, enabling personalized risk stratification for therapeutic interventions and prognostic evaluations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602921/",
+    "tags": [
+      "heart-failure",
+      "stroke-volume",
+      "acute-kidney-injury",
+      "nomograms"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42601774",
+    "title": "Global, regional, and national burden of chronic kidney disease attributable to dietary risks, 1990 to 2021: A systematic analysis for the Global Burden of Disease Study 2021",
+    "subtitle": "Medicine · 2026",
+    "summary": "Low SDI regions showed a higher burden from CKD due to hypertension, attributable to fruit (54.23) and vegetable (55.99) deficiencies, while high SDI regions exhibited a greater burden from CKD due to T2DM, attributable to highly processed meat (11.36) and a relatively high burden from red meat (6.59) and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601774/",
+    "tags": [
+      "global-burden-of-disease",
+      "renal-insufficiency-chronic",
+      "diet"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42601755",
+    "title": "Blood pressure and renal outcomes after renal denervation in patients with chronic kidney disease: A systematic review and meta-analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "RDN effectively lowers BP in CKD patients without compromising renal function and demonstrates an acceptable safety profile, supporting its role as an adjunctive therapy in resistant hypertension.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601755/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "blood-pressure",
+      "hypertension",
+      "kidney"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42601743",
+    "title": "Vitamin D deficiency and dementia risk in patients with chronic kidney disease: A multi-institutional 10-year retrospective cohort study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Patients with chronic kidney disease (CKD) face elevated dementia risk, and vitamin D deficiency (VDD) has emerged as a potential contributor to cognitive decline. The association is particularly pronounced among hypertensive patients, suggesting that VDD represents a potentially modifiable risk factor warranting…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601743/",
+    "tags": [
+      "vitamin-d-deficiency",
+      "renal-insufficiency-chronic",
+      "dementia"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42601692",
+    "title": "Association between neutrophil-to-HDL cholesterol ratio and diabetic nephropathy in adults with diabetes mellitus: A cross-sectional study from NHANES 2007-2018",
+    "subtitle": "Medicine · 2026",
+    "summary": "Quartile analysis demonstrated dose-response relationships: top quartile participants showed 2.70-fold higher nephropathy risk versus bottom quartile (OR 2.6967, 95%CI 1.9965-3.6556, p-trend < 0.001). These observational findings suggest that NHR may serve as a complementary marker to support kidney disease risk…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601692/",
+    "tags": [
+      "diabetic-nephropathies",
+      "neutrophils",
+      "cholesterol-hdl",
+      "diabetes-mellitus"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42601682",
+    "title": "Bibliometrics and visualization analysis: Big data research on diabetic kidney disease from 2000 to 2025",
+    "subtitle": "Medicine · 2026",
+    "summary": "Big data-driven DKD research is growing, with multi-omics biomarkers underpinning AI/ML models that are hotspots for risk prediction and progression assessment; AI, ML, mechanisms, and cells are the frontiers, which together provide references for DKD precision medicine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601682/",
+    "tags": [
+      "big-data",
+      "diabetic-nephropathies",
+      "bibliometrics"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42599906",
     "title": "Understanding perceived quality of nursing care among adults receiving haemodialysis in Northern Ghana: A qualitative inquiry",
     "subtitle": "PloS one · 2026",
@@ -2259,6 +2361,78 @@
     "pinned": false
   },
   {
+    "id": "pmid-42602457",
+    "title": "Immune mechanism of IgA vasculitis with nephritis: a narrative review",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "IgA vasculitis with nephritis (IgAVN), also known as Henoch-Schönlein purpura nephritis (HSPN) is a kidney disease secondary to IgA vasculitis (IgAV). While most pediatric IgAVN patients have a favorable prognosis, a minority may develop renal insufficiency or even progress to end-stage renal disease, compromising…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602457/",
+    "tags": [
+      "iga-vasculitis",
+      "immunoglobulin-a",
+      "nephritis"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42602361",
+    "title": "Tubular injury in diabetic kidney disease: a focus on regulated cell death",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Emerging evidence has demonstrated that abnormal RCD of tubular epithelial cells aggravates the development of DKD. Our review intends to elucidate recent discoveries regarding the pathogenetic role of the most studied RCD, such as apoptosis, necroptosis, pyroptosis, ferroptosis and autophagy, in DKD, and provide a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602361/",
+    "tags": [
+      "diabetic-nephropathies",
+      "kidney-tubules",
+      "regulated-cell-death"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42602279",
+    "title": "Association of C-reactive protein-albumin-lymphocyte index and coronary artery calcification on major adverse cardiovascular events of dialysis patients with acute coronary syndrome",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "In dialysis patients with ACS, a lower CALLY index and moderate-to-severe CAC were both independent risk factors of MACE. Integrating the categorical classification of the CALLY index level and angiographic CAC status significantly improved prognostic performance, providing additional information for cardiovascular…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602279/",
+    "tags": [
+      "acute-coronary-syndrome",
+      "renal-dialysis",
+      "c-reactive-protein",
+      "lymphocytes"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42602048",
+    "title": "Spatial transcriptomics reveals injury-responsive compartments and coordinated immune-fibrotic signaling in ANCA-associated renal vasculitis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "We aimed to characterize spatially resolved renal disease programs across different histopathological stages of pediatric AAV and compared with adult AAV. Integrative analysis with an independent adult AAV spatial transcriptomic cohort revealed conserved core injury programs in glomerular and vascular compartments…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602048/",
+    "tags": [
+      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
+      "kidney",
+      "transcriptome",
+      "kidney-diseases"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42602030",
+    "title": "Efficacy and safety of various immunosuppressive agents for pediatric Henoch-Schönlein purpura nephritis (IgA vasculitis nephritis) in Chinese children: a systematic review and network meta-analysis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Immunosuppressive agents have significantly improved treatment outcomes for Chinese children with HSPN. Mycophenolate mofetil combined with conventional therapy (MMF+CT) offers the best balance between efficacy and safety, particularly for controlling proteinuria and hypoalbuminemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602030/",
+    "tags": [
+      "iga-vasculitis",
+      "immunosuppressive-agents",
+      "nephritis"
+    ],
+    "date": "2026-07-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42576770",
     "title": "Real-world effectiveness and safety of difelikefalin for chronic kidney disease-associated pruritus: a systematic review",
     "subtitle": "Renal failure · 2026",
@@ -3512,6 +3686,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42602373",
+    "title": "Machine learning driven precision medicine in tacrolimus dosing: current research and future perspectives in liver and kidney transplantation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "ML has been widely applied to develop precise models for TAC immunosuppressive drug administration in patients after liver and kidney transplantation, providing a reference for individualized treatment. However, such models have not yet been widely applied in clinical practice and generally lack the ability to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602373/",
+    "tags": [
+      "tacrolimus",
+      "kidney-transplantation",
+      "precision-medicine",
+      "machine-learning"
+    ],
+    "date": "2026-07-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42559358",
     "title": "Surface-cleaned black phosphorus nanosheets chelate iron and rebalance the ferroptosis-immune axis in acute kidney injury",
     "subtitle": "Theranostics · 2026",
@@ -4124,193 +4313,6 @@
       "nephrotic-syndrome"
     ],
     "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42511640",
-    "title": "Renal Ischemia-Reperfusion and Uremic Toxins Modulate the Aortic Adenosinergic Axis in Acute Kidney Injury",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Renal ischemia was induced by the occlusion of the left renal pedicle for 60 min, followed by reperfusion for 8 days (IR 8) or 15 days (IR 15). This shift toward an adenosine-enriched signaling environment may represent a key mechanism linking renal injury to systemic vascular inflammation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42511640/",
-    "tags": [
-      "reperfusion-injury",
-      "adenosine",
-      "acute-kidney-injury",
-      "aorta"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42457658",
-    "title": "Remodeling of ferroptotic necroinflammation by dexamethasone in acute tubular necrosis",
-    "subtitle": "Cell death & disease · 2026",
-    "summary": "Mechanistically, we found that dexamethasone reduced availability of ferrous iron via effects of the glucocorticoid receptor 1 (GR1), which also resulted in attenuated renal tubular injury. However, this cytoprotective effect did not translate into improved renal function, as dexamethasone exerted additional…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42457658/",
-    "tags": [
-      "dexamethasone",
-      "ferroptosis",
-      "kidney-tubular-necrosis-acute",
-      "inflammation"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42457657",
-    "title": "Bispecific antibody against sclerostin and DKK1 improves bone health and reduces bone marrow adipose tissue accumulation in experimental chronic kidney disease",
-    "subtitle": "Bone research · 2026",
-    "summary": "MicroCT revealed that long bones of CKD mice were characterised by lower bone mineral density, trabecular and cortical bone, and impaired biomechanical properties, but their vertebrae were unaffected. In conclusion, dual inhibition of sclerostin and DKK1 improved bone integrity and suppressed BMAT in experimental CKD,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42457657/",
-    "tags": [
-      "intercellular-signaling-peptides-and-proteins",
-      "adipose-tissue",
-      "bone-marrow",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42457390",
-    "title": "Renal injury and hypocalcaemia in newborns with birth asphyxia at a tertiary care centre: a prospective observational study",
-    "subtitle": "BMJ paediatrics open · 2026",
-    "summary": "A high incidence of AKI and hypocalcaemia was found in neonates with birth asphyxia. These findings highlight the importance of routine biochemical monitoring and early intervention to mitigate complications and improve neonatal outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42457390/",
-    "tags": [
-      "asphyxia-neonatorum",
-      "hypocalcemia",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42457337",
-    "title": "Integrated immune profiling identifies a coordinated T-cell activation and inflammatory signature in SLE",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "Patients with SLE with renal involvement show coordinated disturbances in T-cell and B-cell compartments linked to chronic immune activation, interferon-related responses and disease duration. These findings support the relevance of integrated immune profiling in SLE but should be interpreted as exploratory and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42457337/",
-    "tags": [
-      "lupus-erythematosus-systemic",
-      "lymphocyte-activation",
-      "lupus-nephritis",
-      "t-lymphocytes"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42457313",
-    "title": "Lower gastrointestinal bleeding (haematochezia) as the initial clue to disseminated histoplasmosis with central nervous system involvement in a renal transplant recipient",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Histopathology demonstrated necrotising granulomatous inflammation with intracellular yeast forms on H&E staining, with Grocott methenamine silver stain highlighting oval budding yeast consistent withSerum Histoplasma antigen was positive (5.2 ng/mL).MRI demonstrated multifocal enhancing lesions involving the brain…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42457313/",
-    "tags": [
-      "histoplasmosis",
-      "kidney-transplantation",
-      "gastrointestinal-hemorrhage"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42455365",
-    "title": "Improving hard-to-place kidney allocation: A machine learning approach to center ranking",
-    "subtitle": "Health care management science · 2026",
-    "summary": "Expedited out-of-sequence placement of hard-to-place kidneys to centers with a high likelihood of acceptance has been recommended in the literature as a strategy to improve placement success. Our analysis demonstrates that the proposed policy can reduce the average number of centers considered before placement by…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42455365/",
-    "tags": [
-      "kidney-transplantation",
-      "machine-learning",
-      "tissue-and-organ-procurement"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42455187",
-    "title": "Ultrasound evaluation of quadriceps muscle thickness and body fat distribution in children receiving maintenance hemodialysis: a cross-sectional case-control study",
-    "subtitle": "European journal of pediatrics · 2026",
-    "summary": "Quadriceps muscle US appears to be a practical adjunct and complementary assessment tool to conventional nutritional assessment in children receiving maintenance HD. US-derived subcutaneous and visceral fat measurements provide complementary information on body composition and fat distribution.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42455187/",
-    "tags": [
-      "quadriceps-muscle",
-      "renal-dialysis",
-      "body-fat-distribution",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42576899",
-    "title": "Proteomics-based clustering for higher risk of venous thromboembolism in patients with nephrotic syndrome",
-    "subtitle": "Research and practice in thrombosis and haemostasis · 2026",
-    "summary": "Serum proteomics analysis identified a group of patients with NS who were potentially at higher risk of developing VTE. Extracellular matrix and endothelial glycocalyx damage might play an important role in VTE development among patients with NS.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42576899/",
-    "tags": [
-      "nephrotic-syndrome",
-      "proteomics",
-      "venous-thromboembolism"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42523835",
-    "title": "Case Report: Successful telitacicept treatment for IgA nephropathy with stage 4 chronic kidney disease and acute renal failure",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Current research indicates that telitacicept, an APRIL and BAFF inhibitor, has shown promise as a therapeutic option for IgAN patients with an estimated glomerular filtration rate (eGFR) over 30 mL/min/1.73 m². We present a 47-year-old male with stage 4 CKD, complicated by acute kidney injury and diagnosed with IgAN…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42523835/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "acute-kidney-injury",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42523742",
-    "title": "Living kidney donation prior to euthanasia: medical, psychological and ethical considerations",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "In two cases, euthanasia has been performed; in one case donation was transformative and the request for euthanasia was withdrawn after donation. We conclude that living donation and euthanasia should be seen as independent processes and a euthanasia request should not be considered an absolute contra-indication for…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42523742/",
-    "tags": [
-      "living-donors",
-      "kidney-transplantation",
-      "euthanasia",
-      "tissue-and-organ-procurement"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42523668",
-    "title": "Onco-nephrology in kidney transplant recipients: challenges and evolving strategies",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Ultimately, once cancer is diagnosed in a KTx, nephrologists and transplant specialists are forced to modulate suppressive therapies and, together with oncologists, manage specific cancer treatment therapies. This review integrates current data on risk, prevention, and treatment across the entire pathway:…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42523668/",
-    "tags": [
-      "kidney-transplantation",
-      "neoplasms"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42523661",
-    "title": "Association of AT1R expression with transplant glomerulopathy and interstitial fibrosis in kidney transplant recipients",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "AT1R expression is associated with the presence and severity of interstitial fibrosis and transplant glomerulopathy in kidney transplant recipients. While AT1R-related markers alone did not predict graft survival, their combination with histopathological abnormalities identifies patients at higher risk of long-term…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42523661/",
-    "tags": [
-      "kidney-transplantation",
-      "receptor-angiotensin-type-1",
-      "graft-rejection"
-    ],
-    "date": "2026-07-14T00:00:00.000Z",
     "pinned": false
   }
 ]

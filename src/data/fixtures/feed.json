@@ -625,6 +625,18 @@
     "pinned": false
   },
   {
+    "id": "pmid-42603811",
+    "title": "Incidence, time trends and predictors of acute kidney injury in the region of Stockholm, Sweden",
+    "subtitle": "Scientific reports · 2026",
+    "summary": "Populations at highest risk of AKI were largely consistent over the years, and included older adults, men, and individuals with uncontrolled diabetes, prior AKI, hypertension, heart failure, kidney transplantation, and multiple myeloma. Lower eGFR and higher albuminuria were associated with markedly higher AKI risk in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603811/",
+    "tags": [
+      "acute-kidney-injury"
+    ],
+    "date": "2026-08-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42603229",
     "title": "Association of non-invasive liver-related scores with cardiovascular disease and a four-domain cardiovascular-renal-hepatic-metabolic phenotype in patients with type 2 diabetes mellitus and MASLD",
     "subtitle": "Endocrine · 2026",
@@ -4297,20 +4309,6 @@
       "graft-rejection",
       "autoantibodies",
       "isoantibodies"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42518910",
-    "title": "Obinutuzumab as a Rescue and Maintenance Strategy in Children with Difficult-to-Treat Nephrotic Syndrome After Rituximab-Based Treatment Failure or Intolerance: A Preliminary Single-Center Real-World Retrospective Study",
-    "subtitle": "Drug design, development and therapy · 2026",
-    "summary": "In this exploratory, hypothesis-generating study, obinutuzumab was associated with a favorable relapse profile, sustained peripheral B-cell depletion, and reduction of background immunosuppression in a highly selected pediatric population. Larger prospective studies are required to confirm these preliminary…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42518910/",
-    "tags": [
-      "antibodies-monoclonal-humanized",
-      "rituximab",
-      "nephrotic-syndrome"
     ],
     "date": "2026-07-15T00:00:00.000Z",
     "pinned": false

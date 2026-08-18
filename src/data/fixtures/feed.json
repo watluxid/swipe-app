@@ -625,6 +625,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42608064",
+    "title": "Pauci-immune crescentic glomerulonephritis in human immunodeficiency virus infection: clinical and therapeutic challenges",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "The first, established on antiretroviral therapy, presented with a pulmonary-renal syndrome after empirical anti-tubercular treatment had failed; biopsy showed cellular crescents without chronic change, and corticosteroids with rituximab achieved sustained clinical, biochemical and serological remission. The second,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42608064/",
+    "tags": [
+      "glomerulonephritis",
+      "hiv-infections",
+      "aids-associated-nephropathy"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42607093",
+    "title": "Psychological resilience trajectories and baseline factors associated with trajectory membership among patients newly initiating maintenance hemodialysis: A multicenter longitudinal study",
+    "subtitle": "PloS one · 2026",
+    "summary": "Psychological resilience among patients newly initiating MHD showed heterogeneous trajectories during the early dialysis period. The declining and low-stable trajectories were associated with different baseline psychological, clinical, and sociodemographic characteristics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42607093/",
+    "tags": [
+      "renal-dialysis",
+      "resilience-psychological",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42606622",
+    "title": "Positive impact of a patient-perspective video on engagement and learning in a kidney transplant seminar: a cluster-randomized study",
+    "subtitle": "World journal of urology · 2026",
+    "summary": "A brief patient-perspective video shown before a kidney transplantation seminar was associated with higher immediate knowledge retention and greater self-reported emotional engagement. Short patient-perspective videos may be a low-cost, scalable adjunct to traditional teaching.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606622/",
+    "tags": [
+      "kidney-transplantation",
+      "video-recording",
+      "learning",
+      "education-medical-undergraduate"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42603811",
     "title": "Incidence, time trends and predictors of acute kidney injury in the region of Stockholm, Sweden",
     "subtitle": "Scientific reports · 2026",
@@ -649,6 +692,21 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-08-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42605517",
+    "title": "Dynamic Lactate-to-Albumin Ratio Trajectories and Outcomes in Sepsis-Associated Acute Kidney Injury: Evidence From MIMIC-IV and a Multicenter Chinese Cohort",
+    "subtitle": "JMIR medical informatics · 2026",
+    "summary": "Dynamic LAR trajectories are independently associated with 28- and 90-day mortality in SA-AKI. The delayed-clearance trajectory identifies a specific high-risk phenotype, suggesting that longitudinal LAR monitoring and the constructed nomogram may support early risk stratification and inform clinical decision-making.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42605517/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "lactic-acid",
+      "serum-albumin"
+    ],
+    "date": "2026-08-14T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1793,6 +1851,21 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42606109",
+    "title": "Donor-Derived Cell-Free DNA in Stable Pediatric Kidney Transplant Recipients: Influence of Donor Obesity and Recipient Size",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "In stable pediatric KT recipients, dd-cfDNA levels were well below the adult-derived 1% cutoff, reinforcing the generalizability of this cutoff to the pediatric population. Recipients < 20 kg with donor BMI > 30 kg/mor in the setting of a donor-recipient BSA mismatch > 1.5 were associated with higher dd-cfDNA levels.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606109/",
+    "tags": [
+      "kidney-transplantation",
+      "cell-free-nucleic-acids",
+      "tissue-donors",
+      "obesity"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4238,79 +4311,6 @@
       "machine-learning"
     ],
     "date": "2026-07-16T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42461834",
-    "title": "Association between glycemic control and chronic kidney disease development in older patients with type 2 diabetes: A retrospective cohort study",
-    "subtitle": "PloS one · 2026",
-    "summary": "Poor glycemic control is independently associated with CKD development and a shorter time to CKD onset, supporting its potential relevance for kidney-related outcomes in older patients with T2D. These findings highlight the need to consider glycemic control within a broader, individualized clinical approach in this…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461834/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "renal-insufficiency-chronic",
-      "glycemic-control"
-    ],
-    "date": "2026-07-16T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42461793",
-    "title": "Machine Perfusion as a Temporal and Resuscitative Bridge in Emergent Renal Autotransplantation: A Novel Case Report",
-    "subtitle": "The American journal of case reports · 2026",
-    "summary": "CONCLUSIONS This case demonstrates the safety and viability of renal autotransplantation following preservation with hypothermic machine perfusion. Machine perfusion can function as a temporal bridge in emergent situations when immediate reimplantation is unsafe, expanding the indications for organ preservation beyond…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461793/",
-    "tags": [
-      "kidney-transplantation",
-      "perfusion",
-      "organ-preservation"
-    ],
-    "date": "2026-07-16T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42529142",
-    "title": "Latent profile analysis of oral health self-efficacy in maintenance hemodialysis patients and its impact on oral health",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "Oral health self-efficacy in MHD patients exhibits significant heterogeneity and can be categorized into three latent classes, with notable differences in OHRQoL across classes. Healthcare providers ought to develop class-specific stratified intervention strategies: focusing on improving basic oral care skills in the…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42529142/",
-    "tags": [
-      "renal-dialysis",
-      "oral-health",
-      "self-efficacy",
-      "quality-of-life"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42529124",
-    "title": "National divergence in cardio-kidney-metabolic syndrome burden and implications for health policy: a global burden of disease analysis with projections to 2050",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "The burden of CKM syndrome is substantial and dynamic, with marked cross-country differences. These findings support the need for integrated, multi-organ risk management strategies for metabolic disorders.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42529124/",
-    "tags": [
-      "metabolic-syndrome",
-      "global-burden-of-disease",
-      "cardio-renal-syndrome",
-      "health-policy"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42528539",
-    "title": "Understanding the role of non-HLA antibodies in kidney transplantation: a literature review",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Instead, individual non-HLA antibodies should be investigated through targeted mechanistic and clinical studies to clarify their specific roles in transplant outcomes. Future research should prioritize large-scale, multicenter prospective studies with standardized methodologies, alongside mechanistic investigations,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42528539/",
-    "tags": [
-      "kidney-transplantation",
-      "graft-rejection",
-      "autoantibodies",
-      "isoantibodies"
-    ],
-    "date": "2026-07-15T00:00:00.000Z",
     "pinned": false
   }
 ]

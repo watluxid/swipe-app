@@ -15,6 +15,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42619369",
+    "title": "Association between the Naples Prognostic Score and the Charlson Comorbidity Index in peritoneal dialysis patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "NPS was calculated using serum albumin, total cholesterol, neutrophil-to-lymphocyte ratio (NLR), and lymphocyte-to-monocyte ratio (LMR), and patients were classified into NPS groups. While NPS is significantly associated with systemic inflammation and impaired nutritional status in PD patients, it does not reflect…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42619369/",
+    "tags": [
+      "peritoneal-dialysis",
+      "inflammation",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42610309",
     "title": "Association of elevated homocysteine levels with renal pathology and function in patients with IgA nephropathy: a single-center retrospective study",
     "subtitle": "Annals of medicine · 2026",
@@ -652,6 +666,134 @@
       "kidney"
     ],
     "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42624532",
+    "title": "Improving diabetic kidney disease screening in a VA resident primary care clinic: a quality improvement initiative",
+    "subtitle": "BMJ open quality · 2026",
+    "summary": "This project demonstrates the need for and effectiveness of tailored, resident-specific implementation strategies to achieve QI aims among these physicians.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624532/",
+    "tags": [
+      "mass-screening",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42623410",
+    "title": "A multimodal analysis suggests partial IRF8/TLR7-associated myeloid transcriptional convergence between diabetic kidney disease and Parkinson's disease",
+    "subtitle": "PloS one · 2026",
+    "summary": "DKD and PD show limited genome-wide overlap but partial convergence of myeloid- and microglia-enriched inflammatory signals associated with IRF8 and TLR7. These findings provide testable hypotheses rather than evidence of a conserved causal pathway or validated cross-disease treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623410/",
+    "tags": [
+      "interferon-regulatory-factors",
+      "diabetic-nephropathies",
+      "parkinson-disease",
+      "toll-like-receptor-7"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42623396",
+    "title": "AI Models for Predicting Acute Kidney Injury (AKI) and Post-AKI Mortality: Systematic Review and Meta-Analysis",
+    "subtitle": "Journal of medical Internet research · 2026",
+    "summary": "ML models have shown high average discrimination for AKI occurrence and post-AKI mortality, supporting their potential value for AKI risk stratification and early warning. However, high levels of heterogeneity, limited external or prospective validation, and inconsistent reporting of model calibration and clinical…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623396/",
+    "tags": [
+      "acute-kidney-injury",
+      "artificial-intelligence",
+      "machine-learning"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42623390",
+    "title": "The Congenital Heart Disease in Children: Kidney-Associated Conditions with Epidemiologic Endpoints (CHICKADEE) study: Study design and protocol",
+    "subtitle": "PloS one · 2026",
+    "summary": "Children who undergo cardiac surgery for CHD face elevated risks of hypertension, chronic kidney disease (CKD), kidney failure, and premature mortality-complications that are more prevalent in those with single ventricle physiology and increase as they get older. This multi-center prospective cohort study aims to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623390/",
+    "tags": [
+      "heart-defects-congenital",
+      "renal-insufficiency-chronic",
+      "hypertension"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42623337",
+    "title": "Paradoxical Role of Glucocorticoids in Severe Pneumocystis jirovecii Pneumonia Among Renal Transplant Recipients: Case Series",
+    "subtitle": "The American journal of case reports · 2026",
+    "summary": "The median starting dose was 80 mg/day (range, 40-120 mg/day), with a median treatment duration of 11 days (range, 5-17 days) and median cumulative dose of 580 mg (range, 200-840 mg). CONCLUSIONS Despite constituting a predisposing factor for PJP, early adjunctive GC administration-combined with robust…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623337/",
+    "tags": [
+      "pneumonia-pneumocystis",
+      "kidney-transplantation",
+      "glucocorticoids",
+      "pneumocystis-carinii"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42622716",
+    "title": "Parental Obesity and Offspring Risk for Cardiorenal Diseases",
+    "subtitle": "Current hypertension reports · 2026",
+    "summary": "Increasing evidence indicates that parental obesity, particularly maternal obesity, predisposes offspring to cardiovascular, metabolic, and renal dysfunction that can emerge early in life and persist into adulthood, even when controlled for lifestyle factors. Elucidating these mechanisms is essential for identifying…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42622716/",
+    "tags": [
+      "obesity",
+      "prenatal-exposure-delayed-effects",
+      "cardiovascular-diseases",
+      "pregnancy-in-obesity"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42619230",
+    "title": "Autosomal Dominant Polycystic Kidney Disease Presenting as a Painless Epigastric Mass: A Case Report",
+    "subtitle": "The American journal of case reports · 2026",
+    "summary": "This report presents a case of ADPKD manifesting as an epigastric mass in a patient without a family history, highlighting its importance in the differential diagnosis of upper abdominal masses. She had hypertension and dyslipidemia, without a known family history of ADPKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42619230/",
+    "tags": [
+      "polycystic-kidney-autosomal-dominant"
+    ],
+    "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42618924",
+    "title": "NOX2 deficiency exacerbates lupus nephritis through activation of NLRP3 inflammasome in neutrophils",
+    "subtitle": "Journal of biomedical science · 2026",
+    "summary": "Our results showed that NOX2 deficiency was associated with the expansion of a highly inflammatory renal neutrophil subset that may contribute to aggravated renal inflammation. These findings suggest that NOX2 functions as a negative regulator of the NLRP3 inflammasome and IL-1β blockade represents a promising…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618924/",
+    "tags": [
+      "lupus-nephritis",
+      "nlr-family-pyrin-domain-containing-3-protein",
+      "neutrophils",
+      "nadph-oxidase-2"
+    ],
+    "date": "2026-08-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42618859",
+    "title": "Bioelectrical impedance analysis versus dual-energy X-ray absorptiometry for body composition assessment in children with chronic kidney disease",
+    "subtitle": "European journal of pediatrics · 2026",
+    "summary": "Despite strong correlations, BIA showed poor concordance with DXA for every parameter assessed, with clinically unacceptable limits of agreement; correlation does not imply interchangeability. BIA may retain a role in population-level nutritional screening in resource-limited settings, although its ability to track…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618859/",
+    "tags": [
+      "absorptiometry-photon",
+      "electric-impedance",
+      "body-composition",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-19T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4162,148 +4304,6 @@
       "gastrointestinal-hemorrhage"
     ],
     "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42485571",
-    "title": "GLP-1 receptor agonists in kidney transplant recipients with post-transplant diabetes: efficacy and safety outcomes from a retrospective cohort study",
-    "subtitle": "Archives of endocrinology and metabolism · 2026",
-    "summary": "In KTRs with PTDM, GLP-1 RA therapy was associated with improvements in lipid profile and blood pressure, accompanied by non-significant trends toward weight reduction and stable renal function, and demonstrated an acceptable safety profile. Prospective studies are warranted to confirm long-term cardiorenal benefits.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42485571/",
-    "tags": [
-      "kidney-transplantation",
-      "glucagon-like-peptide-1-receptor-agonists",
-      "hypoglycemic-agents",
-      "diabetes-mellitus"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42485372",
-    "title": "Predictive value of complete blood cell count-based inflammatory markers for peritonitis risk in peritoneal dialysis patients: A multicenter cohort study",
-    "subtitle": "PloS one · 2026",
-    "summary": "Elevated PIV, SII, and PLR levels at PD initiation independently predict higher peritonitis risk. Although their discriminative ability is moderate, these routine, cost-effective indices may aid risk stratification and help identify patients needing closer monitoring or preventive interventions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42485372/",
-    "tags": [
-      "peritonitis",
-      "peritoneal-dialysis",
-      "inflammation"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42485344",
-    "title": "Pragmatic cardiovascular-kidney-metabolic burden categories and 5-year all-cause mortality in Vietnamese outpatients: A retrospective cohort study",
-    "subtitle": "PloS one · 2026",
-    "summary": "In this Vietnamese outpatient cohort, pragmatic CKM burden categories identified a subgroup with combined CKD and CAD that had the highest absolute 5-year mortality. The age-group- and sex-adjusted estimate remained elevated for this small subgroup, although confidence intervals were wide.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42485344/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "cardiovascular-diseases",
-      "coronary-artery-disease"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42554240",
-    "title": "Challenges and strategies for managing early-to-moderate chronic kidney disease in primary care: A systematic integrative review in high-income countries",
-    "subtitle": "The European journal of general practice · 2026",
-    "summary": "Management of early-to-moderate CKD in primary care varies considerably across high-income countries. Reported findings suggest that improving CKD care may require context-adapted strategies combining organisational, clinical, and educational components, particularly those involving multidisciplinary collaboration and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42554240/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "primary-health-care"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42553309",
-    "title": "Efficacy and safety of obinutuzumab in refractory membranous nephropathy: a single-arm meta-analysis",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Obinutuzumab demonstrates marked efficacy in treating refractory MN, with an overall clinical remission rate of 86% and a low incidence of severe adverse events. This profile signifies a potential therapeutic role for this condition.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553309/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "antibodies-monoclonal-humanized"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42553224",
-    "title": "Zinc, type 2 diabetes, diabetic kidney disease: focus on hypoxia",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "In this review, we focus on the role of zinc homeostasis in the development of diabetes and DKD, with particular emphasis on hypoxia as the central trigger of DKD. We also discuss the role of the zinc signaling in the cellular and systemic carbohydrate metabolism in the context of diabetes and DKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553224/",
-    "tags": [
-      "diabetic-nephropathies",
-      "diabetes-mellitus-type-2",
-      "zinc",
-      "hypoxia"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42535947",
-    "title": "Glyphosate's role in renal tubular injury at low exposure levels: evidence from a patient cohort",
-    "subtitle": "Renal failure · 2026",
-    "summary": "After full adjustment in multivariable logistic regression, individuals in the third quartile of urinary GLY (2.50-3.12 ng/ml) had a 26.30-fold higher risk of moderate-to-severe tubular injury compared with the lowest quartile ( = 0.008). Urinary GLY demonstrated good predictive performance for moderate-to-severe…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42535947/",
-    "tags": [
-      "glycine",
-      "herbicides",
-      "kidney-tubules",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42528432",
-    "title": "Chronic Kidney Disease-Associated Cardiomyopathy: Mechanisms and Therapeutic Strategies",
-    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
-    "summary": "However, functional abnormalities and myocardial injury have been shown to begin much earlier, with diffuse interstitial fibrosis preceding overt hypertrophy or reduced ejection fraction. A better understanding of CKD-CM pathogenesis is likely to enable early intervention and prevention, with successful outcomes…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42528432/",
-    "tags": [
-      "cardiomyopathies",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42500203",
-    "title": "From mechanism to therapeutics: targeting the mitogen-activated protein kinase 1 (MAPK1)/extracellular signal-regulated kinase 2 (ERK2) pathway in renal fibrosis",
-    "subtitle": "PeerJ · 2026",
-    "summary": "The review highlights that these compounds demonstrate notable antifibrotic efficacy in preclinical models, primarily by directly or indirectly inhibiting MAPK1/ERK2 phosphorylation. This narrative review synthesizes current knowledge on the MAPK1/ERK2 pathway in renal fibrosis, highlighting its regulatory mechanisms…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42500203/",
-    "tags": [
-      "map-kinase-signaling-system",
-      "mitogen-activated-protein-kinase-1",
-      "kidney-diseases",
-      "kidney"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42482021",
-    "title": "Amino acids for the prevention of acute kidney injury after cardiac surgery: a narrative review of trials and meta-analyses",
-    "subtitle": "Journal of cardiothoracic surgery · 2026",
-    "summary": "Although many causes and risk factors have been identified, effective measures to prevent AKI after cardiac surgery are still lacking. Recent randomized trials and meta-analyses suggest a potential role for amino acids in preventing AKI after cardiac surgery.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42482021/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiac-surgical-procedures",
-      "amino-acids",
-      "postoperative-complications"
-    ],
-    "date": "2026-07-21T00:00:00.000Z",
     "pinned": false
   }
 ]

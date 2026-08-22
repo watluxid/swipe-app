@@ -669,6 +669,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42629145",
+    "title": "DIA proteomics of FFPE renal biopsies reveals two molecular subtypes of lupus nephritis and identifies APOL1 as candidate biomarker for stratification",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "DIA-based proteomic profiling of FFPE renal biopsies identifies biologically and clinically relevant LN molecular subtypes and may support tissue-informed classification and risk stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629145/",
+    "tags": [
+      "lupus-nephritis",
+      "proteomics",
+      "apolipoprotein-l1",
+      "kidney"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42627418",
+    "title": "Network-based prioritization of sepsis-associated metabolites and in vivo validation of diosmetin in sepsis-associated acute kidney injury",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "This study identified sepsis-associated microbiota-related candidate metabolites through network-based analysis. In vivo evidence suggested that diosmetin attenuated inflammatory responses in a sepsis-associated AKI model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627418/",
+    "tags": [
+      "sepsis",
+      "acute-kidney-injury",
+      "flavonoids"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42624532",
     "title": "Improving diabetic kidney disease screening in a VA resident primary care clinic: a quality improvement initiative",
     "subtitle": "BMJ open quality · 2026",
@@ -1829,6 +1858,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42626424",
+    "title": "Epidemiological investigation and risk factor analysis of acute kidney injury in non-intensive care unit hospitalized patients following neurosurgery",
+    "subtitle": "Frontiers in neurology · 2026",
+    "summary": "The incidence of post-neurosurgical AKI was 3.93% among non-ICU patients. Associated factors included vasopressor use, age ≥50 years, surgery duration ≥120 min, contrast agent use, higher systolic blood pressure, anemia, elevated serum creatinine and urea, proteinuria, higher alkaline phosphatase, and medications…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626424/",
+    "tags": [
+      "acute-kidney-injury",
+      "postoperative-complications",
+      "neurosurgical-procedures"
+    ],
+    "date": "2026-08-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42625793",
+    "title": "Development and validation of a temporal staging-based nomogram for 1-year mortality in sepsis-associated acute kidney injury",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "The timing of SA-AKI onset is a critical prognostic stratification indicator. A one-year mortality risk nomogram model constructed based on the temporal staging, septic shock, albumin level, 28-day renal function recovery status, and 48-hour lactate normalization provides important reference for clinical…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42625793/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "nomograms"
+    ],
+    "date": "2026-08-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42625696",
+    "title": "Osteoactivin/GPNMB as a candidate biomarker of diabetic nephropathy in type 2 diabetes: associations with angiogenic and kidney injury biomarkers",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Circulating osteoactivin is associated with renal dysfunction and angiogenic activity in DN and demonstrated moderate diagnostic performance. This was further enhanced when combined with other angiogenic biomarkers, particularly ANGPTL8.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42625696/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "biomarkers",
+      "membrane-glycoproteins"
+    ],
+    "date": "2026-08-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42589700",
     "title": "Urinary Exosomes as Potential Biomarkers for Diagnosis, Disease Activity Assessment, Treatment Monitoring, and Prognosis in Lupus Nephritis",
     "subtitle": "International journal of molecular sciences · 2026",
@@ -2263,6 +2335,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42627662",
+    "title": "Peritoneal Dialysis-Related Peritonitis and Kidney Transplant Outcomes",
+    "subtitle": "JAMA network open · 2026",
+    "summary": "These findings suggest that a history of peritonitis is associated with increased risks of graft failure and death after kidney transplant and highlight the importance of comprehensive pretransplant assessment and longitudinal risk stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627662/",
+    "tags": [
+      "kidney-transplantation",
+      "peritonitis",
+      "peritoneal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42613596",
     "title": "miR-379-5p serves as a biomarker and regulates sepsis-associated acute kidney injury via targeting EDN1",
     "subtitle": "BMC immunology · 2026",
@@ -2434,6 +2521,50 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42626867",
+    "title": "Non-Invasive Assessment of Left Ventricular Myocardial Work in Conditions Associated With Increased Left Ventricular Wall Thickness",
+    "subtitle": "Echocardiography (Mount Kisco, N.Y.) · 2026",
+    "summary": "Our study demonstrates distinct patterns of MW across conditions associated with increased LV wall thickness. These findings support the complementary role of MW assessment in the comprehensive evaluation of LV function and myocardial dysfunction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626867/",
+    "tags": [
+      "heart-ventricles",
+      "echocardiography",
+      "aortic-valve-stenosis",
+      "ventricular-dysfunction-left"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42625548",
+    "title": "The Association Between Lifestyle Factors and Sleep Quality in Haemodialysis Patients",
+    "subtitle": "Nursing open · 2026",
+    "summary": "In multivariate logistic analyses, age, maintenance haemodialysis duration, depression (psychological factor) and self-management (as a behavioural lifestyle domain) were major factors associated with sleep quality. Fourth, nurses should provide individualized lifestyle counselling tailored to each patient's dietary…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42625548/",
+    "tags": [
+      "renal-dialysis",
+      "sleep-quality",
+      "life-style"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42625289",
+    "title": "Corylin Confers Vasoprotection via JDP2-Nrf2 Antioxidant Axis against Chronic Kidney Disease-Induced Smooth Muscle Cell Remodelling",
+    "subtitle": "Journal of cellular and molecular medicine · 2026",
+    "summary": "Furthermore, Nrf2 knockdown by an inhibitor abolished JDP2 activation and the protective effects of corylin. Our study reveals that corylin exerts anti-arteriosclerotic and vasculoprotective effects targeting JDP2-Nrf2 activation, making it a potential treatment for vascular calcification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42625289/",
+    "tags": [
+      "nf-e2-related-factor-2",
+      "flavonoids",
+      "myocytes-smooth-muscle",
+      "antioxidants"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3596,6 +3727,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42626530",
+    "title": "Retrospective cohort study of epitope-based virtual crossmatch allocation in a public transplant system (Pernambuco, Brazil)",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Among highly sensitized candidates (cPRA ≥80%), the estimated probability of transplantation at 12 months was 17% in the EpViX era compared with 3% in the pre-EpViX era. An allocation strategy incorporating an epitope-informed definition of unacceptable antigens was associated with greater access to deceased-donor…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626530/",
+    "tags": [
+      "kidney-transplantation",
+      "histocompatibility-testing",
+      "epitopes",
+      "hla-antigens"
+    ],
+    "date": "2026-07-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42612128",
     "title": "Network Pharmacology, Machine Learning, and In Vivo Validation of Danzhi Jiangtang Capsule in Diabetic Nephropathy",
     "subtitle": "Journal of visualized experiments : JoVE · 2026",
@@ -4162,148 +4308,6 @@
       "bibliometrics"
     ],
     "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42487013",
-    "title": "Robot-assisted kidney transplantation in obese recipients: wound-risk reduction, graft safety, and access implications",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "Obese kidney transplant recipients are at increased risk of surgical site infection, impaired wound healing, lymphocele, hematoma, and incisional hernia, and these wound-related risks have led some transplant programs to apply restrictive body mass index (BMI) thresholds. Future multicenter studies should integrate…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42487013/",
-    "tags": [
-      "kidney-transplantation",
-      "robotic-surgical-procedures",
-      "obesity"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42487011",
-    "title": "Feasibility of simultaneous donor nephrectomy and kidney transplantation using a shared single-port robotic platform",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "15 pairs underwent a simultaneous SP robotic approach in which both donor nephrectomy and recipient transplant were completed using the same SP robotic platform, while 30 cases underwent laparoscopic donor nephrectomy followed by SP robotic kidney transplantation. In recipients, the simultaneous SP robotic approach…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42487011/",
-    "tags": [
-      "nephrectomy",
-      "kidney-transplantation",
-      "robotic-surgical-procedures",
-      "living-donors"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42597327",
-    "title": "Impact of Angiotensin Receptor-Neprilysin Inhibition Combined with Enteral Nutritional Therapy on Cardiac Performance and Inflammatory Burden in Hemodialysis-Associated Heart Failure: Clinical and Experimental Evidence",
-    "subtitle": "Malawi medical journal : the journal of Medical Association of Malawi · 2026",
-    "summary": "The integration of sacubitril/valsartan therapy with enteral nutritional supplementation exerts synergistic effects on cardiac remodeling, inflammatory modulation, and metabolic recovery in MHD-associated HF. These findings support a multidimensional therapeutic strategy targeting both neurohormonal activation and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42597327/",
-    "tags": [
-      "heart-failure",
-      "enteral-nutrition",
-      "aminobutyrates",
-      "neprilysin"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42558580",
-    "title": "Medication belief profiles and associated factors in patients receiving maintenance hemodialysis: a latent class analysis",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "Patients on maintenance hemodialysis show varied and medically relevant medication beliefs. The correlation between these beliefs and demographic factors, as well as factors concerning their medication regimen, shows that there is an additional requirement for tailored medication education in hemodialysis patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558580/",
-    "tags": [
-      "renal-dialysis",
-      "health-knowledge-attitudes-practice"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42558455",
-    "title": "Association of continuous glucose monitoring metrics with early diabetic kidney disease in early-onset type 2 diabetes",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "In Chinese patients with early-onset T2DM, CGM-derived metrics are independently associated with early DKD, with TIR and GRI showing opposite associations and CV exhibiting a U-shaped relationship. The observed association involving triglycerides suggests that lipid metabolism may be a correlate of glycemic control in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558455/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "diabetic-nephropathies",
-      "blood-glucose"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42558451",
-    "title": "Exploration of SOCS3 and HSPA1A in PANoptosis during acute myocardial infarction and chronic kidney disease",
-    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
-    "summary": "We identified 12 genes shared by AMI, CKD, and PANoptosis, and determined SOCS3 and HSPA1A as key diagnostic genes. Animal experiments demonstrated that knockdown of SOCS3 significantly inhibited expression of key PANoptosis molecules such as CASP1, CXCL10, and ZBP1 after MI, reduced inflammation, and improved cardiac…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558451/",
-    "tags": [
-      "myocardial-infarction",
-      "suppressor-of-cytokine-signaling-3-protein",
-      "renal-insufficiency-chronic",
-      "hsp70-heat-shock-proteins"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42558282",
-    "title": "Determinants of oral health-related quality of life in older adults receiving maintenance hemodialysis",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "Older adults receiving MHD demonstrated relatively low levels of both OHRQoL and oral self-efficacy. Enhanced clinical attention and the development of targeted interventions addressing the identified influencing factors may contribute to improvements in OHRQoL in this population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558282/",
-    "tags": [
-      "renal-dialysis",
-      "quality-of-life",
-      "oral-health"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42545319",
-    "title": "[Primary aldosteronism as an independent factor of kidney damage. Potential therapeutic strategies and research prospects]",
-    "subtitle": "Problemy endokrinologii · 2026",
-    "summary": "Chronic aldosterone excess leads to podocyte injury, microvascular dysfunction, and interstitial fibrosis, resulting in decreased glomerular filtration rate and CKD progression.Genetic mutations (KCNJ5, ATP1A1, CACNA1D) and tubular stress biomarkers (L-FABP, KIM-1, microalbuminuria) are discussed as key factors of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42545319/",
-    "tags": [
-      "hyperaldosteronism",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42493781",
-    "title": "Assessing frailty in hemodialysis patients: utility of a self-rated visual analogue scale and the role of routine parameters in clinical prediction",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "A self-rated VAS for frailty has the potential to simplify frailty screening and enhance its integration into routine nephrology care. A model based on routine parameters can support the identification of frail patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42493781/",
-    "tags": [
-      "renal-dialysis",
-      "frailty",
-      "visual-analog-scale",
-      "geriatric-assessment"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42486653",
-    "title": "Use of avacopan in granulomatosis with polyangiitis with predominant gastrointestinal and kidney involvement",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "We report the case of a middle-aged man with granulomatosis with polyangiitis (GPA) presenting with severe gastrointestinal involvement complicated by recurrent bleeding and bowel perforations together with rapidly progressive glomerulonephritis. This case illustrates real-world use of avacopan in a severe multisystem…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42486653/",
-    "tags": [
-      "granulomatosis-with-polyangiitis",
-      "glomerulonephritis",
-      "gastrointestinal-hemorrhage"
-    ],
-    "date": "2026-07-22T00:00:00.000Z",
     "pinned": false
   }
 ]

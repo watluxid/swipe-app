@@ -1,5 +1,19 @@
 [
   {
+    "id": "pmid-42632076",
+    "title": "When systems fall apart: the performance of the nursing station model in communities with populations over 2,500 peoples",
+    "subtitle": "International journal of circumpolar health · 2026",
+    "summary": "This partnership between researchers from the First Nations Health and Social Secretariat of Manitoba and the University of Manitoba used health administrative data held at the Manitoba Centre for Health Policy (2006-2019), linked to the Manitoba First Nations Research File to identify FNs. Our findings show that…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632076/",
+    "tags": [
+      "primary-health-care",
+      "health-services-indigenous",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42438056",
     "title": "Lactiplantibacillus plantarum (WJL) ameliorates chronic kidney disease by inhibiting fibroblast growth factor 21 adaptive stress response via low protein diet",
     "subtitle": "Gut microbes · 2026",
@@ -666,6 +680,80 @@
       "kidney"
     ],
     "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42632097",
+    "title": "Nimbolide Reduces Inflammation and Oxidative Stress to Inhibit Disease Progression in Septic Acute Kidney Injury Mice",
+    "subtitle": "Archivum immunologiae et therapiae experimentalis · 2026",
+    "summary": "Nimbolide treatment markedly attenuated tubular vacuolization and inflammatory cell infiltration, and improved renal function, as demonstrated by reduced serum Scr and BUN levels. Furthermore, Nimbolide decreased MDA levels, increased SOD activity and GSH content, and inhibited renal apoptosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632097/",
+    "tags": [
+      "acute-kidney-injury",
+      "limonins",
+      "sepsis",
+      "kidney"
+    ],
+    "date": "2026-08-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42631246",
+    "title": "Impact of Adopting the Race/Ethnicity-Free 2021 CKD-EPI Equation on Cardiovascular Risk Stratification in a Multiethnic European Population: Results from the HELIUS Study",
+    "subtitle": "Global heart · 2026",
+    "summary": "In this multiethnic European cohort, the race-free 2021 CKD-EPI equation produced different kidney function estimates, but both CKD and CV risk classifications were nearly identical to the 2009 equation. These findings support their clinical interchangeability and endorse adoption of the race-free equation as an…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42631246/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cardiovascular-diseases",
+      "glomerular-filtration-rate",
+      "ethnicity"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42629702",
+    "title": "Fatal intoxication caused by conventional-dose methotrexate in an elderly patient with end-stage renal disease: A cautionary case report",
+    "subtitle": "Medicine · 2026",
+    "summary": "End-stage renal disease (ESRD) patients face an extreme toxicity risk even under conventional low-dose MTX, yet related fatal cases remain underreported. Mandatory pre-prescription renal function assessment, regular laboratory monitoring, and folate supplementation are essential to prevent life-threatening MTX…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629702/",
+    "tags": [
+      "methotrexate",
+      "kidney-failure-chronic",
+      "antirheumatic-agents"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42629683",
+    "title": "Fenofibrate-associated rhabdomyolysis complicated by dialysis-requiring acute kidney injury presenting with atypical clinical manifestations: A case report and literature review",
+    "subtitle": "Medicine · 2026",
+    "summary": "Based on the temporal association with fenofibrate exposure, marked muscle enzyme elevation, improvement after drug withdrawal, and absence of common alternative triggers, the patient was diagnosed with probable fenofibrate-associated rhabdomyolysis complicated by KDIGO stage 3 AKI superimposed on underlying CKD.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629683/",
+    "tags": [
+      "rhabdomyolysis",
+      "fenofibrate",
+      "acute-kidney-injury",
+      "renal-dialysis"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42629671",
+    "title": "Research trends and hotspots in BK polyomavirus infection in kidney transplantation: A bibliometric analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "This study provides a bibliometric overview of BKPyV infection research in kidney transplantation. It maps publication output, influential contributors, and evolving research themes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629671/",
+    "tags": [
+      "kidney-transplantation",
+      "bibliometrics",
+      "polyomavirus-infections",
+      "bk-virus"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1674,6 +1762,50 @@
     "pinned": false
   },
   {
+    "id": "pmid-42630417",
+    "title": "Identification of key genes related to arginine metabolism in immunoglobulin A nephropathy through the combination of scRNA-seq and bulk RNA-seq data",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This study suggests that ARG1 and ARG2 may be key genes and potential mechanistic indicators of IgAN associated with AM, but it needs to be further verified in non-invasive samples and larger independent cohorts. Additionally, monocytes were recognized as key cells in the progression of IgAN, providing valuable…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630417/",
+    "tags": [
+      "arginine",
+      "glomerulonephritis-iga",
+      "arginase"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42630338",
+    "title": "Targeted release of budesonide modulates key gut microbial abnormalities in immunoglobulin A nephropathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Although limited by a small sample size, these findings suggest that targeted mucosal immunomodulation with Nefecon may partially restore gut microbial homeostasis in IgAN patients, providing new insight into the gut-kidney axis and the microbiota-related effects of therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630338/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "budesonide",
+      "gastrointestinal-microbiome",
+      "dysbiosis"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42630158",
+    "title": "Lack of association between Triglyceride glucose-body mass index and glomerular filtration rate in patients with coronary heart disease after percutaneous coronary intervention: a retrospective case-control study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Preoperative TyG-BMI exerted no direct independent effect on long-term outcome of eGFR. It is unlikely that TyG-BMI serves as a primary determinant of CKD in patients with CHD after PCI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630158/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "percutaneous-coronary-intervention",
+      "triglycerides",
+      "body-mass-index"
+    ],
+    "date": "2026-08-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42593000",
     "title": "Analysis of demographic and clinical characteristics of patients with chronic renal failure in Mosul City, Iraq",
     "subtitle": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina · 2026",
@@ -2521,6 +2653,21 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42629992",
+    "title": "Mass spectrometry-based urinary proteomic analysis in feline chronic kidney disease",
+    "subtitle": "Physiological reports · 2026",
+    "summary": "A cohort of 37 cats (14 with surgically induced CKD, 23 healthy controls) was used as a training dataset; a separate cohort of 40 cats (23 cats with naturally occurring CKD, 17 healthy controls) was used as the test dataset. These data provide proof of concept for a mass spectrometry-based urinary proteomic analysis…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629992/",
+    "tags": [
+      "proteomics",
+      "renal-insufficiency-chronic",
+      "cat-diseases",
+      "proteome"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4167,147 +4314,6 @@
       "kidney"
     ],
     "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42493690",
-    "title": "Early Posttransplant urine ammonium-pH index levels and graft outcomes in kidney transplant recipients",
-    "subtitle": "Pflugers Archiv : European journal of physiology · 2026",
-    "summary": "A higher uAPI likely informs about better tubulointerstitial function posttransplant and is associated with better early and 12-month kidney graft function.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42493690/",
-    "tags": [
-      "kidney-transplantation",
-      "ammonium-compounds"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589209",
-    "title": "Neuro-Renal Crosstalk Across the Chronic Kidney Disease Spectrum: Stage-Dependent Molecular Mechanisms of Cognitive Impairment-An Integrative Review",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Because most studies investigating CI in CKD rely primarily on eGFR-based staging, our analysis was structured around GFR categories, assessing early-to-moderate CKD, defined according to KDIGO as G1-G3 stages, advanced CKD stages, including G4-G5 not yet requiring kidney replacement therapies, and kidney failure…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589209/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "cognitive-dysfunction",
-      "kidney"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42564101",
-    "title": "Clustering-derived clinical subtypes and outcomes of chronic kidney disease in patients with diabetes: a multicenter cohort study",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Our study identified three distinct subgroups of diabetic patients with CKD with differential risks for major outcomes. This highlights the heterogeneity of CKD in patients with diabetes, and suggest that identified subtypes may provide additional prognostic information for risk stratification.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42564101/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42517052",
-    "title": "Simultaneous Quantification of Mycophenolic Acid and Its Glucuronide Metabolite in PBMCs from Kidney Transplant Recipients by LC-MS/MS",
-    "subtitle": "Drug design, development and therapy · 2026",
-    "summary": "We established and validated an LC-MS/MS method for simultaneous quantification of intracellular MPA and MPAG. The observed weak-to-moderate correlation between plasma and PBMC exposure highlights the inherent limitations of conventional plasma-based TDM for MPA.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42517052/",
-    "tags": [
-      "mycophenolic-acid",
-      "kidney-transplantation",
-      "leukocytes-mononuclear",
-      "glucuronides"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42493798",
-    "title": "Association between preoperative hydration and cardiac surgery-associated acute kidney injury: a prospective observational study",
-    "subtitle": "Journal of cardiothoracic surgery · 2026",
-    "summary": "Lower preoperative fluid intake was associated with higher observed rates of postoperative rates of CSA-AKI after applying a data-derived threshold. These exploratory data-driven findings and thresholds require prospective validation studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42493798/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiac-surgical-procedures",
-      "fluid-therapy",
-      "preoperative-care"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42493217",
-    "title": "Kidney function recovery in immunoglobulin A nephropathy patient following bimekizumab therapy",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "6 months after starting on bimekizumab, his renal parameters improved with a reduction in his albuminuria and an increase in his estimated glomerular filtration rate (eGFR). This improvement may be explained by bimekizumab's dual blockade of IL-17 A and F, blunting the inflammatory pathways relevant to IgAN although…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42493217/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "antibodies-monoclonal-humanized"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42493211",
-    "title": "Circulating kidney injury molecule-1 as a prognostic biomarker for long-term renal outcomes in lupus nephritis: a retrospective cohort study",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "Elevated circulating KIM-1 at the time of renal biopsy was associated with adverse long-term renal outcomes in LN and independently associated with relapse, although its incremental predictive value beyond conventional clinical markers was modest. KIM-1 may support early risk stratification and individualised…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42493211/",
-    "tags": [
-      "lupus-nephritis",
-      "hepatitis-a-virus-cellular-receptor-1",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42492944",
-    "title": "Early treatment with rasburicase and risk of kidney replacement therapy and death in adults with tumour lysis syndrome: emulated target trial",
-    "subtitle": "BMJ (Clinical research ed.) · 2026",
-    "summary": "Among adults with TLS, early rasburicase treatment for TLS was associated with about one third lower risk of acute kidney injury requiring kidney replacement therapy or death compared with delayed or no rasburicase treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42492944/",
-    "tags": [
-      "tumor-lysis-syndrome",
-      "urate-oxidase",
-      "acute-kidney-injury",
-      "renal-replacement-therapy"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42490553",
-    "title": "Urinary podocalyxin as an early biomarker for diabetic nephropathy",
-    "subtitle": "PloS one · 2026",
-    "summary": "Urinary podocalyxin is a sensitive early biomarker of diabetic nephropathy, rising before overt albuminuria and correlating with albuminuria severity and declining eGFR. However, longitudinal validation is required before u-PDX can be recommended for routine screening in adults with T2DM.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42490553/",
-    "tags": [
-      "diabetic-nephropathies",
-      "sialoglycoproteins",
-      "diabetes-mellitus-type-2"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42487079",
-    "title": "Research evolution and evidence-generation priorities in robot-assisted living donor nephrectomy: a bibliometric and knowledge-mapping analysis",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "Among 107 publications (81 Articles and 26 Review Articles), output remained limited early on, became more consistent after 2012, and increased markedly after 2021, peaking in 2024. Robot-assisted living donor nephrectomy research has entered a more active phase of clinical investigation, but increasing publication…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42487079/",
-    "tags": [
-      "nephrectomy",
-      "robotic-surgical-procedures",
-      "living-donors",
-      "bibliometrics"
-    ],
-    "date": "2026-07-23T00:00:00.000Z",
     "pinned": false
   }
 ]

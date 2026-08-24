@@ -683,6 +683,33 @@
     "pinned": false
   },
   {
+    "id": "pmid-42633633",
+    "title": "[Tumour-like extramedullary hematopoiesis in a patient with multiple renal transplantations]",
+    "subtitle": "Orvosi hetilap · 2026",
+    "summary": "Biopsy revealed extramedullary hematopoiesis without dysplastic features or blast increase. In myeloid sarcoma, the proportion of myeloid blasts exceeds 20%, and the condition is essentially equivalent to acute myeloid leukemia, requiring appropriate treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633633/",
+    "tags": [
+      "kidney-transplantation",
+      "hematopoiesis-extramedullary",
+      "sarcoma-myeloid"
+    ],
+    "date": "2026-08-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42632888",
+    "title": "AKI as a systemic syndrome and its impact on other organ systems",
+    "subtitle": "Critical care (London, England) · 2026",
+    "summary": "We discuss the direct consequences of reduced kidney function alongside the repercussions of the inflammatory cascade triggered by kidney cell injury and the resulting clinical implications. Given that traditional long-term metrics, such as Major Adverse Kidney Events (MAKE), present significant design challenges in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632888/",
+    "tags": [
+      "acute-kidney-injury",
+      "multiple-organ-failure"
+    ],
+    "date": "2026-08-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42632097",
     "title": "Nimbolide Reduces Inflammation and Oxidative Stress to Inhibit Disease Progression in Septic Acute Kidney Injury Mice",
     "subtitle": "Archivum immunologiae et therapiae experimentalis · 2026",
@@ -1138,6 +1165,35 @@
       "education-medical-undergraduate"
     ],
     "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42633525",
+    "title": "The Chain Mediating Effect of Sleep Quality and Family Resilience Between Depressive Mood and Treatment Compliance in Continuous Blood Purification Patients",
+    "subtitle": "Actas espanolas de psiquiatria · 2026",
+    "summary": "Improving sleep quality and enhancing family resilience may be potential strategies to mitigate the adverse effects of depressive mood on self-reported treatment compliance in patients with CBP, though these findings require confirmation using adherence measures validated specifically for the CBP population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633525/",
+    "tags": [
+      "depression",
+      "sleep-quality",
+      "patient-compliance",
+      "resilience-psychological"
+    ],
+    "date": "2026-08-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42633509",
+    "title": "Clinical Characteristics and Influencing Factors of Cognitive Impairment in Patients With End-Stage Renal Disease Undergoing Maintenance Haemodialysis",
+    "subtitle": "Actas espanolas de psiquiatria · 2026",
+    "summary": "Advanced age, longer dialysis duration, lower Hb, higher β-microglobulin, lower 25(OH)D, and higher iPTH levels were associated with cognitive impairment in patients undergoing maintenance haemodialysis for ESRD. Close monitoring of patients presenting with these risk factors is warranted for early prevention of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633509/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "cognitive-dysfunction"
+    ],
+    "date": "2026-08-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2653,6 +2709,21 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42633612",
+    "title": "Effect of Pre-Transplant Sensitization on Kidney Allograft Survival Following Simultaneous Liver and Kidney Transplantation: A Decade of Experience from an Academic Transplant Center",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "A positive CDC-CXM but not the presence of pre-formed DSA was associated with worse outcomes following SLK transplantation, with overall kidney survival primarily driven by death with a functioning allograft. DSA >5,000 MFI increased the risk for BPAR, and DSA to the class II DQ antigen were incompletely cleared…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633612/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-survival",
+      "liver-transplantation",
+      "graft-rejection"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4241,77 +4312,6 @@
       "renal-insufficiency-chronic",
       "tooth-loss",
       "frailty"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42498964",
-    "title": "Intraoperative hemoadsorption and cardiac surgery-associated acute kidney injury: an updated systematic review and meta-analysis with trial sequential analysis",
-    "subtitle": "Critical care (London, England) · 2026",
-    "summary": "Intraoperative hemoadsorption did not significantly reduce CSA-AKI or improve clinical outcomes in adult cardiac surgery. Although trends favored severe AKI, very low certainty evidence and insufficient information preclude definitive conclusions, warranting further large-scale RCTs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42498964/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiac-surgical-procedures"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42498317",
-    "title": "Serum PLA2R-negative, biopsy-proven PLA2R-positive primary membranous nephropathy in a dichorionic-diamniotic twin pregnancy",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Anti-phospholipase A2 receptor (PLA2R) antibodies are used to confirm diagnosis.We report a case of biopsy-confirmed PLA2R-positive but seronegative PMN in a woman in her late 20s with a dichorionic-diamniotic twin pregnancy. Renal biopsy at 21 weeks confirmed PMN with positive PLA2R and IgG4 staining, despite…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42498317/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "pregnancy-complications",
-      "receptors-phospholipase-a2"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42497247",
-    "title": "ELF3 links kidney function GWAS loci to maladaptive epithelial inflammation",
-    "subtitle": "Science advances · 2026",
-    "summary": "Here, we demonstrate thatis the effector gene at a kidney function GWAS locus and acts as an epithelial proinflammatory amplifier of the reprogramming of injured proximal tubules (iPTs). E74-like factor 3 (ELF3) expression is induced in iPTs in both mouse models and human chronic kidney disease (CKD), where it defines…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42497247/",
-    "tags": [
-      "genome-wide-association-study",
-      "proto-oncogene-proteins-c-ets",
-      "transcription-factors",
-      "inflammation"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42495748",
-    "title": "Effects of exercise on clinical outcomes in patients undergoing haemodialysis for chronic kidney disease: an umbrella review",
-    "subtitle": "Journal of global health · 2026",
-    "summary": "Aerobic exercise may improve cardiorespiratory fitness, dialysis efficiency, inflammation, and depression; resistance may enhance muscle strength and physical function; combined training offers the broadest benefits. Individualized prescriptions are supported, but high-certainty evidence is lacking.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42495748/",
-    "tags": [
-      "renal-dialysis",
-      "renal-insufficiency-chronic",
-      "exercise",
-      "exercise-therapy"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42495747",
-    "title": "Exploring the liver-kidney axis in the Ghanaian population: the RODAM prospective study",
-    "subtitle": "Journal of global health · 2026",
-    "summary": "In our study, markers of liver cell injury were associated with increased risk of CKD over six years in the African population. Our findings support a potential link between hepatic metabolic dysfunction and early renal injury, highlighting the need for integrated cardiometabolic risk assessment in sub-Saharan Africa.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42495747/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "liver",
-      "kidney"
     ],
     "date": "2026-07-24T00:00:00.000Z",
     "pinned": false

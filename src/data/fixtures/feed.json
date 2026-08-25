@@ -29,6 +29,166 @@
     "pinned": false
   },
   {
+    "id": "pmid-42637672",
+    "title": "Epigallocatechin-3-gallate attenuates oxidative stress and apoptosis in podocytes of focal segmental glomerulosclerosis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In animal experiments, EGCG treatment effectively reduced the elevation of the urine albumin-to-creatinine ratio, significantly alleviated glomerulosclerosis, and attenuated the ADR-induced decrease in the reduced glutathione/oxidized glutathione ratio in both serum and renal tissues of ADR-treated mice.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637672/",
+    "tags": [
+      "podocytes",
+      "glomerulosclerosis-focal-segmental",
+      "apoptosis",
+      "catechin"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42637577",
+    "title": "Urate-lowering therapy modifies associations between urinary urate and kidney outcome",
+    "subtitle": "Renal failure · 2026",
+    "summary": "FEUA × ULT interaction was significant, indicating that the prognostic meaning of FEUA depends on concomitant ULT.CReduced urinary urate excretion was associated with a higher risk for MAKE. ULT modifies the prognostic impact of FEUA, underscoring the clinical relevance of renal urate handling when assessing kidney…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637577/",
+    "tags": [
+      "uric-acid",
+      "hyperuricemia",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42637575",
+    "title": "Natural products against renal fibrosis: molecular mechanisms, safety concerns, and translational perspectives",
+    "subtitle": "Renal failure · 2026",
+    "summary": "A growing body of evidence suggests that flavonoids, alkaloids, terpenoids, glycosides, polyphenols, quinones, and other natural products may exert anti-fibrotic effects by targeting key pathological processes, including inflammation, oxidative stress, mitochondrial dysfunction, metabolic reprogramming, autophagy…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637575/",
+    "tags": [
+      "biological-products",
+      "renal-insufficiency-chronic",
+      "kidney",
+      "phytotherapy"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42635375",
+    "title": "Development and validation of a nomogram to predict 28-day all-cause mortality in sepsis patients complicated by acute kidney injury",
+    "subtitle": "Annals of medicine · 2026",
+    "summary": "Variables possessing non-zero coefficients in the LASSO model were subsequently incorporated into multivariate logistic regression employing backward stepwise elimination to ascertain independent risk factors for 28-day all-cause mortality. Subsequent multivariate logistic regression demonstrated that age, hospital…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42635375/",
+    "tags": [
+      "nomograms",
+      "acute-kidney-injury",
+      "sepsis"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42635106",
+    "title": "Post-procedural access blood flow and repeat endovascular intervention in hemodialysis vascular access: a recurrent-event cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In the primary adjusted model, each 100 mL/min higher post-procedural Qa was associated with a lower hazard of repeat intervention (aHR 0.941, 95% CI 0.896-0.990, = 0.018). Lower post-procedural Qa may serve as a practical hemodynamic marker for post-procedural risk stratification after endovascular intervention.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42635106/",
+    "tags": [
+      "renal-dialysis",
+      "arteriovenous-shunt-surgical",
+      "endovascular-procedures",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42635091",
+    "title": "Early balloon-assisted-maturation does not reduce patency of mature arteriovenous fistulae",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The risk of primary intervention was similar between the BAM and non-BAM groups (adjusted hazard ratio (aHR), 1.25; 95% confidence interval (CI), 0.78-2.01, = 0.346) and the early-BAM and late-BAM groups (aHR, 0.64; 95% CI, 0.32-1.26, = 0.194) at 1 year by regression analysis. Early BAM did not significantly increase…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42635091/",
+    "tags": [
+      "arteriovenous-shunt-surgical",
+      "vascular-patency",
+      "renal-dialysis",
+      "angioplasty-balloon"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42634889",
+    "title": "Geographic miss and stent graft restenosis in hemodialysis access",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In the primary exploratory multivariable model, LGM was associated with both loss of stent graft patency (HR 2.62, 95% CI 1.34-5.12) and loss of access primary patency (HR 2.76, 95% CI 1.50-5.05). Other factors associated with patency outcomes included diabetes mellitus, thrombosis presentation, vessel rupture or…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634889/",
+    "tags": [
+      "renal-dialysis",
+      "stents",
+      "graft-occlusion-vascular",
+      "arteriovenous-shunt-surgical"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42634887",
+    "title": "Integrative transcriptomic and single-cell analysis identifies anoikis-related molecular signatures in vascular calcification",
+    "subtitle": "Renal failure · 2026",
+    "summary": "This study identifies novel anoikis‑related molecular signatures associated with VC. These genes are involved in cell adhesion, VSMC homeostasis, chaperone‑mediated cytoprotection, and matrix remodeling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634887/",
+    "tags": [
+      "anoikis",
+      "vascular-calcification",
+      "transcriptome",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42634875",
+    "title": "Sleep disturbance in CKD: patient‑prioritized outcomes, management, and perceptions - a multicenter mixed-methods study in Australia",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In this cohort, sleep disturbances were common, under-recognised, and inconsistently managed. Management approach does not fully align with patient preferences.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634875/",
+    "tags": [
+      "sleep-wake-disorders",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42634500",
+    "title": "Association of low calf circumference and underweight with sarcopenia in older adults with chronic kidney disease: a cross-sectional study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Low calf circumference and underweight were independently and jointly associated with sarcopenia in community-dwelling older adults with pre-dialysis CKD. Combined assessment of calf circumference and BMI may facilitate sarcopenia identification in older adults with CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634500/",
+    "tags": [
+      "sarcopenia",
+      "renal-insufficiency-chronic",
+      "thinness",
+      "leg"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42634326",
+    "title": "Efficacy and safety of finerenone in adults with IgA nephropathy: a 12-month real-world study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Median 24hUP decreased from 750.0 mg/24h at baseline to 496.0 mg/24h at Month 12 (median reduction 29.7%, = 0.003), with significant reduction observed from Month 6. Finerenone was associated with sustained proteinuria reduction and stable kidney function, with a favorable safety profile over 12 months.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634326/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "proteinuria",
+      "mineralocorticoid-receptor-antagonists"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42619369",
     "title": "Association between the Naples Prognostic Score and the Charlson Comorbidity Index in peritoneal dialysis patients",
     "subtitle": "Renal failure · 2026",
@@ -680,6 +840,36 @@
       "kidney"
     ],
     "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42637263",
+    "title": "Multidimensional nutritional and body-composition phenotypes and their associations with prevalent anaemia and metabolic abnormalities in CKD: protocol for an EHR-based retrospective baseline cross-sectional study with a prospective measurement extension",
+    "subtitle": "BMJ open · 2026",
+    "summary": "Bayesian latent class/profile models will identify phenotypes, and Bayesian regression models will estimate their associations with prevalent anaemia, dyslipidaemia and prevalent diabetes or diabetes-level hyperglycaemia while propagating phenotype-classification uncertainty. The retrospective component will use…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637263/",
+    "tags": [
+      "anemia",
+      "renal-insufficiency-chronic",
+      "body-composition",
+      "nutritional-status"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42635685",
+    "title": "Beyond Acute Kidney Injury : Direct Pathways Implicate Inflammatory Mechanisms in Serum NGAL's Mortality Effect in Acute Brain Injury",
+    "subtitle": "Translational stroke research · 2026",
+    "summary": "High NGAL (≥ 150 ng/mL) was independently associated with in-hospital mortality (adjusted hazard ratio [aHR] 2.94, 95% confidence interval [CI] 1.57-5.51; absolute risk difference 15.0% at 28 days), ICU mortality, 6-month mortality, and worse functional outcomes. These findings indicate that the NGAL-mortality…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42635685/",
+    "tags": [
+      "lipocalin-2",
+      "acute-kidney-injury",
+      "brain-injuries",
+      "inflammation"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2712,6 +2902,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42635112",
+    "title": "Short Pretransplant Dialysis Periods are Clinically Acceptable Without Compromising Kidney Transplant Outcomes: A Japanese Multicenter Study",
+    "subtitle": "International journal of urology : official journal of the Japanese Urological Association · 2026",
+    "summary": "Allograft survival remained unaffected when KT is performed after a short-term dialysis introduction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42635112/",
+    "tags": [
+      "kidney-transplantation",
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "graft-rejection"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42633612",
     "title": "Effect of Pre-Transplant Sensitization on Kidney Allograft Survival Following Simultaneous Liver and Kidney Transplantation: A Decade of Experience from an Academic Transplant Center",
     "subtitle": "Clinical transplantation · 2026",
@@ -4113,207 +4318,6 @@
       "postoperative-complications"
     ],
     "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42524943",
-    "title": "Perioperative albumin versus other fluids to prevent cardiac surgery-associated kidney injury: a systematic review and meta-analysis of randomized trials",
-    "subtitle": "Critical care science · 2026",
-    "summary": "Among patients undergoing on-bypass cardiac surgery, the use of albumin solutions is unlikely to reduce the risk of acute kidney injury. Other interventions need to be considered for this condition.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42524943/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiac-surgical-procedures",
-      "albumins",
-      "fluid-therapy"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42524921",
-    "title": "Robotic kidney autotransplantation with extracorporeal arterial and venous reconstruction for complex ureteral stricture: a technical note",
-    "subtitle": "Revista do Colegio Brasileiro de Cirurgioes · 2026",
-    "summary": "Robotic kidney autotransplantation with extracorporeal vascular reconstruction is a feasible minimally invasive option for carefully selected patients with complex ureteral pathology. This report provides technical insight into the operative strategy and reconstructive steps involved in RKAT.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42524921/",
-    "tags": [
-      "kidney-transplantation",
-      "robotic-surgical-procedures",
-      "ureteral-obstruction",
-      "renal-artery"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42507648",
-    "title": "Risk factors for decline in estimated glomerular filtration rate amongst Malawian adults living in rural Karonga: Protocol for a prospective cohort study using cystatin C- and creatinine-based eGFR",
-    "subtitle": "PloS one · 2026",
-    "summary": "The primary outcome will be sustained 25% reduction in estimated GFR (eGFR) from baseline and change in eGFR category, determined using serum cystatin C. Multivariable logistic regression will be used to determine effect size estimates of key risk factors for kidney function decline. This study will provide important…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42507648/",
-    "tags": [
-      "glomerular-filtration-rate",
-      "cystatin-c",
-      "creatinine",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42503574",
-    "title": "Robot-assisted versus open kidney transplantation: an umbrella review of systematic reviews and meta-analyses",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "Many outcomes were studied such as warm (WIT) and cold ischemia times (CIT), rewarming time, total ischemia time, blood loss, blood transfusion, delayed graft function, surgical site infections (SSI), hospital stay, graft rejection, graft failure, all-cause mortality, operation time, incision length, hospital…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42503574/",
-    "tags": [
-      "kidney-transplantation",
-      "robotic-surgical-procedures"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42509536",
-    "title": "Examining commonly used equations for estimating the glomerular filtration rate (GFR) in a healthy cohort of children and adolescents",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "We found that the EKFC equations, Schwartz, and U25 resulted in eGFR distributions within the expected physiological range for an apparently healthy pediatric cohort. Estimates from simpler equations such as Bedside and CAPA were more prone to implausible results.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42509536/",
-    "tags": [
-      "glomerular-filtration-rate"
-    ],
-    "date": "2026-07-25T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589255",
-    "title": "Combined Assessment of Serum dp-ucMGP and Albumin in Relation to All-Cause and Cardiovascular Mortality in Hemodialysis Patients",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Lower dp-ucMGP levels were associated with worse survival. In multivariable Cox regression, higher dp-ucMGP and albumin were independently associated with lower mortality.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589255/",
-    "tags": [
-      "renal-dialysis",
-      "calcium-binding-proteins",
-      "cardiovascular-diseases",
-      "extracellular-matrix-proteins"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42568471",
-    "title": "The role of gut microbiome disruption in the development of metabolic dysfunction-associated kidney disease",
-    "subtitle": "Acta biochimica Polonica · 2026",
-    "summary": "This review provides an overview of current knowledge regarding the role of the gut microbiota and gut-derived metabolites in the pathogenesis of chronic kidney disease (CKD) associated with metabolic disorders. Accumulating experimental and clinical evidence suggests that dysbiosis may contribute to chronic low-grade…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568471/",
-    "tags": [
-      "gastrointestinal-microbiome",
-      "renal-insufficiency-chronic",
-      "dysbiosis",
-      "metabolic-diseases"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42533353",
-    "title": "Endostatin, chronic kidney disease (CKD) and anemia among older people: a secondary analysis of the screening for CKD among older people across Europe (SCOPE) study",
-    "subtitle": "Journal of translational medicine · 2026",
-    "summary": "These findings suggest that vascular dysfunction may contribute to anemia in older adults and identify endostatin as a potential biomarker of the risk of anemia, particularly among individuals with CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42533353/",
-    "tags": [
-      "anemia",
-      "endostatins",
-      "renal-insufficiency-chronic",
-      "mass-screening"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42528423",
-    "title": "How to Safely Anticoagulate Patients With Renal Impairment",
-    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
-    "summary": "Chronic kidney disease (CKD), a highly prevalent condition worldwide, is associated with increased thrombotic and bleeding risks. Although warfarin and low-molecular-weight heparin are currently recommended in the guidelines, direct oral anticoagulants (DOACs) may offer a favourable profile in mild-to-moderate CKD…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42528423/",
-    "tags": [
-      "anticoagulants",
-      "venous-thromboembolism",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42524359",
-    "title": "The Mechanism and Application of Traditional Chinese Medicine Nano-Formulations in the Treatment of Renal Fibrosis",
-    "subtitle": "International journal of nanomedicine · 2026",
-    "summary": "To achieve this, we summarize the pathogenesis of renal fibrosis, elucidate the principles of renal-targeted nano-delivery (glomerular filtration, tubular reabsorption, and secretion), categorize five classes of nanocarriers with their physicochemical properties and in vivo fate, review the anti-fibrotic mechanisms…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42524359/",
-    "tags": [
-      "drugs-chinese-herbal",
-      "medicine-chinese-traditional",
-      "nanoparticle-drug-delivery-system",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42499101",
-    "title": "Quality assessment of lupus nephritis health information on China's mainstream short-form video platforms: A cross-sectional study",
-    "subtitle": "Medicine · 2026",
-    "summary": "The content on both platforms mainly focused on \"treatment\" and \"symptoms\" while rarely covering topics such as \"prevention\" and \"epidemiology.\" A positive correlation was found between content quality and the professional background of the creator: the median GQS and mDISCERN scores for videos released by…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42499101/",
-    "tags": [
-      "lupus-nephritis",
-      "video-recording",
-      "consumer-health-information"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42499072",
-    "title": "A bibliometric analysis of the pathophysiology of sepsis-associated acute kidney injury from 2015 to 2024",
-    "subtitle": "Medicine · 2026",
-    "summary": "In summary, this research comprehensively analyzed the research status and development trend in the field of the pathophysiology of SA-AKI by bibliometric analysis. The findings can offer valuable information for scholars seeking academic cooperation and identifying future research directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42499072/",
-    "tags": [
-      "bibliometrics",
-      "sepsis",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42499042",
-    "title": "Determinants of uremic pruritus severity among patients undergoing chronic hemodialysis: A cross-sectional study",
-    "subtitle": "Medicine · 2026",
-    "summary": "The severity of itching was assessed using a single-item scale from 0 to 10, with 0 indicating no itching and 10 indicating maximum itching. The prevalence of severe itching among participants was 10.8%, with a mean itching scale score of 2.35 ± 2.85 out of 10.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42499042/",
-    "tags": [
-      "pruritus",
-      "renal-dialysis",
-      "uremia",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42499041",
-    "title": "Tooth loss elevates all-cause and cause-specific mortality in adults with chronic kidney disease: The mediating role of frailty",
-    "subtitle": "Medicine · 2026",
-    "summary": "Greater tooth loss was independently associated with higher all-cause, cardiovascular, and cancer mortality. In US adults with CKD, tooth loss predicts higher mortality; frailty explains ~30% of this association, suggesting that the integration of routine oral health screening and dental interventions with frailty…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42499041/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "tooth-loss",
-      "frailty"
-    ],
-    "date": "2026-07-24T00:00:00.000Z",
     "pinned": false
   }
 ]

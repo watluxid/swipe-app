@@ -29,6 +29,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42637701",
+    "title": "Association between Controlling Nutritional Status (CONUT) score and neurocognitive dysfunction in patients undergoing peritoneal dialysis: a cross-sectional study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Higher CONUT scores were independently associated with poorer neurocognitive performance assessed by the MoCA in patients undergoing PD. The CONUT score may serve as a practical screening tool for identifying patients at increased risk of early neurocognitive dysfunction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637701/",
+    "tags": [
+      "peritoneal-dialysis",
+      "nutritional-status",
+      "malnutrition",
+      "nutrition-assessment"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42637672",
     "title": "Epigallocatechin-3-gallate attenuates oxidative stress and apoptosis in podocytes of focal segmental glomerulosclerosis",
     "subtitle": "Renal failure · 2026",
@@ -756,6 +771,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42640172",
+    "title": "Does Intravenous Iron Improve Survival and Physical Function and Reduce Heart Failure Events in Patients with Chronic Kidney Disease?",
+    "subtitle": "NEJM evidence · 2026",
+    "summary": "However, patients with CKD are at increased risk of heart failure, and the coexistence of both conditions is associated with impaired quality of life, reduced physical function, and increased mortality compared with either condition alone. In this Tomorrow's Trial article, we review current evidence for intravenous…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640172/",
+    "tags": [
+      "heart-failure",
+      "iron",
+      "renal-insufficiency-chronic",
+      "anemia-iron-deficiency"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42615593",
     "title": "How an Inpatient Nephrology Unit Achieved a 90% Reduction in Hospital-Onset Clostridioides difficile Infections",
     "subtitle": "NEJM catalyst innovations in care delivery · 2026",
@@ -825,6 +855,51 @@
       "histones"
     ],
     "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42640878",
+    "title": "Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink",
+    "subtitle": "PLoS medicine · 2026",
+    "summary": "Our study highlights sex-specific differences in disease trajectories following T2D onset, emphasising the need for stratified healthcare interventions. Women exhibited greater vulnerability to mental health conditions post-T2D, while men showed higher proportion of cardiovascular and renal complications, and had…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640878/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "cardiovascular-diseases",
+      "kidney-failure-chronic",
+      "mental-disorders"
+    ],
+    "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42640450",
+    "title": "Liver iron concentration and renal dysfunction in β-thalassemia: a case series and exploratory clinical observations",
+    "subtitle": "Annals of hematology · 2026",
+    "summary": "Three patients with LIC values above 7 mg/g progressed to chronic kidney disease (CKD), a pattern that may point to a possible relationship between higher LIC and adverse renal outcomes; however, given the very small number of patients, the absence of a comparison cohort, and the lack of direct assessment of renal…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640450/",
+    "tags": [
+      "beta-thalassemia",
+      "acute-kidney-injury",
+      "iron",
+      "liver"
+    ],
+    "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42638291",
+    "title": "Common Versus External Iliac Arterial Anastomosis in Kidney Transplantation: A Bicentric Retrospective Analysis of Vascular Complications and Graft Outcomes",
+    "subtitle": "Annals of transplantation · 2026",
+    "summary": "Secondary endpoints included ≥60% vascular stenosis, lymphocele rate, and graft failure at 2 years. CONCLUSIONS In this bicentric retrospective analysis, CI implantation was associated with a higher rate of severe vascular complications, particularly stenosis, and lymphocele, without a significant impact on graft…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42638291/",
+    "tags": [
+      "kidney-transplantation",
+      "iliac-artery",
+      "anastomosis-surgical",
+      "postoperative-complications"
+    ],
+    "date": "2026-08-25T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1287,6 +1362,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42639521",
+    "title": "Probable Renal-Limited Sarcoidosis Presenting With Tubulointerstitial Nephritis Without Granulomas on Renal Biopsy: A diagnostic challenge",
+    "subtitle": "Sultan Qaboos University medical journal · 2026",
+    "summary": "Renal-limited sarcoidosis is a rare manifestation of sarcoidosis which remains a diagnostic challenge due to lack of extra renal manifestation and specific diagnostic criteria. The patient received a course of steroids with subsequent improvement in his symptoms, renal function and renal biopsy inflammatory activity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639521/",
+    "tags": [
+      "sarcoidosis",
+      "nephritis-interstitial"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42615768",
     "title": "Acutely kidney injury in the postoperative period of elective colorectal surgery: assessment of the age influence",
     "subtitle": "Arquivos brasileiros de cirurgia digestiva : ABCD = Brazilian archives of digestive surgery · 2026",
@@ -1355,6 +1443,21 @@
       "education-medical-undergraduate"
     ],
     "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42642199",
+    "title": "[Protective effects and underlying mechanisms of bone marrow mesenchymal stem cells-derived apoptotic extracellular vesicles in acute kidney injury]",
+    "subtitle": "Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery · 2026",
+    "summary": "ApoEV possess higher production yield, enhanced macrophage uptake capacity and superior anti-inflammatory regulatory activity compared with NCEV. Both ApoEV and NCEV can alleviate renal injury in cisplatin-induced AKI, providing experimental evidence supporting the translational application of ApoEV for AKI treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642199/",
+    "tags": [
+      "extracellular-vesicles",
+      "apoptosis",
+      "mesenchymal-stem-cells",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-08-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1917,6 +2020,51 @@
       "transglutaminases"
     ],
     "date": "2026-08-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42639472",
+    "title": "Gut-kidney axis in IgA nephropathy: mechanisms linking microbiota dysbiosis to immune dysregulation, Gd-IgA1 generation, and renal injury",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Under healthy conditions, the gut microbiota supports host homeostasis through immune regulation and barrier maintenance, whereas dysbiosis may trigger systemic immune activation and contribute to the development of IgAN. This review delineates the relationship between gut microbiota and IgAN, explores the mechanisms…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639472/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "dysbiosis",
+      "gastrointestinal-microbiome",
+      "immunoglobulin-a"
+    ],
+    "date": "2026-08-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42638959",
+    "title": "Case Report: Sequential eculizumab and belimumab in a paediatric patient with lupus nephritis and immune complex-mediated renal microangiopathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Sequential eculizumab and belimumab may be potential alternatives for selected paediatric patients with IC-RMA, although further studies are needed to confirm their efficacy and safety.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42638959/",
+    "tags": [
+      "antibodies-monoclonal-humanized",
+      "lupus-nephritis",
+      "antigen-antibody-complex",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-08-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42638941",
+    "title": "Association of HDL2b with chronic kidney disease in type 2 diabetes mellitus populations",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Higher HDL2b, but not total HDL-C or HDL3, is independently associated with lower risk of CKD in T2DM. HDL2b may serve as a sensitive biomarker for early renal risk stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42638941/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic",
+      "lipoproteins-hdl2",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-08-10T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2713,6 +2861,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42637902",
+    "title": "Network analysis of mental health literacy and depressive/anxiety symptoms in patients under maintenance hemodialysis: a cross-sectional study of multicenter data",
+    "subtitle": "Scientific reports · 2026",
+    "summary": "To explore the network structures and gender differences of mental health literacy (MHL) and depressive/anxiety symptoms in maintenance hemodialysis (MHD) patients and identify core symptoms and bridge symptoms. In the bridge symptom analysis, the bridge strength of MHL2 (beliefs) was the highest (0.253), and PHQ3…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637902/",
+    "tags": [
+      "renal-dialysis",
+      "health-literacy",
+      "depression",
+      "anxiety"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42627662",
     "title": "Peritoneal Dialysis-Related Peritonitis and Kidney Transplant Outcomes",
     "subtitle": "JAMA network open · 2026",
@@ -2899,6 +3062,92 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42641018",
+    "title": "Infected wound in a lower extremity hematoma in a patient with thrombocytopenia after renal transplantation",
+    "subtitle": "Wounds : a compendium of clinical research and practice · 2026",
+    "summary": "The successful use of ultrasonic debridement in conjunction with autolytic debridement can not only prevent bleeding during debridement but also effectively remove necrotic tissue, thereby promoting favorable wound healing and enabling patients to resume normal daily life.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42641018/",
+    "tags": [
+      "kidney-transplantation",
+      "hematoma",
+      "debridement",
+      "thrombocytopenia"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42640087",
+    "title": "Are We Winning at Twinning? Persistent CNI Use in Identical Kidney Transplants",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Half of U.S. identical twin kidney transplant recipients receive CNIs at discharge, with no utilization decline over 25 years. This practice is not supported by measurable reductions in rejection or improved graft survival and warrants clinical re-evaluation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640087/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection",
+      "graft-survival",
+      "calcineurin-inhibitors"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42639982",
+    "title": "Combined Liver-Kidney Transplantation in Pediatric Patients From Colombia: A Case Series",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "This first pediatric series from Latin America suggests that combined liver-kidney transplantation is feasible and can achieve favorable long-term patient and graft survival when candidates are appropriately selected and infectious and rejection complications are managed in a protocolized manner.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639982/",
+    "tags": [
+      "kidney-transplantation",
+      "liver-transplantation",
+      "hyperoxaluria-primary",
+      "kidney-diseases-cystic"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42639783",
+    "title": "Efficacy of Yishen Jiangzhuo granules in the treatment of chronic kidney disease stages 3-4: a retrospective cohort study",
+    "subtitle": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan · 2026",
+    "summary": "Yishen Jiangzhuo granules may help stabilize renal function, slow the annual decline rate of eGFR, and reduce the risk of CKD progression in patients with stages 3-4 CKD. The eGFR slope is the most significant predictor of endpoint events, with a critical threshold at －3.6 mL·(1.73 m·min·year).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639783/",
+    "tags": [
+      "drugs-chinese-herbal",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42639782",
+    "title": "Traditional Chinese Medicine related factors of planned dialysis in chronic kidney disease stage 5 patients with type 2 diabetes mellitus: a multicenter cross-sectional study",
+    "subtitle": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan · 2026",
+    "summary": "Male sex, Heart deficiency pattern,deficiency pattern, and Water stagnation pattern were correlated with planned dialysis in CKD5 patients with T2DM. Kidney deficiency pattern and Phlegm turbidity pattern were correlated with CKD5 patients with T2DM who had not yet started planned dialysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639782/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42638165",
+    "title": "HLA-A, -B, and DR Mismatch and Outcomes After Simultaneous Pancreas-Kidney Transplantation in the Modern Era",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In first-time simultaneous pancreas-kidney transplantation, donor-recipient HLA mismatch was not associated with pancreas or kidney graft survival, rejection, or early renal function. These findings contrast with kidney-alone transplantation and suggest that classical HLA mismatch effects may be attenuated in the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42638165/",
+    "tags": [
+      "pancreas-transplantation",
+      "kidney-transplantation",
+      "graft-rejection",
+      "hla-b-antigens"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4076,248 +4325,6 @@
       "adrenal-cortex-hormones"
     ],
     "date": "2026-07-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42591115",
-    "title": "Cascade of opportunistic infections in focal segmental glomerulosclerosis under dual immunosuppressive therapy: a case report",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This case illustrates how prolonged combined corticosteroid and calcineurin inhibitor therapy in FSGS can precipitate a cascade of severe opportunistic infections, emphasizing the need for early pathogen-specific prophylaxis, vaccination, systematic infection surveillance, and dynamic reassessment of cumulative…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591115/",
-    "tags": [
-      "glomerulosclerosis-focal-segmental",
-      "opportunistic-infections",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-07-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589446",
-    "title": "Characterizing Properdin-Inhibited C3 Nephritic Factors in Patients with Complement-Mediated Kidney Diseases",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "In 7/16 patients and 1/23 healthy controls, who showed no convertase stabilization in full serum, convertase stabilization was observed upon properdin inhibition, indicating properdin-inhibited C3NeF activity. Moreover, in an ELISA-based C3bBb binding assay, 6/7 patients with properdin-inhibited C3NeFs showed…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589446/",
-    "tags": [
-      "properdin",
-      "complement-c3-nephritic-factor",
-      "glomerulonephritis-membranoproliferative",
-      "complement-c3"
-    ],
-    "date": "2026-07-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42544269",
-    "title": "Development and Internal Validation of Machine Learning-Based Risk Prediction Models for Depression in Older Adults Undergoing Maintenance Hemodialysis",
-    "subtitle": "Clinical interventions in aging · 2026",
-    "summary": "We identified five key predictors and developed internally validated machine learning models for depression risk screening in older MHD patients. The models require external validation before clinical application.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42544269/",
-    "tags": [
-      "renal-dialysis",
-      "depression",
-      "machine-learning"
-    ],
-    "date": "2026-07-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42529977",
-    "title": "Development and Internal Validation of the Soluble ST2, Age, and Estimated Glomerular Filtration Rate-Heart Failure Score for Predicting 30-Day Major Adverse Cardiovascular Events After Heart Failure Hospitalization in a Two-Center Vietnamese Cohort: Prospective Cohort Study",
-    "subtitle": "JMIR cardio · 2026",
-    "summary": "The SAGE-HF score, incorporating age, sST2, and estimated glomerular filtration rate, demonstrated acceptable performance for predicting 30-day MACE after HF hospitalization and may support early risk stratification, pending external validation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42529977/",
-    "tags": [
-      "heart-failure",
-      "interleukin-1-receptor-like-1-protein",
-      "glomerular-filtration-rate"
-    ],
-    "date": "2026-07-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42527037",
-    "title": "The pneumonia that wasn't: evolving pulmonary-renal syndrome in microscopic polyangiitis",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Renal biopsy demonstrated pauci-immune necrotising crescentic glomerulonephritis. Prompt ANCA testing and tissue biopsy are critical for diagnosis; early recognition and treatment of MPA can prevent end-organ damage.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42527037/",
-    "tags": [
-      "microscopic-polyangiitis",
-      "glomerulonephritis",
-      "pneumonia"
-    ],
-    "date": "2026-07-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42626530",
-    "title": "Retrospective cohort study of epitope-based virtual crossmatch allocation in a public transplant system (Pernambuco, Brazil)",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Among highly sensitized candidates (cPRA ≥80%), the estimated probability of transplantation at 12 months was 17% in the EpViX era compared with 3% in the pre-EpViX era. An allocation strategy incorporating an epitope-informed definition of unacceptable antigens was associated with greater access to deceased-donor…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626530/",
-    "tags": [
-      "kidney-transplantation",
-      "histocompatibility-testing",
-      "epitopes",
-      "hla-antigens"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42612128",
-    "title": "Network Pharmacology, Machine Learning, and In Vivo Validation of Danzhi Jiangtang Capsule in Diabetic Nephropathy",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "The Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform (TCMSP) and the Bioinformatics Analysis Tool for Molecular Mechanism of Traditional Chinese Medicine (BATMAN-TCM) were used to screen bioactive ingredients and their corresponding protein targets of DJC. These findings suggest that…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42612128/",
-    "tags": [
-      "diabetic-nephropathies",
-      "drugs-chinese-herbal",
-      "network-pharmacology",
-      "machine-learning"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42612123",
-    "title": "Specnuezhenide Ameliorates Diabetic Nephropathy in db/db Mice via Nrf2, A20/NF-κB, and Gut Microbiota Regulation",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "Compared with the model control, Specnuezhenide improved renal function in db/db mice, reducing blood glucose (from 37.13 mmol/L to 28.96 mmol/L), blood urea nitrogen (from 18.27 mmol/L to 15.15 mmol/L), and urinary protein (from 28.5 mg to 20.41 mg) in the high-dose group. Specnuezhenide can upregulate the expression…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42612123/",
-    "tags": [
-      "diabetic-nephropathies",
-      "gastrointestinal-microbiome"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589403",
-    "title": "Withania somnifera-Functionalized Selenium Nanoparticles Attenuate Glycerol-Induced Rhabdomyolysis-Associated Acute Renal Failure",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Thirty-five male rats were assigned to Control, ARF, ARF & Ws, ARF & selenium, and ARF & Ws-SeNPs. These findings indicate that Ws-SeNPs provide multi-target protection against glycerol-induced rhabdomyolysis-associated renal injury and may represent a promising phytochemical-based selenium nanoformulation for further…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589403/",
-    "tags": [
-      "acute-kidney-injury",
-      "selenium",
-      "rhabdomyolysis",
-      "glycerol"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589383",
-    "title": "Mechanisms and Determinants of CMV Reactivation in Kidney Transplantation",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "In this review, we summarize current molecular and immunologic mechanisms governing CMV latency and reactivation with a focus on how immunosuppressive strategies and injury-associated pathways converge to promote CMV reactivation. We also discuss implications of risk stratification and the development of targeted…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589383/",
-    "tags": [
-      "kidney-transplantation",
-      "virus-activation",
-      "cytomegalovirus-infections",
-      "cytomegalovirus"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42582801",
-    "title": "Risk stratification for immune checkpoint inhibitor rechallenge after acute kidney injury: towards a precision medicine framework",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "In this review, we synthesize recent evidence on risk factors for ICI-AKI recurrence, including clinical parameters (acute kidney injury (AKI) severity, renal recovery status, extra-renal immune-related adverse events (irAEs), concomitant medications, and immune checkpoint inhibitor (ICI) regimen), pathological…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42582801/",
-    "tags": [
-      "acute-kidney-injury",
-      "immune-checkpoint-inhibitors",
-      "precision-medicine"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42582167",
-    "title": "Development and internal validation of a machine-learning-based risk identification model for diabetic kidney disease in patients with type 2 diabetes",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "The interpretable logistic regression model built on routine non-invasive clinical indicators reliably identifies DKD risk in T2DM patients. Glycemic control and renal injury biomarkers serve as core predictive factors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42582167/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "diabetic-nephropathies",
-      "machine-learning"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42581347",
-    "title": "Diagnostic performance and inter-observer reproducibility of glomerular PLA2R immunohistochemistry in primary membranous nephropathy: a multi-laboratory blinded observer study",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "PLA2R IHC provides clinically useful diagnostic information for PLA2R-associated MN, but performance and reproducibility are protocol-dependent and were optimized at different cut-offs. Laboratories should therefore validate both dimensions locally rather than adopting a single fixed cut-off.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581347/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "receptors-phospholipase-a2",
-      "immunohistochemistry",
-      "kidney-glomerulus"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42515854",
-    "title": "Prevalence and Risk Factors of Hepatic Steatosis in Kidney Transplant Recipients",
-    "subtitle": "Annals of transplantation · 2026",
-    "summary": "Patients in the dnHS group had significantly higher body mass index (BMI) before (25.5±3.29 vs 23.26±3.55 kg/m²; P<0.001) and after KTx (27.86±4.06 vs 24.71±3.69 kg/m²; P<0.001), and dnHS was associated with higher rates of hyperlipidemia (77.3% vs 54.2%; P=0.012), hyperuricemia (52.3% vs 28.9%; P=0.009), and ischemic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42515854/",
-    "tags": [
-      "kidney-transplantation",
-      "fatty-liver"
-    ],
-    "date": "2026-07-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42608399",
-    "title": "Large language model driven multicenter prediction and explainable risk attribution of acute kidney injury",
-    "subtitle": "Nature communications · 2026",
-    "summary": "We conduct a multi-center retrospective cohort study and develop a two-model large language model framework: AKI-PM (Prediction Model) for predicting AKI occurrence within 24 hours and AKI-RAM (Risk Attribution Model) for providing explainable risk attribution. Using a cohort of 140,637 hospital admissions across four…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608399/",
-    "tags": [
-      "acute-kidney-injury"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589335",
-    "title": "Photobiomodulation Improves Kidney Function and Attenuates Oxidative Stress and Inflammation in a Male Wistar Rat Model of Diabetic Kidney Disease",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "DKD animals showed impaired kidney function, increased oxidative stress, and elevated inflammatory markers. PBM improves kidney function and modulates redox and inflammatory pathways in experimental DKD, supporting its potential as a non-invasive adjunct therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589335/",
-    "tags": [
-      "oxidative-stress",
-      "kidney",
-      "low-level-light-therapy",
-      "inflammation"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42540682",
-    "title": "Acute Kidney Injury After Cardiac Surgery in Low- and Middle-Income Countries",
-    "subtitle": "Annals of global health · 2026",
-    "summary": "While reported incidence appears broadly similar across high-income countries (HICs) and low- and middle-income countries (LMICs), emerging evidence suggests marked disparities in severity at presentation and clinical outcomes.To compare the epidemiology, severity, outcomes, and health-system determinants of CSA-AKI…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42540682/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiac-surgical-procedures",
-      "developing-countries",
-      "postoperative-complications"
-    ],
-    "date": "2026-07-27T00:00:00.000Z",
     "pinned": false
   }
 ]

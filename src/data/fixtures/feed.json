@@ -29,6 +29,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42661506",
+    "title": "Recipient-driven and donor-driven determinants of delayed graft function in paired kidney transplantation: evidence from a Chinese cohort",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Among kidney recipients from the same donor, higher BMI, longer dialysis duration, and greater HLA mismatch independently predicted DGF when outcomes were discordant. Conversely, donor-related factors, higher terminal creatinine, longer hypertension duration, and prolonged warm ischemia drove DGF in both recipients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661506/",
+    "tags": [
+      "delayed-graft-function",
+      "kidney-transplantation",
+      "tissue-donors",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42661344",
+    "title": "Genetic overlap between estimated glomerular filtration rate and cardiovascular disease identifies potential targets for cardiorenal syndrome",
+    "subtitle": "Renal failure · 2026",
+    "summary": "We analyzed genetic data from large-scale studies to investigate how kidney function (estimated glomerular filtration rate, eGFR) and six common cardiovascular diseases share genetic risk factors. Among these, genetically predicted higher level of IGF1R expression is associated with a higher eGFR, which reflects good…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661344/",
+    "tags": [
+      "cardio-renal-syndrome",
+      "glomerular-filtration-rate",
+      "cardiovascular-diseases"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42661327",
+    "title": "Epidemiological characteristics and factors associated with chronic kidney disease-associated pruritus in the Chinese adult dialysis population: a multicenter, cross-sectional study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The prevalence of pruritus, moderate-to-severe pruritus, and severe pruritus in hemodialysis (HD) patients was 59.9%, 16.0%, and 3.4%, respectively. The prevalence of pruritus, moderate-to-severe pruritus, and severe pruritus in peritoneal dialysis (PD) patients was 61.8%, 14.1%, and 2.8%, respectively.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661327/",
+    "tags": [
+      "pruritus",
+      "renal-dialysis",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42655969",
     "title": "Weight-adjusted waist index and risk of cardiovascular and all-cause mortality in chronic kidney disease: NHANES 2005-2018 analysis of 5,381 adults",
     "subtitle": "Renal failure · 2026",
@@ -887,6 +930,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42661042",
+    "title": "Lateral Flow Assay to detect CXCL10 as a diagnose-supporting biomarker for Polyomavirus-associated Nephropathy (PVAN) after kidney transplantation (KTx)",
+    "subtitle": "Scientific reports · 2026",
+    "summary": "There is an urgent need for non-invasive biomarker tests to narrow down the number of patients who require a transplant biopsy to confirm PVAN. The chemokine CXCL10 was significantly elevated in urine samples from kidney transplant recipients (KTR) with biopsy-confirmed PVAN compared to KTRs with a protocol biopsy…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661042/",
+    "tags": [
+      "kidney-transplantation",
+      "chemokine-cxcl10",
+      "kidney-diseases",
+      "polyomavirus-infections"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42658370",
+    "title": "Fragility fractures and risk factors in a peritoneal dialysis setting",
+    "subtitle": "Archives of osteoporosis · 2026",
+    "summary": "Patients treated with PD experience a high burden of fragility fractures, largely driven by unrecognized vertebral fractures. Fracture risk is independently associated with prior fractures and vascular calcification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42658370/",
+    "tags": [
+      "peritoneal-dialysis",
+      "spinal-fractures",
+      "osteoporotic-fractures"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42658356",
+    "title": "Lactylation: A central metabolic-epigenetic driver of sepsis-associated acute kidney injury",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "In SA-AKI, lactylation orchestrates a multifaceted pathological cascade: it reprograms immune responses (e.g., altering macrophage polarization), disrupts tubular cell fate (e.g., inducing mitochondrial dysfunction), and compromises microvascular integrity. This mechanism provides a new framework for understanding…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42658356/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "epigenesis-genetic"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42647570",
     "title": "Referral patterns in the CKD.QLD Registry: A call for revisiting the definition of late referral",
     "subtitle": "PloS one · 2026",
@@ -1073,6 +1159,21 @@
       "kidney"
     ],
     "date": "2026-08-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42659450",
+    "title": "Assessment of predictive factors for acute kidney injury after thrombectomy using AngioJet for iliofemoral deep vein thrombosis",
+    "subtitle": "Einstein (Sao Paulo, Brazil) · 2026",
+    "summary": "A relationship between the use of AngioJet and the development of AKI was noted. Independent risk factors for AKI were hemoglobin <10mg/dL in the immediate postoperative period, a 2-point decrease in hemoglobin level immediately after surgery, history of previous major surgery, and glomerular filtration rate…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659450/",
+    "tags": [
+      "venous-thrombosis",
+      "acute-kidney-injury",
+      "thrombectomy",
+      "iliac-vein"
+    ],
+    "date": "2026-08-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1957,6 +2058,32 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-08-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42662505",
+    "title": "CD8(+) T cell heterogeneity and function in lupus nephritis: a focused review",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "We synthesize current evidence into a unified blood-kidney-urine circuit model, in which systemic priming of circulating CD8T pools is followed by renal recruitment, tissue retention and functional reprogramming of kidney-infiltrating populations, cytotoxic and inflammatory tissue injury, and subsequent release of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42662505/",
+    "tags": [
+      "lupus-nephritis",
+      "cd8-positive-t-lymphocytes"
+    ],
+    "date": "2026-08-13T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42661735",
+    "title": "Findings and significance of early follow-up biopsies after treatment of acute rejection in kidney transplant recipients",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Findings from follow-up biopsies taken ≤45 days after treatment of early acute rejection were correlated with graft outcomes. Persistent histologic rejection within 45 days was associated with inferior long-term graft survival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661735/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection"
+    ],
+    "date": "2026-08-13T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3117,6 +3244,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42661185",
+    "title": "A young male with kidney damage from genetic mitochondrial disease: case report and literature review",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "The UUR gene is an important tRNA gene in mtDNA. Its mutation can lead to mitochondrial dysfunction and cause a variety of diseases.The family history of patients with concurrent ear and renal diseases should be assessed in detail.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661185/",
+    "tags": [
+      "glomerulosclerosis-focal-segmental",
+      "rna-transfer",
+      "mitochondrial-diseases",
+      "nephritis-hereditary"
+    ],
+    "date": "2026-08-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42614569",
     "title": "Acquired immune-mediated thrombotic thrombocytopenic purpura with severe cholestatic liver injury and reversible acute kidney injury after ivonescimab-containing chemoimmunotherapy: a case report and literature review",
     "subtitle": "Frontiers in immunology · 2026",
@@ -3330,6 +3472,20 @@
       "continuous-renal-replacement-therapy"
     ],
     "date": "2026-08-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42658493",
+    "title": "Early Sodium-Glucose Cotransporter-2 Inhibitor Use After Acute Kidney Injury in Type 2 Diabetes",
+    "subtitle": "JAMA network open · 2026",
+    "summary": "In adults with type 2 diabetes recovering from AKI-D, SGLT-2 inhibitor prescription within 30 days after discharge was associated with fewer adverse kidney events than prescription at 31 to 90 days, without significant differences in mortality, cardiovascular events, or recorded short-term safety outcomes. These…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42658493/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "sodium-glucose-transporter-2-inhibitors",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3548,6 +3704,21 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42663549",
+    "title": "Trends and Disparities in High-Risk Nonsteroidal Anti-Inflammatory Drug Utilization",
+    "subtitle": "The American journal of managed care · 2026",
+    "summary": "Despite a modest decline during the first 2 years of the pandemic, NSAID use remains prevalent among patients with CKD, HF, and/or HTN, especially in rural areas and among women. Results highlight the need for tailored deprescribing efforts.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663549/",
+    "tags": [
+      "anti-inflammatory-agents-non-steroidal",
+      "renal-insufficiency-chronic",
+      "covid-19",
+      "heart-failure"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4158,176 +4329,6 @@
       "blood-urea-nitrogen",
       "kidney-failure-chronic",
       "creatinine"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42563336",
-    "title": "Frequency of Crescentic Glomerulonephritis in Adults Presenting with Acute Kidney Injury",
-    "subtitle": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP · 2026",
-    "summary": "The study identified a significant but low prevalence of CRGN (8%) among AKI patients. This finding provides a crucial insight into the burden of CRGN in a developing country such as Pakistan, highlighting the need for heightened clinical awareness and diagnostic vigilance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42563336/",
-    "tags": [
-      "acute-kidney-injury",
-      "glomerulonephritis",
-      "kidney"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42559978",
-    "title": "Burden of Chronic Kidney Disease in Asia From 1990 to 2023: A Global Burden of Disease Study 2023",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "Although CKD is often considered uniform in Asia, our findings reveal distinct subregional drivers. Effective CKD control requires a shift from aggregated targets to precision- and region-specific strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559978/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "global-burden-of-disease"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42559939",
-    "title": "Perillaldehyde Attenuates Diabetic Nephropathy through Modulation of the Nrf2/Keap1 and NF-κB Signalling Pathways",
-    "subtitle": "Cell biology international · 2026",
-    "summary": "PA pre-treatment of NRK-52E cells under high-glucose conditions resulted in a significant reduction of reactive oxygen species formation, up-regulation of nuclear factor erythroid 2-related factor 2 (Nrf2), suppression of Kelch-like ECH-associated protein 1 (Keap1), and elevation of antioxidant enzyme biomarkers, such…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559939/",
-    "tags": [
-      "diabetic-nephropathies",
-      "kelch-like-ech-associated-protein-1",
-      "nf-e2-related-factor-2",
-      "nf-kappa-b"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42557541",
-    "title": "Plasma Exchange in Myeloma-Associated Acute Kidney Injury: A Multicenter Propensity-Matched Cohort Study",
-    "subtitle": "Journal of clinical apheresis · 2026",
-    "summary": "Secondary outcomes included dialysis dependence at 180 days, mortality, renal recovery (creatinine < 2.0 mg/dL), ICU admission within 7 days, and dialysis-free survival. PLEX was not associated with improved dialysis independence or survival, supporting rapid initiation of effective anti-myeloma therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42557541/",
-    "tags": [
-      "multiple-myeloma",
-      "acute-kidney-injury",
-      "plasma-exchange"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42557087",
-    "title": "[Relationship between advanced lung cancer inflammation index and pathological activity index in lupus nephritis and its predictive value]",
-    "subtitle": "Zhonghua nei ke za zhi · 2026",
-    "summary": "Multivariate logistic regression analysis showed that the 2000 Systemic Lupus Erythematosus Disease Activity Index (SLEDAI-2K) score (=5.54,<0.001) and serum creatinine (=1.01,=0.007) were risk factors for moderate-to-severe AI; whereas hemoglobin (=0.98,=0.001) and ALI (=0.97,0.048) were protective factors. The…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42557087/",
-    "tags": [
-      "lupus-nephritis",
-      "lung-neoplasms"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42557084",
-    "title": "[Expert suggestions on clinical practice for telitacicept in the treatment of IgA nephropathy (2026 edition)]",
-    "subtitle": "Zhonghua nei ke za zhi · 2026",
-    "summary": "Preliminary findings from clinical trials and real-world studies have shown that telitacicept can significantly reduce proteinuria, stabilize kidney function, and is generally well-tolerated with a favorable safety profile. This suggestion document aims to provide clinicians with scientific recommendations regarding…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42557084/",
-    "tags": [
-      "glomerulonephritis-iga"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42556852",
-    "title": "The ELAVL1-PLAUR-suPAR Axis Exacerbates Diabetic Nephropathy by Promoting Podocyte Injury and Inflammation",
-    "subtitle": "Journal of diabetes · 2026",
-    "summary": "Hyperglycemia-induced ELAVL1 upregulates PLAUR and suPAR release from podocytes, promoting renal inflammation and injury. Targeting the ELAVL1-PLAUR-suPAR axis may offer a therapeutic strategy for DN.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42556852/",
-    "tags": [
-      "podocytes",
-      "diabetic-nephropathies",
-      "elav-like-protein-1",
-      "inflammation"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42555277",
-    "title": "Preoperative Computed Tomography Aortic Calcification and Attenuation of the Vertebral Body Predict Fractures Post-Kidney Transplantation Using Machine Learning",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Pre-transplant lower vertebral trabecular bone attenuation and higher aortic calcification on CT are strongly associated with post-transplant fractures.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42555277/",
-    "tags": [
-      "kidney-transplantation",
-      "tomography-x-ray-computed",
-      "vascular-calcification",
-      "machine-learning"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42549673",
-    "title": "Physical Activity Across the Clinical Trajectory of Chronic Kidney Disease and in Patients Undergoing Peritoneal Dialysis: A Cross-Sectional Study Using Accelerometry",
-    "subtitle": "Geriatrics & gerontology international · 2026",
-    "summary": "Physical activity declined with CKD progression, reaching low levels among patients undergoing PD. In this group, exercise self-efficacy was associated with physical activity, suggesting its relevance when developing strategies to support activity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42549673/",
-    "tags": [
-      "peritoneal-dialysis",
-      "accelerometry",
-      "exercise",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42547459",
-    "title": "Antibody Responses Against Swine Leukocyte Antigens Contribute to Early Rejection After Pig-To-Monkey Kidney Xenotransplantation",
-    "subtitle": "HLA · 2026",
-    "summary": "In our recent kidney xenotransplantation study in rhesus monkeys using GTKO/hCD55 or GTKO/β4GalNT2KO/hCD55/hTBM pigs as donors, 5 of 13 recipients experienced early AMR accompanied by a marked increase in anti-donor pig antibodies. These results demonstrate that induced anti-SLA antibodies can be generated in the…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42547459/",
-    "tags": [
-      "kidney-transplantation",
-      "graft-rejection",
-      "histocompatibility-antigens-class-i",
-      "histocompatibility-antigens-class-ii"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42544710",
-    "title": "Aligning Words With What Matters: Evaluation of a Nationwide Sample of Pediatric Kidney Transplant Educational Materials",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "There are important opportunities to enhance transplant educational materials by tailoring content to children, increasing accessibility, and more consistently and comprehensively addressing concerns about life participation after transplant.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42544710/",
-    "tags": [
-      "kidney-transplantation",
-      "patient-education-as-topic",
-      "teaching-materials"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42543789",
-    "title": "Persistent Haematuria Is Associated With Reduced Kidney Survival in Primary Podocytopathies",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "Persistent haematuria is prevalent among patients with podocytopathies and is significantly and independently associated with ESKD. Urinalysis, including microscopic haematuria assessment, is widely available and inexpensive, providing a valuable data point to help formulate patient prognosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42543789/",
-    "tags": [
-      "hematuria",
-      "kidney-failure-chronic",
-      "glomerulonephritis-membranous",
-      "glomerulosclerosis-focal-segmental"
     ],
     "date": "2026-08-01T00:00:00.000Z",
     "pinned": false

@@ -930,6 +930,77 @@
     "pinned": false
   },
   {
+    "id": "pmid-42665834",
+    "title": "Efficacy and safety of SP16 in preventing acute kidney injury in at-risk subjects with chronic kidney disease undergoing elective cardiac surgery using the heart-lung-machine (EASE-AKI): study protocol for a prospective, randomised, double-blind, placebo-controlled clinical trial",
+    "subtitle": "Trials · 2026",
+    "summary": "The primary objective of this phase IIa trial is to demonstrate that injection of SP16 is safe and superior to placebo in preventing cardiac surgery-associated acute kidney injury within 7 days after surgery. This single-centre phase IIa trial will assess the incidence of cardiac surgery-associated acute kidney…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665834/",
+    "tags": [
+      "acute-kidney-injury",
+      "renal-insufficiency-chronic",
+      "cardiac-surgical-procedures",
+      "cardiopulmonary-bypass"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42665799",
+    "title": "Albumin redox status in the context of kidney transplantation - an observational, pilot study",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "While kidney function was restored rapidly after kidney transplantation, ARS followed a slower and more variable recovery pattern, suggesting that factors beyond renal function may influence albumin redox state. Further research is needed to determine its clinical relevance and potential implications for transplant…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665799/",
+    "tags": [
+      "kidney-transplantation",
+      "serum-albumin",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42665796",
+    "title": "Study protocol for a target trial emulation: CHoosing the right diAlysis Modality in clinical PractIce: hemOdiafiltratioN or hemodialysis (CHAMPION)",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "We will use a target trial emulation approach with a clone-censor-weight design and marginal structural models, controlling for selection bias, survivor bias, and competing risk bias. In addition to randomized studies, prior large observational studies have indicated a survival benefit for hemodiafiltration, as well…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665796/",
+    "tags": [
+      "hemodiafiltration",
+      "renal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42664364",
+    "title": "Patient characteristics associated with the need for high doses of tenapanor hydrochloride in dialysis patients with hyperphosphatemia: A pooled analysis of three clinical trials",
+    "subtitle": "PloS one · 2026",
+    "summary": "The original clinical trials were registered at ClinicalTrials.gov under the identifiers NCT04767581, NCT04766398, and NCT04766385.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42664364/",
+    "tags": [
+      "renal-dialysis",
+      "hyperphosphatemia",
+      "sulfonamides"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42665855",
+    "title": "Serum IL-38 and the rs7599662 polymorphism: novel biomarkers for pediatric idiopathic nephrotic syndrome",
+    "subtitle": "Italian journal of pediatrics · 2026",
+    "summary": "This first report of reduced serum IL-38 and the rs7599662 polymorphism in pediatric INS suggests a role for impaired anti-inflammatory responses in disease pathogenesis. Serum IL-38 shows promise as a diagnostic biomarker and may reflect disease pathophysiology, but does not predict steroid responsiveness.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665855/",
+    "tags": [
+      "nephrotic-syndrome",
+      "interleukins",
+      "polymorphism-genetic"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42661042",
     "title": "Lateral Flow Assay to detect CXCL10 as a diagnose-supporting biomarker for Polyomavirus-associated Nephropathy (PVAN) after kidney transplantation (KTx)",
     "subtitle": "Scientific reports · 2026",
@@ -1433,6 +1504,21 @@
       "polycystic-kidney-autosomal-dominant"
     ],
     "date": "2026-08-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42665802",
+    "title": "Gender disparity in access to care across the continuum of chronic kidney disease: a systematic review",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Sex and gender-based inequities systematically disadvantage women across the entire CKD care continuum. These findings highlight the need to integrate policies to ensure gender-equity in the management of CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665802/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "healthcare-disparities",
+      "health-services-accessibility",
+      "continuity-of-patient-care"
+    ],
+    "date": "2026-08-19T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3475,6 +3561,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42665791",
+    "title": "Presumably recurrent Ureaplasma parvum infection in a female peritoneal dialysis patient: a case report and literature review",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Patients with recurrent culture-negative PDAP, especially female with an IUD, should be evaluated for U. parvum infection as a potential pathogen. mNGS facilitates the rapid detection of pathogens that traditional methods may fail to identify. Effective management of such infections necessitates not only targeted…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665791/",
+    "tags": [
+      "ureaplasma-infections",
+      "ureaplasma",
+      "peritonitis",
+      "peritoneal-dialysis-continuous-ambulatory"
+    ],
+    "date": "2026-08-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42658493",
     "title": "Early Sodium-Glucose Cotransporter-2 Inhibitor Use After Acute Kidney Injury in Type 2 Diabetes",
     "subtitle": "JAMA network open · 2026",
@@ -3704,6 +3805,33 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42663991",
+    "title": "Nutrition Supplements and Serum Albumin in Hemodialysis: A Meta-Analysis",
+    "subtitle": "The American journal of managed care · 2026",
+    "summary": "ONS/IDPN significantly improved serum albumin in this random-effects meta-analysis model, and findings were consistent in the fixed-effects model. It can be concluded that ONS/IDPN improves serum albumin levels, which can serve as a marker of malnutrition risk in patients on maintenance HD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663991/",
+    "tags": [
+      "renal-dialysis",
+      "serum-albumin",
+      "dietary-supplements",
+      "parenteral-nutrition"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42663981",
+    "title": "Modeling chronic kidney disease progression using a continuous-time multistate Markov model: Transition dynamics and covariate effects",
+    "subtitle": "The Journal of international medical research · 2026",
+    "summary": "Diabetes, hypertension, and cardiovascular disease were the primary factors associated with chronic kidney disease progression. Mean sojourn times and next-state probabilities complemented transition intensities by describing the expected duration of each chronic kidney disease stage and the likelihood of subsequent…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663981/",
+    "tags": [
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4197,138 +4325,6 @@
       "drug-monitoring",
       "anti-bacterial-agents",
       "acute-kidney-injury"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42583771",
-    "title": "Beyond the Transplant: Chronic Kidney Disease in Pediatric Hematopoietic Stem Cell Transplant Survivors-A 20-Year Single-Center Cohort Study",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "CKD affects a substantial and growing proportion of pediatric HSCT survivors in this cohort, particularly those transplanted at older ages. These findings are associative rather than causal, given the retrospective, single-center design and limited number of CKD events.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42583771/",
-    "tags": [
-      "hematopoietic-stem-cell-transplantation",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42579333",
-    "title": "Kidney-Targeted Biomimetic Nanoparticles Loaded With Apolipoprotein H Alleviate Sepsis-Associated Acute Kidney Injury by Inhibiting the TLR4/NF-κB Pathway",
-    "subtitle": "Journal of biomedical materials research. Part A · 2026",
-    "summary": "In this study, we constructed a biomimetic delivery system (KMA@rAPOH) consisting of A@rAPOH nanoparticles coated with kidney-targeting peptide-functionalized renal tubular epithelial cell membranes to realize targeted rAPOH delivery for SA-AKI therapy. These observations indicate that the TLR4/NF-κB cascade may…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579333/",
-    "tags": [
-      "acute-kidney-injury",
-      "sepsis",
-      "toll-like-receptor-4",
-      "nanoparticles"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42579331",
-    "title": "Pre-Transplant Left Atrial Volume Index and One-Year Morbidity After Kidney Transplantation",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Pre-transplant LAVI >34 mL/mwas associated with a higher burden of one-year post-transplant morbidity, with a graded relationship across severity. No individual complication category reached significance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579331/",
-    "tags": [
-      "kidney-transplantation",
-      "heart-atria",
-      "postoperative-complications",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42578307",
-    "title": "How Well Do \"Dr. Google\" and \"Professor YouTube\" Answer Health Questions for Pediatric Kidney Transplant Recipients and Caregivers?",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Online searches generated limited high-quality resources tailored to pediatric needs. Healthcare providers should guide families to vetted resources and consider co-creating materials to improve relevance and impact.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42578307/",
-    "tags": [
-      "kidney-transplantation",
-      "caregivers",
-      "patient-education-as-topic",
-      "social-media"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42576566",
-    "title": "Machine Perfusion and Mitigating Risk Factors for Delayed Graft Function in Pediatric Kidney Transplant Recipients",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Increased WIT increases the risk of DGF in pediatric kidney transplant recipients, whereas MP appears to be protective against DGF and may ameliorate the adverse effect of CIT. DGF was rare in the cohort and further studies are necessary due to the low incidence of DGF.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42576566/",
-    "tags": [
-      "kidney-transplantation",
-      "delayed-graft-function",
-      "perfusion",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42576332",
-    "title": "CD4- and CD8-to-Total Lymphocyte Ratios to Guide Rabbit Anti-Thymocyte Globulin Induction in Kidney Transplant Recipients: A Single-Center Feasibility Study",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "CD4/TLC- and CD8/TLC-guided rATG dosing was feasible and achieved predefined immunologic targets with low cumulative rATG exposure in this cohort. These findings support prospective controlled studies to evaluate the clinical utility, safety, and comparative effectiveness of this individualized dosing strategy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42576332/",
-    "tags": [
-      "kidney-transplantation",
-      "antilymphocyte-serum",
-      "graft-rejection",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42573133",
-    "title": "Hypothermic Machine Perfusion in Deceased Donor Kidney Transplantation: Provider and Transplant Center Practices and Perspectives",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "HMP is used as a tool to assess organ viability and to overcome logistical hurdles by improving flexibility in operative timing. OPOs play a critical role in the ability to perform HMP.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42573133/",
-    "tags": [
-      "kidney-transplantation",
-      "organ-preservation",
-      "perfusion",
-      "tissue-donors"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42573011",
-    "title": "O-Glycosylation of E-Cadherin Induced by Endoplasmic Reticulum Stress Negatively Regulates Cell Polarity and Proliferation in Acute Kidney Injury",
-    "subtitle": "Journal of biochemical and molecular toxicology · 2026",
-    "summary": "Together, these results establish ER stress‑driven E‑cadherin O‑glycosylation as a critical upstream event in AKI‑associated tubular repair failure and suggest that targeting this axis holds therapeutic promise. These findings establish ER stress-driven E-cadherin O-glycosylation as a critical upstream mechanism of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42573011/",
-    "tags": [
-      "acute-kidney-injury",
-      "endoplasmic-reticulum-stress",
-      "cadherins",
-      "cell-proliferation"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42570669",
-    "title": "Increased Blood Urea Nitrogen-To-Creatinine Ratio is an Independent Predictor of Mortality in Patients with End-Stage Renal Disease",
-    "subtitle": "Clinical laboratory · 2026",
-    "summary": "BCR serves as an independent predictor of all-cause mortality risk in patients with ESRD and may provide a novel reference index for clinical prognosis assessment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42570669/",
-    "tags": [
-      "blood-urea-nitrogen",
-      "kidney-failure-chronic",
-      "creatinine"
     ],
     "date": "2026-08-01T00:00:00.000Z",
     "pinned": false

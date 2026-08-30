@@ -930,6 +930,63 @@
     "pinned": false
   },
   {
+    "id": "pmid-42667526",
+    "title": "Robot-assisted urologic surgery after kidney transplantation: indications, graft-protection strategies, and outcomes-a scoping review",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "Of 1,963 records identified, 870 duplicates were removed, 1,093 were screened, and 68 reports were included: prostate surgery (26), transplant ureter reconstruction (21), bladder or pelvic extirpative surgery (7), allograft tumor surgery (6), transplant nephrectomy (5), and other procedures (3). Published reports…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667526/",
+    "tags": [
+      "kidney-transplantation",
+      "robotic-surgical-procedures",
+      "urologic-surgical-procedures"
+    ],
+    "date": "2026-08-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42667469",
+    "title": "Multidimensional sleep health and its association with fatigue among patients undergoing hemodialysis in China",
+    "subtitle": "Sleep & breathing = Schlaf & Atmung · 2026",
+    "summary": "Better composite sleep health was associated with lower levels of fatigue, highlighting the potential clinical relevance of sleep health in relation to fatigue.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667469/",
+    "tags": [
+      "fatigue",
+      "renal-dialysis",
+      "sleep-wake-disorders",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-08-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42667232",
+    "title": "Mechanisms of Liancao Xueniao Capsules in Treating Hematuria Associated with IgA Nephropathy: Network Pharmacology and Experimental Validation",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "The results showed that the capsule significantly reduced urinary erythrocytes, 24 h urinary albumin, serum creatinine (Scr), and blood urea nitrogen (BUN), while improving renal pathological injury and fibrosis. In conclusion, Liancao Xueniao Capsule alleviates podocyte injury and improves hematuria in IgAN by…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667232/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "drugs-chinese-herbal",
+      "hematuria"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42667189",
+    "title": "Network-guided Evaluation of β-sitosterol in Inflammatory and Profibrotic Mesangial-Cell Models Relevant to Chronic Glomerulonephritis",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "In Lipopolysaccharide (LPS)-stimulated cells, β-sitosterol reduced Tnf, Il6, and Ptgs2 expression, decreased prostaglandin E2 (PGE2) production, and reduced cyclooxygenase-2 (COX-2) protein abundance. In transforming growth factor β1 (TGF-β1)-treated cells, β-sitosterol reduced Col1a1 and Acta2 expression and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667189/",
+    "tags": [
+      "mesangial-cells",
+      "sitosterols",
+      "glomerulonephritis"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42665834",
     "title": "Efficacy and safety of SP16 in preventing acute kidney injury in at-risk subjects with chronic kidney disease undergoing elective cardiac surgery using the heart-lung-machine (EASE-AKI): study protocol for a prospective, randomised, double-blind, placebo-controlled clinical trial",
     "subtitle": "Trials · 2026",
@@ -1161,6 +1218,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42668972",
+    "title": "Role of fibroblast growth factor 23 in predicting CKD progression and prognosis: a systematic review and meta-analysis",
+    "subtitle": "PeerJ · 2026",
+    "summary": "FGF-23 is a significant prognostic biomarker predicting CKD progression, cardiovascular events, and mortality, supporting its utility in risk stratification and personalized management. Incorporating FGF-23 measurement into routine CKD care may enable earlier risk stratification and more targeted clinical…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42668972/",
+    "tags": [
+      "fibroblast-growth-factors",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42637263",
     "title": "Multidimensional nutritional and body-composition phenotypes and their associations with prevalent anaemia and metabolic abnormalities in CKD: protocol for an EHR-based retrospective baseline cross-sectional study with a prospective measurement extension",
     "subtitle": "BMJ open · 2026",
@@ -1188,6 +1258,20 @@
       "inflammation"
     ],
     "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42666414",
+    "title": "Combined Targeted Drug Delivery Systems for Mineral Metabolism Disorders in Chronic Kidney Disease: A Narrative Review",
+    "subtitle": "International journal of nanomedicine · 2026",
+    "summary": "Combined targeted delivery offers a promising investigational strategy to address the calcium paradox. Nonetheless, its clinical value remains unproven; substantial translational work, including Phase I/II safety trials and standardized outcome sets, is required.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42666414/",
+    "tags": [
+      "drug-delivery-systems",
+      "chronic-kidney-disease-mineral-and-bone-disorder",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-23T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4236,95 +4320,6 @@
     "tags": [
       "kidney-transplantation",
       "robotic-surgical-procedures"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42591044",
-    "title": "Hemodialysis access in 2026: What the vascular medicine provider should know",
-    "subtitle": "Vascular medicine (London, England) · 2026",
-    "summary": "Evolving guidelines have placed unprecedented emphasis on individualized access, and rapid innovation-particularly in endovascular technologies-has expanded the toolkit for access creation and maintenance. This narrative review offers vascular medicine providers an in-depth evaluation of contemporary practice relating…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591044/",
-    "tags": [
-      "renal-dialysis",
-      "arteriovenous-shunt-surgical",
-      "kidney-failure-chronic",
-      "blood-vessel-prosthesis-implantation"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42590956",
-    "title": "Alemtuzumab Induction via Intravenous vs. Subcutaneous Administration in Pediatric Kidney Transplantation",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Despite the higher dose of alemtuzumab and rates of leukopenia in the SQ group, there were no other differences in tolerability and outcomes compared to IV alemtuzumab. Overall, alemtuzumab is well tolerated during the first year post-transplant as an induction immunosuppression agent in the pediatric population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42590956/",
-    "tags": [
-      "kidney-transplantation",
-      "alemtuzumab",
-      "immunosuppressive-agents",
-      "graft-rejection"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42589582",
-    "title": "Pre-Dialysis Serum Myostatin Concentration Is Independently Associated with Intradialytic Muscle Cramps in Hemodialysis Patients",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "In multivariable logistic regression analysis, log2-transformed myostatin concentration was independently and inversely associated with muscle cramps after adjustment for dialysis vintage, body mass index (BMI), and extracellular water. Pre-dialysis myostatin, but not FNDC5 or IL-6, was independently associated with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589582/",
-    "tags": [
-      "myostatin",
-      "muscle-cramp",
-      "renal-dialysis"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42585596",
-    "title": "Sinapic Acid Attenuates LPS-Induced Acute Kidney Injury in Rats: Changes in Autophagy-Related, Apoptotic, Inflammatory, and Oxidative Stress Markers",
-    "subtitle": "Journal of biochemical and molecular toxicology · 2026",
-    "summary": "Moreover, LPS increased renal BECN1 immunoreactivity and circulating SQSTM1/p62 levels, indicating alterations in autophagy-related markers, together with increased renal TNF-α and Caspase-3 immunoreactivity. Collectively, these findings suggest that SA pretreatment attenuates LPS-induced AKI and that this protective…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42585596/",
-    "tags": [
-      "oxidative-stress",
-      "lipopolysaccharides",
-      "acute-kidney-injury",
-      "autophagy"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42585245",
-    "title": "Healthcare-Related Sociocultural Factors, Racial Disparities, and Kidney Transplant Outcomes in the Kidney Transplant Fast Track Program",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Although KTFT reduced racial/ethnic disparities in waitlisting and overall KT receipt, we identified racial/ethnic differences in LDKT and DDKT. Medical mistrust was a significant barrier to waitlisting.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42585245/",
-    "tags": [
-      "kidney-transplantation",
-      "waiting-lists",
-      "kidney-failure-chronic",
-      "healthcare-disparities"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42584532",
-    "title": "Bayesian-Estimated Vancomycin AUC24 as a Near-Term Renal Risk Signal after Therapeutic Drug Monitoring: A Multicenter Cohort Study",
-    "subtitle": "Journal of clinical pharmacology · 2026",
-    "summary": "Higher continuous AUC24 was associated with AKI in the minimally adjusted model (odds ratio, 1.16 per 100 mg·h/L; 95% confidence interval, 1.02-1.33; P = .023), whereas categorical AUC contrasts were imprecise. Bayesian-estimated AUC24 at monitoring may therefore be most useful as a near-term renal risk signal that…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42584532/",
-    "tags": [
-      "vancomycin",
-      "drug-monitoring",
-      "anti-bacterial-agents",
-      "acute-kidney-injury"
     ],
     "date": "2026-08-01T00:00:00.000Z",
     "pinned": false

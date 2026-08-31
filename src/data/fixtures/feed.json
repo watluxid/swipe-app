@@ -930,6 +930,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42669095",
+    "title": "Anti-LCN2 antibody treatment is associated with attenuated hearing loss and blood-labyrinth barrier disruption in a mouse model of chronic kidney disease",
+    "subtitle": "Journal of molecular histology · 2026",
+    "summary": "These changes were accompanied by increased serum and cochlear LCN2, upregulation of 24p3R/SLC22A17 and NLRP3, increased blood-labyrinth barrier permeability, reduced claudin-5 and ZO-1 expression, impaired cochlear blood flow, stria vascularis atrophy, and decreased expression of strial ion-transport genes. Anti-LCN2…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669095/",
+    "tags": [
+      "lipocalin-2",
+      "hearing-loss",
+      "renal-insufficiency-chronic",
+      "antibodies-monoclonal"
+    ],
+    "date": "2026-08-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42667526",
     "title": "Robot-assisted urologic surgery after kidney transplantation: indications, graft-protection strategies, and outcomes-a scoping review",
     "subtitle": "Journal of robotic surgery · 2026",
@@ -4307,19 +4322,6 @@
       "tissue-and-organ-procurement",
       "kidney-failure-chronic",
       "patient-selection"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42592803",
-    "title": "Early Experience With Robotic Kidney Transplantation With Left-Sided Graft Implantation: Technical Considerations and Short-Term Outcomes",
-    "subtitle": "The international journal of medical robotics + computer assisted surgery : MRCAS · 2026",
-    "summary": "RKT with left-sided graft implantation is technically feasible and safe in experienced robotic transplant centres and was associated with favourable short-term outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42592803/",
-    "tags": [
-      "kidney-transplantation",
-      "robotic-surgical-procedures"
     ],
     "date": "2026-08-01T00:00:00.000Z",
     "pinned": false

@@ -858,6 +858,61 @@
     "pinned": false
   },
   {
+    "id": "pmid-42681605",
+    "title": "Occurrence and relevance of Gardnerella vaginalis in urine cultures of kidney transplant recipients- a retrospective cohort analysis",
+    "subtitle": "BMC microbiology · 2026",
+    "summary": "As clinical symptoms were not documented, the occurrence of G. vaginalis in urine samples of kidney transplant recipients cannot be finally assessed. Further studies are needed to clarify its significance, particularly in immunocompromised hosts.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42681605/",
+    "tags": [
+      "gardnerella-vaginalis",
+      "kidney-transplantation",
+      "urinary-tract-infections",
+      "urine"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42680511",
+    "title": "Genetic and epigenetic determinants of relapse risk in lupus nephritis",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "Genetic and epigenetic susceptibility appears to influence LN relapse risk in a treatment-dependent manner. The absence of an association among patients receiving CYC suggests that initial treatment with CYC may attenuate the impact of genetic and epigenetic predisposition on relapse.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42680511/",
+    "tags": [
+      "lupus-nephritis",
+      "epigenesis-genetic"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42678025",
+    "title": "The Impact of Educational or Behavioural Interventions on Fatigue in Adults Receiving Haemodialysis: A Systematic Review and Meta-Analysis",
+    "subtitle": "Journal of renal care · 2026",
+    "summary": "Self-management education may be considered for routine clinical care, while exercise training may serve as an adjunctive strategy. The efficacy of cognitive behavioural therapy remains inconclusive.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42678025/",
+    "tags": [
+      "renal-dialysis",
+      "fatigue",
+      "patient-education-as-topic"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42677978",
+    "title": "Anticoagulation in Advanced Chronic Kidney Disease: Navigating Uncertainty",
+    "subtitle": "Turkish journal of haematology : official journal of Turkish Society of Haematology · 2026",
+    "summary": "Although atrial fibrillation is common and associated with a high stroke risk in advanced CKD, the net clinical benefit of anticoagulation remains uncertain because this population has been largely excluded from pivotal randomized trials. Future research should prioritize CKD-specific risk prediction, inclusion of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42677978/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "anticoagulants"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42676141",
     "title": "Effect of a Machine Learning Algorithm to Guide Goal-Directed Therapy After Cardiac Surgery",
     "subtitle": "American journal of critical care : an official publication, American Association of Critical-Care Nurses · 2026",
@@ -1154,6 +1209,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42677770",
+    "title": "Assessment of NGAL, eGFR, and tubular injury markers for early detection of chemotherapy-induced nephrotoxicity in pediatric oncology patients",
+    "subtitle": "Folia medica · 2026",
+    "summary": "Its etiology is multifactorial, with key risk factors including drug-induced nephrotoxicity, tumor lysis syndrome, and infection-including sepsis during periods of aplasia. In the context of drug-induced nephrotoxicity, the predominant pathophysiological mechanism is tubular injury, which is typically non-oliguric and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42677770/",
+    "tags": [
+      "acute-kidney-injury",
+      "antineoplastic-agents",
+      "neoplasms",
+      "lipocalins"
+    ],
+    "date": "2026-08-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42675217",
     "title": "Aloin attenuates high-glucose-induced oxidative and inflammatory damage in renal cells via AMPK/Nrf2 signaling",
     "subtitle": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences · 2026",
@@ -1211,6 +1281,21 @@
       "antibodies-monoclonal"
     ],
     "date": "2026-08-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42679049",
+    "title": "A skin-kidney neutrophil axis links ultraviolet exposure to renal angiogenesis and tissue remodeling in healthy and lupus kidneys",
+    "subtitle": "Journal of immunology (Baltimore, Md. : 1950) · 2026",
+    "summary": "Here, we demonstrate that after skin exposure to UV light, renal neutrophils upregulate proangiogenic transcriptional programs and activate renal endothelial angiogenesis and tissue remodeling processes in healthy kidneys. Moreover, urinary neutrophils were increased in systemic lupus erythematosus patients with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42679049/",
+    "tags": [
+      "neutrophils",
+      "lupus-nephritis",
+      "skin",
+      "ultraviolet-rays"
+    ],
+    "date": "2026-08-29T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2185,6 +2270,77 @@
       "myocytes-smooth-muscle"
     ],
     "date": "2026-08-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42677244",
+    "title": "ABO incompatible LRD kidney transplantation should be offered to children: results from a 33-year comparative OPTN study",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Long term outcomes were compared between ABOi and ABOc kidney transplants and between ABOi LDKTx and ABOc DDKTx. ABOi LDKTx lead to better long-term outcomes than ABOc DDKTx.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42677244/",
+    "tags": [
+      "kidney-transplantation",
+      "abo-blood-group-system",
+      "blood-group-incompatibility"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42676682",
+    "title": "Post-transplant malignancies in Taiwanese kidney transplant recipients: incidence, temporal trends, and immunosuppressive risk factors in a two-decade single-center cohort",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "PTMs in Taiwan are frequent and immunologically shaped, with a distinct urothelial and hepatic predominance and a post 2012 decline in bladder cancer plausibly linked to evolving immunosuppression, surveillance, and reduced carcinogen exposure. Older age and cumulative immunosuppressive burden were associated with PTM…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676682/",
+    "tags": [
+      "kidney-transplantation",
+      "immunosuppressive-agents",
+      "neoplasms"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42676656",
+    "title": "Early creatinine dynamics for stratifying acute kidney injury trajectories in patients with systemic lupus erythematosus: an exploratory multicenter retrospective study",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This study provides an exploratory risk-stratification framework for early AKI trajectory patterns in SLE. The apparent discrimination was substantially attenuated after removing predictor-outcome overlap and adjusting for optimism.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676656/",
+    "tags": [
+      "acute-kidney-injury",
+      "lupus-erythematosus-systemic",
+      "creatinine"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42676579",
+    "title": "Impact of tacrolimus peak concentration on kidney graft outcomes",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "We hypothesized that fast metabolization is associated with higher maximal Tac blood concentration (Cmax) and that Tac Cmax has a detrimental effect by itself. Our data support the hypothesis that exposure to high Cmax is detrimental and that fast metabolizers exhibit higher Tac Cmax even in situations where Tac C0 is…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676579/",
+    "tags": [
+      "tacrolimus",
+      "kidney-transplantation",
+      "immunosuppressive-agents",
+      "graft-survival"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42676352",
+    "title": "Short-term mycophenolic acid withdrawal is associated with temporal changes in immune cell composition in mRNA-1273-vaccinated kidney transplant recipients: insights from high-dimensional immune profiling",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Short-term MPA withdrawal was associated with selective temporal immune shifts, including increased relative frequencies of CD4/CD8T-cell subsets and decreased relative frequencies of monocyte and B-cell subsets. Effects varied by time since transplantation and age, reflecting heterogeneous immune reconstitution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676352/",
+    "tags": [
+      "mycophenolic-acid",
+      "kidney-transplantation",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-08-17T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4170,165 +4326,6 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-08-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42547265",
-    "title": "Peripheral blood CD19+B cell proportion at baseline predicts early complete response to belimumab treatment in patients with refractory lupus nephritis",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "Findings support the baseline CD19+B cell proportion could be used to predict CR to treatment with belimumab in refractory lupus nephritis patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42547265/",
-    "tags": [
-      "lupus-nephritis",
-      "antibodies-monoclonal-humanized",
-      "antigens-cd19",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-08-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42547238",
-    "title": "Multicentre, controlled, randomised and single-blind, adaptive phase IV protocol to evaluate effectiveness and cost-effectiveness of a pre-emptive genotyping strategy to optimise tacrolimus dosage in a pretransplant chronic kidney disease population cohort: iPHARMGx TRANSPGx nested clinical trial",
-    "subtitle": "BMJ open · 2026",
-    "summary": "The iPHARMGx Consortium addresses this by developing the TRANSPGx clinical trial to assess the hypothesis that widespread adoption of a pre-emptive genotyping scheme in populations susceptible to receiving tacrolimus as immunosuppressive therapy following a kidney transplant is effective, cost-effective and feasible…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42547238/",
-    "tags": [
-      "tacrolimus",
-      "immunosuppressive-agents",
-      "kidney-transplantation",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42545636",
-    "title": "Maintenance of clinical remission with cyclosporine after discontinuation of prednisolone in a patient with tubulointerstitial nephritis with IgM-positive plasma cells",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "Combination treatment with 5 mg/day PSL and 100-125 mg/day cyclosporine stabilized the TIN. This case provides original evidence regarding the optimal treatment regimen for patients with IgMPC-TIN who are unsuitable for prolonged PSL administration.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42545636/",
-    "tags": [
-      "nephritis-interstitial",
-      "cyclosporine",
-      "prednisolone",
-      "plasma-cells"
-    ],
-    "date": "2026-08-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42545395",
-    "title": "Immune-complex-mediated membranoproliferative glomerulonephritis with linear IgG staining resembling atypical anti-glomerular basement membrane disease: a case report",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "We report a case of MPGN associated with the spectrum of atypical anti-GBM nephritis that showed a slowly progressive course over more than eight years. Although some indolent cases of atypical anti-GBM syndrome were reported previously, compared with these cases, our patient had more stable renal function for a long…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42545395/",
-    "tags": [
-      "glomerulonephritis-membranoproliferative",
-      "anti-glomerular-basement-membrane-disease",
-      "immunoglobulin-g",
-      "antigen-antibody-complex"
-    ],
-    "date": "2026-08-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42543015",
-    "title": "[Albuminuria for detection of chronic kidney disease: biomarker and therapeutic target]",
-    "subtitle": "Orvosi hetilap · 2026",
-    "summary": "Modern four-pillar pharmacotherapy - RAS inhibitors (ACE inhibitors/ARBs), SGLT2 inhibitors, non-steroidal mineralocorticoid receptor antagonists (finerenone), and GLP1 receptor agonists in type 2 diabetes - acts on these processes through complementary mechanisms. When tailored to the degree of albuminuria and eGFR,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42543015/",
-    "tags": [
-      "albuminuria",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42525612",
-    "title": "Renal nutrition knowledge among haemodialysis patients: a multicentre cross-sectional study",
-    "subtitle": "British journal of community nursing · 2026",
-    "summary": "Significant gaps in nutritional knowledge exist among haemodialysis patients, particularly younger individuals and those with lower incomes. These findings highlight a critical opportunity for community nurses and nutritionists to take a proactive role in dietary education and support.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42525612/",
-    "tags": [
-      "renal-dialysis",
-      "health-knowledge-attitudes-practice",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-08-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42663991",
-    "title": "Nutrition Supplements and Serum Albumin in Hemodialysis: A Meta-Analysis",
-    "subtitle": "The American journal of managed care · 2026",
-    "summary": "ONS/IDPN significantly improved serum albumin in this random-effects meta-analysis model, and findings were consistent in the fixed-effects model. It can be concluded that ONS/IDPN improves serum albumin levels, which can serve as a marker of malnutrition risk in patients on maintenance HD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42663991/",
-    "tags": [
-      "renal-dialysis",
-      "serum-albumin",
-      "dietary-supplements",
-      "parenteral-nutrition"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42663981",
-    "title": "Modeling chronic kidney disease progression using a continuous-time multistate Markov model: Transition dynamics and covariate effects",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "Diabetes, hypertension, and cardiovascular disease were the primary factors associated with chronic kidney disease progression. Mean sojourn times and next-state probabilities complemented transition intensities by describing the expected duration of each chronic kidney disease stage and the likelihood of subsequent…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42663981/",
-    "tags": [
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42663549",
-    "title": "Trends and Disparities in High-Risk Nonsteroidal Anti-Inflammatory Drug Utilization",
-    "subtitle": "The American journal of managed care · 2026",
-    "summary": "Despite a modest decline during the first 2 years of the pandemic, NSAID use remains prevalent among patients with CKD, HF, and/or HTN, especially in rural areas and among women. Results highlight the need for tailored deprescribing efforts.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42663549/",
-    "tags": [
-      "anti-inflammatory-agents-non-steroidal",
-      "renal-insufficiency-chronic",
-      "covid-19",
-      "heart-failure"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42646762",
-    "title": "Indoxyl Sulfate-Mediated Blood-Brain Barrier Damage in Chronic Kidney Disease",
-    "subtitle": "Toxins · 2026",
-    "summary": "SA-β-gal positivity increased, accompanied by elevated GM-CSF and G-CSF secretion, while CDKN1A decreased at IS 900 µM and CDKN2A remained unchanged. These findings indicate that IS exposure is associated with impaired BBB integrity, AhR-related transcriptional responses, oxidative stress-associated transcriptional…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42646762/",
-    "tags": [
-      "indican",
-      "blood-brain-barrier",
-      "renal-insufficiency-chronic",
-      "endothelial-cells"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42644854",
-    "title": "Endothelin Receptor Antagonists in Resistant Hypertension and Proteinuric Kidney Disease: Receptor Strategy and Volume Management",
-    "subtitle": "Journal of clinical hypertension (Greenwich, Conn.) · 2026",
-    "summary": "For clinicians, the central question is not receptor selectivity alone, but whether a specific agent, indication, dose, background therapy, and monitoring plan can deliver meaningful blood-pressure or kidney benefit without unacceptable fluid retention. Across these settings, successful ERA use depends on careful…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42644854/",
-    "tags": [
-      "endothelin-receptor-antagonists",
-      "hypertension",
-      "proteinuria",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-01T00:00:00.000Z",
     "pinned": false
   }
 ]

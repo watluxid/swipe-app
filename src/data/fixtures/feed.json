@@ -44,6 +44,63 @@
     "pinned": false
   },
   {
+    "id": "pmid-42703061",
+    "title": "Circadian reprogramming of inflammation and metabolism in chronic kidney disease",
+    "subtitle": "Renal failure · 2026",
+    "summary": "CKD profoundly remodels the renal circadian transcriptome, driving immune-inflammatory and metabolic pathways into maladaptive rhythmicity. Furthermore, dapagliflozin can partially restore the expression of renal core clock genes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703061/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "inflammation",
+      "circadian-rhythm",
+      "kidney"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42703057",
+    "title": "Underdocumentation of laboratory-defined acute kidney injury in internal medicine wards: a retrospective cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Undocumented cases had lower admission creatinine (2.1 vs 2.9 mg/dL; < 0.001), lower maximal creatinine (2.2 vs 3.3 mg/dL; < 0.001), and more frequent malignancy (23.1% vs 7.4%; = 0.016). Approximately one quarter of serum creatinine-defined AKI cases were undocumented, particularly those with lower maximal creatinine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703057/",
+    "tags": [
+      "acute-kidney-injury",
+      "creatinine",
+      "documentation"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42703036",
+    "title": "Proteomic profiling of cephalic vein reveals potential biomarkers for arteriovenous fistula neointimal hyperplasia in ESRD patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "GO analysis was primarily enriched in protein binding, nucleic acid binding, enzyme binding, mRNA binding, cadherin binding, catalytic activity, and cell adhesion molecule binding. Protein-protein interaction network consisted of 86 (71.07%) DEPs, including complement VII (C7), factor IX (F9), SERPINC1,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703036/",
+    "tags": [
+      "kidney-failure-chronic",
+      "neointima",
+      "arteriovenous-shunt-surgical"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42702576",
+    "title": "Dynamic potassium variability (K-CV) as an independent predictor of mortality in maintenance hemodialysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Multivariate Cox regression, adjusted for confounders, revealed that patients in the high K-CV group had a significantly increased mortality risk compared to the low K-CV group (adjusted HR = 1.537, 95% CI: 1.026-2.302, = 0.037). These findings demonstrate that K-CV, a marker of serum potassium variability, serves as…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42702576/",
+    "tags": [
+      "renal-dialysis",
+      "potassium",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42693749",
     "title": "Lower eGFR is independently associated with embolization‑requiring severe bleeding after percutaneous renal biopsy: a matched case-control study with dose-respons e analysis",
     "subtitle": "Renal failure · 2026",
@@ -961,6 +1018,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42701904",
+    "title": "Outcomes and learning curve of single-kidney transplantation from small pediatric donors in children: a retrospective cohort study with meta-analysis",
+    "subtitle": "Pediatric surgery international · 2026",
+    "summary": "Early graft loss risk in small-donor single-kidney transplantation declines after the learning phase, with acceptable short-term outcomes and high organ utilization. This approach appears feasible in experienced centers, though long-term efficacy requires prospective validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42701904/",
+    "tags": [
+      "kidney-transplantation",
+      "learning-curve",
+      "tissue-donors"
+    ],
+    "date": "2026-09-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42700976",
     "title": "Levamisole-induced anti-neutrophil cytoplasmic antibodies-associated vasculitis in paediatric nephrotic syndrome: dose-dependent and idiosyncratic risks in paediatric patients",
     "subtitle": "BMJ case reports · 2026",
@@ -1317,6 +1388,20 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42702740",
+    "title": "A U-Shaped Association: The First-Year eGFR Slope and Mortality Risk in Multiple Myeloma",
+    "subtitle": "Cancer medicine · 2026",
+    "summary": "Overall, first-year eGFR slope demonstrates a U-shaped association with mortality in NDMM. Importantly, excessive eGFR elevation, particularly in patients achieving PR or better, is paradoxically associated with increased death risk, highlighting the need for response-stratified interpretation of renal dynamics to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42702740/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "multiple-myeloma",
+      "renal-insufficiency"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4231,95 +4316,6 @@
       "albuminuria",
       "c-reactive-protein",
       "triglycerides"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42580835",
-    "title": "Obesity management for kidney TRANSPLANTation: protocol for the vanguard phase of an innovative randomised controlled trial, embedded in routine care (OK-TRANSPLANT 2)",
-    "subtitle": "BMJ open · 2026",
-    "summary": "To describe the vanguard phase of a large, pragmatic, open-label RCT testing the effectiveness of a multi-component weight management programme vs standard of obesity care in advanced CKD. Adults aged 18 years or older with a body mass index ≥35 kg/mwith or without diabetes, who are receiving dialysis or have…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580835/",
-    "tags": [
-      "kidney-transplantation",
-      "obesity",
-      "obesity-management",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42580761",
-    "title": "Free mycophenolic acid exposure for therapeutic drug monitoring in paediatric lupus nephritis: associations with treatment response and haematologic toxicity",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "Both t-MPA-AUC and f-MPA-AUC effectively predict MMF efficacy in paediatric LN. However, f-MPA-AUC demonstrates superior predictive value for safety outcomes, specifically haematological ADRs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580761/",
-    "tags": [
-      "mycophenolic-acid",
-      "lupus-nephritis",
-      "drug-monitoring",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42579651",
-    "title": "Dialysis-Associated Acquired Cystic Kidney Disease as a Cause of Progressive Renal Hemorrhage in a Patient Receiving Hemodialysis: A Case Report",
-    "subtitle": "The American journal of case reports · 2026",
-    "summary": "Postoperative gross pathological finding verified spontaneous hemorrhage caused by rupture of dialysis-associated acquired cystic kidney disease. CONCLUSIONS This case with spontaneous hemorrhage of dialysis-associated acquired cystic kidney disease highlights the need for surveillance in patients receiving…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579651/",
-    "tags": [
-      "renal-dialysis",
-      "kidney-diseases-cystic",
-      "hemorrhage"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42579429",
-    "title": "Size Effect of Nanoparticles on Targeting Injured Kidneys for Enhanced Intervention in Acute Kidney Injury",
-    "subtitle": "ACS nano · 2026",
-    "summary": "After loading curcumin, a natural antioxidant, into 5, 16, and 60 nm AuNPs to compare their efficacies against AKI, we found that 5 and 16 nm AuNPs both effectively delivered drugs into renal tubules, resulting in their equal therapeutic performance and significantly better efficacy than 60 nm ones, further validating…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579429/",
-    "tags": [
-      "acute-kidney-injury",
-      "gold",
-      "metal-nanoparticles",
-      "curcumin"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42579218",
-    "title": "Robot-assisted kidney transplantation in living and deceased donors: a six-year experience",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "Delayed graft function occurred in 30.4% of DDKT recipients and 4.8% of LDKT recipients; among the 121 recipients with available one-year serum creatinine, median one-year serum creatinine was 1.49 mg/dL and 1.37 mg/dL, respectively. Graft-loss occurred in two DDKT recipients (1.6%) and one LDKT recipient (0.9%),…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579218/",
-    "tags": [
-      "kidney-transplantation",
-      "robotic-surgical-procedures",
-      "living-donors",
-      "tissue-donors"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42579192",
-    "title": "Real-world modality selection and outcomes in neonatal kidney replacement therapy: a single-center cohort study",
-    "subtitle": "European journal of pediatrics · 2026",
-    "summary": "CKRT and PD achieved acceptable outcomes when selected according to patient characteristics and clinical needs. KRT-related complications were independently associated with mortality, likely reflecting illness severity, rather than a direct causal effect.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579192/",
-    "tags": [
-      "peritoneal-dialysis",
-      "acute-kidney-injury",
-      "renal-replacement-therapy",
-      "continuous-renal-replacement-therapy"
     ],
     "date": "2026-08-11T00:00:00.000Z",
     "pinned": false

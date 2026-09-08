@@ -44,6 +44,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42703736",
+    "title": "Dialysis deserts in the Philippines: a national geospatial modeling study of dialysis services",
+    "subtitle": "Global health action · 2026",
+    "summary": "Geographic inequity in KF care persists in the Philippines despite a decade of PD-first policy, exposing a gap between national financing commitments and local service reach. In settings where health insurance expansion outpaces infrastructure development, spatial inequity becomes the next frontier for reform.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703736/",
+    "tags": [
+      "health-services-accessibility",
+      "renal-dialysis",
+      "peritoneal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42703061",
     "title": "Circadian reprogramming of inflammation and metabolism in chronic kidney disease",
     "subtitle": "Renal failure · 2026",
@@ -1018,6 +1033,51 @@
     "pinned": false
   },
   {
+    "id": "pmid-42706579",
+    "title": "Severe rise in tacrolimus levels following blood orange and grapefruit juice intake in a kidney transplant recipient: a case report",
+    "subtitle": "Journal of medical case reports · 2026",
+    "summary": "The pronounced increase in tacrolimus exposure following sequential ingestion of blood orange and grapefruit juice suggests a potential synergistic interaction affecting tacrolimus disposition via CYP3A4, CYP3A5 and/or P-glycoprotein pathways. While causality remains unconfirmed, this case emphasizes the value of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42706579/",
+    "tags": [
+      "kidney-transplantation",
+      "tacrolimus",
+      "citrus-paradisi",
+      "fruit-and-vegetable-juices"
+    ],
+    "date": "2026-09-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42704548",
+    "title": "Learning curves and training in robotic organ transplantation: bibliometric mapping with kidney transplantation as the principal clinical model",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "Literature on learning and training in robotic transplantation spans multiple procedures, but its evidence base is strongly kidney-dominant and direct bibliometric findings need to be distinguished from clinical interpretation. Kidney transplantation was the dominant clinical model: 'kidney transplantation' was the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704548/",
+    "tags": [
+      "kidney-transplantation",
+      "robotic-surgical-procedures",
+      "learning-curve",
+      "bibliometrics"
+    ],
+    "date": "2026-09-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42704498",
+    "title": "Ultrasmall Ag₂Se@Mn quantum dots enable dual-modal imaging-guided early detection and antioxidant therapy of acute kidney injury",
+    "subtitle": "Mikrochimica acta · 2026",
+    "summary": "Especially, MRI revealed renal dysfunction up to 66 h earlier than conventional clinical indicators, providing a critical window for early intervention. Furthermore, the inherent ROS-scavenging activity of Mn²⁺ endows QDs with potent antioxidant capacity by efficiently eliminating hydroxyl radicals (·OH) and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704498/",
+    "tags": [
+      "quantum-dots",
+      "acute-kidney-injury",
+      "antioxidants",
+      "manganese"
+    ],
+    "date": "2026-09-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42701904",
     "title": "Outcomes and learning curve of single-kidney transplantation from small pediatric donors in children: a retrospective cohort study with meta-analysis",
     "subtitle": "Pediatric surgery international · 2026",
@@ -1388,6 +1448,66 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42706414",
+    "title": "Impact of Quality Indicators on Transplant Access: A Prospective Cohort Study in Australian Dialysis Patients",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "Following introduction of the Victorian renal QI, the proportion of Victorian patients waitlisted at key timepoints improved more than patients in Australian states without QIs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42706414/",
+    "tags": [
+      "quality-indicators-health-care",
+      "kidney-transplantation",
+      "waiting-lists",
+      "renal-dialysis"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42704656",
+    "title": "Urinary microbiome in renal transplant patients with BK polyomavirus reactivation",
+    "subtitle": "Journal of medical microbiology · 2026",
+    "summary": "Sequence data were analysed using two complementary approaches to identify common microbiome associations with BKPyV-DNAemia: (1) Kaiju - a DNA-to-Protein method that captures bacteria, archaea, fungi, microeukaryotes and DNA viruses and (2) MetaPhlAn4 - a DNA-to-Marker method using a reference database of specific…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704656/",
+    "tags": [
+      "bk-virus",
+      "kidney-transplantation",
+      "polyomavirus-infections",
+      "microbiota"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42703894",
+    "title": "Acute Haemodynamic and Perceptual Responses to Graded Intradialytic Exercise in Patients on Maintenance Haemodialysis: A Randomised Crossover Trial",
+    "subtitle": "Journal of renal care · 2026",
+    "summary": "Graded, rating-guided intradialytic resistance exercise produced clear acute dose-response haemodynamic and perceptual changes. These findings support supervised individualisation of acute exercise dose but do not establish long-term safety or superiority of higher perceived-intensity training.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703894/",
+    "tags": [
+      "renal-dialysis",
+      "hemodynamics",
+      "exercise",
+      "perception"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42703728",
+    "title": "Rhapontigenin Alleviates Sepsis-Associated Acute Kidney Injury and Is Accompanied by Modulation of Ferroptosis, Inflammation, and NF-κB Signaling",
+    "subtitle": "Journal of biochemical and molecular toxicology · 2026",
+    "summary": "Rha treatment at 20 and 40 μM increased cell viability, decreased intracellular Fe2+, ROS, MDA, and lipid ROS levels, and increased GPX4 and xCT expression in LPS-treated HK-2 cells. In addition, Rha lowered IL-1β, IL-6, and TNF-α levels and reduced NF-κB phosphorylation and p65 nuclear localization.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703728/",
+    "tags": [
+      "ferroptosis",
+      "sepsis",
+      "acute-kidney-injury",
+      "signal-transduction"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4205,119 +4325,6 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42584279",
-    "title": "Compartmentalized Nanozyme-Enzyme Cascade Enables Metabolic-Redox Coupling for Acute Kidney Injury Therapy",
-    "subtitle": "Nano letters · 2026",
-    "summary": "This system is constructed via enzyme-driven interfacial radical gelation, where lactate oxidase-generated H2O2 is locally relayed to the UIO-66 core to initiate polymerization, whereas elevated pathological H2O2 redirects UIO-66 toward catalase- and superoxide dismutase-like antioxidant activities. In an AKI model,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42584279/",
-    "tags": [
-      "acute-kidney-injury",
-      "mixed-function-oxygenases"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42581362",
-    "title": "Examining variations in adherence to guideline-recommended post-acute kidney injury care in primary care in England: a population-based cohort study",
-    "subtitle": "BMC medicine · 2026",
-    "summary": "There are multiple missed opportunities for improving post-AKI care. Rates of measuring albuminuria were particularly low, despite its strong association with subsequent kidney and cardiovascular events.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581362/",
-    "tags": [
-      "acute-kidney-injury",
-      "primary-health-care",
-      "guideline-adherence"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42581255",
-    "title": "Subarachnoid hemorrhage and cerebral infarction in anti-glomerular basement membrane disease: a case report and literature review",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "We report a rare case of anti-GBM disease complicated by intracranial SAH and subsequent cerebral infarction. This case illustrates a rare occurrence of intracranial subarachnoid hemorrhage as a central nervous system complication in anti-GBM disease and highlights the importance of careful neurological monitoring.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581255/",
-    "tags": [
-      "cerebral-infarction",
-      "subarachnoid-hemorrhage",
-      "anti-glomerular-basement-membrane-disease"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42694848",
-    "title": "COL1A2 and APOLD1 Define a Dual-Axis Molecular Framework for Diabetic Nephropathy-Retinopathy Comorbidity: An Integrative Multiomics and Machine Learning Study in Mouse Models",
-    "subtitle": "International journal of medical sciences · 2026",
-    "summary": "On the basis of the study results, we propose a novel \"dual-axis\" model for diabetic microvascular comorbidity: an early dysfunction axis marked by downregulatedexpression and a late structural remodeling axis driven by upregulatedexpression. These findings provide a cohesive molecular framework and potential…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42694848/",
-    "tags": [
-      "diabetic-nephropathies",
-      "diabetic-retinopathy",
-      "collagen-type-i"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42611761",
-    "title": "A Bibliometric and Visualized Analysis of Mitochondrial Research in Diabetic Nephropathy",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "China led in publication volume, whereas Australia and the United States showed higher average citations per paper, indicating a divergence between output and citation-based visibility. These bibliometric patterns indicate topic prominence and citation visibility rather than direct mechanistic or clinical evidence and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42611761/",
-    "tags": [
-      "diabetic-nephropathies",
-      "mitochondria",
-      "bibliometrics"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42587279",
-    "title": "Efficacy and safety of BAFF/APRIL-pathway inhibitors versus placebo in adults with IgA nephropathy: a systematic review with pairwise and network meta-analysis",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "In adults with IgAN, BAFF/APRIL-pathway inhibitors consistently and substantially reduced proteinuria versus placebo, with a small short-term eGFR difference and no evident short-term safety signal, although longer follow-up is required to define uncommon, infectious, and immunological risks. Whether this…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42587279/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "b-cell-activating-factor",
-      "tumor-necrosis-factor-ligand-superfamily-member-13"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42581319",
-    "title": "Sacubitril/valsartan attenuates renal injury caused by cecal ligation and puncture via TLR4/NFκB/NLRP3 inhibition and reduced oxidative stress and apoptosis in rats",
-    "subtitle": "Scientific reports · 2026",
-    "summary": "CLP induction markedly elevated serum urea and creatinine, along with renal MDA, IL-18, IL-1β, TNF-α, NFκB, and caspase-3, and upregulated TLR4 and NLRP3 protein expression relative to the sham group, while GSH and SOD levels were notably diminished. Sacubitril/valsartan significantly attenuated CLP-induced renal…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581319/",
-    "tags": [
-      "oxidative-stress",
-      "apoptosis",
-      "nlr-family-pyrin-domain-containing-3-protein",
-      "valsartan"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42581076",
-    "title": "Triglyceride-glucose index, neutrophil-to-lymphocyte ratio, and high-sensitivity C-reactive protein across albuminuria stages in type 2 diabetes",
-    "subtitle": "Scientific reports · 2026",
-    "summary": "Receiver operating characteristic analyses demonstrated good discriminatory performance for albuminuria, with both NLR and hs-CRP exhibiting significantly greater discriminatory ability than the TyG index in several comparisons. In adjusted multinomial logistic regression analysis, NLR was independently associated…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581076/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "albuminuria",
-      "c-reactive-protein",
-      "triglycerides"
-    ],
-    "date": "2026-08-11T00:00:00.000Z",
     "pinned": false
   }
 ]

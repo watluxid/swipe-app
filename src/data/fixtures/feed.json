@@ -1033,6 +1033,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42708901",
+    "title": "Cyclosporine-A Nanotherapeutics Ameliorate Lupus Nephritis by Reprogramming the Gut-Microbial Metabolic Axis and Systemic Inflammation",
+    "subtitle": "ACS nano · 2026",
+    "summary": "Using an NZBWF1/J murine model, the administration of P2Ns-GA-CsA achieves enhanced renal protection compared to conventional oral CsA (Neoral), effectively suppressing serum creatinine, clusterin, and proinflammatory cytokines while preserving renal histoarchitecture. These findings demonstrate that this targeted…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708901/",
+    "tags": [
+      "lupus-nephritis",
+      "cyclosporine",
+      "gastrointestinal-microbiome",
+      "inflammation"
+    ],
+    "date": "2026-09-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42708120",
+    "title": "Cryptic and Overt Acute Kidney Injury Share Biomarker Characteristics in Pediatric Acute Respiratory Distress Syndrome",
+    "subtitle": "Critical care explorations · 2026",
+    "summary": "Cryptic AKI is clinically significant and represents true kidney injury, with a biomarker profile similar to KDIGO AKI and distinct from patients without AKI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708120/",
+    "tags": [
+      "acute-kidney-injury",
+      "respiratory-distress-syndrome"
+    ],
+    "date": "2026-09-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42706579",
     "title": "Severe rise in tacrolimus levels following blood orange and grapefruit juice intake in a kidney transplant recipient: a case report",
     "subtitle": "Journal of medical case reports · 2026",
@@ -1448,6 +1476,63 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42710991",
+    "title": "From Innocence to Endurance: A Patient's Perspective on Lifelong Transplant Care",
+    "subtitle": "Journal of cardiac failure · 2026",
+    "summary": "Twenty-four years later, he received his second heart transplant for cardiac allograft vasculopathy as well as a simultaneous kidney transplantation at NewYork Presbyterian-Columbia Medical Center. While waiting for his second heart and kidney transplant in the hospital, he graduated from his Master of Business…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710991/",
+    "tags": [
+      "heart-transplantation",
+      "kidney-transplantation"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42710970",
+    "title": "Sex Differences in Simultaneous Heart-Kidney Transplantation: A 25-Year United Network for Organ Sharing Analysis",
+    "subtitle": "Journal of cardiac failure · 2026",
+    "summary": "Women demonstrated an early post-transplant mortality signal concentrated within the first 90 days after SHKT, without excess long-term risk. These findings underscore the need for earlier referral and perioperative optimization of high-risk women to improve equity in SHKT outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710970/",
+    "tags": [
+      "kidney-transplantation",
+      "heart-transplantation",
+      "tissue-and-organ-procurement",
+      "registries"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42710867",
+    "title": "Impact of diabetic nephropathy on outcomes following total knee arthroplasty: A propensity score-matched analysis",
+    "subtitle": "Journal of orthopaedic surgery (Hong Kong) · 2026",
+    "summary": "Surgical complications included increased transfusion (aOR=1.64), intubation/mechanical ventilation (aOR=1.52), periprosthetic infection (aOR=1.38). Medical complications included pulmonary edema (aOR=3.40), acute myocardial infarction (aOR=2.13), stroke (aOR=1.43), atrial fibrillation/flutter (aOR=1.09),…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710867/",
+    "tags": [
+      "arthroplasty-replacement-knee",
+      "postoperative-complications",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42708566",
+    "title": "The amino acid profile in metabolic syndrome and related conditions: a review",
+    "subtitle": "Biomeditsinskaia khimiia · 2026",
+    "summary": "Current data on characteristic changes in the amino acid profile of plasma and urine as an integral metabolic indicator of key stages of metabolic dysfunction have been summarized. Combined profiles and amino acid ratios, reflecting the early manifestations of metabolic pathologies, demonstrate the greatest potential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708566/",
+    "tags": [
+      "metabolic-syndrome",
+      "amino-acids",
+      "diabetes-mellitus-type-2",
+      "cardiovascular-diseases"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2690,6 +2775,64 @@
       "kidney"
     ],
     "date": "2026-08-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42707755",
+    "title": "Structural dynamics, pathogenic mechanisms, and therapeutic targeting of the NLRP3 inflammasome in lupus nephritis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "The pathological roles of the NLRP3 inflammasome in kidney-resident cells, including podocytes and renal tubular epithelial cells, as well as infiltrating immune cells, such as macrophages and T cells, are comprehensively discussed. This review provides a comprehensive overview of the role of the NLRP3 inflammasome in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707755/",
+    "tags": [
+      "nlr-family-pyrin-domain-containing-3-protein",
+      "inflammasomes",
+      "lupus-nephritis"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42707293",
+    "title": "Single-section multiplex spatial proteomics of immune microenvironments in kidney transplantation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Here, we present and evaluate a high-plex cyclic immunofluorescence imaging workflow (MACSima™, Miltenyi Biotec) applied to kidney transplant biopsies, including BK virus nephropathy (BKVN) and focal segmental glomerulosclerosis (FSGS), to characterize spatial immune organization with a focus on complement system…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707293/",
+    "tags": [
+      "kidney-transplantation",
+      "proteomics",
+      "cellular-microenvironment",
+      "glomerulosclerosis-focal-segmental"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42707214",
+    "title": "Association between remnant cholesterol inflammation index and handgrip strength in maintenance hemodialysis patients",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Higher ln(RCII + 1) was associated with lower handgrip strength in maintenance hemodialysis patients after adjustment for seven clinically relevant covariates. The inverse direction was broadly consistent across sensitivity analyses, although estimates were less precise after excluding upper-tail RCII observations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707214/",
+    "tags": [
+      "renal-dialysis",
+      "hand-strength",
+      "cholesterol",
+      "inflammation"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42707184",
+    "title": "FN3K deficiency drives tubular injury in diabetic kidney disease through impaired mitochondrial respiratory chain function",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "FN3K deficiency is associated with tubular injury and DKD progression, potentially through increased glycation stress, mitochondrial metabolic dysfunction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707184/",
+    "tags": [
+      "diabetic-nephropathies",
+      "mitochondria",
+      "kidney-tubules"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4182,149 +4325,6 @@
       "acidosis"
     ],
     "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42593554",
-    "title": "Treatment with Roseburia intestinalis Relieves Symptoms of Chronic Kidney Disease (CKD) by Altering the Gut Microbiota and Increasing the Levels of Fecal SCFAs in Adriamycin-Induced CKD Rats",
-    "subtitle": "Current microbiology · 2026",
-    "summary": "Importantly, FMT from R. intestinalis-treated rats into germ-free CKD rats reversed these beneficial effects, whereas R. intestinalis alone under germ-free conditions was less effective, suggesting the need for a complex microbiome for full efficacy. These findings indicate that R. intestinalis is associated with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42593554/",
-    "tags": [
-      "feces",
-      "fatty-acids-volatile",
-      "gastrointestinal-microbiome",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42656751",
-    "title": "Exit-site infection and subsequent incident risk of peritoneal dialysis-associated peritonitis: a retrospective cohort study with meta-analysis",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "Regarding retrospective cohort analysis with ancillary meta-analytical synthesis, individuals experienced with ESI are at risk of developing PD-associated peritonitis. Effective strategies to prevent PD-associated peritonitis following an ESI episode are warranted to promote patient health and sustainable PD programs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42656751/",
-    "tags": [
-      "peritonitis",
-      "peritoneal-dialysis",
-      "catheter-related-infections"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42656727",
-    "title": "T cell, M2 macrophage infiltration and collagen, fibronectin, VCAM-1 expression portend poor outcome in lupus nephritis",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Interestingly, there was increased glomerular and interstitial collagen I, collagen IV deposition, and fibronectin extracellular matrix (ECM) proteins in class V compared to class IV LN. As defined by multiplexed spatial proteomics, increased infiltration of activated T cells and CD163M2 macrophages, glomerular and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42656727/",
-    "tags": [
-      "lupus-nephritis",
-      "macrophages",
-      "fibronectins",
-      "vascular-cell-adhesion-molecule-1"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42656296",
-    "title": "Contrasting outcomes of visceral leishmaniasis in two patients with membranous nephropathy receiving immunosuppressive therapy: a case report",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "These cases suggest that when patients with MN develop VL after long-term immunosuppressive therapy, treatment faces multiple challenges including renal insufficiency, depth of immunosuppression, and secondary HLH, necessitating individualized and comprehensive management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42656296/",
-    "tags": [
-      "leishmaniasis-visceral",
-      "immunosuppressive-agents",
-      "glomerulonephritis-membranous"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42654210",
-    "title": "Low-Protein Diet Supplemented with Ketoanalogues and Progression of Chronic Kidney Disease in Diabetic Patients: A Multicenter Randomized Controlled Trial",
-    "subtitle": "Nutrients · 2026",
-    "summary": ": Low-protein diets (LPD) and very-low-protein diets supplemented with Ketoanalogues (sVLPD) delay initiation of dialysis in non-diabetic patients with chronic kidney disease (CKD). sVLPD is not recommended in patients with type 2 diabetes mellitus (T2DM), and information about LPD supplemented with Ketoanalogues (LPD…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42654210/",
-    "tags": [
-      "diet-protein-restricted",
-      "diabetes-mellitus-type-2",
-      "renal-insufficiency-chronic",
-      "keto-acids"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42653211",
-    "title": "Short-Term Effects of Intradialytic Hypoxemia on Plasma Markers of Hypoxia",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Blood was collected three times during a single mid-week hemodialysis session and at the start of the next mid-week session to assess levels of sirtuin 1 (SIRT1), hypoxia-inducible factor 1 (HIF-1), and hypoxia-inducible factor 2 (HIF-2). Plasma SIRT1 and HIF-2 concentrations did not change significantly during…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653211/",
-    "tags": [
-      "hypoxia",
-      "renal-dialysis",
-      "biomarkers"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42653197",
-    "title": "Delaying Stress Granule Disassembly by PARG Inhibition Attenuates Renal Tubular Cell Pyroptosis in Acute Kidney Injury",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Acute kidney injury (AKI) is a critical clinical syndrome with limited effective therapies, in which renal tubular epithelial cell (RTEC) pyroptosis mediated by the NLRP3 inflammasome represents an important pathological contributor. Mechanistically, persistent SGs regulated DDX3X availability and reduced DDX3X-NLRP3…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653197/",
-    "tags": [
-      "pyroptosis",
-      "acute-kidney-injury",
-      "kidney-tubules",
-      "stress-granules"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42645379",
-    "title": "Impact of Chronic Kidney Disease Stages 3-5 on Mortality and Morbidity Outcomes in Patients with Esophageal Cancer: A Propensity-Score-Matched Cohort Study",
-    "subtitle": "Current oncology (Toronto, Ont.) · 2026",
-    "summary": "All-cause mortality was not significantly higher in the overall cohort with CKD stages 3-5 than in the non-CKD cohort (HR, 1.13; 95% CI, 0.98-1.31;= 0.099), whereas CKD stages 4-5 were associated with higher mortality in the stage-specific analysis (HR, 1.46; 95% CI, 1.03-2.06;= 0.031). These findings suggest that the…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42645379/",
-    "tags": [
-      "esophageal-neoplasms",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42587182",
-    "title": "Incidence and factors associated with acute kidney injury after the bidirectional Glenn procedure in patients with functional single ventricle",
-    "subtitle": "European journal of pediatrics · 2026",
-    "summary": "In the final model, dextrocardia [odds ratio (OR) = 1.187, 95% confidence interval (CI): 1.019-1.383], lower serum albumin (OR = 0.974, 95% CI: 0.961-0.988), lower preoperative serum creatinine (OR = 0.996, 95% CI: 0.992-0.999), and higher 24h-VIS(OR = 1.019, 95% CI: 1.007-1.031) were independently associated with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42587182/",
-    "tags": [
-      "acute-kidney-injury",
-      "postoperative-complications",
-      "fontan-procedure",
-      "heart-defects-congenital"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42584699",
-    "title": "The \"obesity paradox\" in dosing: a comprehensive analytical review of cockcroft-gault versus CKD-EPI for predicting clearance of narrow-therapeutic-index drugs in patients with BMI > 40 kg/m²",
-    "subtitle": "European journal of clinical pharmacology · 2026",
-    "summary": "For narrow-therapeutic-index drugs in patients with BMI > 40 kg/m², neither CG using total body weight nor indexed CKD-EPI is appropriate as a stand-alone tool. De-indexed CKD-EPI 2021, CG with lean body weight, and CG with adjusted body weight (40% factor) are the appropriate first-line equations for maintenance-dose…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42584699/",
-    "tags": [
-      "obesity",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-12T00:00:00.000Z",
     "pinned": false
   }
 ]

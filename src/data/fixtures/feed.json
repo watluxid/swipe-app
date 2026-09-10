@@ -44,6 +44,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42714219",
+    "title": "Clinical characteristics and prognosis of IgA nephropathy and comorbid diabetic kidney disease",
+    "subtitle": "Annals of medicine · 2026",
+    "summary": "IgAN + DKD exhibited lower intrarenal immune activity than IgAN and less severe diabetic glomerular injury than DKD. The KM55/IgA ratio might aid differentiation from IgAN.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714219/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42703736",
     "title": "Dialysis deserts in the Philippines: a national geospatial modeling study of dialysis services",
     "subtitle": "Global health action · 2026",
@@ -1033,6 +1046,51 @@
     "pinned": false
   },
   {
+    "id": "pmid-42716681",
+    "title": "Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis",
+    "subtitle": "BMJ open · 2026",
+    "summary": "IDE may improve cardiovascular function, arterial stiffness and cardiorespiratory fitness in patients receiving MHD. Effects on LVMI and SBP remain uncertain.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42716681/",
+    "tags": [
+      "renal-dialysis",
+      "exercise-therapy",
+      "kidney-failure-chronic",
+      "exercise"
+    ],
+    "date": "2026-09-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42714768",
+    "title": "Effects of nandrolone decanoate on lean body mass and anemia in adults with chronic kidney disease: a systematic review and meta-analysis",
+    "subtitle": "Endocrine · 2026",
+    "summary": "Nandrolone decanoate was associated with increased lean body mass in adults with CKD. However, the evidence base is largely historical, and substantial heterogeneity and very low certainty of evidence preclude firm conclusions regarding hematologic benefits.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714768/",
+    "tags": [
+      "nandrolone-decanoate",
+      "renal-insufficiency-chronic",
+      "anemia",
+      "body-composition"
+    ],
+    "date": "2026-09-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42711699",
+    "title": "Allogeneic CD19 CAR-NK cell therapy for a patient with relapsed and refractory lupus nephritis",
+    "subtitle": "Arthritis research & therapy · 2026",
+    "summary": "CD19-targeted CAR-NK cell therapy achieved durable remission in a patient with relapsed/refractory LN and showed favorable safety and tolerability.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711699/",
+    "tags": [
+      "lupus-nephritis",
+      "killer-cells-natural",
+      "antigens-cd19",
+      "immunotherapy-adoptive"
+    ],
+    "date": "2026-09-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42708901",
     "title": "Cyclosporine-A Nanotherapeutics Ameliorate Lupus Nephritis by Reprogramming the Gut-Microbial Metabolic Axis and Systemic Inflammation",
     "subtitle": "ACS nano · 2026",
@@ -1176,6 +1234,20 @@
       "macrophages"
     ],
     "date": "2026-09-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42713840",
+    "title": "Predicting postoperative acute kidney injury after colorectal cancer surgery: development and internal validation of a clinical prediction model using a nationwide cohort",
+    "subtitle": "BJS open · 2026",
+    "summary": "The model predicted PO-AKI with moderate accuracy and may support the implementation of preventive measures. However, external validation is required to confirm its applicability.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713840/",
+    "tags": [
+      "acute-kidney-injury",
+      "postoperative-complications",
+      "colorectal-neoplasms"
+    ],
+    "date": "2026-09-04T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1476,6 +1548,65 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42716628",
+    "title": "A 50-Year-Old Woman With Cough and Cystic Lesions Accompanied by Diffuse Interstitial Abnormalities",
+    "subtitle": "Chest · 2026",
+    "summary": "She did not smoke, did not report any occupational chemical exposures, and reported a family history of cor pulmonale in her father. Unfortunately, neither her chest imaging results nor renal function improved.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42716628/",
+    "tags": [
+      "cough",
+      "nephritis-interstitial",
+      "cysts"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42712253",
+    "title": "Clinical and Technical Factors Associated With Tunnelled Central Venous Catheter Dysfunction in Haemodialysis: A Multicentre Session-Level Retrospective Study",
+    "subtitle": "Nursing open · 2026",
+    "summary": "Catheter dysfunction is a frequent complication with multifactorial associations. Our findings highlight the importance of systematic clinical and technical monitoring during haemodialysis sessions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712253/",
+    "tags": [
+      "renal-dialysis",
+      "central-venous-catheters",
+      "catheterization-central-venous",
+      "equipment-failure"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42712087",
+    "title": "Hospitalization Costs of Kidney Transplantation Associated With Induction Therapy Among Pediatric Kidney Transplant Recipients: A North American Pediatric Renal Trials and Collaborative Studies and Pediatric Health Information System Collaborative Study",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Among pediatric and young adult kidney transplant recipients, IHC was comparable across induction agents. Younger age at transplantation and DGF were associated with significantly higher IHC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712087/",
+    "tags": [
+      "kidney-transplantation",
+      "immunosuppressive-agents",
+      "hospitalization",
+      "hospital-costs"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42711670",
+    "title": "Photoacoustic Imaging Reveals Early Hemodynamic Changes in Diabetic Nephropathy: Hemoglobin Rise Prior to Oxygen Saturation Drop",
+    "subtitle": "Journal of biophotonics · 2026",
+    "summary": "The rise in renal HbT precedes the fall in sO, identifying it as an early hemodynamic biomarker. PAI demonstrates significant potential for the noninvasive early diagnosis of DN.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711670/",
+    "tags": [
+      "diabetic-nephropathies",
+      "photoacoustic-techniques",
+      "hemoglobins",
+      "hemodynamics"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2591,6 +2722,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42717324",
+    "title": "Characterization of pediatric patients receiving erythropoiesis-stimulating agents for management of anemia of chronic kidney disease in the UK and US: a feasibility assessment using retrospective chart review",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "This study demonstrates feasibility of retrospectively extracting clinical characteristics, treatment history, and AEs from medical charts of pediatric patients with anemia of CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717324/",
+    "tags": [
+      "hematinics",
+      "anemia",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42665855",
     "title": "Serum IL-38 and the rs7599662 polymorphism: novel biomarkers for pediatric idiopathic nephrotic syndrome",
     "subtitle": "Italian journal of pediatrics · 2026",
@@ -2715,6 +2860,20 @@
       "anterior-eye-segment"
     ],
     "date": "2026-08-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42712521",
+    "title": "Real-world experience with belimumab in lupus nephritis: insights from the Spanish cohort",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Belimumab use was associated with maintenance or improvement of renal response in a real-world cohort of patients with LN. The apparent benefits of early initiation, together with the observed reductions in corticosteroid and MMF doses, the favorable safety profile, and the low rate of renal flares, suggest that…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712521/",
+    "tags": [
+      "antibodies-monoclonal-humanized",
+      "lupus-nephritis",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-08-25T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4168,163 +4327,6 @@
       "bibliometrics"
     ],
     "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42599906",
-    "title": "Understanding perceived quality of nursing care among adults receiving haemodialysis in Northern Ghana: A qualitative inquiry",
-    "subtitle": "PloS one · 2026",
-    "summary": "Enhancing patient-centered care for individuals undergoing HD requires practical and context-appropriate interventions that address both interpersonal and system-level factors. Key strategies to improve quality nursing care include nurse-led patient education using simple local language, routine pain assessment,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42599906/",
-    "tags": [
-      "renal-dialysis",
-      "quality-of-health-care",
-      "kidney-failure-chronic",
-      "nursing-care"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42599620",
-    "title": "Clinical risk factors associated with bone biopsy findings in CKD-associated osteoporosis: insights from the Brazilian Registry of Bone Biopsy (REBRABO)",
-    "subtitle": "Archives of osteoporosis · 2026",
-    "summary": "Our findings suggest that younger patients undergoing hemodialysis with elevated PTH and ALP levels may benefit from a more intensive approach to the management of hyperparathyroidism. In contrast, older and more frail patients with relatively low PTH levels may be more likely to exhibit low bone volume and turnover…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42599620/",
-    "tags": [
-      "osteoporosis",
-      "renal-insufficiency-chronic",
-      "bone-and-bones"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42595915",
-    "title": "Effects of Dapagliflozin on the Bone of Patients with CKD on Dialysis",
-    "subtitle": "Calcified tissue international · 2026",
-    "summary": "After 24 weeks, the between-group analysis of the change from baseline (delta), adjusted by baseline, revealed a significant difference in serum Klotho [19.1 (- 38.9-86.3) pg/mL, Control group; - 29.1 (- 94.1-43.9) pg/mL, Dapagliflozin group (F:4.946, p = 0.03)], but not on FGF23 levels, nor other biomarkers.…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42595915/",
-    "tags": [
-      "glucosides",
-      "benzhydryl-compounds",
-      "renal-dialysis",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42662505",
-    "title": "CD8(+) T cell heterogeneity and function in lupus nephritis: a focused review",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "We synthesize current evidence into a unified blood-kidney-urine circuit model, in which systemic priming of circulating CD8T pools is followed by renal recruitment, tissue retention and functional reprogramming of kidney-infiltrating populations, cytotoxic and inflammatory tissue injury, and subsequent release of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42662505/",
-    "tags": [
-      "lupus-nephritis",
-      "cd8-positive-t-lymphocytes"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42661735",
-    "title": "Findings and significance of early follow-up biopsies after treatment of acute rejection in kidney transplant recipients",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "Findings from follow-up biopsies taken ≤45 days after treatment of early acute rejection were correlated with graft outcomes. Persistent histologic rejection within 45 days was associated with inferior long-term graft survival.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42661735/",
-    "tags": [
-      "kidney-transplantation",
-      "graft-rejection"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42653236",
-    "title": "Emerging Immune Cell Biomarkers in Primary Membranous Nephropathy: Immune Cell Profiling During Anti-CD20 B Cell-Targeted Therapy",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "A specific B cell reconstitution profile was associated with pending relapse. Class-switched memory B cells remain depleted during sustained remission, and their premature re-expansion has been associated with subsequent relapse.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653236/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "rituximab",
-      "b-lymphocytes",
-      "antigens-cd20"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42645380",
-    "title": "Overcoming Trial Exclusion: A Multicenter Analysis of Hemodialysis Multiple Myeloma Patients Who Underwent BCMA-Directed CAR-T Therapy",
-    "subtitle": "Current oncology (Toronto, Ont.) · 2026",
-    "summary": "Five received ciltacabtagene autoleucel and three received idecabtagene vicleucel; lymphodepletion was bendamustine (= 4) or dose-reduced fludarabine/cyclophosphamide (= 4). CAR-T therapy is feasible, relatively safe, and effective in carefully selected HD-dependent MM patients, supporting expanded eligibility with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42645380/",
-    "tags": [
-      "multiple-myeloma",
-      "renal-dialysis",
-      "immunotherapy-adoptive",
-      "b-cell-maturation-antigen"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42595381",
-    "title": "Recurrent stroke in eosinophilic granulomatosis with polyangiitis: the need to consider additional mechanisms beyond vasculitis",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Recurrent stroke despite apparent disease remission is rare and presents a diagnostic challenge.We report a man in his 60s with EGPA who developed recurrent multifocal cerebral infarcts. Renal biopsy, performed in view of nephrotic syndrome and initial autoimmune serology, demonstrated neural epidermal growth…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42595381/",
-    "tags": [
-      "stroke",
-      "churg-strauss-syndrome",
-      "glomerulonephritis-membranous",
-      "granulomatosis-with-polyangiitis"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42594081",
-    "title": "Chronic kidney disease progression rate and predictors in hypertensive patients: A 5-year retrospective follow-up study in Ethiopia",
-    "subtitle": "PloS one · 2026",
-    "summary": "Hypertensive patients in this study progressed to chronic kidney disease more rapidly as compared to other studies. This could be explained by obesity, uncontrolled blood pressure, and high triglyceride levels.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594081/",
-    "tags": [
-      "hypertension",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42594080",
-    "title": "Integrated multi-omics reveals dysbiosis in hemodialysis patients: A multi-center study",
-    "subtitle": "PloS one · 2026",
-    "summary": "Hemodialysis patients exhibited significant alterations in gut microbiota composition and metabolic profiles (amino acid, vitamin, and lipid metabolism) compared with healthy controls, with demonstrated microbiome-metabolome interactions and shared functional pathways. The potential diagnostic and therapeutic value of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594080/",
-    "tags": [
-      "renal-dialysis",
-      "dysbiosis",
-      "gastrointestinal-microbiome"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42593571",
-    "title": "Sequential changes in urinary crystal morphology in ethylene glycol poisoning: first human LV-SEM characterization of recovery-phase crystals",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "Although needle-shaped calcium oxalate monohydrate (COM) crystals are a recognized diagnostic marker in the acute phase, sequential changes in urinary crystal morphology during recovery have not been well characterized in human cases. Following emergency hemodialysis and fomepizole treatment, urinalysis showed a…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42593571/",
-    "tags": [
-      "ethylene-glycol",
-      "calcium-oxalate",
-      "acute-kidney-injury",
-      "acidosis"
-    ],
-    "date": "2026-08-13T00:00:00.000Z",
     "pinned": false
   }
 ]

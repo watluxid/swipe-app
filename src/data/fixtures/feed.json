@@ -44,6 +44,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42717832",
+    "title": "Kidney injury associated with direct oral anticoagulants: a comparative study of direct thrombin inhibitors and factor Xa inhibitors based on literature and database analysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Analysis of 32 detailed cases revealed distinct clinical patterns: DTI-associated injury featured higher proteinuria rates ( = 0.029), while FXaI-associated injury occurred more frequently in settings of polypharmacy ( = 0.006) and was associated with poorer renal recovery ( = 0.023). This study demonstrates distinct…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717832/",
+    "tags": [
+      "factor-xa-inhibitors",
+      "acute-kidney-injury",
+      "antithrombins",
+      "anticoagulants"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42717829",
+    "title": "Pharmacological activation of SIRT1 alleviates sepsis-associated acute kidney injury by improving renal mitochondrial energy metabolism",
+    "subtitle": "Renal failure · 2026",
+    "summary": "LPS exposure reduced SIRT1 expression in NRK-52E cells and was accompanied by decreased cell viability, mitochondrial structural damage, oxidative stress, and impaired energy metabolism. These findings suggest that SIRT1 activation attenuates SA-AKI, at least partly by maintaining renal mitochondrial energy…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717829/",
+    "tags": [
+      "sirtuin-1",
+      "sepsis",
+      "acute-kidney-injury",
+      "energy-metabolism"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42714219",
     "title": "Clinical characteristics and prognosis of IgA nephropathy and comorbid diabetic kidney disease",
     "subtitle": "Annals of medicine · 2026",
@@ -1046,6 +1076,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42721212",
+    "title": "Renaclic for Chronic Kidney Disease Self-Management: Formative User-Centered Co-Design Study",
+    "subtitle": "JMIR formative research · 2026",
+    "summary": "This formative study demonstrates how participatory UCD with diverse CKD stakeholders can generate a structured, context-sensitive digital platform framework. Renaclic provides a replicable model for early-stage co-design of digital health interventions in chronic disease management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42721212/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "self-management",
+      "user-centered-design",
+      "patient-education-as-topic"
+    ],
+    "date": "2026-09-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723031",
+    "title": "Extracorporeal carbon dioxide removal integrated into continuous renal replacement therapy in pediatric patients with ARDS: a retrospective single-center case series",
+    "subtitle": "BMC pediatrics · 2026",
+    "summary": "Integration of ECCO₂R into an already indicated CRRT circuit was technically feasible and temporally associated with reductions in PaCO₂ and ventilatory pressures in this cohort. Although these descriptive findings should be regarded as hypothesis-generating rather than evidence of treatment efficacy or device safety,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723031/",
+    "tags": [
+      "continuous-renal-replacement-therapy",
+      "carbon-dioxide",
+      "respiratory-distress-syndrome",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-09-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42716681",
     "title": "Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis",
     "subtitle": "BMJ open · 2026",
@@ -1548,6 +1608,80 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723340",
+    "title": "Association Between Preoperative Frailty and Postoperative Acute Kidney Injury, Complications, and Resource Utilization in Older Patients Undergoing Hip Fracture Surgery",
+    "subtitle": "Geriatrics & gerontology international · 2026",
+    "summary": "Preoperative frailty was not associated with postoperative AKI or MAKE30. In contrast, frailty was significantly associated with increased risks of pulmonary complications, delirium, higher transfusion requirements, and longer hospital stay.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723340/",
+    "tags": [
+      "acute-kidney-injury",
+      "hip-fractures",
+      "postoperative-complications",
+      "frailty"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42720405",
+    "title": "Urinary Neutrophil Gelatinase-Associated Lipocalin and Serum Cystatin C as Early Biomarkers of Acute Kidney Injury in Critically Ill Children: Single-Center PICU Cohort, 2024-2025",
+    "subtitle": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies · 2026",
+    "summary": "In our PICU cohort, day 1 uNGAL level greater than 87 ng/mL has good-to-excellent discriminative capacity in identifying AKI, but the diagnostic uncertainty of AKI remains.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42720405/",
+    "tags": [
+      "acute-kidney-injury",
+      "cystatin-c",
+      "lipocalin-2"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42720114",
+    "title": "Associations Among Caregiver Burden, Mindful Self-Care, and Health Perception in Informal Caregivers of Patients With Chronic Kidney Disease: A Cross-Sectional Study",
+    "subtitle": "Journal of renal care · 2026",
+    "summary": "Informal caregivers experienced a moderate caregiving burden. Routine caregiver assessment and targeted support should be integrated into nephrology care to promote well-being and sustain caregiving capacity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42720114/",
+    "tags": [
+      "self-care",
+      "caregivers",
+      "renal-insufficiency-chronic",
+      "perception"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42717631",
+    "title": "Pancreas Transplant Training in U.S. Transplant Nephrology Fellowships: National Survey of Current Barriers and Potential Solutions",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "However, data describing pancreas transplant training within transplant nephrology fellowships are scarce. Such interventions may help address current training gaps and strengthen the future pancreas transplant workforce.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717631/",
+    "tags": [
+      "pancreas-transplantation",
+      "fellowships-and-scholarships",
+      "nephrology",
+      "education-medical-graduate"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42717592",
+    "title": "Living Donor Training During ASTS Fellowship: Disparities in Autonomy Between Kidney and Liver Donation. A National Survey",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "The ASTS fellowship provides an excellent foundation for LDKT, fostering independence in laparoscopic and robotic approaches. However, independence in LDLT remains difficult to achieve under the current structure.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717592/",
+    "tags": [
+      "liver-transplantation",
+      "living-donors",
+      "fellowships-and-scholarships",
+      "kidney-transplantation"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2790,6 +2924,78 @@
       "epigenesis-genetic"
     ],
     "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42719741",
+    "title": "Unveiling the molecular toxicity of plasticizers derived from microplastics (DMP and DEP) in diabetic kidney disease: integrative insights from network toxicology and multi-omics analysis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This study provides a hypothesis-generating framework by identifying CASP3, PTGES, and SLC6A2 as potential DKD biomarkers that are computationally predicted and experimentally shown to be regulated by microplastic-associated plasticizers. These findings suggest potential molecular links between plasticizer exposure…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42719741/",
+    "tags": [
+      "plasticizers",
+      "diabetic-nephropathies",
+      "phthalic-acids"
+    ],
+    "date": "2026-08-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42718842",
+    "title": "Longitudinal evaluation of glomerular filtration rate across adolescence and early adulthood in youth with type 1 diabetes: associations with clinical and social risk factors",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Different eGFR trends were observed using Cr- vs. CysC-derived estimates in youth with diabetes using updated eGFR formulae. Elevations in eGFR, alongside alterations in markers of albuminuria, were associated with increased glycemia and marginalization, providing insights into key clinical and social risk factors for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42718842/",
+    "tags": [
+      "diabetes-mellitus-type-1",
+      "glomerular-filtration-rate",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-08-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42718822",
+    "title": "Advancing precision tacrolimus therapy: a systems genetics dissection in BXD platform",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "These findings support a polygenic contribution to tacrolimus metabolism and provide an experimental and computational framework for identifying candidate modulators relevant to individualized dosing. The BXD mouse platform offers a systems-genetics approach for mechanistic discovery that may inform future…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42718822/",
+    "tags": [
+      "tacrolimus",
+      "immunosuppressive-agents",
+      "precision-medicine",
+      "kidney-transplantation"
+    ],
+    "date": "2026-08-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42718803",
+    "title": "Pandemic and post-pandemic shifts in onset and severity of pediatric nephrotic syndrome: a comparative cohort analysis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Children diagnosed during the pandemic experienced longer hospitalizations, whereas most demographic and biological characteristics were comparable between periods. Infection-associated onset was less frequent during the pandemic than during the post-pandemic period, whereas the number of diagnosed cases was similar…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42718803/",
+    "tags": [
+      "nephrotic-syndrome",
+      "covid-19",
+      "sars-cov-2"
+    ],
+    "date": "2026-08-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42718519",
+    "title": "Association of iron-related parameters with the development of sepsis-associated acute kidney injury",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Higher SF was associated with SA-AKI and improved the discriminatory ability of the clinical model. SF may provide additional information for the clinical assessment and identification of SA-AKI in patients with sepsis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42718519/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "iron",
+      "ferritins"
+    ],
+    "date": "2026-08-26T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4128,205 +4334,6 @@
       "resilience-psychological"
     ],
     "date": "2026-08-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42633509",
-    "title": "Clinical Characteristics and Influencing Factors of Cognitive Impairment in Patients With End-Stage Renal Disease Undergoing Maintenance Haemodialysis",
-    "subtitle": "Actas espanolas de psiquiatria · 2026",
-    "summary": "Advanced age, longer dialysis duration, lower Hb, higher β-microglobulin, lower 25(OH)D, and higher iPTH levels were associated with cognitive impairment in patients undergoing maintenance haemodialysis for ESRD. Close monitoring of patients presenting with these risk factors is warranted for early prevention of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42633509/",
-    "tags": [
-      "renal-dialysis",
-      "kidney-failure-chronic",
-      "cognitive-dysfunction"
-    ],
-    "date": "2026-08-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42603811",
-    "title": "Incidence, time trends and predictors of acute kidney injury in the region of Stockholm, Sweden",
-    "subtitle": "Scientific reports · 2026",
-    "summary": "Populations at highest risk of AKI were largely consistent over the years, and included older adults, men, and individuals with uncontrolled diabetes, prior AKI, hypertension, heart failure, kidney transplantation, and multiple myeloma. Lower eGFR and higher albuminuria were associated with markedly higher AKI risk in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42603811/",
-    "tags": [
-      "acute-kidney-injury"
-    ],
-    "date": "2026-08-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42603229",
-    "title": "Association of non-invasive liver-related scores with cardiovascular disease and a four-domain cardiovascular-renal-hepatic-metabolic phenotype in patients with type 2 diabetes mellitus and MASLD",
-    "subtitle": "Endocrine · 2026",
-    "summary": "In patients with T2DM and MASLD, liver-related scores showed distinct associations with cardiovascular and multidomain disease burden. FNI was associated with CVD, whereas FIB-4 was associated with a study-specific four-domain CRHM phenotype.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42603229/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "cardiovascular-diseases",
-      "non-alcoholic-fatty-liver-disease",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42687155",
-    "title": "An unusual presentation of membranous nephropathy with primary and secondary features: a case report",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "On two separate kidney biopsies for the same patient, she demonstrated histopathologic features consistent with Class V lupus nephropathy alongside positive PLAR staining - a combination that creates significant diagnostic uncertainty. This case contributes to the emerging literature on PLAR positivity in lupus…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42687155/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "nephrotic-syndrome",
-      "lupus-nephritis"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42654785",
-    "title": "Anal HPV in Kidney Transplant Recipients: A Closer Look at Pathogenesis and Clinical Management",
-    "subtitle": "Pathogens (Basel, Switzerland) · 2026",
-    "summary": "Kidney transplant recipients (KTRs) face a significantly elevated risk of persistent high-risk human papillomavirus (HR-HPV) infection and subsequent anal squamous cell carcinoma (ASCC) due to chronic immunosuppressive therapy impairing immunosurveillance. Despite the markedly increased risk of ASCC in this vulnerable…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42654785/",
-    "tags": [
-      "kidney-transplantation",
-      "papillomavirus-infections",
-      "human-papillomavirus-viruses",
-      "anus-neoplasms"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42611743",
-    "title": "Four-Hour Hemoperfusion with Stepwise Blood Flow Rates for Toxin Clearance and Safety in Hemodialysis Patients: A Randomized Controlled Trial",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "In Phase 1, the 4-h regimen achieved significantly superior adjusted β2-microglobulin clearance (65.11% ± 4.73% vs. 45.93% ± 4.71%; Adjusted P < 0.001) and reduced loss of hemoglobin and albumin (both P < 0.01). Restricted cubic spline analysis suggested that apparent negative hs-CRP reduction ratios may reflect…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42611743/",
-    "tags": [
-      "renal-dialysis",
-      "hemoperfusion"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42610001",
-    "title": "The albumin-bilirubin score is associated with renal decline in diabetic kidney disease: a retrospective study",
-    "subtitle": "PeerJ · 2026",
-    "summary": "This study suggests that the ALBI score was associated with DKD progression and may serve as a potential supplementary indicator for identifying patients at higher risk of rapid eGFR decline.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42610001/",
-    "tags": [
-      "diabetic-nephropathies",
-      "bilirubin",
-      "serum-albumin"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42605517",
-    "title": "Dynamic Lactate-to-Albumin Ratio Trajectories and Outcomes in Sepsis-Associated Acute Kidney Injury: Evidence From MIMIC-IV and a Multicenter Chinese Cohort",
-    "subtitle": "JMIR medical informatics · 2026",
-    "summary": "Dynamic LAR trajectories are independently associated with 28- and 90-day mortality in SA-AKI. The delayed-clearance trajectory identifies a specific high-risk phenotype, suggesting that longitudinal LAR monitoring and the constructed nomogram may support early risk stratification and inform clinical decision-making.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42605517/",
-    "tags": [
-      "acute-kidney-injury",
-      "sepsis",
-      "lactic-acid",
-      "serum-albumin"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42602921",
-    "title": "Development and Evaluation of a Clinical Prediction Model for Acute Kidney Injury Risk in Elderly Patients with Heart Failure with Reduced Ejection Fraction",
-    "subtitle": "Global heart · 2026",
-    "summary": "This study developed and validated a nomogram model for predicting AKI in patients with HFrEF. Clinicians can utilize this model to optimize clinical decision-making based on individualized patient characteristics, enabling personalized risk stratification for therapeutic interventions and prognostic evaluations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42602921/",
-    "tags": [
-      "heart-failure",
-      "stroke-volume",
-      "acute-kidney-injury",
-      "nomograms"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42601774",
-    "title": "Global, regional, and national burden of chronic kidney disease attributable to dietary risks, 1990 to 2021: A systematic analysis for the Global Burden of Disease Study 2021",
-    "subtitle": "Medicine · 2026",
-    "summary": "Low SDI regions showed a higher burden from CKD due to hypertension, attributable to fruit (54.23) and vegetable (55.99) deficiencies, while high SDI regions exhibited a greater burden from CKD due to T2DM, attributable to highly processed meat (11.36) and a relatively high burden from red meat (6.59) and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42601774/",
-    "tags": [
-      "global-burden-of-disease",
-      "renal-insufficiency-chronic",
-      "diet"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42601755",
-    "title": "Blood pressure and renal outcomes after renal denervation in patients with chronic kidney disease: A systematic review and meta-analysis",
-    "subtitle": "Medicine · 2026",
-    "summary": "RDN effectively lowers BP in CKD patients without compromising renal function and demonstrates an acceptable safety profile, supporting its role as an adjunctive therapy in resistant hypertension.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42601755/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "blood-pressure",
-      "hypertension",
-      "kidney"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42601743",
-    "title": "Vitamin D deficiency and dementia risk in patients with chronic kidney disease: A multi-institutional 10-year retrospective cohort study",
-    "subtitle": "Medicine · 2026",
-    "summary": "Patients with chronic kidney disease (CKD) face elevated dementia risk, and vitamin D deficiency (VDD) has emerged as a potential contributor to cognitive decline. The association is particularly pronounced among hypertensive patients, suggesting that VDD represents a potentially modifiable risk factor warranting…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42601743/",
-    "tags": [
-      "vitamin-d-deficiency",
-      "renal-insufficiency-chronic",
-      "dementia"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42601692",
-    "title": "Association between neutrophil-to-HDL cholesterol ratio and diabetic nephropathy in adults with diabetes mellitus: A cross-sectional study from NHANES 2007-2018",
-    "subtitle": "Medicine · 2026",
-    "summary": "Quartile analysis demonstrated dose-response relationships: top quartile participants showed 2.70-fold higher nephropathy risk versus bottom quartile (OR 2.6967, 95%CI 1.9965-3.6556, p-trend < 0.001). These observational findings suggest that NHR may serve as a complementary marker to support kidney disease risk…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42601692/",
-    "tags": [
-      "diabetic-nephropathies",
-      "neutrophils",
-      "cholesterol-hdl",
-      "diabetes-mellitus"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42601682",
-    "title": "Bibliometrics and visualization analysis: Big data research on diabetic kidney disease from 2000 to 2025",
-    "subtitle": "Medicine · 2026",
-    "summary": "Big data-driven DKD research is growing, with multi-omics biomarkers underpinning AI/ML models that are hotspots for risk prediction and progression assessment; AI, ML, mechanisms, and cells are the frontiers, which together provide references for DKD precision medicine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42601682/",
-    "tags": [
-      "big-data",
-      "diabetic-nephropathies",
-      "bibliometrics"
-    ],
-    "date": "2026-08-14T00:00:00.000Z",
     "pinned": false
   }
 ]

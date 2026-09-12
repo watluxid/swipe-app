@@ -1076,6 +1076,106 @@
     "pinned": false
   },
   {
+    "id": "pmid-42728081",
+    "title": "Medical resolution of refractory peritoneal dialysis-associated peritonitis without catheter removal",
+    "subtitle": "BMJ case reports · 2026",
+    "summary": "Despite appropriate therapy, his effluent leucocyte count, though downward trending, remained >2000/µL on day 5, meeting criteria for refractory peritonitis and prompting recommendation for PD catheter removal. Unexpectedly, his peritonitis resolved by day 15 without catheter removal.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42728081/",
+    "tags": [
+      "peritonitis",
+      "peritoneal-dialysis",
+      "anti-bacterial-agents",
+      "ceftriaxone"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726788",
+    "title": "Protein mediators of chronic kidney disease in Type 2 diabetes: A mendelian randomization study",
+    "subtitle": "PLoS medicine · 2026",
+    "summary": "Collectively, these findings suggest that T2D influences the risk of CKD, in part, through increased circulating INHBC levels.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726788/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726780",
+    "title": "Early recognition of sepsis-associated acute kidney injury based on BioBERT-BPNN multimodal clinical data analysis",
+    "subtitle": "PloS one · 2026",
+    "summary": "The proposed BioBERT-BPNN multimodal model effectively integrates textual and numerical information and improves the performance of early SA-AKI recognition. Leveraging dual-center multi-source heterogeneous clinical data enhances its applicability in real-world clinical settings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726780/",
+    "tags": [
+      "sepsis",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726771",
+    "title": "A dual role of AcSDKP in chronic kidney disease: Targeting pericyte-driven fibrosis and vascular repair via VEGF/FGFR1 while eliciting a compensatory FGFR1 upregulation in apoptotic tubular cells",
+    "subtitle": "PloS one · 2026",
+    "summary": "AcSDKP exerts a compartment-specific dual role in CKD. It is a potent vascular protector that halts PMT and promotes VEGF-driven endothelial repair, but acts as a pro-apoptotic stressor in severely damaged tubules.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726771/",
+    "tags": [
+      "pericytes",
+      "vascular-endothelial-growth-factor-a",
+      "receptor-fibroblast-growth-factor-type-1",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726742",
+    "title": "Vitamin D alleviates indoxyl sulfate-induced inflammatory and cholesterol dysregulation in macrophages: Implications for vascular health in patients receiving hemodialysis",
+    "subtitle": "PloS one · 2026",
+    "summary": "Furthermore, 1,25(OH)2D3 pretreatment preserved cholesterol efflux capacity and modulated ABCA1 and ABCG1 expression in a time- and transporter-dependent manner, accompanied by reduced intracellular lipid accumulation as shown by Oil red O staining. These findings suggest that 1,25(OH)2D3 may protect macrophages…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726742/",
+    "tags": [
+      "macrophages",
+      "cholesterol",
+      "indican",
+      "inflammation"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726307",
+    "title": "Chronic kidney disease and cognitive decline: choroid plexus remodeling, glymphatic dysfunction, and alzheimer biomarker interpretation",
+    "subtitle": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology · 2026",
+    "summary": "CKD should be regarded as an active modifier of cognitive phenotype, neuroimaging interpretation, and plasma biomarker assessment. The proposed framework is testable rather than causal and supports reporting kidney function, dialysis context, and multimodal markers when evaluating cognitive decline.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726307/",
+    "tags": [
+      "choroid-plexus",
+      "glymphatic-system",
+      "renal-insufficiency-chronic",
+      "cognitive-dysfunction"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726135",
+    "title": "Effects of intradialytic nutrition on dialysis adequacy and fatigue in hemodialysis patients: a randomized crossover study",
+    "subtitle": "Revista da Escola de Enfermagem da U S P · 2026",
+    "summary": "Intradialytic nutrition did not compromise dialysis adequacy or worsen fatigue severity but was associated with increased intradialytic blood pressure reductions. Individualized clinical decisions and careful hemodynamic monitoring are warranted when implementing intradialytic nutritional interventions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726135/",
+    "tags": [
+      "renal-dialysis",
+      "fatigue"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42721212",
     "title": "Renaclic for Chronic Kidney Disease Self-Management: Formative User-Centered Co-Design Study",
     "subtitle": "JMIR formative research · 2026",
@@ -1294,6 +1394,20 @@
       "macrophages"
     ],
     "date": "2026-09-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42726495",
+    "title": "Overlap Between Mandatory and Voluntary Value-Based Kidney Care Model Participation and Home Dialysis Use",
+    "subtitle": "JAMA health forum · 2026",
+    "summary": "This study found that simultaneous participation in mandatory and voluntary kidney care models was common (approximately one-fifth of nephrologists) and associated with increased home dialysis use among patients with ESRD compared with participation in the mandatory payment model only, but not when compared with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726495/",
+    "tags": [
+      "kidney-failure-chronic",
+      "hemodialysis-home",
+      "nephrologists"
+    ],
+    "date": "2026-09-04T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1608,6 +1722,19 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42725847",
+    "title": "Exploring the Mechanism of Action of Danggui Buxue Decoction in Treating Chronic Glomerulonephritis Based on UPLC-MS/MS and Network Pharmacology",
+    "subtitle": "Immunity, inflammation and disease · 2026",
+    "summary": "In summary, DBD may exert a therapeutic effect on CGN by regulating the TLR4/NF-κB signaling pathway, thereby suppressing the inflammatory response and modulating apoptosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42725847/",
+    "tags": [
+      "drugs-chinese-herbal",
+      "glomerulonephritis"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2853,6 +2980,79 @@
       "sulfonamides"
     ],
     "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723957",
+    "title": "Development and clinical implementation of a local automated kidney allocation platform integrating virtual crossmatch",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "A locally developed automated KAS substantially improved compatible donor identification for highly sensitized kidney transplant candidates while reducing VXM turnaround from hours to minutes. By enabling comprehensive evaluation of every eligible candidate during each deceased donor workup, automated allocation…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723957/",
+    "tags": [
+      "kidney-transplantation",
+      "histocompatibility-testing",
+      "tissue-and-organ-procurement"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723898",
+    "title": "Effects of GLP-1 receptor agonists on the incidence of contrast-induced acute kidney injury in patients with Type 2 diabetes mellitus undergoing coronary interventions",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "GLP-1 RA therapy was independently associated with a lower risk of CI-AKI in patients with T2DM undergoing contrast-based coronary procedures. These findings suggest a potential renoprotective association but require confirmation in prospective multicenter studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723898/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "contrast-media",
+      "acute-kidney-injury",
+      "glucagon-like-peptide-1-receptor-agonists"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723880",
+    "title": "Discovery and validation of a multi-protein panel for predicting non-fatal major adverse cardiovascular events in diabetic kidney disease",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Plasma proteomics combined with machine learning identifies robust non-fatal MACE predictors in DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723880/",
+    "tags": [
+      "diabetic-nephropathies",
+      "cardiovascular-diseases",
+      "biomarkers",
+      "blood-proteins"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723848",
+    "title": "Kidney-alone transplantation in prior SLK candidates: a national registry analysis",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Unadjusted Kaplan-Meier analyses demonstrated lower patient survival in RLD-KAT (p = 0.020), whereas death-censored and overall graft survival were similar (p > 0.05). Kidney-alone transplantation in prior SLK candidates was associated with acceptable patient and graft outcomes and a low incidence of subsequent liver…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723848/",
+    "tags": [
+      "kidney-transplantation",
+      "liver-transplantation",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42723833",
+    "title": "Low baseline HbA1c and reduced eGFR are associated with relatively unfavorable body recomposition after SGLT2 inhibitor therapy in type 2 diabetes",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Lower baseline HbA1c and reduced eGFR were associated with lower BRS after SGLT2i therapy in patients with T2DM. These exploratory findings support the importance of individualized pharmacotherapy for type 2 diabetes with consideration of muscle-to-fat balance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723833/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "sodium-glucose-transporter-2-inhibitors",
+      "glycated-hemoglobin",
+      "glomerular-filtration-rate"
+    ],
+    "date": "2026-08-27T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4135,205 +4335,6 @@
       "neoplasms"
     ],
     "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42676656",
-    "title": "Early creatinine dynamics for stratifying acute kidney injury trajectories in patients with systemic lupus erythematosus: an exploratory multicenter retrospective study",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This study provides an exploratory risk-stratification framework for early AKI trajectory patterns in SLE. The apparent discrimination was substantially attenuated after removing predictor-outcome overlap and adjusting for optimism.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42676656/",
-    "tags": [
-      "acute-kidney-injury",
-      "lupus-erythematosus-systemic",
-      "creatinine"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42676579",
-    "title": "Impact of tacrolimus peak concentration on kidney graft outcomes",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "We hypothesized that fast metabolization is associated with higher maximal Tac blood concentration (Cmax) and that Tac Cmax has a detrimental effect by itself. Our data support the hypothesis that exposure to high Cmax is detrimental and that fast metabolizers exhibit higher Tac Cmax even in situations where Tac C0 is…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42676579/",
-    "tags": [
-      "tacrolimus",
-      "kidney-transplantation",
-      "immunosuppressive-agents",
-      "graft-survival"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42676352",
-    "title": "Short-term mycophenolic acid withdrawal is associated with temporal changes in immune cell composition in mRNA-1273-vaccinated kidney transplant recipients: insights from high-dimensional immune profiling",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Short-term MPA withdrawal was associated with selective temporal immune shifts, including increased relative frequencies of CD4/CD8T-cell subsets and decreased relative frequencies of monocyte and B-cell subsets. Effects varied by time since transplantation and age, reflecting heterogeneous immune reconstitution.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42676352/",
-    "tags": [
-      "mycophenolic-acid",
-      "kidney-transplantation",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42655517",
-    "title": "Dual-Layer PSO-Enhanced Federated Heterogeneous Data Fusion for Hemodialysis Complication Prediction",
-    "subtitle": "Sensors (Basel, Switzerland) · 2026",
-    "summary": "Experiments on real-world hemodialysis datasets with 17 most commonly seen HD physiological features demonstrate that standard FedAvg yields an accuracy of 65.24% and F1-score of 0.5318, server-side PSO improves accuracy to 75.11%, and client-side PSO further raises accuracy to 81.97%. These results confirm that…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655517/",
-    "tags": [
-      "renal-dialysis"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42653335",
-    "title": "Early Donor-Derived Cell-Free DNA Kinetics After Kidney Transplantation in Atypical Hemolytic Uremic Syndrome: A Preliminary Observational Study",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Elevated dd-cfDNA has been associated with acute rejection, particularly antibody-mediated rejection; however, dd-cfDNA reflects graft-derived tissue injury rather than a specific alloimmune mechanism. These recipient-level observations suggest that early dd-cfDNA kinetics in the two recipients with aHUS differed from…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653335/",
-    "tags": [
-      "kidney-transplantation",
-      "cell-free-nucleic-acids",
-      "atypical-hemolytic-uremic-syndrome",
-      "tissue-donors"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42646778",
-    "title": "Indoxyl Sulfate Contributes to Progression of Renal Injury in the Postpartum Period Following Pregnancy-Related Acute Kidney Injury",
-    "subtitle": "Toxins · 2026",
-    "summary": "PR-AKI resulted in sustained postpartum elevations in circulating (= 0.03) and urinary (< 0.03) IS, reduced urine output (= 0.03), increased proteinuria (< 0.0001), increased serum albumin, and increased renal fibrosis (= 0.008) compared to normal pregnant control rats. Absorption of indole, a precursor for IS,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42646778/",
-    "tags": [
-      "indican",
-      "acute-kidney-injury",
-      "postpartum-period",
-      "pregnancy-complications"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42639521",
-    "title": "Probable Renal-Limited Sarcoidosis Presenting With Tubulointerstitial Nephritis Without Granulomas on Renal Biopsy: A diagnostic challenge",
-    "subtitle": "Sultan Qaboos University medical journal · 2026",
-    "summary": "Renal-limited sarcoidosis is a rare manifestation of sarcoidosis which remains a diagnostic challenge due to lack of extra renal manifestation and specific diagnostic criteria. The patient received a course of steroids with subsequent improvement in his symptoms, renal function and renal biopsy inflammatory activity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42639521/",
-    "tags": [
-      "sarcoidosis",
-      "nephritis-interstitial"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42615768",
-    "title": "Acutely kidney injury in the postoperative period of elective colorectal surgery: assessment of the age influence",
-    "subtitle": "Arquivos brasileiros de cirurgia digestiva : ABCD = Brazilian archives of digestive surgery · 2026",
-    "summary": "In elderly patients undergoing elective colorectal surgery for oncological treatment, the incidence of acute kidney injury was high.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42615768/",
-    "tags": [
-      "acute-kidney-injury",
-      "postoperative-complications"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42608603",
-    "title": "Impact of preoperative venovenous extracorporeal membrane oxygenation bridging on postoperative acute kidney injury after lung transplantation",
-    "subtitle": "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs · 2026",
-    "summary": "Preoperative VV-ECMO bridging was not associated with a statistically significant difference in overall survival during the available follow-up. In contrast, postoperative AKI was independently associated with increased mortality after lung transplantation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608603/",
-    "tags": [
-      "extracorporeal-membrane-oxygenation",
-      "acute-kidney-injury",
-      "lung-transplantation",
-      "postoperative-complications"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42608064",
-    "title": "Pauci-immune crescentic glomerulonephritis in human immunodeficiency virus infection: clinical and therapeutic challenges",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "The first, established on antiretroviral therapy, presented with a pulmonary-renal syndrome after empirical anti-tubercular treatment had failed; biopsy showed cellular crescents without chronic change, and corticosteroids with rituximab achieved sustained clinical, biochemical and serological remission. The second,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608064/",
-    "tags": [
-      "glomerulonephritis",
-      "hiv-infections",
-      "aids-associated-nephropathy"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42607093",
-    "title": "Psychological resilience trajectories and baseline factors associated with trajectory membership among patients newly initiating maintenance hemodialysis: A multicenter longitudinal study",
-    "subtitle": "PloS one · 2026",
-    "summary": "Psychological resilience among patients newly initiating MHD showed heterogeneous trajectories during the early dialysis period. The declining and low-stable trajectories were associated with different baseline psychological, clinical, and sociodemographic characteristics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42607093/",
-    "tags": [
-      "renal-dialysis",
-      "resilience-psychological",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42606622",
-    "title": "Positive impact of a patient-perspective video on engagement and learning in a kidney transplant seminar: a cluster-randomized study",
-    "subtitle": "World journal of urology · 2026",
-    "summary": "A brief patient-perspective video shown before a kidney transplantation seminar was associated with higher immediate knowledge retention and greater self-reported emotional engagement. Short patient-perspective videos may be a low-cost, scalable adjunct to traditional teaching.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42606622/",
-    "tags": [
-      "kidney-transplantation",
-      "video-recording",
-      "learning",
-      "education-medical-undergraduate"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42642199",
-    "title": "[Protective effects and underlying mechanisms of bone marrow mesenchymal stem cells-derived apoptotic extracellular vesicles in acute kidney injury]",
-    "subtitle": "Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery · 2026",
-    "summary": "ApoEV possess higher production yield, enhanced macrophage uptake capacity and superior anti-inflammatory regulatory activity compared with NCEV. Both ApoEV and NCEV can alleviate renal injury in cisplatin-induced AKI, providing experimental evidence supporting the translational application of ApoEV for AKI treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42642199/",
-    "tags": [
-      "extracellular-vesicles",
-      "apoptosis",
-      "mesenchymal-stem-cells",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-08-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42633525",
-    "title": "The Chain Mediating Effect of Sleep Quality and Family Resilience Between Depressive Mood and Treatment Compliance in Continuous Blood Purification Patients",
-    "subtitle": "Actas espanolas de psiquiatria · 2026",
-    "summary": "Improving sleep quality and enhancing family resilience may be potential strategies to mitigate the adverse effects of depressive mood on self-reported treatment compliance in patients with CBP, though these findings require confirmation using adherence measures validated specifically for the CBP population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42633525/",
-    "tags": [
-      "depression",
-      "sleep-quality",
-      "patient-compliance",
-      "resilience-psychological"
-    ],
-    "date": "2026-08-15T00:00:00.000Z",
     "pinned": false
   }
 ]

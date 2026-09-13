@@ -1076,6 +1076,64 @@
     "pinned": false
   },
   {
+    "id": "pmid-42731886",
+    "title": "Identification and functional characterisation of SCO1 as a mitochondria-related biomarker in lupus nephritis",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "SCO1 showed elevated expression in renal tubules and strong discriminatory ability. It may help preserve tubular cell viability and mitochondrial homeostasis under inflammatory stress, highlighting its potential as a diagnostic biomarker and a candidate for further mechanistic investigation in LN.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731886/",
+    "tags": [
+      "lupus-nephritis",
+      "mitochondria",
+      "mitochondrial-proteins",
+      "membrane-proteins"
+    ],
+    "date": "2026-09-12T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42731884",
+    "title": "Efficacy and safety of telitacicept combined with standard of care in patients with proliferative lupus nephritis: a real-world retrospective study",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "This real-world study demonstrates that telitacicept combined with SoC significantly improves renal response rates during the induction phase of proliferative LN while reducing glucocorticoid exposure. Consequently, telitacicept may represent a promising and effective therapeutic option for the management of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731884/",
+    "tags": [
+      "lupus-nephritis",
+      "glucocorticoids",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-09-12T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42732007",
+    "title": "Serum hepcidin and erythropoietin in relation to anemia in non-diabetic chronic kidney disease: a cross-sectional study",
+    "subtitle": "Scientific reports · 2026",
+    "summary": "Hepcidin levels remained statistically comparable across the varying stages of CKD and showed a significant negative correlation with hemoglobin (ρ = -0.277, p = 0.012), whereas TSAT demonstrated a modest positive correlation (ρ = 0.188, p = 0.071). Transferrin saturation is independently associated with hemoglobin…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42732007/",
+    "tags": [
+      "hepcidins",
+      "anemia",
+      "erythropoietin",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-12T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42730760",
+    "title": "Outcome after renal transplantation utilizing octogenarian donors- retrospective single-center analysis within the Eurotransplant region",
+    "subtitle": "Langenbeck's archives of surgery · 2026",
+    "summary": "Following meticulous donor selection, allocating kidney grafts from donors aged 80 years or older represents a viable strategy to expand the donor pool for ESP patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730760/",
+    "tags": [
+      "kidney-transplantation",
+      "tissue-donors",
+      "donor-selection"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42728081",
     "title": "Medical resolution of refractory peritoneal dialysis-associated peritonitis without catheter removal",
     "subtitle": "BMJ case reports · 2026",
@@ -1394,6 +1452,21 @@
       "macrophages"
     ],
     "date": "2026-09-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42732053",
+    "title": "Screening effect of phase angle and calf circumference in different stages of sarcopenia in patients with maintenance hemodialysis",
+    "subtitle": "BMC musculoskeletal disorders · 2026",
+    "summary": "The simple scoring tool showed improved screening performance as sarcopenia severity increased, with a consistent cut-off of 1 point. CC and PhA can be used for staged sarcopenia screening in MHD outpatients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42732053/",
+    "tags": [
+      "sarcopenia",
+      "renal-dialysis",
+      "leg",
+      "mass-screening"
+    ],
+    "date": "2026-09-04T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1722,6 +1795,21 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42731581",
+    "title": "Delayed Graft Function After Simultaneous Heart-Kidney Transplantation Across Heart Allocation Eras: Predictors and Impact on Kidney Graft Survival in a National Cohort",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "DGF is frequent after SHK transplantation and identifies a high-risk subgroup with substantially inferior long-term kidney graft survival, independent of rejection and allocation era. Given the frequency of DGF and its adverse outcomes, future studies are needed to evaluate kidney-after-heart safety-net utilization…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731581/",
+    "tags": [
+      "kidney-transplantation",
+      "delayed-graft-function",
+      "graft-survival",
+      "heart-transplantation"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2823,6 +2911,35 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-08-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42729237",
+    "title": "The gamma-glutamyltransferase-to-estimated glomerular filtration rate composite index is associated with arterial stiffness: a cross-sectional secondary analysis of a health check-up population",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In this cross-sectional secondary analysis, a higher exploratory GGT-eGFR-derived index remained associated with higher baPWV after multivariable adjustment. Direct comparison with ln(GGT) and eGFR showed only modest differences in model fit, and prospective external validation is required before clinical application…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729237/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "gamma-glutamyltransferase",
+      "vascular-stiffness"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42729188",
+    "title": "Alterations in gut microbiota among maintenance hemodialysis patients with CKD-associated pruritus: a cross-sectional comparative study of two cohorts",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "Active CKD-aP was associated with selective differences in gut microbial relative abundance rather than broad alterations in microbial richness, diversity, or dominant community structure.showed a nominal genus-level association with the absence of active pruritus, although this association did not remain…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729188/",
+    "tags": [
+      "renal-dialysis",
+      "pruritus",
+      "renal-insufficiency-chronic",
+      "gastrointestinal-microbiome"
+    ],
+    "date": "2026-08-28T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4218,123 +4335,6 @@
       "postoperative-complications"
     ],
     "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42612202",
-    "title": "Risk Factors of Arteriovenous Fistula Stenosis in Hemodialysis Patients Using Electronic Stethoscope Monitoring: Prospective Pilot Cohort Study",
-    "subtitle": "JMIR formative research · 2026",
-    "summary": "Serial electronic stethoscope monitoring was feasible. In one illustrative patient with Doppler-confirmed stenosis, persistent acoustic abnormalities were recognized before routine nursing assessment but not before imaging.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42612202/",
-    "tags": [
-      "renal-dialysis",
-      "stethoscopes",
-      "arteriovenous-shunt-surgical",
-      "arteriovenous-fistula"
-    ],
-    "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42611808",
-    "title": "Seizure-Induced Rhabdomyolysis Complicated by Acute Kidney Injury: A Case Report",
-    "subtitle": "The American journal of case reports · 2026",
-    "summary": "BACKGROUND Tonic-clonic seizures can precipitate severe rhabdomyolysis due to sustained muscle activity, leading to release of intracellular contents, including proteins, that can pose an elevated risk for acute kidney injury (AKI). Rhabdomyolysis management centers on aggressive intravenous (IV) fluid resuscitation…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42611808/",
-    "tags": [
-      "rhabdomyolysis",
-      "acute-kidney-injury",
-      "seizures"
-    ],
-    "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42611365",
-    "title": "Robotic vs. laparoscopic inguinal hernia repair in patients with chronic kidney disease: a propensity score-matched analysis",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "At 1 month, robotic repair had higher AKI (5.0% vs. 2.9%; HR 1.74, 95% CI 1.22-2.47; p = 0.002) and MACE (2.5% vs. 1.4%; HR 1.84; p = 0.017). Robotic inguinal hernia repair in CKD was associated with higher AKI and early MACE in the all-events analysis, but the incident AKI signal was borderline and post-operative…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42611365/",
-    "tags": [
-      "hernia-inguinal",
-      "robotic-surgical-procedures",
-      "laparoscopy",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42608597",
-    "title": "Cellular crosstalk between endothelial and vascular smooth muscle cells via the BACH1/COL3A1 axis promotes vascular calcification in chronic kidney disease",
-    "subtitle": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026",
-    "summary": "In summary, BACH1 regulates COL3A1, facilitating communication between endothelial cells and VSMCs through exosomes, thereby promoting vascular calcification in CKD. These findings highlight that targeting the BACH1-COL3A1 axis and exosome-mediated endothelial-VSMC communication may represent a potential therapeutic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608597/",
-    "tags": [
-      "basic-leucine-zipper-transcription-factors",
-      "renal-insufficiency-chronic",
-      "vascular-calcification",
-      "myocytes-smooth-muscle"
-    ],
-    "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42689988",
-    "title": "Itaconic Acid and Its Isomers Ameliorate Renal Ischemia-Reperfusion Injury in Rats by Inhibiting NLRP3-Mediated Inflammation",
-    "subtitle": "Frontiers in bioscience (Landmark edition) · 2026",
-    "summary": "These findings suggest that itaconic acid, citraconic acid, and mesaconic acid may be potential therapeutic agents for renal ischemia-reperfusion through their anti-inflammatory and antioxidant effects.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42689988/",
-    "tags": [
-      "reperfusion-injury",
-      "succinates",
-      "nlr-family-pyrin-domain-containing-3-protein",
-      "inflammation"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42689894",
-    "title": "Impact of Personalized Anemia Management on Quality of Life and Serum Albumin Levels in Maintenance Hemodialysis Patients",
-    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
-    "summary": "Personalized anemia management significantly improves quality of life and albumin levels in maintenance hemodialysis patients and demonstrates potential for clinical application.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42689894/",
-    "tags": [
-      "quality-of-life",
-      "renal-dialysis",
-      "anemia",
-      "serum-albumin"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42677244",
-    "title": "ABO incompatible LRD kidney transplantation should be offered to children: results from a 33-year comparative OPTN study",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "Long term outcomes were compared between ABOi and ABOc kidney transplants and between ABOi LDKTx and ABOc DDKTx. ABOi LDKTx lead to better long-term outcomes than ABOc DDKTx.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42677244/",
-    "tags": [
-      "kidney-transplantation",
-      "abo-blood-group-system",
-      "blood-group-incompatibility"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42676682",
-    "title": "Post-transplant malignancies in Taiwanese kidney transplant recipients: incidence, temporal trends, and immunosuppressive risk factors in a two-decade single-center cohort",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "PTMs in Taiwan are frequent and immunologically shaped, with a distinct urothelial and hepatic predominance and a post 2012 decline in bladder cancer plausibly linked to evolving immunosuppression, surveillance, and reduced carcinogen exposure. Older age and cumulative immunosuppressive burden were associated with PTM…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42676682/",
-    "tags": [
-      "kidney-transplantation",
-      "immunosuppressive-agents",
-      "neoplasms"
-    ],
-    "date": "2026-08-17T00:00:00.000Z",
     "pinned": false
   }
 ]

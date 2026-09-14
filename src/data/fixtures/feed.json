@@ -1,5 +1,20 @@
 [
   {
+    "id": "pmid-42733187",
+    "title": "Reducing glucocorticoid burden in lupus with omega-3 fatty acids: docosahexaenoic acid augments prednisone efficacy in maintaining cyclophosphamide-induced remission of preclinical lupus nephritis",
+    "subtitle": "Autoimmunity · 2026",
+    "summary": "DHA and DHA+PDN increased tissue omega-3 levels and prolonged remission. DHA+PDN optimally maintained LN remission after CYC, supporting omega-3 supplementation as a potential GC-sparing strategy to improve immunosuppressive therapy and prevent relapses.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733187/",
+    "tags": [
+      "lupus-nephritis",
+      "cyclophosphamide",
+      "docosahexaenoic-acids",
+      "prednisone"
+    ],
+    "date": "2026-12-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42691090",
     "title": "The m6A reader IGF2BP2 promotes proinflammatory signaling in Lupus nephritis by recognizing STAT1 m6A modifications",
     "subtitle": "Autoimmunity · 2026",
@@ -1795,6 +1810,20 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42733265",
+    "title": "[Comparison of cecal ligation and puncture versus intraperitoneal lipopolysaccharide injection-induced animal models of sepsis-associated acute kidney injury]",
+    "subtitle": "Zhonghua nei ke za zhi · 2026",
+    "summary": "Immunofluorescence and flow cytometry showed that macrophage proportions in renal tissues were significantly increased in both models (flow cytometry: CLP group vs. control, 31.39%±3.40% vs. 13.50%±2.98%; LPS group vs. control, 30.85%±4.90% vs. 13.25%±2.57%; both<0.001). In the LPS group, macrophages were…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733265/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "disease-models-animal"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4303,36 +4332,6 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42615482/",
     "tags": [
       "kidney-failure-chronic"
-    ],
-    "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42614957",
-    "title": "Pain, Anxiety, and Depression in Hemodialysis Patients Undergoing Different Types of Vascular Access: A Cross-Sectional Study",
-    "subtitle": "Depression and anxiety · 2026",
-    "summary": "These findings highlight the importance of routine systematic symptom assessment, complications management and prevention, and the integration of a multidisciplinary support team in HD care.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42614957/",
-    "tags": [
-      "renal-dialysis",
-      "anxiety",
-      "depression",
-      "pain"
-    ],
-    "date": "2026-08-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42613359",
-    "title": "Identification of acute kidney injury after non-cardiac surgery by machine learning leveraging a large electronic health record database",
-    "subtitle": "Scientific reports · 2026",
-    "summary": "Training and evaluation of Random Forest models at seven different perioperative time-points revealed a performance increase in ROC-AUC from 0.722 (95% CI, 0.703-0.746) preoperatively to 0.738 (95% CI, 0.716-0.755) postoperatively on the validation data set. In conclusion, we present a comprehensive performance…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42613359/",
-    "tags": [
-      "acute-kidney-injury",
-      "electronic-health-records",
-      "machine-learning",
-      "postoperative-complications"
     ],
     "date": "2026-08-18T00:00:00.000Z",
     "pinned": false

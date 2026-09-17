@@ -1164,6 +1164,32 @@
     "pinned": false
   },
   {
+    "id": "pmid-42748408",
+    "title": "Timing and trajectory of acute kidney injury predict mortality in alcohol-associated hepatitis: A multinational cohort study",
+    "subtitle": "Hepatology communications · 2026",
+    "summary": "Both prevalent and incident AKI independently predict mortality in AH. Incident AKI confers equivalent risk despite lower disease severity and a distinct etiologic profile with higher rates of intrinsic renal injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42748408/",
+    "tags": [
+      "acute-kidney-injury",
+      "hepatitis-alcoholic"
+    ],
+    "date": "2026-09-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42747574",
+    "title": "Climate-associated burden of chronic kidney disease due to non-optimal temperature in G20 countries: evidence from a multicountry longitudinal study",
+    "subtitle": "International journal of biometeorology · 2026",
+    "summary": "Non-optimal temperature contributes meaningfully to CKD mortality in the G20, which is examined here as a policy-relevant group rather than a global proxy. The marked heterogeneity highlights the need for tailored adaptation, especially for cold exposure and aging populations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747574/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "temperature"
+    ],
+    "date": "2026-09-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42744973",
     "title": "Hemodynamic disruption triggers glomerular barrier injury via endothelial glycocalyx degradation in nephrotic syndrome",
     "subtitle": "Biomedical microdevices · 2026",
@@ -1176,6 +1202,19 @@
       "endothelial-cells"
     ],
     "date": "2026-09-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42747041",
+    "title": "Identifying Mitochondria-Related Candidate Biomarkers of Ligustri Lucidi Fructus in Diabetic Nephropathy",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Genes that showed significant differential expression and consistent expression patterns in both datasets were further evaluated by receiver operating characteristic (ROC) curve analysis. They were negatively correlated with CD8+ T cells and activated mast cells and positively correlated with activated NK cells and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747041/",
+    "tags": [
+      "diabetic-nephropathies",
+      "mitochondria"
+    ],
+    "date": "2026-09-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2112,6 +2151,138 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42750624",
+    "title": "[A Case of Post-Transplant Lymphoproliferative Disorder with Suspected Thrombosis Leading to Discontinuation of Daprodustat Following Pharmacist Intervention]",
+    "subtitle": "Gan to kagaku ryoho. Cancer & chemotherapy · 2026",
+    "summary": "Additionally, the edema was unilateral, leading the pharmacist to suspect cancer-associated thrombosis as a possible cause of the lower extremity edema. However, because daprodustat is known to pose some risk to patients with thromboembolic disease, the pharmacist provided the attending physicians with information…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750624/",
+    "tags": [
+      "kidney-transplantation",
+      "lymphoproliferative-disorders",
+      "thrombosis",
+      "venous-thrombosis"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42750217",
+    "title": "C-Reactive Protein as a Biomarker of Inflammation and Graft Injury After Kidney and Heart Allo- and Xenotransplantation Into Non-Human Primates",
+    "subtitle": "Xenotransplantation · 2026",
+    "summary": "As reflected by CRP dynamics, systemic inflammation is associated with organ allo- and xenotransplantation in NHPs. We conclude that CRP is a potentially valuable marker of inflammation that, when interpreted alongside organ-specific biomarkers, quantifies the severity of immune activation associated with graft injury…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750217/",
+    "tags": [
+      "c-reactive-protein",
+      "transplantation-heterologous",
+      "inflammation",
+      "kidney-transplantation"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42748365",
+    "title": "Differences in Early Tacrolimus Exposure in Kidney Transplant Recipients With and Without CYP3A5 Genotype-Guided Tacrolimus Dosing",
+    "subtitle": "Clinical and translational science · 2026",
+    "summary": "The time below therapeutic range in the first 14 days was significantly reduced for CYP3A5 intermediate metabolizers who received per-protocol, genotype-guided dosing. CYP3A5 genotype-guided dosing reduced the likelihood of early subtherapeutic exposure in CYP3A5 normal and intermediate metabolizers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42748365/",
+    "tags": [
+      "tacrolimus",
+      "cytochrome-p-450-cyp3a",
+      "kidney-transplantation",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42747258",
+    "title": "Integrated Multi-Tissue Omics Identifies Acylcarnitine Accumulation as Shared Metabolic Marker of Diabetic Microangiopathy With Cross-Organ Validation",
+    "subtitle": "Investigative ophthalmology & visual science · 2026",
+    "summary": "Both DR and DN are associated with systemic disruption of acylcarnitine metabolism. A circulating carnitine/acylcarnitine signature may serve as a non-invasive indicator of microvascular risk, and the SLC22A5-CPT2 axis represents a potential therapeutic target.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747258/",
+    "tags": [
+      "carnitine",
+      "diabetes-mellitus-experimental",
+      "diabetic-angiopathies",
+      "diabetic-retinopathy"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42746991",
+    "title": "Association Between Serum Homocysteine and Chronic Kidney Disease Severity in Vietnamese Outpatients With Type 2 Diabetes: A Cross-Sectional Study",
+    "subtitle": "Endocrinology, diabetes & metabolism · 2026",
+    "summary": "Higher HCY was associated with CKD and kidney dysfunction, with a stronger relationship to filtration markers than to albuminuria. These cross-sectional findings do not establish screening or prognostic utility.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746991/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic",
+      "homocysteine",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42746897",
+    "title": "The Palliation of Pediatric Kidney Transplantation",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "We examine four aspects of transplant care that reveal ongoing disconnection between patients, families, and clinicians across the transplant journey: the transplant lexicon, approaches to adherence, measures of success, and care transition. To best serve transplant recipients and their families, the field of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746897/",
+    "tags": [
+      "kidney-transplantation",
+      "palliative-care"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42746376",
+    "title": "Extracellular vesicles mediate immune regulation in acute kidney injury",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Second, we describe how EV composition shifts after injury: tubular epithelial cells, podocytes, and endothelial vesicles become enriched in damage-associated patterns and pro-inflammatory microRNAs, whereas immune cell-derived EVs propagate or resolve inflammation depending on polarization and disease phase. Third,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746376/",
+    "tags": [
+      "acute-kidney-injury",
+      "extracellular-vesicles",
+      "immunomodulation"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42746275",
+    "title": "Multi-omics and machine learning reveal LYZ and ISG15 as diagnostic and therapeutic targets in autoimmune-mediated chronic kidney disease",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "LYZ and ISG15 are important diagnostic markers and collaborative agents in the development of kidney fibrosis in autoimmune-mediated CKD, with a strong correlation to the severity of the disease. Using agents like quercetin and ATRA to target the LYZ or ISG15 axis represents a promising precision medicine approach to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746275/",
+    "tags": [
+      "machine-learning",
+      "renal-insufficiency-chronic",
+      "autoimmune-diseases",
+      "cytokines"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42746065",
+    "title": "Risk prediction of PLA2R-Ab-negative membranous nephropathy: an interpretable multicenter machine learning model",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This multicenter interpretable machine learning model provides an auxiliary tool for risk stratification of PLA2R-Ab-negative membranous nephropathy (MN) using routine clinical indicators. Its high specificity may facilitate early risk stratification; however, renal biopsy remains the gold standard for definitive…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746065/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "receptors-phospholipase-a2",
+      "machine-learning",
+      "autoantibodies"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4080,6 +4251,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42746082",
+    "title": "Kidney sales by migrants: experiences, knowledge, and responses of medical professionals across the euro-mediterranean border",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "TPs tended to distance themselves and, like MMPs, acknowledged that limited awareness may reduce attentiveness. We conclude that migrant kidney selling remains largely hidden in medical practice, not because it is absent, but because it is insufficiently recognized and rarely disclosed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746082/",
+    "tags": [
+      "kidney-transplantation",
+      "transients-and-migrants",
+      "health-knowledge-attitudes-practice",
+      "tissue-and-organ-procurement"
+    ],
+    "date": "2026-08-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42707755",
     "title": "Structural dynamics, pathogenic mechanisms, and therapeutic targeting of the NLRP3 inflammasome in lupus nephritis",
     "subtitle": "Frontiers in immunology · 2026",
@@ -4148,194 +4334,6 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-08-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42637263",
-    "title": "Multidimensional nutritional and body-composition phenotypes and their associations with prevalent anaemia and metabolic abnormalities in CKD: protocol for an EHR-based retrospective baseline cross-sectional study with a prospective measurement extension",
-    "subtitle": "BMJ open · 2026",
-    "summary": "Bayesian latent class/profile models will identify phenotypes, and Bayesian regression models will estimate their associations with prevalent anaemia, dyslipidaemia and prevalent diabetes or diabetes-level hyperglycaemia while propagating phenotype-classification uncertainty. The retrospective component will use…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42637263/",
-    "tags": [
-      "anemia",
-      "renal-insufficiency-chronic",
-      "body-composition",
-      "nutritional-status"
-    ],
-    "date": "2026-08-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42635685",
-    "title": "Beyond Acute Kidney Injury : Direct Pathways Implicate Inflammatory Mechanisms in Serum NGAL's Mortality Effect in Acute Brain Injury",
-    "subtitle": "Translational stroke research · 2026",
-    "summary": "High NGAL (≥ 150 ng/mL) was independently associated with in-hospital mortality (adjusted hazard ratio [aHR] 2.94, 95% confidence interval [CI] 1.57-5.51; absolute risk difference 15.0% at 28 days), ICU mortality, 6-month mortality, and worse functional outcomes. These findings indicate that the NGAL-mortality…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635685/",
-    "tags": [
-      "lipocalin-2",
-      "acute-kidney-injury",
-      "brain-injuries",
-      "inflammation"
-    ],
-    "date": "2026-08-24T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42666414",
-    "title": "Combined Targeted Drug Delivery Systems for Mineral Metabolism Disorders in Chronic Kidney Disease: A Narrative Review",
-    "subtitle": "International journal of nanomedicine · 2026",
-    "summary": "Combined targeted delivery offers a promising investigational strategy to address the calcium paradox. Nonetheless, its clinical value remains unproven; substantial translational work, including Phase I/II safety trials and standardized outcome sets, is required.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42666414/",
-    "tags": [
-      "drug-delivery-systems",
-      "chronic-kidney-disease-mineral-and-bone-disorder",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42633633",
-    "title": "[Tumour-like extramedullary hematopoiesis in a patient with multiple renal transplantations]",
-    "subtitle": "Orvosi hetilap · 2026",
-    "summary": "Biopsy revealed extramedullary hematopoiesis without dysplastic features or blast increase. In myeloid sarcoma, the proportion of myeloid blasts exceeds 20%, and the condition is essentially equivalent to acute myeloid leukemia, requiring appropriate treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42633633/",
-    "tags": [
-      "kidney-transplantation",
-      "hematopoiesis-extramedullary",
-      "sarcoma-myeloid"
-    ],
-    "date": "2026-08-23T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42737421",
-    "title": "Trimethylamine N-oxide and Homocysteine in Kidney Function and Disease: Distinct Metabolic Origins, Shared Renal Determinants and Pathophysiological Pathways",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Declining renal function promotes the accumulation of both TMAO and homocysteine, although their renal handling and the mechanisms underlying their increase in CKD are not identical. This narrative review examines how renal function, metabolic regulation, and nutritional factors influence TMAO and homocysteine…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737421/",
-    "tags": [
-      "methylamines",
-      "homocysteine",
-      "kidney",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42632888",
-    "title": "AKI as a systemic syndrome and its impact on other organ systems",
-    "subtitle": "Critical care (London, England) · 2026",
-    "summary": "We discuss the direct consequences of reduced kidney function alongside the repercussions of the inflammatory cascade triggered by kidney cell injury and the resulting clinical implications. Given that traditional long-term metrics, such as Major Adverse Kidney Events (MAKE), present significant design challenges in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42632888/",
-    "tags": [
-      "acute-kidney-injury",
-      "multiple-organ-failure"
-    ],
-    "date": "2026-08-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42632097",
-    "title": "Nimbolide Reduces Inflammation and Oxidative Stress to Inhibit Disease Progression in Septic Acute Kidney Injury Mice",
-    "subtitle": "Archivum immunologiae et therapiae experimentalis · 2026",
-    "summary": "Nimbolide treatment markedly attenuated tubular vacuolization and inflammatory cell infiltration, and improved renal function, as demonstrated by reduced serum Scr and BUN levels. Furthermore, Nimbolide decreased MDA levels, increased SOD activity and GSH content, and inhibited renal apoptosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42632097/",
-    "tags": [
-      "acute-kidney-injury",
-      "limonins",
-      "sepsis",
-      "kidney"
-    ],
-    "date": "2026-08-22T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42693414",
-    "title": "Early laboratory trajectories and short-term tolerability after finerenone initiationin diabetic kidney disease: the multicenter FINE-TURK study",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "Early laboratory changes and treatment persistence after finerenone initiation were describable in routine specialist care, but incomplete outcome ascertainment and the absence of a comparator group preclude causal or comparative-effectiveness conclusions. The albuminuria findings apply only to patients with paired…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42693414/",
-    "tags": [
-      "naphthyridines",
-      "diabetic-nephropathies",
-      "mineralocorticoid-receptor-antagonists"
-    ],
-    "date": "2026-08-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42690331",
-    "title": "Factors associated with cerebrovascular complications in a cohort of patients with autosomal dominant polycystic kidney disease in South Africa",
-    "subtitle": "Cardiovascular journal of Africa · 2026",
-    "summary": "IAs and intracranial bleeds are the most common cerebrovascular events in ADPKD patients. Black Africans were less likely to present with IAs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42690331/",
-    "tags": [
-      "polycystic-kidney-autosomal-dominant",
-      "intracranial-aneurysm",
-      "aneurysm-ruptured",
-      "subarachnoid-hemorrhage"
-    ],
-    "date": "2026-08-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42659450",
-    "title": "Assessment of predictive factors for acute kidney injury after thrombectomy using AngioJet for iliofemoral deep vein thrombosis",
-    "subtitle": "Einstein (Sao Paulo, Brazil) · 2026",
-    "summary": "A relationship between the use of AngioJet and the development of AKI was noted. Independent risk factors for AKI were hemoglobin <10mg/dL in the immediate postoperative period, a 2-point decrease in hemoglobin level immediately after surgery, history of previous major surgery, and glomerular filtration rate…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42659450/",
-    "tags": [
-      "venous-thrombosis",
-      "acute-kidney-injury",
-      "thrombectomy",
-      "iliac-vein"
-    ],
-    "date": "2026-08-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42654322",
-    "title": "Low Time-Weighted Parathyroid Hormone Is Associated with Malnutrition-Inflammation and Functional Dependence in Maintenance Hemodialysis",
-    "subtitle": "Nutrients · 2026",
-    "summary": "In the joint model, each twofold higher estimated current PTH level was associated with a lower observed mortality hazard (adjusted hazard ratio [HR] 0.58, 95% confidence interval [CI] 0.46-0.73;< 0.001). Each twofold higher PTH level was associated with lower subsequent mortality hazard (HR 0.69, 95% CI 0.51-0.95;=…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42654322/",
-    "tags": [
-      "parathyroid-hormone",
-      "renal-dialysis",
-      "inflammation",
-      "malnutrition"
-    ],
-    "date": "2026-08-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42654320",
-    "title": "Topical Magnesium Orotate Lipogel in Kidney Transplant Recipients with Persistent Hypomagnesemia: Formulation Development and Pilot Clinical Study",
-    "subtitle": "Nutrients · 2026",
-    "summary": "Oral magnesium supplementation is often ineffective due to poor adherence, gastrointestinal adverse effects, and high treatment costs.: This pilot study aimed to (i) develop a topical magnesium formulation for use in renal transplant recipients with persistent hypomagnesemia; (ii) evaluate the influence of formulation…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42654320/",
-    "tags": [
-      "kidney-transplantation",
-      "magnesium",
-      "orotic-acid",
-      "magnesium-deficiency"
-    ],
-    "date": "2026-08-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42646640",
-    "title": "Five-Year Cardiorenal Outcomes and Longitudinal Chronic Kidney Disease Screening in People with Type 2 Diabetes Managed by Endocrinologists: A Nationwide Retrospective Cohort Study",
-    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
-    "summary": "Despite receiving endocrinology care, kidney disease progression and cardiovascular events remain a major concern in T2D, and yet suboptimal albuminuria and eGFR assessment limit early detection and risk stratification, thereby hindering risk-directed management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42646640/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-08-21T00:00:00.000Z",
     "pinned": false
   }
 ]

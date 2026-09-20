@@ -1149,6 +1149,33 @@
     "pinned": false
   },
   {
+    "id": "pmid-42761988",
+    "title": "Potential Drug-Drug Interactions in Patients Undergoing Hemodialysis: A Retrospective Observational Study",
+    "subtitle": "Saudi medical journal · 2026",
+    "summary": "The pDDIs are highly prevalent among patients with ESRD undergoing HD, with polypharmacy identified as the main determinant. These findings highlight the importance of structured medication review, multidisciplinary collaboration, and clinical pharmacist involvement to reduce medication-related risks and optimize…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761988/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42761708",
+    "title": "Plasma VGF as a Predictive Biomarker for Early Acute Kidney Injury in Critically Ill Elderly Patients: A Combined Clinical and Mendelian Randomization Study",
+    "subtitle": "Saudi medical journal · 2026",
+    "summary": "Plasma VGF shows promise as a predictive biomarker for AKI in critically ill populations. Its diagnostic utility is considerably strengthened when measured alongside pCysC and pNGAL.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761708/",
+    "tags": [
+      "acute-kidney-injury",
+      "critical-illness",
+      "nerve-growth-factors"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42596833",
     "title": "[Expression of Concern] Exogenous spermine attenuates diabetic kidney injury in rats by inhibiting AMPK/mTOR signaling pathway",
     "subtitle": "International journal of molecular medicine · 2026",
@@ -1493,6 +1520,21 @@
       "endothelial-cells"
     ],
     "date": "2026-09-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42763706",
+    "title": "Machine Learning Prediction and Causal Forest Analysis of Severe Acute Kidney Injury in ICU Patients with COPD: A MIMIC-IV Study",
+    "subtitle": "International journal of chronic obstructive pulmonary disease · 2026",
+    "summary": "This study establishes a COPD-specific benchmark showing that a parsimonious model can characterize severe-AKI trajectories and that temporal separation materially changes performance and interpretation. Integrating model comparison, SHAP, adjusted-effect estimation, and landmark validation provides a rigorous…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763706/",
+    "tags": [
+      "acute-kidney-injury",
+      "pulmonary-disease-chronic-obstructive",
+      "intensive-care-units",
+      "machine-learning"
+    ],
+    "date": "2026-09-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2126,6 +2168,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42761068",
+    "title": "Case Report: Reopening the anabolic window - romosozumab added to ongoing denosumab for severe osteoporosis in two kidney transplant recipients",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Kidney transplant recipients develop disorders of mineral and bone metabolism that further impair bone strength, leading to osteoporosis and a high fracture risk. Adding romosozumab to ongoing denosumab thus reopened the anabolic window and improved lumbar-spine bone mineral density without compromising mineral…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761068/",
+    "tags": [
+      "kidney-transplantation",
+      "denosumab",
+      "osteoporosis",
+      "antibodies-monoclonal"
+    ],
+    "date": "2026-09-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42737807",
     "title": "Acute Kidney Injury-to-Chronic Kidney Disease Transition-Associated Macrophage Subtypes: Biological Functions and Intercellular Crosstalk",
     "subtitle": "International journal of molecular sciences · 2026",
@@ -2568,6 +2625,21 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42762084",
+    "title": "Office Blood Pressure and Arteriolosclerosis in Biopsy-Proven Glomerulonephritis: Association With Renal Function Decline and Clinical Outcomes",
+    "subtitle": "Journal of clinical hypertension (Greenwich, Conn.) · 2026",
+    "summary": "SBP > 130 mmHg was associated with arteriolosclerosis (p = 0.004), arterial intimal fibrosis (p = 0.005), crescentic lesions (p = 0.033), and glomerulosclerotic changes (p = 0.048), whereas no associations were observed for diastolic blood pressure (DBP). Arteriolosclerosis independently predicts renal function…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762084/",
+    "tags": [
+      "arteriolosclerosis",
+      "glomerulonephritis",
+      "hypertension",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4262,79 +4334,6 @@
     "tags": [
       "renal-dialysis",
       "kidney-failure-chronic"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42675694",
-    "title": "Effects of flurbiprofen axetil on postoperative renal function in patients undergoing percutaneous nephrolithotomy: A prospective, randomized, double-blind, controlled clinical study",
-    "subtitle": "Medicine · 2026",
-    "summary": "Postoperative administration of 100 mg flurbiprofen axetil may reduce NGAL levels at 6 hours after PCNL, indicating a potential protective effect on renal function.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42675694/",
-    "tags": [
-      "flurbiprofen",
-      "nephrolithotomy-percutaneous",
-      "acute-kidney-injury",
-      "postoperative-complications"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42675686",
-    "title": "eGFR partially mediates the association between Dietary Inflammatory Index and all-cause mortality in older adults: A retrospective cohort study based on NHANES 2001-2018",
-    "subtitle": "Medicine · 2026",
-    "summary": "Each 1-unit DII increase increased all-cause mortality risk by 5.6% (adjusted hazard ratio = 1.056, 95% confidence interval [CI]:1.020-1.094; P = .002). Pro-inflammatory diets independently increase all-cause mortality in older adults, partially mediated through eGFR.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42675686/",
-    "tags": [
-      "glomerular-filtration-rate",
-      "diet",
-      "inflammation",
-      "mortality"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42675669",
-    "title": "Impact of renal function on the safety of biologic and synthetic DMARDs in rheumatoid arthritis: A retrospective cohort study from a Turkish tertiary center",
-    "subtitle": "Medicine · 2026",
-    "summary": "In multivariable analysis, younger age, longer RA disease duration, higher baseline estimated glomerular filtration rate, and higher baseline Disease Activity Score 28-erythrocyte sedimentation rate were independently associated with the occurrence of any adverse event. While csDMARD and NSAID toxicity increase…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42675669/",
-    "tags": [
-      "arthritis-rheumatoid",
-      "antirheumatic-agents",
-      "renal-insufficiency-chronic",
-      "biological-products"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42667232",
-    "title": "Mechanisms of Liancao Xueniao Capsules in Treating Hematuria Associated with IgA Nephropathy: Network Pharmacology and Experimental Validation",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "The results showed that the capsule significantly reduced urinary erythrocytes, 24 h urinary albumin, serum creatinine (Scr), and blood urea nitrogen (BUN), while improving renal pathological injury and fibrosis. In conclusion, Liancao Xueniao Capsule alleviates podocyte injury and improves hematuria in IgAN by…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667232/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "drugs-chinese-herbal",
-      "hematuria"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42667189",
-    "title": "Network-guided Evaluation of β-sitosterol in Inflammatory and Profibrotic Mesangial-Cell Models Relevant to Chronic Glomerulonephritis",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "In Lipopolysaccharide (LPS)-stimulated cells, β-sitosterol reduced Tnf, Il6, and Ptgs2 expression, decreased prostaglandin E2 (PGE2) production, and reduced cyclooxygenase-2 (COX-2) protein abundance. In transforming growth factor β1 (TGF-β1)-treated cells, β-sitosterol reduced Col1a1 and Acta2 expression and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667189/",
-    "tags": [
-      "mesangial-cells",
-      "sitosterols",
-      "glomerulonephritis"
     ],
     "date": "2026-08-28T00:00:00.000Z",
     "pinned": false

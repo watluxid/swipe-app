@@ -59,6 +59,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42765170",
+    "title": "The hemodynamic cost of intermittent hemodialysis and systemic organ stunning",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Current evidence demonstrates how this recurrent perfusion deficit triggers systemic ischemia-reperfusion injury. By redefining dialysis adequacy to include hemodynamic stability, we highlight how therapeutic strategies optimizing physiological stability can mitigate RDSS and improve long-term outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765170/",
+    "tags": [
+      "renal-dialysis",
+      "hemodynamics",
+      "myocardial-stunning",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42764337",
+    "title": "Serum BDNF and cognitive risk in maintenance hemodialysis: a machine learning study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "We evaluated the association between baseline serum brain-derived neurotrophic factor (BDNF) and 1-year screening-defined incident cognitive impairment and examined whether BDNF added predictive information beyond routine clinical, laboratory, and baseline cognitive variables. Lower BDNF was associated with the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764337/",
+    "tags": [
+      "brain-derived-neurotrophic-factor",
+      "renal-dialysis",
+      "cognitive-dysfunction",
+      "machine-learning"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42755292",
     "title": "Association between central thyroid hormone dysregulation and chronic kidney disease in type 2 diabetes: a cross-sectional study",
     "subtitle": "Renal failure · 2026",
@@ -1203,6 +1233,21 @@
       "kidney"
     ],
     "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42764370",
+    "title": "Evaluating the myocardial functions of the forgotten right ventricle in children with nephrotic syndrome utilizing traditional echocardiography, two-dimensional speckle tracking and three-dimensional echocardiography",
+    "subtitle": "Italian journal of pediatrics · 2026",
+    "summary": "Integrative use of variable echocardiographic modalities allows detection of subclinical alterations in RV function in children with primary NS, with more affected parameters in SRNS. Therefore, regular surveillance of RV functions in primary NS should be considered.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764370/",
+    "tags": [
+      "nephrotic-syndrome",
+      "echocardiography-three-dimensional",
+      "ventricular-dysfunction-right",
+      "echocardiography"
+    ],
+    "date": "2026-09-19T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4292,48 +4337,6 @@
       "glomerular-filtration-rate",
       "gamma-glutamyltransferase",
       "vascular-stiffness"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42729188",
-    "title": "Alterations in gut microbiota among maintenance hemodialysis patients with CKD-associated pruritus: a cross-sectional comparative study of two cohorts",
-    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
-    "summary": "Active CKD-aP was associated with selective differences in gut microbial relative abundance rather than broad alterations in microbial richness, diversity, or dominant community structure.showed a nominal genus-level association with the absence of active pruritus, although this association did not remain…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42729188/",
-    "tags": [
-      "renal-dialysis",
-      "pruritus",
-      "renal-insufficiency-chronic",
-      "gastrointestinal-microbiome"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42693210",
-    "title": "Risk factor analysis and predictive model construction and evaluation of fractional uric acid excretion in Chinese inpatients with type 2 diabetes",
-    "subtitle": "Scientific reports · 2026",
-    "summary": "The predictive formula was: Ln (FEUA) = 1.9408 + 0.1462*gender (male=1female = 2) - 0.0031*SUA(µmol/L) + 0.0112*SCr(µmol/L) + 0.0068*FPG (mmol/L); Predicted FEUA = Exp(Ln(FEUA))*1.0265; 1.0265 was the Duan's smearing factor. In external dataset validation, Spearman correlation coefficient between observed and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42693210/",
-    "tags": [
-      "uric-acid",
-      "diabetes-mellitus-type-2",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-08-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42675706",
-    "title": "Factors associated with all-cause mortality among patients initiating maintenance hemodialysis: A single-center retrospective cohort study",
-    "subtitle": "Medicine · 2026",
-    "summary": "Survival was estimated using Kaplan-Meier analysis, and factors associated with mortality were examined using multivariable Cox proportional hazards regression. Older age, diabetes mellitus, DN, initial central venous catheter use, and lower maintenance dialysis frequency were associated with poorer survival among…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42675706/",
-    "tags": [
-      "renal-dialysis",
-      "kidney-failure-chronic"
     ],
     "date": "2026-08-28T00:00:00.000Z",
     "pinned": false

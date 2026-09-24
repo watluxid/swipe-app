@@ -59,6 +59,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42779256",
+    "title": "The efficacy of Cordyceps sinensis preparations in improving kidney outcomes among patients with AKI during hemorrhagic fever with renal syndrome: evidence from a Chinese cohort",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Survival analysis confirmed thatpreparation therapy was associated with improved kidney outcomes (log-rank test, = 0.004). This study provides the first clinical evidence that adjunctive therapy withpreparations during HFRS-AKI is associated with improved kidney outcomes, suggesting thatpreparations represents a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42779256/",
+    "tags": [
+      "hemorrhagic-fever-with-renal-syndrome",
+      "acute-kidney-injury",
+      "cordyceps",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42773079",
     "title": "Post-graduate nephrology education in China: structure, workforce gaps, regional disparities, and the emerging role of critical care nephrology",
     "subtitle": "Renal failure · 2026",
@@ -1324,6 +1339,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42779092",
+    "title": "Association of Glycoprotein Acetylation With Carotid-Femoral Pulse Wave Velocity in Patients Receiving Maintenance Hemodialysis",
+    "subtitle": "Medical science monitor : international medical journal of experimental and clinical research · 2026",
+    "summary": "In multivariable logistic regression analysis, GlycA remained independently associated with aortic stiffness, with each 1 μmol/L increase in GlycA associated with a higher likelihood of aortic stiffness (odds ratio 1.007, 95% CI 1.004-1.010; P<0.001). CONCLUSIONS Circulating GlycA levels are independently associated…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42779092/",
+    "tags": [
+      "renal-dialysis",
+      "carotid-femoral-pulse-wave-velocity",
+      "glycoproteins"
+    ],
+    "date": "2026-09-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42778309",
+    "title": "Inhibition of STING modulates dendritic cell responses and ameliorates podocyte injury in SLE",
+    "subtitle": "Lupus science & medicine · 2026",
+    "summary": "Our findings suggest a potential role for STING in the interplay between immune dysregulation and podocyte injury in lupus. Pharmacological STING inhibition modulates DC responses and partially protects podocytes and renal structure, supporting STING as a promising therapeutic target for SLE.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42778309/",
+    "tags": [
+      "podocytes",
+      "membrane-proteins",
+      "dendritic-cells",
+      "lupus-erythematosus-systemic"
+    ],
+    "date": "2026-09-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42772931",
     "title": "FAN1 mutation and karyomegalic nephropathy in chronic kidney disease",
     "subtitle": "BMJ case reports · 2026",
@@ -1419,6 +1463,20 @@
       "leukemia-inhibitory-factor"
     ],
     "date": "2026-09-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42776136",
+    "title": "Postoperative Acute Kidney Injury in Cardiovascular Surgery Patients with Prolonged Intensive Care Unit Stay: Impact on Mortality and Outcomes",
+    "subtitle": "Brazilian journal of cardiovascular surgery · 2026",
+    "summary": "Among cardiovascular surgery patients with prolonged ICU stay, postoperative AKI is a strong predictor of in-hospital mortality and adverse resource-related outcomes. Emphasis on prevention, early detection, and optimized perioperative management may improve prognosis in this high-risk population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776136/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiovascular-surgical-procedures",
+      "postoperative-complications"
+    ],
+    "date": "2026-09-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1589,6 +1647,21 @@
       "postoperative-complications"
     ],
     "date": "2026-09-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42775284",
+    "title": "Preoperative Creatinine-to-Cystatin C Ratio and 1-year Risk of Infection-Related Hospitalization or Death with a Functioning Graft in Older Kidney Transplant Recipients",
+    "subtitle": "Clinical interventions in aging · 2026",
+    "summary": "In the entire cohort, lower preoperative SI was associated with a higher 1-year risk of the composite endpoint, which was driven mainly by infection-related hospitalization. SI is not a standalone risk-stratification tool, and prospective multicenter external validation is required before clinical implementation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775284/",
+    "tags": [
+      "kidney-transplantation",
+      "hospitalization",
+      "creatinine",
+      "cystatin-c"
+    ],
+    "date": "2026-09-18T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1836,6 +1909,21 @@
       "postoperative-complications"
     ],
     "date": "2026-09-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42778221",
+    "title": "Renal outcomes in people with type 2 diabetes with and without albuminuria treated with SGLT-2 inhibitors and GLP-1 receptor agonists: target trial emulation",
+    "subtitle": "BMJ (Clinical research ed.) · 2026",
+    "summary": "Compared with DPP-4 inhibitors, GLP-1 receptor agonists and SGLT-2 inhibitors reduce the risk of deterioration of renal function in people with albuminuria. Little evidence of renal benefit among people without albuminuria was observed over the study follow-up period.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42778221/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "albuminuria",
+      "sodium-glucose-transporter-2-inhibitors",
+      "glucagon-like-peptide-1-receptor-agonists"
+    ],
+    "date": "2026-09-16T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2359,6 +2447,65 @@
       "body-composition"
     ],
     "date": "2026-09-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42775225",
+    "title": "Efficacy and safety of GLP-1RAs, SGLT2is, and nsMRAs for cardiovascular and renal outcomes in T2DM with CKD: a systematic review and network meta-analysis",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In patients with T2D-CKD, all three drug classes reduced several cardiorenal outcomes versus placebo. Between-class indirect comparisons suggested more favorable relative-effect estimates for SGLT2is on major kidney outcomes and HHF in selected comparisons, and for GLP-1RAs on cardiovascular death.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775225/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "sodium-glucose-transporter-2-inhibitors",
+      "cardiovascular-diseases",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42774178",
+    "title": "IFN-γ-dominant immune shift is associated with reduced protective ILC2 responses in chronic kidney disease",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "In this study, we investigated whether interferon-γ (IFN-γ)-dominant immune polarization is associated with the loss of renal ILC2s and exacerbation of CKD. These findings suggest that IFN-γ-dominant immune polarization is associated with suppression of protective ILC2 responses and exacerbation of CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774178/",
+    "tags": [
+      "interferon-gamma",
+      "renal-insufficiency-chronic",
+      "immunity-innate",
+      "lymphocytes"
+    ],
+    "date": "2026-09-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42774134",
+    "title": "Improved access to kidney transplantation with favorable graft survival in highly sensitized candidates under the French acceptable mismatch program",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "In 2005, the French Acceptable Mismatch program (AMP) was successfully introduced as a strategy to improve kidney allocation for HS patients. Post-transplant survival is comparable to other kidney allocation modalities, possibly because of the absence of preformed donor-specific antibodies in recipients' historical…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774134/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-survival",
+      "tissue-and-organ-procurement"
+    ],
+    "date": "2026-09-08T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42774062",
+    "title": "Non-albumin proteinuria as a candidate biomarker of treatment response to finerenone in diabetic kidney disease: a real-world cohort study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Subgroup analyses revealed differential associations: patients with higher baseline proteinuria (uPCR ≥ 500 mg/gCr) showed an 18.8% decline in uNAPCR, whereas those with uPCR < 500 mg/gCr showed a non-significant 1.3% change. Finerenone treatment was associated with a reduction in NAP, particularly among patients with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774062/",
+    "tags": [
+      "diabetic-nephropathies",
+      "proteinuria",
+      "biomarkers",
+      "naphthyridines"
+    ],
+    "date": "2026-09-08T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3039,6 +3186,21 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-09-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42775828",
+    "title": "Long-Term Renal Function and Clinical Outcomes of Sacubitril/Valsartan in HFrEF and Stage 3-4 Chronic Kidney Disease: A 24-Month Single-Centre Cohort",
+    "subtitle": "Clinical cardiology · 2026",
+    "summary": "In this single-arm cohort of HFrEF with stage 3-4 CKD, S/V was generally well tolerated, with stable renal function and low event rates over 24 months. These descriptive, hypothesis-generating findings cannot establish comparative benefit and require confirmation in controlled studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775828/",
+    "tags": [
+      "aminobutyrates",
+      "heart-failure",
+      "renal-insufficiency-chronic",
+      "glomerular-filtration-rate"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4168,170 +4330,6 @@
       "organ-preservation",
       "reperfusion-injury",
       "kidney-transplantation"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42675453",
-    "title": "Successful Control of Late-Onset Nephrotic Syndrome in FN1-Associated Fibronectin Glomerulopathy: A 17-Year Clinical Course",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "Fibronectin glomerulopathy (FNG) is a rare renal disorder characterized by excessive glomerular fibronectin deposition, often associated with variants in the fibronectin 1 (FN1) gene. This case suggests a potential role for immunosuppressive therapy in management of late-onset nephrotic syndrome associated with FNG,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42675453/",
-    "tags": [
-      "nephrotic-syndrome",
-      "fibronectins",
-      "immunosuppressive-agents",
-      "cyclosporine"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42674558",
-    "title": "Peripheral Blood Neutrophil-to-Lymphocyte Ratio Combined With Fibrinogen-to-Albumin Ratio Assists in Identifying Systemic Lupus Erythematosus Activity and Lupus Nephritis",
-    "subtitle": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica · 2026",
-    "summary": "Peripheral blood NLR and FAR also differed between subgroups based on LN absence/presence: LN (79 cases) and non-LN groups (68 cases) were independently associated with SLE disease activity and LN onset according to univariate and multivariate logistic regression results. Crucially, the NLR and FAR composite model…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42674558/",
-    "tags": [
-      "lupus-nephritis",
-      "neutrophils",
-      "lupus-erythematosus-systemic",
-      "fibrinogen"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42674550",
-    "title": "Nintedanib-Associated Glomerular Endothelial Injury With Secondary Collapsing Focal Segmental Glomerulosclerosis: Potential Role of Sodium-Glucose Cotransporter 2 Inhibition",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "Kidney biopsy demonstrated glomerular endothelial injury with microangiopathic features, accompanied by secondary collapsing focal segmental glomerulosclerosis (FSGS) and background diabetic kidney disease. To our knowledge, this is the first report of NIB-associated glomerular endothelial injury with secondary…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42674550/",
-    "tags": [
-      "glomerulosclerosis-focal-segmental",
-      "indoles",
-      "kidney-glomerulus",
-      "protein-kinase-inhibitors"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42671991",
-    "title": "Combined Docosahexaenoic Acid and Captopril Treatment Attenuates Indole Acetic Acid Induced Cardiovascular Injury in Chronic Kidney Disease",
-    "subtitle": "Molecular nutrition & food research · 2026",
-    "summary": "Gene expression analysis revealed lower levels of heart hypertrophic (ANP, BNP, β-MHC) and fibrotic (Col-I, Col-III) markers, which align with the histological findings of reduced myocardial fibrosis and structural preservation. These findings demonstrate that DHA in combination with captopril mitigates IAA-induced…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42671991/",
-    "tags": [
-      "captopril",
-      "docosahexaenoic-acids",
-      "renal-insufficiency-chronic",
-      "indoleacetic-acids"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42671118",
-    "title": "Depression and Long-Term HbA(1c) Variability Are Additively Associated With Increased Risk of Cardiovascular-Renal Outcomes, Severe Hypoglycaemia and Mortality in Type-2 Diabetes",
-    "subtitle": "Diabetes/metabolism research and reviews · 2026",
-    "summary": "Depression and high HVS are independently and differentially associated with adverse events, with the depression-high-HVS group having the worst outcomes, which were modulated by self-management and HRQoL, calling for systematic screening of depression and holistic management aimed at avoiding fluctuating glycaemic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42671118/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "hypoglycemia",
-      "glycated-hemoglobin",
-      "cardiovascular-diseases"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42670233",
-    "title": "Chronic Kidney Disease in Children Within Five Years After Ifosfamide Chemotherapy for Childhood Cancer: A Dutch Pediatric Oncology Cohort Study",
-    "subtitle": "Cancer medicine · 2026",
-    "summary": "With a prevalence of 42.1% within the first five years following ifosfamide administration, CKD is a common early complication, with varying severity; seven patients developed severe CKD (G4-G5). These findings highlight the importance of awareness and long-term kidney function surveillance, especially in patients…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42670233/",
-    "tags": [
-      "ifosfamide",
-      "renal-insufficiency-chronic",
-      "neoplasms",
-      "antineoplastic-agents-alkylating"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42670193",
-    "title": "Clinical Predictors of Non-Diabetic Glomerular Disease in Type 2 Diabetic Patients With Nephrotic-Range Proteinuria",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "NDGD is common among T2DM patients with nephrotic-range proteinuria. The proposed clinical prediction score showed good discrimination in this cohort but requires external validation before it can be used to support biopsy decision-making in clinical practice.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42670193/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "proteinuria",
-      "diabetic-nephropathies",
-      "glomerulonephritis"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42666150",
-    "title": "Risk of Heart Failure Hospitalization Associated With Hypoxia-Inducible Factor Prolyl Hydroxylase Inhibitors Versus Erythropoiesis-Stimulating Agents: A Nationwide Claims-Based Cohort Study",
-    "subtitle": "Pharmacoepidemiology and drug safety · 2026",
-    "summary": "Although residual confounding cannot be excluded because of the observational study design, HIF-PHIs were not associated with evidence of an increased risk of heart failure hospitalization in patients with heart failure.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42666150/",
-    "tags": [
-      "heart-failure",
-      "hematinics",
-      "hospitalization",
-      "prolyl-hydroxylase-inhibitors"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42665576",
-    "title": "Factors Associated With Weight Management Referral Acceptance and Uptake in Kidney Transplant Candidates",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "A large share of KT candidates with obesity do not establish care with WMPs. Increasing age and distance to KT center were contributing factors to low referral acceptance and engagement.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42665576/",
-    "tags": [
-      "kidney-transplantation",
-      "referral-and-consultation",
-      "obesity",
-      "patient-acceptance-of-health-care"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42665415",
-    "title": "Longitudinal Immunophenotypic Changes in Refractory Lupus Nephritis After B-cell Depletion: A 25-year Case Study",
-    "subtitle": "In vivo (Athens, Greece) · 2026",
-    "summary": "This case highlights the long-term efficacy of IV-CYC induction and the complexities of managing refractory LN flares. It underscores the critical necessity of vigilant monitoring and prompt intervention for multi-microbial opportunistic infections following intensive B-cell depletion therapy in long-standing SLE…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42665415/",
-    "tags": [
-      "lupus-nephritis",
-      "b-lymphocytes",
-      "lymphocyte-depletion"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42665405",
-    "title": "Dissociated FoxP3 Up-regulation With Functional Surface Marker Loss Defines a Convergent Treg Paradox Across Immunological Archetypes of IgA Nephropathy and IgA Vasculitis",
-    "subtitle": "In vivo (Athens, Greece) · 2026",
-    "summary": "IgAN and IgAV are not uniform immunological entities. The Treg Paradox, a dissociation between regulatory commitment and functional capacity may represent a shared pathogenic feature across clinically diverse phenotypes, warranting further validation as a potential basis for immunotype-guided precision therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42665405/",
-    "tags": [
-      "t-lymphocytes-regulatory",
-      "glomerulonephritis-iga",
-      "forkhead-transcription-factors",
-      "vasculitis"
     ],
     "date": "2026-09-01T00:00:00.000Z",
     "pinned": false

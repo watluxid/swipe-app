@@ -1407,6 +1407,48 @@
     "pinned": false
   },
   {
+    "id": "pmid-42799819",
+    "title": "Clinicopathological spectrum and outcomes of biopsy-proven post-transplant lymphoproliferative disorder after kidney transplantation",
+    "subtitle": "Journal of hematopathology · 2026",
+    "summary": "PTLD is a rare but serious complication following kidney transplantation, associated with substantial morbidity and mortality. Although this study was not powered to identify definitive prognostic factors, exploratory analyses suggested shorter survival among patients with higher IPI categories, supporting further…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799819/",
+    "tags": [
+      "kidney-transplantation",
+      "lymphoproliferative-disorders",
+      "postoperative-complications"
+    ],
+    "date": "2026-09-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42798129",
+    "title": "Macrophage pyroptosis in lupus nephritis - Novel insights into renal pathogenesis and clinical correlates: A cross-sectional study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Hierarchical regression analyses were performed to identify clinical parameters significantly associated with macrophage pyroptosis. This observation suggests a potential link between macrophage pyroptosis and disease severity in LN, meriting further investigation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798129/",
+    "tags": [
+      "lupus-nephritis",
+      "pyroptosis",
+      "macrophages",
+      "kidney"
+    ],
+    "date": "2026-09-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42798107",
+    "title": "Association of Charlson comorbidity index with 28- and 90-day mortality in patients with severe acute kidney injury requiring CRRT: A retrospective cohort study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Adding CCI to a base model improved C‑statistics (28‑day 0.759 to 0.775, P = .002; 90‑day 0.763 to 0.777, P = .017) and yielded significant net reclassification index/integrated discrimination improvement gains. In severe AKI-CRRT cases, CCI independently predicted 28‑ and 90‑day mortality and modestly improved…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798107/",
+    "tags": [
+      "acute-kidney-injury",
+      "continuous-renal-replacement-therapy"
+    ],
+    "date": "2026-09-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42791028",
     "title": "Clinical and immunological outcomes of rituximab-based, mycophenolate mofetil-based and cyclophosphamide-based treatment strategies for systemic lupus erythematosus with active kidney involvement from LOOPS registry",
     "subtitle": "RMD open · 2026",
@@ -1506,6 +1548,18 @@
       "glycoproteins"
     ],
     "date": "2026-09-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42801075",
+    "title": "Symptom network analysis in maintenance hemodialysis patients: a multicenter study",
+    "subtitle": "PeerJ · 2026",
+    "summary": "MHD patients experience multiple co-occurring symptom clusters, with muscle cramps identified as the most central symptom in the symptom network and fatigue representing the most severe and second most prevalent symptom. These findings highlight the importance of prioritizing interventions targeting muscle cramps,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801075/",
+    "tags": [
+      "renal-dialysis"
+    ],
+    "date": "2026-09-23T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1619,6 +1673,21 @@
       "leukemia-inhibitory-factor"
     ],
     "date": "2026-09-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42799460",
+    "title": "Model-Informed Precision Dosing of Tacrolimus Initial Dosage Optimization in Membranous Nephropathy Patients",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "This study was the first time to simultaneously recommend the optimal initial dosage of tacrolimus for both adult and pediatric MN patients based on MIPD. Moreover, the dosage required for pediatric MN patients was higher than that for adult MN patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799460/",
+    "tags": [
+      "tacrolimus",
+      "glomerulonephritis-membranous",
+      "immunosuppressive-agents",
+      "models-biological"
+    ],
+    "date": "2026-09-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2184,6 +2253,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42797018",
+    "title": "Cognitive Impairment Across the Spectrum of Chronic Kidney Disease: Clinical Characteristics and Implications for Practice-Is There a Role for Medical Nutritional Therapy?",
+    "subtitle": "Nutrients · 2026",
+    "summary": "This narrative review synthesizes current evidence regarding epidemiology, domain-specific cognitive patterns, risk modifiers, nutritional determinants, and clinical consequences across predialysis and dialysis populations. Integrating cognitive and nutritional assessment into routine CKD care may improve risk…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42797018/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cognitive-dysfunction",
+      "nutrition-therapy"
+    ],
+    "date": "2026-09-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42783916",
     "title": "Fucus vesiculosus-Derived Fucoidan Mitigates Recognition Memory Deficits in Association with Modulation of the Microbiota-Gut-Brain Axis in Adenine-Induced Chronic Kidney Disease Mice",
     "subtitle": "Marine drugs · 2026",
@@ -2267,6 +2350,19 @@
       "endothelial-cells"
     ],
     "date": "2026-09-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42796377",
+    "title": "Beyond Sequencing: Integrating MLPA Reveals Hidden Structural PKD2 Variants and Enhances Mutation Detection in a Highly Selected ADPKD Greek Cohort",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "We hypothesized that a phenotype-driven strategy integrating copy number analysis would uncover clinically relevantvariants overlooked by DNA sequencing methods.: Six well-characterized consecutive ADPKD patients that entered KRT (kidney replacement therapy) above 70 years old underwent targetedanalysis using…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42796377/",
+    "tags": [
+      "polycystic-kidney-autosomal-dominant",
+      "trpp-cation-channels"
+    ],
+    "date": "2026-09-15T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2521,6 +2617,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42798812",
+    "title": "Association of finerenone with graded proteinuria improvement in type 2 diabetes with chronic kidney disease and proteinuria >1 g/d: a retrospective cohort study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In patients with T2DM and proteinuria >1 g/d, finerenone increased the probability of sustained graded proteinuria improvement, shortened the time to improvement, and was not associated with a significantly increased risk of hyperkalemia over 12 months, although the interpretation of safety findings is limited by…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798812/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "proteinuria",
+      "renal-insufficiency-chronic",
+      "naphthyridines"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42798458",
+    "title": "Repurposing a prostate tumor marker: elevated FPSA/TPSA ratio as a novel non-invasive biomarker for declining eGFR in male type 2 diabetes",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "An elevated serum FPSA/TPSA ratio is a robust, non-invasive indicator of declining eGFR in male patients with T2DM and may improve DKD risk stratification and early clinical warning without additional economic burden.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798458/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "glomerular-filtration-rate",
+      "biomarkers-tumor",
+      "prostate-specific-antigen"
+    ],
+    "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42758720",
     "title": "Coding, modifier, and regulatory effects shape circulating APOL1 levels",
     "subtitle": "Human molecular genetics · 2026",
@@ -2675,6 +2801,20 @@
       "fatigue"
     ],
     "date": "2026-09-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42796352",
+    "title": "Intragraft FOXP3+ Cells and Continuous Banff Indices in T Cell-Mediated Kidney Allograft Rejection",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "FOXP3+ cell density was univariately associated with higher CI values (= 0.228,= 0.013) and chronic lesions interstitial fibrosis () (= 0.284,= 0.002) and tubular atrophy () (= 0.246,= 0.008). No association with short-term graft outcome was observed.: FOXP3+ cell infiltration was associated with chronic histological…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42796352/",
+    "tags": [
+      "forkhead-transcription-factors",
+      "kidney-transplantation",
+      "graft-rejection"
+    ],
+    "date": "2026-09-10T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4176,149 +4316,6 @@
       "kidney-transplantation",
       "habits",
       "medication-adherence"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42745822",
-    "title": "Glycemic assessment when hemoglobin A1c is unreliable: a clinical-laboratory framework for kidney disease, anemia, and hemoglobinopathies",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Hemoglobin A1c is central to diabetes diagnosis and monitoring, but its interpretation becomes clinically fragile when red-cell biology, hemoglobin composition, assay behavior, kidney failure, protein turnover, or glucose-data quality affects the assumptions behind the result. This review synthesizes evidence from…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42745822/",
-    "tags": [
-      "glycated-hemoglobin",
-      "anemia",
-      "hemoglobinopathies",
-      "blood-glucose"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42745770",
-    "title": "Association of MASLD with chronic kidney disease according to metabolic profiles and fibrosis severity: a KNHANES analysis",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "MASLD was associated with prevalent CKD. The association with prevalent CKD within MASLD varied according to metabolic profiles and fibrosis severity, highlighting the importance of risk stratification and integrated liver-kidney management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42745770/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "liver-cirrhosis",
-      "non-alcoholic-fatty-liver-disease",
-      "metabolic-diseases"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42745384",
-    "title": "Effectiveness of Nursing and Non-Pharmacological Interventions in Reducing Intradialytic Hypotension Among Haemodialysis Patients: A Systematic Review and Meta-Analysis",
-    "subtitle": "Nursing open · 2026",
-    "summary": "Non-pharmacological interventions may support haemodynamic stability during haemodialysis; however, improvement in systolic blood pressure represents a surrogate haemodynamic outcome and does not necessarily indicate a reduced incidence of intradialytic hypotension. Further well-designed studies using clinically…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42745384/",
-    "tags": [
-      "renal-dialysis",
-      "hypotension"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42744752",
-    "title": "Renally Generated Ammonia as a Cause of Hyperammonaemic Non-Hepatic Encephalopathy",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "Encephalopathy with high ammonia levels is most commonly associated with cirrhosis or urea cycle disorders, but it can also result from renal ammoniagenesis when renal excretion of ammonium is impaired. In some patients, renal ammonium excretion is sufficient under baseline conditions but not with decreased renal…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42744752/",
-    "tags": [
-      "ammonia",
-      "hyperammonemia",
-      "acute-kidney-injury",
-      "kidney"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42743342",
-    "title": "Kidney Failure in Cardiogenic Shock",
-    "subtitle": "Circulation. Heart failure · 2026",
-    "summary": "We further discuss the renal effects of contemporary shock therapies, including vasoactive agents, temporary mechanical circulatory support, and renal replacement strategies. Finally, we highlight emerging diagnostic tools, including noninvasive vascular imaging and renal biomarkers, alongside novel device-based…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42743342/",
-    "tags": [
-      "shock-cardiogenic",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42741979",
-    "title": "Development of a Preoperative Transthoracic Echocardiography-Based Nomogram for Predicting 1-Year Cardiovascular Events in End-Stage Renal Disease Kidney Transplant Recipients",
-    "subtitle": "Echocardiography (Mount Kisco, N.Y.) · 2026",
-    "summary": "One-year post-transplant CVE incidence remains high. IVSTd, PH, AVC and diabetes are independent predictors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42741979/",
-    "tags": [
-      "kidney-transplantation",
-      "kidney-failure-chronic",
-      "echocardiography",
-      "cardiovascular-diseases"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42737727",
-    "title": "Effects of Exercise Training on Experimental Chronic Kidney Disease: A Systematic Review and Meta-Analysis",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Exercise training enhanced endothelial function and improved metabolic homeostasis while attenuating reactive oxygen species (ROS) generation and lipid peroxidation through augmentation of endogenous antioxidant defenses. Furthermore, exercise promoted mitochondrial biogenesis and anabolic signaling in skeletal muscle…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737727/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "physical-conditioning-animal"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42736050",
-    "title": "Association Between Tolvaptan Exposure and Venous Thromboembolism Risk in ADPKD: A Real-World Propensity-Matched EHR Study",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "In this large propensity-matched real-world cohort, tolvaptan exposure was associated with lower risks of VTE and mortality among patients with ADPKD. Given the retrospective observational design and the possibility of residual confounding, these findings should be interpreted as associative and hypothesis-generating…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42736050/",
-    "tags": [
-      "tolvaptan",
-      "polycystic-kidney-autosomal-dominant",
-      "venous-thromboembolism",
-      "antidiuretic-hormone-receptor-antagonists"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42736041",
-    "title": "Peritoneal Dialysis for End-Stage Kidney Disease due to Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-Like Episodes (MELAS): A Case Report",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "However, despite theoretical concerns regarding lactate load, steady-state serum lactate remained stable on Continuous Ambulatory Peritoneal Dialysis (CAPD), and the patient achieved good functional recovery. We conclude that while acute decompensation requires aggressive management, CAPD is a feasible long-term…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42736041/",
-    "tags": [
-      "kidney-failure-chronic",
-      "melas-syndrome",
-      "peritoneal-dialysis-continuous-ambulatory",
-      "peritoneal-dialysis"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42733265",
-    "title": "[Comparison of cecal ligation and puncture versus intraperitoneal lipopolysaccharide injection-induced animal models of sepsis-associated acute kidney injury]",
-    "subtitle": "Zhonghua nei ke za zhi · 2026",
-    "summary": "Immunofluorescence and flow cytometry showed that macrophage proportions in renal tissues were significantly increased in both models (flow cytometry: CLP group vs. control, 31.39%±3.40% vs. 13.50%±2.98%; LPS group vs. control, 30.85%±4.90% vs. 13.25%±2.57%; both<0.001). In the LPS group, macrophages were…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42733265/",
-    "tags": [
-      "acute-kidney-injury",
-      "sepsis",
-      "disease-models-animal"
     ],
     "date": "2026-09-01T00:00:00.000Z",
     "pinned": false

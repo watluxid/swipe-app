@@ -1479,6 +1479,106 @@
     "pinned": false
   },
   {
+    "id": "pmid-42806171",
+    "title": "Renal risk differences between diffuse large B-cell lymphoma and chronic lymphocytic leukemia/small lymphocytic lymphoma: implications for supportive oncology care",
+    "subtitle": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026",
+    "summary": "DLBCL showed modestly higher AKI risk and CLL/SLL showed modestly higher CKD burden in this demographically matched cohort. Because comorbidities were not matched and absolute differences were small, these findings are hypothesis-generating, supporting attention to renal monitoring in both subtypes pending…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806171/",
+    "tags": [
+      "leukemia-lymphocytic-chronic-b-cell",
+      "lymphoma-large-b-cell-diffuse",
+      "acute-kidney-injury",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42805656",
+    "title": "Sarcopenia among chronic kidney disease patients attending a renal clinic in Northwest Ethiopia: a cross-sectional study of prevalence, risk factors and clinical implications",
+    "subtitle": "BMJ open · 2026",
+    "summary": "Sarcopenia was predominant among CKD patients and was more common among those with ESRD. It was correlated with metabolic abnormalities, inflammation, oxidative stress and frailty.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805656/",
+    "tags": [
+      "sarcopenia",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42805649",
+    "title": "Regional citrate anticoagulation combined with nafamostat mesylate for continuous kidney replacement therapy in septic acute kidney injury patients: protocol for a prospective, three-arm, randomised controlled study (RCNM-CKRT)",
+    "subtitle": "BMJ open · 2026",
+    "summary": "While regional citrate anticoagulation (RCA) is recommended first-line, nafamostat mesylate (NM) offers an alternative with potential anti-inflammatory benefits. This trial aims to compare the effects of RCA, NM and their combination on EC lifespan during CKRT in critically ill acute kidney injury (AKI) patients with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805649/",
+    "tags": [
+      "acute-kidney-injury",
+      "benzamidines",
+      "anticoagulants",
+      "continuous-renal-replacement-therapy"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42804441",
+    "title": "Study variation in estimating Glomerular Filtration Rate (GFR) from serum creatinine, cystatin C, age, and sex",
+    "subtitle": "PloS one · 2026",
+    "summary": "Single-study GFR equations may underestimate cross-study prediction error by ignoring study-level variability, especially in non-CKD populations. Our results largely corroborate the use of pooled datasets and the current form of the CKD-EPI equations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804441/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "cystatin-c",
+      "creatinine",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42804277",
+    "title": "Effectiveness and Safety of Virtual Reality Interventions for Symptom Management in Adults Undergoing Hemodialysis: Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+    "subtitle": "Journal of medical Internet research · 2026",
+    "summary": "Preliminary evidence suggests that VR-based interventions may reduce arteriovenous fistula cannulation pain and depressive symptoms and may improve selected physical function outcomes, including gait speed and 6-minute walk distance, in adults receiving hemodialysis. No serious VR-related adverse events were reported,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804277/",
+    "tags": [
+      "renal-dialysis",
+      "virtual-reality"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42804043",
+    "title": "Potential anti-inflammatory effect of L-carvone in endothelial dysfunction triggered by uremia related to chronic kidney disease",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "Altogether, these findings suggest the beneficial anti-inflammatory effect of CRV in the vascular environment in response to uremic damage in CKD patients, opening perspectives for the study of new targets to better understand the endothelial protection mechanisms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804043/",
+    "tags": [
+      "uremia",
+      "anti-inflammatory-agents",
+      "renal-insufficiency-chronic",
+      "cyclohexane-monoterpenes"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42803944",
+    "title": "Changes in renal function in patients with chronic kidney disease after ureteroscopy: a systematic review and meta-analysis from EAU endourology",
+    "subtitle": "Urolithiasis · 2026",
+    "summary": "Studies reporting pre- and postoperative eGFR in patients with established CKD or cohorts including patients with reduced baseline renal function undergoing standard URS or RIRS were included. Available evidence does not suggest a clinically meaningful deterioration in renal function following URS or RIRS and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803944/",
+    "tags": [
+      "ureteroscopy",
+      "renal-insufficiency-chronic",
+      "kidney"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42801387",
     "title": "Longitudinal impact of sodium bicarbonate therapy on health-related quality of life in pre-dialysis chronic kidney disease with metabolic acidosis: a pragmatic trial in Malaysia",
     "subtitle": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation · 2026",
@@ -2514,6 +2614,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42806327",
+    "title": "Prevalence and associated factors of chronic kidney disease-associated pruritus in maintenance hemodialysis patients: a systematic review and meta-analysis",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Approximately 60% of patients undergoing MHD experience pruritus. Serum phosphorus showed the most consistent association with CKD-aP, whereas estimates for several other factors varied according to variable definition, methodological quality, and between-study heterogeneity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806327/",
+    "tags": [
+      "pruritus",
+      "renal-dialysis",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42796377",
     "title": "Beyond Sequencing: Integrating MLPA Reveals Hidden Structural PKD2 Variants and Enhances Mutation Detection in a Highly Selected ADPKD Greek Cohort",
     "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
@@ -2678,6 +2792,21 @@
       "continuous-renal-replacement-therapy"
     ],
     "date": "2026-09-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42806309",
+    "title": "Ultrasound radiomics-based machine learning models for differentiating diabetic kidney disease from non-diabetic kidney disease in type 2 diabetes",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "The XGBoost model integrating renal ultrasound radiomic features with eGFR showed favourable performance for differentiating DKD from NDKD in patients with T2DM. By using routinely available ultrasound images and a readily accessible clinical indicator, this model may serve as a non-invasive auxiliary tool for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806309/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "machine-learning",
+      "kidney-diseases"
+    ],
+    "date": "2026-09-14T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4060,6 +4189,63 @@
     "pinned": false
   },
   {
+    "id": "pmid-42806835",
+    "title": "Barriers to Research and Quality Improvement in Nephrology: Nurses and Allied Health Professionals' Perspectives",
+    "subtitle": "Journal of renal care · 2026",
+    "summary": "Research engagement is influenced by interacting capability, opportunity, and motivational factors. Strategies to build research and quality improvement capacity in nephrology should address knowledge gaps, strengthen organisational support, and foster collaborative research cultures to enable sustainable…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806835/",
+    "tags": [
+      "quality-improvement",
+      "nephrology",
+      "nurses",
+      "allied-health-personnel"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42805961",
+    "title": "Pharmacological interventions for vascular calcification in chronic kidney disease: A systematic review and meta-analysis of randomized controlled trials",
+    "subtitle": "The Journal of international medical research · 2026",
+    "summary": "Primary outcomes were imaging-defined measures of vascular calcification, including coronary artery calcification Agatston score, percentage coronary artery calcification progression, coronary artery calcification volume change, and abdominal aortic calcification progression. Pharmacological interventions did not…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805961/",
+    "tags": [
+      "vascular-calcification",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42804203",
+    "title": "Older Patients and Conservative Kidney Management",
+    "subtitle": "JAMA network open · 2026",
+    "summary": "In this qualitative study of patients, caregivers, and nephrologists, support for CKM was limited, despite patients consistently citing reasons for choosing CKM. Expanding CKM will require nephrologist training, caregiver-inclusive decision-making, institutional CKM pathways, and policies that incentivize its use.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804203/",
+    "tags": [
+      "kidney-failure-chronic",
+      "conservative-treatment",
+      "renal-dialysis"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42803371",
+    "title": "Carotid arterial stiffness is associated with selective glomerular hypofiltration of middle-sized molecules in type 2 diabetes",
+    "subtitle": "Diabetes & vascular disease research · 2026",
+    "summary": "We investigated whether Selective Glomerular Hypofiltration Syndromes (SGHS), expressed as ratios of cystatin C- or β2-microglobulin-based estimated glomerular filtration rate to creatinine-based eGFR (eGFRcys/eGFRcr and eGFRb2M/eGFRcr), are associated with carotid, femoral, or aortic stiffness.MethodsWe studied 144…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803371/",
+    "tags": [
+      "vascular-stiffness",
+      "diabetes-mellitus-type-2",
+      "glomerular-filtration-rate",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-09-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42790999",
     "title": "Joint International Society of Renal Nutrition and Metabolism (ISRNM) and International Society for Peritoneal Dialysis (ISPD) Practice Recommendation on Nutrition Management in Peritoneal Dialysis",
     "subtitle": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation · 2026",
@@ -4123,198 +4309,6 @@
       "brain",
       "renal-insufficiency-chronic",
       "cognition"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42771340",
-    "title": "US Pediatric Hospitalizations Complicated by Acute Kidney Injury and Dialysis From 1997 to 2022",
-    "subtitle": "JAMA network open · 2026",
-    "summary": "In this retrospective study of the KID, the absolute number and rate of pediatric hospitalizations complicated by AKI and AKI-D increased between 1997 to 2022. Factors contributing to the substantial growth may include improved definitions and recognition of AKI, inclusion of a growing number of older and medically…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42771340/",
-    "tags": [
-      "acute-kidney-injury",
-      "hospitalization",
-      "renal-dialysis"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42768763",
-    "title": "Intraoperative Continuous Kidney Replacement Therapy With Regional Epoprostenol Anticoagulation During Liver Transplantation in a Child With Severe Gastrointestinal Bleeding",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "IO-CKRT effectively achieves fluid and metabolic balance during LT in pediatric patients with AKI, fluid overload, and metabolic issues. Epoprostenol proves to be a safe and effective regional anticoagulation option for CKRT in bleeding patients undergoing LT, preventing site bleeding without systemic complications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42768763/",
-    "tags": [
-      "liver-transplantation",
-      "anticoagulants",
-      "continuous-renal-replacement-therapy",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42767669",
-    "title": "Dual versus Single Kidney Transplantation in Contemporary U.S. Practice: A National Matched Cohort Study",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "DKT remains an uncommon but important strategy for utilization of hard-to-place donor kidneys. After matching recipients with comparable age and KDPI, DKT was associated with favorable graft and patient survival and similar DGF rates, supporting selective use in carefully chosen recipients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42767669/",
-    "tags": [
-      "kidney-transplantation",
-      "graft-survival",
-      "kidney-failure-chronic",
-      "graft-rejection"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42767667",
-    "title": "Native Versus Allograft BK Polyomavirus Nephropathy: A Matched Cohort Study of Clinicopathological Features and Outcomes",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Native-kidney BKPyVN is associated with advanced tubulointerstitial injury, frequent TBM C4d deposition and poor short-term renal outcomes. The greater severity than allograft BKPyVN may largely reflect delayed diagnosis in the absence of routine BKPyV surveillance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42767667/",
-    "tags": [
-      "polyomavirus-infections",
-      "bk-virus",
-      "tumor-virus-infections",
-      "kidney-transplantation"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42765739",
-    "title": "Transforming growth factor-β in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis",
-    "subtitle": "Journal of veterinary internal medicine · 2026",
-    "summary": "Demonstration of the presence of TGF-β protein is challenging due to lack of commercially available immunohistochemistry (IHC) antibodies that are sensitive and specific for active variants and isoforms TGF-β in dogs and cats. Although the relationship between TGF-β and glomerulosclerosis is mostly theoretical based…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765739/",
-    "tags": [
-      "cat-diseases",
-      "transforming-growth-factor-beta",
-      "dog-diseases",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42762084",
-    "title": "Office Blood Pressure and Arteriolosclerosis in Biopsy-Proven Glomerulonephritis: Association With Renal Function Decline and Clinical Outcomes",
-    "subtitle": "Journal of clinical hypertension (Greenwich, Conn.) · 2026",
-    "summary": "SBP > 130 mmHg was associated with arteriolosclerosis (p = 0.004), arterial intimal fibrosis (p = 0.005), crescentic lesions (p = 0.033), and glomerulosclerotic changes (p = 0.048), whereas no associations were observed for diastolic blood pressure (DBP). Arteriolosclerosis independently predicts renal function…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42762084/",
-    "tags": [
-      "arteriolosclerosis",
-      "glomerulonephritis",
-      "hypertension",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42760804",
-    "title": "Annual Protocol Biopsies for Five Years in a Pediatric Kidney Transplant Program: A Single-Center Retrospective Experience",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Real-world surveillance coverage and interpretable yield were incomplete, and documented management impact was limited. These data do not establish a benefit of uniform annual surveillance and provide a rationale for prospective evaluation of risk-adapted strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760804/",
-    "tags": [
-      "kidney-transplantation",
-      "kidney",
-      "postoperative-complications"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42760591",
-    "title": "An Exploratory Clinicopathological Study Investigating Immunohistochemical Markers (CD61 and Fibrin) for Detecting Platelet Aggregates and Fibrin Deposition in Lupus Nephritis",
-    "subtitle": "International journal of rheumatic diseases · 2026",
-    "summary": "CD61-positive platelet aggregates and fibrin deposits were commonly seen in LN biopsies and were linked to specific clinical and pathological features. Nevertheless, these should not be considered equivalent to true microthrombi and might indicate a combination of inflammatory and thrombotic processes causing…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760591/",
-    "tags": [
-      "lupus-nephritis",
-      "fibrin",
-      "immunohistochemistry",
-      "integrin-beta3"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42758525",
-    "title": "Arginase 2 deficiency mitigates sepsis-associated acute kidney injury by alleviating lipid accumulation",
-    "subtitle": "Clinical and translational medicine · 2026",
-    "summary": "Inhibiting ARG2 in renal tubules during S-AKI may alleviate lipid accumulation and kidney injury by activating PPARγ, providing a new therapeutic strategy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42758525/",
-    "tags": [
-      "acute-kidney-injury",
-      "arginase",
-      "sepsis",
-      "lipid-metabolism"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42758466",
-    "title": "Microvascular dysfunction in chronic kidney disease: A feasibility study",
-    "subtitle": "Clinical physiology and functional imaging · 2026",
-    "summary": "NIRS was feasible when tolerated, but acceptability and interpretability limited its use in advanced CKD. Acceptability, but not interpretability, was limited by markers of vascular severity consistent with a calcified, poorly compressible vasculature.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42758466/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "microcirculation",
-      "peripheral-arterial-disease",
-      "lower-extremity"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42757502",
-    "title": "Weight-based polymyxin B dosing for mortality and nephrotoxicity: an exploratory dose-response study",
-    "subtitle": "The Journal of antimicrobial chemotherapy · 2026",
-    "summary": "A higher polymyxin B maintenance dose was associated with increased nephrotoxicity, particularly above approximately 2.75 mg/kg/day. The mortality estimates were imprecise and did not exclude a clinically important effect.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42757502/",
-    "tags": [
-      "polymyxin-b",
-      "anti-bacterial-agents",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42755245",
-    "title": "Hippocampal Volume Mediates the Association Between Serum Ferritin and Cognition in Non-Dialysis End-Stage Renal Disease Patients",
-    "subtitle": "Brain and behavior · 2026",
-    "summary": "Lower serum ferritin levels may exert a protective effect against the decrease in gray matter volume and the deterioration of cognitive function in non-dialysis ESRD individuals.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755245/",
-    "tags": [
-      "kidney-failure-chronic",
-      "ferritins",
-      "hippocampus",
-      "cognition"
-    ],
-    "date": "2026-09-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42754529",
-    "title": "Mortality risk associated with permanent central venous catheter use in the oldest-old population: a nationwide cohort study",
-    "subtitle": "The Korean journal of internal medicine · 2026",
-    "summary": "CVC use as permanent access was associated with increased mortality, even among the oldest-old. Advanced age should be regarded as a clinical consideration rather than a definitive contraindication to AV access.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42754529/",
-    "tags": [
-      "renal-dialysis",
-      "central-venous-catheters",
-      "arteriovenous-shunt-surgical",
-      "catheterization-central-venous"
     ],
     "date": "2026-09-01T00:00:00.000Z",
     "pinned": false

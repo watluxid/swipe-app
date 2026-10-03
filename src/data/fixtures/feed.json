@@ -1455,6 +1455,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42826389",
+    "title": "Nephrology Workforce Distribution and Chronic Kidney Disease Burden in Georgia: A Statewide Analysis",
+    "subtitle": "Southern medical journal · 2026",
+    "summary": "There are significant disparities in CKD burden and access to nephrology care in Georgia. Rural counties experience higher disease prevalence but a reduced availability of specialist services.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826389/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "health-services-accessibility",
+      "nephrology",
+      "healthcare-disparities"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42826278",
+    "title": "Renoprotective effects and safety of sodium-glucose cotransporter 2 inhibitors in diabetic chronic kidney disease: A systematic review and meta-analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "In patients with diabetic CKD, SGLT2 inhibitors significantly improve glycemic control, reduce body weight, and lower systolic blood pressure, while showing neutral short- to medium-term effects on eGFR and albuminuria. These neutral surrogate-marker findings should be interpreted alongside large outcome trials…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826278/",
+    "tags": [
+      "sodium-glucose-transporter-2-inhibitors",
+      "diabetic-nephropathies",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42826263",
+    "title": "The impact of tacrolimus variability on first year renal function in kidney transplant recipients: A retrospective cohort study",
+    "subtitle": "Medicine · 2026",
+    "summary": "High variability was associated with more frequent subtherapeutic and supratherapeutic trough concentrations and transient reductions in early graft performance. Male donor sex showed a positive association with eGFR only at 6 months, whereas early tacrolimus variability was not independently associated with eGFR at…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826263/",
+    "tags": [
+      "tacrolimus",
+      "kidney-transplantation",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42823492",
     "title": "Personalizing mycophenolate therapy: genetic determinants and practical limited sampling strategy for pediatric lupus nephritis",
     "subtitle": "European journal of clinical pharmacology · 2026",
@@ -1466,6 +1509,20 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42825479",
+    "title": "Add-on Moxibustion and Detoxification Enema Alleviates Symptoms and Improves Renal Function in Chronic Kidney Disease: A Retrospective Cohort Study",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Ccr increased from 24.38 ± 7.21 mL/min/1.73 mto 32.16 ± 5.68 mL/min/1.73 min the treatment group and from 26.15 ± 8.04 mL/min/1.73 mto 29.86 ± 6.29 mL/min/1.73 min the comparison group. Adjunctive moxibustion, combined with a detoxification enema, was associated with improved short-term renal function and reduced TCM…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825479/",
+    "tags": [
+      "moxibustion",
+      "enema",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2884,6 +2941,65 @@
     "pinned": false
   },
   {
+    "id": "pmid-42824490",
+    "title": "Case Report: Concurrent Fabry disease, IgA nephropathy and undifferentiated connective tissue disease in a female with normal enzyme activity",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This case highlights that routine electron microscopy during renal biopsy is critical for detecting occult FD in females with normal enzyme activity, and is consistent with a biologically plausible hypothesis of Gb3-driven immune dysregulation as a potential shared link among FD, IgAN, and systemic autoimmunity, which…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824490/",
+    "tags": [
+      "fabry-disease",
+      "glomerulonephritis-iga",
+      "undifferentiated-connective-tissue-diseases",
+      "alpha-galactosidase"
+    ],
+    "date": "2026-09-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42824439",
+    "title": "CD4(+) T cell subset imbalance contributes to diabetic kidney disease progression: immunopathological mechanisms and targeted therapeutic strategies",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This narrative review synthesizes evidence from PubMed, Web of Science, and EMBASE (inception to March 2026) to provide a comprehensive overview of the immunopathological roles and molecular regulatory networks of major CD4T cell subsets, including T helper type 1, T helper type 2, T helper type 17 and regulatory T…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824439/",
+    "tags": [
+      "diabetic-nephropathies",
+      "cd4-positive-t-lymphocytes",
+      "t-lymphocyte-subsets"
+    ],
+    "date": "2026-09-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42824085",
+    "title": "Case Report: Kidney allograft recovery after conversion to belatacept-based immunosuppression in simultaneous heart-kidney transplantation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Despite intensive anti-rejection treatment, cardiac histology improved and DSA levels decreased, but renal allograft function did not recover. Thereafter, diuresis progressively resumed and dialysis was discontinued, with progressive improvement in renal function, while DSA became progressively undetectable.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824085/",
+    "tags": [
+      "abatacept",
+      "kidney-transplantation",
+      "heart-transplantation",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-09-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42823990",
+    "title": "Age- and sex-specific associations of underweight and excess adiposity with incident CKD in type 2 diabetes: nationwide Korean cohort study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In Korean adults aged ≥40 years with T2DM, underweight consistently predicted higher CKD risk, particularly in middle-aged men, whereas the association of excess adiposity with CKD differed by age and sex. These findings may help explain previously inconsistent associations between obesity and CKD risk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42823990/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "thinness",
+      "renal-insufficiency-chronic",
+      "adiposity"
+    ],
+    "date": "2026-09-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42760513",
     "title": "Serum long noncoding RNA human plasmacytoma variant translocation 1 (PVT1) expression levels in Egyptians type 2 diabetic patients and its correlation with severity of diabetic nephropathy",
     "subtitle": "BMC endocrine disorders · 2026",
@@ -4193,124 +4309,6 @@
       "fruit-and-vegetable-juices"
     ],
     "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42704548",
-    "title": "Learning curves and training in robotic organ transplantation: bibliometric mapping with kidney transplantation as the principal clinical model",
-    "subtitle": "Journal of robotic surgery · 2026",
-    "summary": "Literature on learning and training in robotic transplantation spans multiple procedures, but its evidence base is strongly kidney-dominant and direct bibliometric findings need to be distinguished from clinical interpretation. Kidney transplantation was the dominant clinical model: 'kidney transplantation' was the…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704548/",
-    "tags": [
-      "kidney-transplantation",
-      "robotic-surgical-procedures",
-      "learning-curve",
-      "bibliometrics"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42704498",
-    "title": "Ultrasmall Ag₂Se@Mn quantum dots enable dual-modal imaging-guided early detection and antioxidant therapy of acute kidney injury",
-    "subtitle": "Mikrochimica acta · 2026",
-    "summary": "Especially, MRI revealed renal dysfunction up to 66 h earlier than conventional clinical indicators, providing a critical window for early intervention. Furthermore, the inherent ROS-scavenging activity of Mn²⁺ endows QDs with potent antioxidant capacity by efficiently eliminating hydroxyl radicals (·OH) and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704498/",
-    "tags": [
-      "quantum-dots",
-      "acute-kidney-injury",
-      "antioxidants",
-      "manganese"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42737831",
-    "title": "Garlic Improves Normal Water and Sodium Handling in Diabetic Kidneys by Attenuating Atrial Natriuretic Peptide: A Comparison with Metformin Treatment",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Parameters assessed included fasting blood glucose (FBG), body weight (BW), fluid intake, urine output, renal sodium excretion, serum ANP concentration, and right atrial ANP and renal NPR-A gene expression via qRT-PCR. GE also downregulated right atrial ANP gene expression by 56.2% and reduced serum ANP concentrations…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737831/",
-    "tags": [
-      "atrial-natriuretic-factor",
-      "metformin",
-      "sodium",
-      "diabetes-mellitus-experimental"
-    ],
-    "date": "2026-09-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42701904",
-    "title": "Outcomes and learning curve of single-kidney transplantation from small pediatric donors in children: a retrospective cohort study with meta-analysis",
-    "subtitle": "Pediatric surgery international · 2026",
-    "summary": "Early graft loss risk in small-donor single-kidney transplantation declines after the learning phase, with acceptable short-term outcomes and high organ utilization. This approach appears feasible in experienced centers, though long-term efficacy requires prospective validation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42701904/",
-    "tags": [
-      "kidney-transplantation",
-      "learning-curve",
-      "tissue-donors"
-    ],
-    "date": "2026-09-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42700976",
-    "title": "Levamisole-induced anti-neutrophil cytoplasmic antibodies-associated vasculitis in paediatric nephrotic syndrome: dose-dependent and idiosyncratic risks in paediatric patients",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "We present two distinct paediatric cases of levamisole-induced vasculitis from India.The first case involves a female child in middle childhood who developed multisystemic vasculitis (pulmonary, renal and cutaneous) following an accidental dose escalation. These cases underscore that levamisole-induced autoimmunity is…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42700976/",
-    "tags": [
-      "levamisole",
-      "nephrotic-syndrome",
-      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
-      "adjuvants-immunologic"
-    ],
-    "date": "2026-09-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42700281",
-    "title": "Spatiotemporal visualization of superoxide in diabetic nephropathy via an activatable fluorescent probe",
-    "subtitle": "Mikrochimica acta · 2026",
-    "summary": "In mIMCD-3 cells, CZY enabled time-dependent visualization of O-associated oxidative activity. Additionally, CZY could enable visualization of Oand support it as an effective molecular imaging platform for monitoring Ovariation in DN model.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42700281/",
-    "tags": [
-      "superoxides",
-      "fluorescent-dyes",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-09-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42700265",
-    "title": "TET2 aggravates podocyte mitotic catastrophe and renal injury in diabetic nephropathy via m5C-dependent downregulation of Wee1 and activation of CDK1-cyclinB1 signaling",
-    "subtitle": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026",
-    "summary": "TET2 overexpression further enhanced ADM/HG-induced podocyte MC and oxidative stress, whereas TET2 knockdown had the opposite effect. Collectively, TET2 promotes podocyte MC and aggravates DN via TET2-mediated m5C demethylation that suppresses Wee1 expression and activates CDK1-cyclin B1, suggesting that this axis may…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42700265/",
-    "tags": [
-      "podocytes",
-      "diabetic-nephropathies",
-      "protein-tyrosine-kinases",
-      "cell-cycle-proteins"
-    ],
-    "date": "2026-09-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42700225",
-    "title": "CCL5 mRNA-enriched small extracellular vesicles from renal tubular epithelial cells enhance macrophage inflammatory responses in diabetic nephropathy",
-    "subtitle": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026",
-    "summary": "These findings suggest that TEC-derived sEV-associated Ccl5 mRNA may contribute to TEC-to-macrophage inflammatory communication in DN, with activated macrophages potentially propagating injury-related responses to glomerular cells.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42700225/",
-    "tags": [
-      "chemokine-ccl5",
-      "diabetic-nephropathies",
-      "kidney-tubules",
-      "macrophages"
-    ],
-    "date": "2026-09-05T00:00:00.000Z",
     "pinned": false
   }
 ]

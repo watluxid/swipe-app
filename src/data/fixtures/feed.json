@@ -1455,6 +1455,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42828689",
+    "title": "Optimization of the organization of a hemodialysis center",
+    "subtitle": "Health care management science · 2026",
+    "summary": "The staffing and scheduling model balances workload across appointment periods, while the daily assignment model explicitly incorporates patient acuity, patient-chair requirements, and spatial clustering of chairs. Computational experiments based on real-world data show that schedule optimization reduces the maximum…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828689/",
+    "tags": [
+      "personnel-staffing-and-scheduling",
+      "renal-dialysis",
+      "hemodialysis-units-hospital"
+    ],
+    "date": "2026-10-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42826389",
     "title": "Nephrology Workforce Distribution and Chronic Kidney Disease Burden in Georgia: A Statewide Analysis",
     "subtitle": "Southern medical journal · 2026",
@@ -1509,6 +1523,61 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42829228",
+    "title": "First reported case of peritoneal dialysis-associated peritonitis caused by Citrobacter sedlakii",
+    "subtitle": "Nefrologia · 2026",
+    "summary": "This report describes the first documented case of PD-associated peritonitis caused by Citrobacter sedlakii, a rare gram-negative bacillus of the Enterobacteriaceae family. This case underscores the need for heightened awareness of rare etiologies in PD-related infections and informs strategies for their management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829228/",
+    "tags": [
+      "peritonitis",
+      "peritoneal-dialysis",
+      "enterobacteriaceae-infections",
+      "citrobacter"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42829227",
+    "title": "Anti-CD20 monoclonal antibodies in membranous nephropathy",
+    "subtitle": "Nefrologia · 2026",
+    "summary": "B-cell depletion with anti-CD20 monoclonal antibodies was initially developed for the treatment of B-cell lymphoma. In glomerular diseases, rituximab was initially used to treat membranous nephropathy, demonstrating a better safety profile compared to conventional immunosuppressive therapies and a good treatment…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829227/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "antigens-cd20",
+      "antibodies-monoclonal"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42829224",
+    "title": "A resource consumption analysis of expanded hemodialysis compared to online hemodiafiltration: A provider perspective in Spain",
+    "subtitle": "Nefrologia · 2026",
+    "summary": "HDx with Theranova offers lower resource use and lower costs compared to OL-HDF by reducing the need for specific consumables other than the dialyzer and for water consumption. These findings support the potential benefit of HDx as an efficient dialysis modality that responsibly uses the planet's resources.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829224/",
+    "tags": [
+      "hemodiafiltration",
+      "renal-dialysis",
+      "health-resources"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42828426",
+    "title": "Back-Table Reduction of a Deceased Adult Donor Kidney for Transplantation Into a Small Child: A Six-Year Follow Up",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "In carefully selected circumstances, back-table reduction of a deceased adult donor kidney may be a technically feasible strategy to overcome extreme donor-recipient size mismatch in pediatric kidney transplantation without compromising medium-term graft structure or function.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828426/",
+    "tags": [
+      "kidney-transplantation"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -1912,6 +1981,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42829710",
+    "title": "Median Effective Concentration of Ropivacaine for Ultrasound-Guided T(11) Thoracic Paravertebral Block in Patients with End-Stage Renal Disease: A Dixon Up-and-Down Dose-Finding Study",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "The EC50 of ropivacaine for TPVB in ESRD patients undergoing PDC was approximately 0.17%-0.18%, with favorable early recovery and acceptable safety. Given that EC50 reflects efficacy in only 50% of patients, EC90/EC95 studies are needed before definitive dosing recommendations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829710/",
+    "tags": [
+      "ropivacaine",
+      "kidney-failure-chronic",
+      "anesthetics-local",
+      "nerve-block"
+    ],
+    "date": "2026-09-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42829622",
+    "title": "Identification of Risk Factors and Prediction Models for Acute Kidney Injury in Hospitalized Elderly Patients with Heart Failure",
+    "subtitle": "Clinical interventions in aging · 2026",
+    "summary": "In this single-center study with internal validation only, the prediction model demonstrated favorable performance for in-hospital AKI in elderly HF patients and may serve as a candidate tool for early risk stratification. External validation in independent cohorts is required before routine clinical implementation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829622/",
+    "tags": [
+      "heart-failure",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-09-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42810794",
     "title": "Initial vascular access type and associated factors among incident haemodialysis patients: a multicentre retrospective observational study",
     "subtitle": "BMJ open · 2026",
@@ -1954,6 +2051,35 @@
       "antibodies-antinuclear"
     ],
     "date": "2026-09-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42829537",
+    "title": "Association Between Estimated Glucose Disposal Rate and Chronic Kidney Disease in Elderly Patients with Type 2 Diabetes Mellitus: A Cross-Sectional Study in Zhejiang, China",
+    "subtitle": "Clinical interventions in aging · 2026",
+    "summary": "Lower eGDR was associated with a higher prevalence of study-defined CKD in elderly patients with T2DM, with an approximately linear cross-sectional association. Prospective studies are needed to establish temporality and assess whether eGDR adds information beyond established CKD assessment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829537/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "renal-insufficiency-chronic",
+      "blood-glucose"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42828325",
+    "title": "Leucine Mitigates Diabetic Nephropathy via Its Antioxidant Effect and Modulation of TGF-β/SMAD-3 Signalling Pathway in Streptozotocin-Induced Diabetic Rats",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "The administration of leucine inhibited renal damage by reducing activation of the profibrotic transforming growth factor beta-1 TGF-β/Smad3 signalling pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828325/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-experimental",
+      "smad3-protein",
+      "leucine"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2734,6 +2860,63 @@
       "postoperative-complications"
     ],
     "date": "2026-09-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42828168",
+    "title": "Advances in antibody-mediated rejection of renal allografts",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Plasma exchange, intravenous immunoglobulin, B-cell or plasma-cell directed agents, complement inhibition, IL-6 pathway blockade, and optimization of maintenance immunosuppression differ in the strength of their evidence, the patients they may help, their toxicities, and their feasibility in routine practice. This…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828168/",
+    "tags": [
+      "graft-rejection",
+      "kidney-transplantation",
+      "isoantibodies"
+    ],
+    "date": "2026-09-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42827902",
+    "title": "Cross-phenotype integration of eQTL-based Mendelian randomization and transcriptomics prioritizes BMP2K in IgA vasculitis with nephritis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Integrative genetic, transcriptomic, and preliminary experimental evidence prioritizedas a candidate gene for IgAVN. Ruboxistaurin showed anti-inflammatory activity and was associated with lower BMP2K protein abundance; however, direct target engagement and BMP2K-specific activity were not established.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827902/",
+    "tags": [
+      "quantitative-trait-loci",
+      "glomerulonephritis-iga",
+      "vasculitis",
+      "transcriptome"
+    ],
+    "date": "2026-09-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42827533",
+    "title": "Elevated peak width of skeletonized mean diffusivity in patients with end-stage kidney disease: evidence of diffuse white matter microstructural injury",
+    "subtitle": "Frontiers in neurology · 2026",
+    "summary": "We demonstrated that patients with ESKD exhibited higher PSMD than healthy controls, suggesting diffuse white matter microstructural injury that may be related to CSVD. PSMD may be a useful imaging marker for characterizing diffuse white matter abnormalities in this population, although further studies incorporating…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827533/",
+    "tags": [
+      "kidney-failure-chronic",
+      "diffusion-tensor-imaging",
+      "white-matter"
+    ],
+    "date": "2026-09-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42827458",
+    "title": "Incidence, clinical characteristics, and risk factors of acute kidney injury in patients with Chlamydia psittaci pneumonia",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "AKI is a serious complication ofpneumonia and is associated with greater disease severity and a significantly increased risk of death. In clinical practice, particular attention should be paid to high-risk patients with hypertension, a high PSI score, and elevated CK.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827458/",
+    "tags": [
+      "acute-kidney-injury",
+      "chlamydophila-psittaci",
+      "psittacosis"
+    ],
+    "date": "2026-09-18T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4121,194 +4304,6 @@
       "diabetes-mellitus-type-2"
     ],
     "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42775225",
-    "title": "Efficacy and safety of GLP-1RAs, SGLT2is, and nsMRAs for cardiovascular and renal outcomes in T2DM with CKD: a systematic review and network meta-analysis",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "In patients with T2D-CKD, all three drug classes reduced several cardiorenal outcomes versus placebo. Between-class indirect comparisons suggested more favorable relative-effect estimates for SGLT2is on major kidney outcomes and HHF in selected comparisons, and for GLP-1RAs on cardiovascular death.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42775225/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "sodium-glucose-transporter-2-inhibitors",
-      "cardiovascular-diseases",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42774178",
-    "title": "IFN-γ-dominant immune shift is associated with reduced protective ILC2 responses in chronic kidney disease",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "In this study, we investigated whether interferon-γ (IFN-γ)-dominant immune polarization is associated with the loss of renal ILC2s and exacerbation of CKD. These findings suggest that IFN-γ-dominant immune polarization is associated with suppression of protective ILC2 responses and exacerbation of CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774178/",
-    "tags": [
-      "interferon-gamma",
-      "renal-insufficiency-chronic",
-      "immunity-innate",
-      "lymphocytes"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42774134",
-    "title": "Improved access to kidney transplantation with favorable graft survival in highly sensitized candidates under the French acceptable mismatch program",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "In 2005, the French Acceptable Mismatch program (AMP) was successfully introduced as a strategy to improve kidney allocation for HS patients. Post-transplant survival is comparable to other kidney allocation modalities, possibly because of the absence of preformed donor-specific antibodies in recipients' historical…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774134/",
-    "tags": [
-      "kidney-transplantation",
-      "graft-survival",
-      "tissue-and-organ-procurement"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42774062",
-    "title": "Non-albumin proteinuria as a candidate biomarker of treatment response to finerenone in diabetic kidney disease: a real-world cohort study",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Subgroup analyses revealed differential associations: patients with higher baseline proteinuria (uPCR ≥ 500 mg/gCr) showed an 18.8% decline in uNAPCR, whereas those with uPCR < 500 mg/gCr showed a non-significant 1.3% change. Finerenone treatment was associated with a reduction in NAP, particularly among patients with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774062/",
-    "tags": [
-      "diabetic-nephropathies",
-      "proteinuria",
-      "biomarkers",
-      "naphthyridines"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42711699",
-    "title": "Allogeneic CD19 CAR-NK cell therapy for a patient with relapsed and refractory lupus nephritis",
-    "subtitle": "Arthritis research & therapy · 2026",
-    "summary": "CD19-targeted CAR-NK cell therapy achieved durable remission in a patient with relapsed/refractory LN and showed favorable safety and tolerability.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42711699/",
-    "tags": [
-      "lupus-nephritis",
-      "killer-cells-natural",
-      "antigens-cd19",
-      "immunotherapy-adoptive"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42708901",
-    "title": "Cyclosporine-A Nanotherapeutics Ameliorate Lupus Nephritis by Reprogramming the Gut-Microbial Metabolic Axis and Systemic Inflammation",
-    "subtitle": "ACS nano · 2026",
-    "summary": "Using an NZBWF1/J murine model, the administration of P2Ns-GA-CsA achieves enhanced renal protection compared to conventional oral CsA (Neoral), effectively suppressing serum creatinine, clusterin, and proinflammatory cytokines while preserving renal histoarchitecture. These findings demonstrate that this targeted…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708901/",
-    "tags": [
-      "lupus-nephritis",
-      "cyclosporine",
-      "gastrointestinal-microbiome",
-      "inflammation"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42784311",
-    "title": "The Role of Uremic Toxins in Comorbidities of Chronic Kidney Disease",
-    "subtitle": "Toxins · 2026",
-    "summary": "The number of patients with chronic kidney disease (CKD) has increased worldwide [...].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42784311/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "uremic-toxins"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42783420",
-    "title": "Targeting MicroRNA-21 in Chronic Kidney Disease: Lessons from the Lademirsen Story",
-    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
-    "summary": "Strong preclinical evidence demonstrated that inhibition of miR-21 reduced kidney injury, preserved renal function, and improved survival in multiple experimental models, particularly Alport syndrome, leading to the clinical development of the antisense oligonucleotide lademirsen. Future therapeutic strategies will…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42783420/",
-    "tags": [
-      "micrornas",
-      "renal-insufficiency-chronic",
-      "oligonucleotides-antisense"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42769277",
-    "title": "Sequential dual-organ living donation: selection, operative approach, and early donor outcomes at a Canadian center",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "Sequential dual-organ living donation, defined as donation of a kidney and a partial liver graft by the same individual in separate operations, represents a rare extension of living donor transplantation. Dual-organ living donation is rare but can be safely performed independent of sequence.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42769277/",
-    "tags": [
-      "living-donors",
-      "liver-transplantation",
-      "kidney-transplantation",
-      "tissue-and-organ-procurement"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42769112",
-    "title": "Association between fibroblast growth factor 23 and coronary artery calcification in patients with chronic kidney disease: a meta-analysis",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Elevated circulating FGF23 levels are associated with a higher prevalence of CAC in patients with CKD. These findings suggest that elevated FGF23 levels may serve as a potential biomarker associated with vascular calcification in CKD, although prospective studies are needed to clarify causality and clinical…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42769112/",
-    "tags": [
-      "fibroblast-growth-factors",
-      "renal-insufficiency-chronic",
-      "coronary-artery-disease",
-      "vascular-calcification"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42738915",
-    "title": "Urine-Derived Cells in Kidney Transplantation: Linking Cellular Phenotypes, Secretome Signatures and Multi-Omic Technologies",
-    "subtitle": "Cells · 2026",
-    "summary": "Also, recent advances in transcriptomics, proteomics, metabolomics, and single-cell technologies have expanded the diagnostic and mechanistic value of urinary liquid biopsy, enabling the identification of disease-specific molecular signatures associated with rejection, delayed graft function, fibrosis, and graft loss.…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42738915/",
-    "tags": [
-      "kidney-transplantation",
-      "secretome",
-      "urine"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42708120",
-    "title": "Cryptic and Overt Acute Kidney Injury Share Biomarker Characteristics in Pediatric Acute Respiratory Distress Syndrome",
-    "subtitle": "Critical care explorations · 2026",
-    "summary": "Cryptic AKI is clinically significant and represents true kidney injury, with a biomarker profile similar to KDIGO AKI and distinct from patients without AKI.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708120/",
-    "tags": [
-      "acute-kidney-injury",
-      "respiratory-distress-syndrome"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42706579",
-    "title": "Severe rise in tacrolimus levels following blood orange and grapefruit juice intake in a kidney transplant recipient: a case report",
-    "subtitle": "Journal of medical case reports · 2026",
-    "summary": "The pronounced increase in tacrolimus exposure following sequential ingestion of blood orange and grapefruit juice suggests a potential synergistic interaction affecting tacrolimus disposition via CYP3A4, CYP3A5 and/or P-glycoprotein pathways. While causality remains unconfirmed, this case emphasizes the value of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706579/",
-    "tags": [
-      "kidney-transplantation",
-      "tacrolimus",
-      "citrus-paradisi",
-      "fruit-and-vegetable-juices"
-    ],
-    "date": "2026-09-07T00:00:00.000Z",
     "pinned": false
   }
 ]

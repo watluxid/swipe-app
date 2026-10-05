@@ -59,6 +59,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42830578",
+    "title": "Baseline characteristics and practice patterns in geriatric vs. non-geriatric hemodialysis patients: initial results from a Thai nationwide multicenter prospective cohort (Thai-HDcohort)",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In this cross-sectional study, geriatric hemodialysis patients showed distinct variations in prescriptions and vascular access. Longitudinal follow- up is essential to determine whether these conservative, individualized strategies improve clinical and survival outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830578/",
+    "tags": [
+      "renal-dialysis",
+      "kidney-failure-chronic",
+      "practice-patterns-physicians"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42823121",
     "title": "Development and validation of a nomogram for peritoneal dialysis-associated peritonitis",
     "subtitle": "Renal failure · 2026",
@@ -1455,6 +1469,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42830549",
+    "title": "When Infection Mimics Vasculitis: Hydralazine-Induced ANCA-Associated Crescentic Glomerulonephritis in the Setting of Active Infective Endocarditis",
+    "subtitle": "The American journal of case reports · 2026",
+    "summary": "Renal biopsy demonstrated pauci-immune crescentic glomerulonephritis consistent with ANCA-associated vasculitis. In patients with infective endocarditis who develop persistent renal dysfunction despite appropriate antimicrobial therapy, particularly in the setting of ANCA positivity and chronic hydralazine use, renal…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830549/",
+    "tags": [
+      "glomerulonephritis",
+      "hydralazine",
+      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
+      "endocarditis-bacterial"
+    ],
+    "date": "2026-10-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42828689",
     "title": "Optimization of the organization of a hemodialysis center",
     "subtitle": "Health care management science · 2026",
@@ -1523,6 +1552,51 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42830543",
+    "title": "Disseminated Bartonella or Post-Transplant Lymphoproliferative Disease in Pediatric Transplant Patients: A Diagnostic Challenge",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Bartonella and PTLD are diagnoses that need to be carefully considered and treated in vulnerable populations. Pediatric patients should be managed cautiously with both etiologies under consideration, and more research is needed for specific recommendations regarding differentiating and treating the two simultaneously…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830543/",
+    "tags": [
+      "lymphoproliferative-disorders",
+      "bartonella-infections",
+      "postoperative-complications",
+      "kidney-transplantation"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42830539",
+    "title": "Intraprocedural Hemodynamics During Concomitant Rheocarna Therapy and Maintenance Hemodialysis: Effects of Dialyzer Membrane Type and Circuit Sequence",
+    "subtitle": "Journal of clinical apheresis · 2026",
+    "summary": "Each patient underwent four treatment sessions representing the four configurations defined by two dialyzer membranes (polysulfone [PS] and AN69) and two circuit sequences (Rheocarna → dialyzer vs. dialyzer → Rheocarna). The other three configurations were associated with larger early decreases in systolic blood…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830539/",
+    "tags": [
+      "renal-dialysis",
+      "hemodynamics",
+      "membranes-artificial",
+      "blood-component-removal"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42829947",
+    "title": "Improved Predictive Capacity of SARS-CoV-2 Seroconversion Using a Model Based on Torque Teno Virus Viral Load",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Pre-vaccination TTV viral load alone is insufficient to predict seroconversion to SARS-CoV-2 vaccination in KTPs. The expanded model improved this predictive capacity when combined with clinical and vaccine related variables reflecting the multifactorial nature of immune competence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829947/",
+    "tags": [
+      "torque-teno-virus",
+      "viral-load",
+      "sars-cov-2",
+      "covid-19"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4230,80 +4304,6 @@
       "complement-system-proteins"
     ],
     "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42780108",
-    "title": "Reciprocal mediation of immuno-inflammation and insulin resistance in the risk of chronic kidney disease among patients with coronary artery disease: insights from neutrophil-to-lymphocyte ratio and triglyceride-glucose index",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "The NLR and TyG index may serve as potential inflammation-metabolism markers for predicting potential CKD in CAD patients. The reciprocal mediation of NLR and TyG index across CKD risk strata suggests that immuno-inflammation and insulin resistance are overlapping correlates of higher CKD likelihood, rather than fully…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780108/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "insulin-resistance",
-      "neutrophils",
-      "coronary-artery-disease"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42723031",
-    "title": "Extracorporeal carbon dioxide removal integrated into continuous renal replacement therapy in pediatric patients with ARDS: a retrospective single-center case series",
-    "subtitle": "BMC pediatrics · 2026",
-    "summary": "Integration of ECCO₂R into an already indicated CRRT circuit was technically feasible and temporally associated with reductions in PaCO₂ and ventilatory pressures in this cohort. Although these descriptive findings should be regarded as hypothesis-generating rather than evidence of treatment efficacy or device safety,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42723031/",
-    "tags": [
-      "continuous-renal-replacement-therapy",
-      "carbon-dioxide",
-      "respiratory-distress-syndrome",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42716681",
-    "title": "Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis",
-    "subtitle": "BMJ open · 2026",
-    "summary": "IDE may improve cardiovascular function, arterial stiffness and cardiorespiratory fitness in patients receiving MHD. Effects on LVMI and SBP remain uncertain.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42716681/",
-    "tags": [
-      "renal-dialysis",
-      "exercise-therapy",
-      "kidney-failure-chronic",
-      "exercise"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42714768",
-    "title": "Effects of nandrolone decanoate on lean body mass and anemia in adults with chronic kidney disease: a systematic review and meta-analysis",
-    "subtitle": "Endocrine · 2026",
-    "summary": "Nandrolone decanoate was associated with increased lean body mass in adults with CKD. However, the evidence base is largely historical, and substantial heterogeneity and very low certainty of evidence preclude firm conclusions regarding hematologic benefits.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42714768/",
-    "tags": [
-      "nandrolone-decanoate",
-      "renal-insufficiency-chronic",
-      "anemia",
-      "body-composition"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42794419",
-    "title": "MORG1 Haploinsufficiency Is Associated with Stage- and Sex-Dependent Renoprotection and Signalling Alterations in Diabetic Kidney Disease",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Renal fibrosis, albuminuria, HIF-1α expression, mTORC1 and ERK1/2 activity, and renal cortical gene expression were assessed.haploinsufficiency was associated with reduced renal fibrosis and albuminuria during early diabetes, whereas these protective effects were less evident in later-stage diabetic animals. These…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42794419/",
-    "tags": [
-      "diabetic-nephropathies",
-      "haploinsufficiency",
-      "diabetes-mellitus-type-2"
-    ],
-    "date": "2026-09-08T00:00:00.000Z",
     "pinned": false
   }
 ]

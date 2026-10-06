@@ -59,6 +59,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42834715",
+    "title": "Integrated bioinformatics analysis uncovers TNFSF10 as a key panoptosis-related gene in diabetic tubular injury",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In this study, we identifiedas a conserved and robust hub PRG for DKD.expression was significantly upregulated in DKD kidneys and inversely correlated with glomerular filtration rate.kidneys exhibited elevated fibrosis and inflammation scores. scRNA/snRNA analysis revealed its predominant expression in injured…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834715/",
+    "tags": [
+      "diabetic-nephropathies",
+      "tnf-related-apoptosis-inducing-ligand",
+      "kidney-tubules-proximal"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42830578",
     "title": "Baseline characteristics and practice patterns in geriatric vs. non-geriatric hemodialysis patients: initial results from a Thai nationwide multicenter prospective cohort (Thai-HDcohort)",
     "subtitle": "Renal failure · 2026",
@@ -1469,6 +1483,61 @@
     "pinned": false
   },
   {
+    "id": "pmid-42833721",
+    "title": "Latent profile analysis of health-related quality of life among patients with chronic kidney disease in Bangladesh: a cross-sectional study",
+    "subtitle": "BMJ open · 2026",
+    "summary": "This study identified three distinct HRQoL profiles among patients with CKD, with income, education, marital status and comorbidity significantly influencing class membership. Integrating patient education, financial support and routine HRQoL assessment into CKD care may help improve overall well-being, particularly…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42833721/",
+    "tags": [
+      "quality-of-life",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42832492",
+    "title": "Multidisciplinary providers' perspectives on timely predialysis arteriovenous access preparation: An exploratory mixed-methods study in upper Northern Thailand",
+    "subtitle": "PloS one · 2026",
+    "summary": "Providers in this regional study identified shared priorities for improving timely predialysis AV access preparation, while differing in the meanings and considerations they associated with those priorities. These context-specific, hypothesis-generating findings may inform locally adapted service improvement and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832492/",
+    "tags": [
+      "renal-dialysis",
+      "arteriovenous-shunt-surgical"
+    ],
+    "date": "2026-10-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42832476",
+    "title": "Impact of GST and TP53 gene polymorphisms on susceptibility to end stage renal disease: A case-control analysis",
+    "subtitle": "PloS one · 2026",
+    "summary": "Genetic variations in the studied GSTs, along with rs1695 in GSTP1 and rs1042522 in the TP53 gene, may influence the progression of ESRD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832476/",
+    "tags": [
+      "glutathione-transferase",
+      "kidney-failure-chronic",
+      "genetic-predisposition-to-disease",
+      "polymorphism-single-nucleotide"
+    ],
+    "date": "2026-10-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42832069",
+    "title": "Nephrotic range proteinuria and rapid progression to end-stage kidney disease in seronegative pauci-immune necrotizing glomerulonephritis masked by cutaneous lesions: a case-based review",
+    "subtitle": "Rheumatology international · 2026",
+    "summary": "Renal biopsy results demonstrated cellular crescents, focal segmental tubular necrosis, intense mononuclear inflammatory infiltrates, and segmental proliferation of Bowman's capsule epithelial cells. This report underscores the diagnostic challenge of ANCA-negative PING, given its absent serologic markers and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832069/",
+    "tags": [
+      "glomerulonephritis",
+      "proteinuria",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-05T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42830549",
     "title": "When Infection Mimics Vasculitis: Hydralazine-Induced ANCA-Associated Crescentic Glomerulonephritis in the Setting of Active Infective Endocarditis",
     "subtitle": "The American journal of case reports · 2026",
@@ -1552,6 +1621,34 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42834343",
+    "title": "Safety and Efficacy of Selective Plasma Exchange Versus Conventional Plasma Exchange in Pretransplant Desensitization of ABO-Incompatible Kidney Transplantation",
+    "subtitle": "Journal of clinical apheresis · 2026",
+    "summary": "Selective plasma exchange (SePE) may reduce adverse events associated with fresh frozen plasma (FFP) use during pretransplant desensitization for ABO-incompatible kidney transplantation. In this cohort, SePE was associated with fewer procedure-related adverse events than CPE with FFP while achieving the preoperative…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834343/",
+    "tags": [
+      "plasma-exchange",
+      "kidney-transplantation",
+      "abo-blood-group-system",
+      "blood-group-incompatibility"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42832700",
+    "title": "Recommendations of the Brazilian Society of Nephrology for the management of chronic kidney disease in primary health care",
+    "subtitle": "Jornal brasileiro de nefrologia · 2026",
+    "summary": "CKD is considered one of the diseases with the greatest potential for the application of preventive measures, as it has common risk factors, low-cost and widely available diagnostic tests, a known natural history, feasible treatment, and proven cost-effectiveness of interventions. Although Brazilian and international…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832700/",
+    "tags": [
+      "primary-health-care",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4202,106 +4299,6 @@
     "tags": [
       "sarcopenia",
       "renal-dialysis"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42786482",
-    "title": "Development and preliminary psychometric evaluation of an oral health questionnaire for chronic kidney disease (CKD-OHQ)",
-    "subtitle": "BMC oral health · 2026",
-    "summary": "The questionnaire offers a preliminary structured approach to assessing nephrology healthcare professionals' knowledge, attitudes, and self-reported practices regarding oral health management in patients with chronic kidney disease. The findings provide initial evidence of its measurement properties while indicating…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42786482/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "oral-health",
-      "health-knowledge-attitudes-practice"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42784313",
-    "title": "From Venom to Kidney Injury: A Critical Review of Daboia siamensis Envenoming",
-    "subtitle": "Toxins · 2026",
-    "summary": "This review addressed four questions: the human renal evidence specific to; venom and host pathways contributing to AKI; conclusions supported for antivenom timing and thrombotic microangiopathy (TMA); and quantifiable long-term kidney risk. Proteomic and experimental studies support interacting coagulopathic,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42784313/",
-    "tags": [
-      "acute-kidney-injury",
-      "snake-bites",
-      "viper-venoms",
-      "daboia"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42781435",
-    "title": "Locus-specific HLA matching and induction therapy in simultaneous pancreas-kidney transplantation: a national UK cohort study",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "In adjusted analyses, donor age, cold ischaemic time, and HLA-DQ mismatch were significantly associated with pancreas graft loss. Induction therapy and HLA-mismatch status were not associated with pancreas graft outcome in this large registry study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42781435/",
-    "tags": [
-      "pancreas-transplantation",
-      "kidney-transplantation",
-      "hla-antigens"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42780582",
-    "title": "Association and predictive value of the visceral adiposity index in diabetic kidney disease: a systematic review and meta-analysis",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "An increased VAI is associated with an elevated DKD risk and serves as an independent predictor. However, its predictive accuracy remains moderate.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780582/",
-    "tags": [
-      "diabetic-nephropathies",
-      "obesity-abdominal",
-      "intra-abdominal-fat",
-      "adiposity"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42780488",
-    "title": "Prevalence, risk factors, and clinical impact of restless leg syndrome on uremia patients with hemodialysis",
-    "subtitle": "Frontiers in neurology · 2026",
-    "summary": "The incidence of RLS is notably elevated in uremia patients on maintenance hemodialysis. RLS significantly impairs both sleep quality and the physiological function of these patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780488/",
-    "tags": [
-      "restless-legs-syndrome",
-      "renal-dialysis",
-      "uremia"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42780421",
-    "title": "Podocyte Vps34 deficiency drives early-onset glomerulopathy and mesangial IgA-dominant immune-complex deposition: a novel mouse model linking vesicular trafficking to glomerular immune dysregulation",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Podocyte-specific Vps34 deficiency leads to progressive podocyte injury accompanied by IgA-dominant immune-complex deposition and immune-related changes in the kidney. These findings reveal an association between podocyte dysfunction and glomerular immune abnormalities and suggest a potential role of vesicular…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780421/",
-    "tags": [
-      "podocytes",
-      "class-iii-phosphatidylinositol-3-kinases",
-      "immunoglobulin-a",
-      "antigen-antibody-complex"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42780117",
-    "title": "Multi-omics analyses demonstrate complement dysregulation is involved in focal segmental glomerulosclerosis",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This study systematically demonstrates concurrent dysregulation of the classical and alternative complement pathways in FSGS. The deposition of specific complement components in renal tissue strongly correlates with disease activity, treatment resistance, and poor prognosis, suggesting their potential as pathological…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780117/",
-    "tags": [
-      "glomerulosclerosis-focal-segmental",
-      "complement-system-proteins"
     ],
     "date": "2026-09-09T00:00:00.000Z",
     "pinned": false

@@ -59,6 +59,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42838512",
+    "title": "Artificial intelligence-powered renal pathology for glomerular disease classification: a systematic review and meta-analysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Pathology-based AI shows strong potential for GD classification, but current head-to-head evidence is insufficient to establish superiority over pathologists, particularly senior pathologists. Prospective multicenter studies integrating multimodal clinical data and standardized external validation are needed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42838512/",
+    "tags": [
+      "artificial-intelligence",
+      "glomerulonephritis",
+      "kidney-glomerulus",
+      "kidney-diseases"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42838123",
+    "title": "Efficacy and safety of roxadustat for the treatment of renal anemia in patients undergoing peritoneal dialysis: a systematic review and meta-analysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "We systematically searched PubMed, Embase, the Cochrane Library, Web of Science, CNKI, Wanfang, VIP, and SinoMed from inception to December 2025 for randomized controlled studies comparing roxadustat-based regimens with ESA-based regimens in adults receiving PD. Available evidence is insufficient to determine the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42838123/",
+    "tags": [
+      "glycine",
+      "anemia",
+      "isoquinolines",
+      "peritoneal-dialysis"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42834715",
     "title": "Integrated bioinformatics analysis uncovers TNFSF10 as a key panoptosis-related gene in diabetic tubular injury",
     "subtitle": "Renal failure · 2026",
@@ -1483,6 +1513,31 @@
     "pinned": false
   },
   {
+    "id": "pmid-42838586",
+    "title": "Prevalence, risk factors and renoprotective treatment of chronic kidney disease among internal medicine outpatients at a Central European tertiary care centre: a cross-sectional study",
+    "subtitle": "BMJ open · 2026",
+    "summary": "CKD is highly prevalent in tertiary care outpatients and efficiently detected through targeted screening. Suboptimal use of renoprotective therapies highlights a major treatment gap.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42838586/",
+    "tags": [
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42838580",
+    "title": "Prevalence and associated factors of chronic kidney disease among hypertensive patients attending cardiac clinic at a tertiary hospital in Tanzania: a hospital-based cross-sectional study",
+    "subtitle": "BMJ open · 2026",
+    "summary": "Study-defined CKD was identified in about one-fifth of this tertiary-clinic hypertensive sample, and diabetes was the only independent factor identified. The estimate should be interpreted cautiously because the study was single-centre and full Kidney Disease: Improving Global Outcomes confirmation using chronicity…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42838580/",
+    "tags": [
+      "hypertension",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42833721",
     "title": "Latent profile analysis of health-related quality of life among patients with chronic kidney disease in Bangladesh: a cross-sectional study",
     "subtitle": "BMJ open · 2026",
@@ -1621,6 +1676,91 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42839558",
+    "title": "Thrombomodulin Shapes Thrombo-Inflammatory Interactions in Lupus Nephritis",
+    "subtitle": "Scandinavian journal of immunology · 2026",
+    "summary": "Lupus nephritis (LN) confers a disproportionate thrombotic risk in systemic lupus erythematosus (SLE) that is not fully explained by conventional cardiovascular risk factors. Thrombomodulin levels were higher in SLE-LN than in SLE-NonLN and remained associated with LN after multiple testing correction and adjustment…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839558/",
+    "tags": [
+      "thrombomodulin",
+      "lupus-nephritis",
+      "thrombosis"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42839226",
+    "title": "Surgical and Clinical Outcomes of Kidney Transplantation in Obese Recipients: A Single-Center Retrospective Study from Switzerland",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Recipient obesity was associated with an increased risk of surgical complications and DGF, resulting in longer hospital stays. However, it did not adversely affect long-term patient or graft survival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839226/",
+    "tags": [
+      "kidney-transplantation",
+      "obesity",
+      "postoperative-complications",
+      "graft-rejection"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42837114",
+    "title": "Recommendations of the Brazilian Society of Nephrology for hemodiafiltration in maintenance dialysis therapy",
+    "subtitle": "Jornal brasileiro de nefrologia · 2026",
+    "summary": "Recent evidence, including meta-analyses and the CONVINCE trial, suggests that high-volume HDF is associated with improved clinical outcomes, particularly when adequate convective volumes are achieved. The document addresses patient selection, minimum prescription parameters, operational targets, technical and safety…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837114/",
+    "tags": [
+      "hemodiafiltration",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42836666",
+    "title": "Early Post-Transplant Lactate Dehydrogenase Stratifies the Severity of Delayed Graft Function After Deceased-Donor Kidney Transplantation",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "Early post-transplant LDH was associated with the severity of early graft dysfunction, with a nonlinear increase in DGF risk concentrated at higher LDH values. Because LDH is routinely available in the first post-operative days but has only modest stand-alone discrimination, it may be most useful as one component of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836666/",
+    "tags": [
+      "kidney-transplantation",
+      "delayed-graft-function",
+      "l-lactate-dehydrogenase"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42836189",
+    "title": "Relationship Between Fall Risk and Risk of Acute Kidney Injury in Patients with Acute Myocardial Infarction: A Multicenter Retrospective Study",
+    "subtitle": "Clinical interventions in aging · 2026",
+    "summary": "The H-FRA is independently associated with AKI in patients with AMI. The H-FRA may serve as a useful and simple bedside tool for identifying AMI patients at increased risk of AKI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836189/",
+    "tags": [
+      "acute-kidney-injury",
+      "myocardial-infarction",
+      "accidental-falls"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42836158",
+    "title": "Switching to Pegmolesatide in Maintenance Dialysis: Real-World Hemoglobin Response, Temporal Dynamics, and Modality-Specific Predictors",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "Monthly pegmolesatide was associated with rapid and sustained Hb improvement and acceptable safety. Baseline Hb and dialysis vintage were the dominant response predictors, with distinct modality-specific profiles, supporting evaluation of individualized dosing strategies in randomized trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836158/",
+    "tags": [
+      "hemoglobins",
+      "renal-dialysis",
+      "anemia",
+      "hematinics"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2719,6 +2859,36 @@
       "leukemia-inhibitory-factor"
     ],
     "date": "2026-09-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42835482",
+    "title": "Evolution and interrelation of physical frailty and mild cognitive impairment up to two years after kidney transplantation: a multi-center prospective cohort study",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Better cognitive function at earlier time points predicted lower subsequent frailty, whereas frailty did not significantly predict later cognitive function. These findings suggest that cognitive assessment may help identify patients at risk of persistent frailty and support the routine assessment of both physical…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835482/",
+    "tags": [
+      "kidney-transplantation",
+      "frailty",
+      "cognitive-dysfunction",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-09-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42835058",
+    "title": "Early eGFR fluctuation and 180-day outcome after thrombectomy for large-artery atherosclerotic stroke",
+    "subtitle": "Frontiers in neurology · 2026",
+    "summary": "Greater early eGFR fluctuation was associated with poor 180-day functional outcome after thrombectomy in patients with large-artery atherosclerotic stroke. Early eGFR fluctuation may represent an exploratory prognostic marker that requires prospective external validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835058/",
+    "tags": [
+      "thrombectomy",
+      "glomerular-filtration-rate",
+      "ischemic-stroke",
+      "intracranial-arteriosclerosis"
+    ],
+    "date": "2026-09-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4132,175 +4302,6 @@
       "diabetic-nephropathies"
     ],
     "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42726780",
-    "title": "Early recognition of sepsis-associated acute kidney injury based on BioBERT-BPNN multimodal clinical data analysis",
-    "subtitle": "PloS one · 2026",
-    "summary": "The proposed BioBERT-BPNN multimodal model effectively integrates textual and numerical information and improves the performance of early SA-AKI recognition. Leveraging dual-center multi-source heterogeneous clinical data enhances its applicability in real-world clinical settings.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726780/",
-    "tags": [
-      "sepsis",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42726771",
-    "title": "A dual role of AcSDKP in chronic kidney disease: Targeting pericyte-driven fibrosis and vascular repair via VEGF/FGFR1 while eliciting a compensatory FGFR1 upregulation in apoptotic tubular cells",
-    "subtitle": "PloS one · 2026",
-    "summary": "AcSDKP exerts a compartment-specific dual role in CKD. It is a potent vascular protector that halts PMT and promotes VEGF-driven endothelial repair, but acts as a pro-apoptotic stressor in severely damaged tubules.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726771/",
-    "tags": [
-      "pericytes",
-      "vascular-endothelial-growth-factor-a",
-      "receptor-fibroblast-growth-factor-type-1",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42726742",
-    "title": "Vitamin D alleviates indoxyl sulfate-induced inflammatory and cholesterol dysregulation in macrophages: Implications for vascular health in patients receiving hemodialysis",
-    "subtitle": "PloS one · 2026",
-    "summary": "Furthermore, 1,25(OH)2D3 pretreatment preserved cholesterol efflux capacity and modulated ABCA1 and ABCG1 expression in a time- and transporter-dependent manner, accompanied by reduced intracellular lipid accumulation as shown by Oil red O staining. These findings suggest that 1,25(OH)2D3 may protect macrophages…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726742/",
-    "tags": [
-      "macrophages",
-      "cholesterol",
-      "indican",
-      "inflammation"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42726307",
-    "title": "Chronic kidney disease and cognitive decline: choroid plexus remodeling, glymphatic dysfunction, and alzheimer biomarker interpretation",
-    "subtitle": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology · 2026",
-    "summary": "CKD should be regarded as an active modifier of cognitive phenotype, neuroimaging interpretation, and plasma biomarker assessment. The proposed framework is testable rather than causal and supports reporting kidney function, dialysis context, and multimodal markers when evaluating cognitive decline.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726307/",
-    "tags": [
-      "choroid-plexus",
-      "glymphatic-system",
-      "renal-insufficiency-chronic",
-      "cognitive-dysfunction"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42726135",
-    "title": "Effects of intradialytic nutrition on dialysis adequacy and fatigue in hemodialysis patients: a randomized crossover study",
-    "subtitle": "Revista da Escola de Enfermagem da U S P · 2026",
-    "summary": "Intradialytic nutrition did not compromise dialysis adequacy or worsen fatigue severity but was associated with increased intradialytic blood pressure reductions. Individualized clinical decisions and careful hemodynamic monitoring are warranted when implementing intradialytic nutritional interventions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726135/",
-    "tags": [
-      "renal-dialysis",
-      "fatigue"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42796352",
-    "title": "Intragraft FOXP3+ Cells and Continuous Banff Indices in T Cell-Mediated Kidney Allograft Rejection",
-    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
-    "summary": "FOXP3+ cell density was univariately associated with higher CI values (= 0.228,= 0.013) and chronic lesions interstitial fibrosis () (= 0.284,= 0.002) and tubular atrophy () (= 0.246,= 0.008). No association with short-term graft outcome was observed.: FOXP3+ cell infiltration was associated with chronic histological…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42796352/",
-    "tags": [
-      "forkhead-transcription-factors",
-      "kidney-transplantation",
-      "graft-rejection"
-    ],
-    "date": "2026-09-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42794474",
-    "title": "Association of Serum 1,25-Dihydroxyvitamin D Levels with Erythropoietin Resistance Index-Based Relative Erythropoiesis-Stimulating Agent Hyporesponsiveness in Pre-Dialysis Chronic Kidney Disease",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "In multivariable analyses, lower serum 1,25(OH)D levels were independently associated with relative ESA hyporesponsiveness and higher log-transformed ERI. Lower serum 1,25(OH)D levels were independently associated with ERI-based relative ESA hyporesponsiveness in pre-dialysis CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42794474/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "vitamin-d",
-      "erythropoietin",
-      "hematinics"
-    ],
-    "date": "2026-09-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42787250",
-    "title": "Comparison of efficacy and safety of systemic glucocorticoids and Nefecon in IgA nephropathy patients: a real-world retrospective cohort study",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Our study demonstrated that Nefecon had greater efficacy than sGCs at 12 months and a more favorable safety profile in patients with IgAN, although confirmation in larger prospective studies with longer follow-up is warranted.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42787250/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "glucocorticoids"
-    ],
-    "date": "2026-09-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42782740",
-    "title": "Circulating Soluble Thrombomodulin Is Elevated in Early-Stage CKD and Is Associated with Renal Dysfunction: A Transcriptomic and Retrospective Cohort Study",
-    "subtitle": "Cells · 2026",
-    "summary": "ROC analysis showed that sTM discriminated CKD from non-CKD (AUC = 0.971) and early-stage CKD from non-CKD (AUC = 0.854), outperforming eGFR (AUC 0.920 and 0.565, respectively) and performing comparably to UACR. Collectively, these findings support sTM as a candidate biomarker associated with CKD severity whose…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42782740/",
-    "tags": [
-      "thrombomodulin",
-      "renal-insufficiency-chronic",
-      "transcriptome",
-      "kidney"
-    ],
-    "date": "2026-09-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42741700",
-    "title": "Individualized Dynamic Assessment of Mean Arterial Pressure in Hospitalized Older Patients with Acute Kidney Injury: A Retrospective Cohort Study",
-    "subtitle": "Clinical interventions in aging · 2026",
-    "summary": "This study suggests that a dynamic, individualized MAP assessment might refine risk stratification beyond static thresholds in hospitalized older adults with AKI. Internal evaluation of the integrated dynamic phenotype showed improved predictive performance for adverse outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42741700/",
-    "tags": [
-      "acute-kidney-injury",
-      "arterial-pressure"
-    ],
-    "date": "2026-09-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42721212",
-    "title": "Renaclic for Chronic Kidney Disease Self-Management: Formative User-Centered Co-Design Study",
-    "subtitle": "JMIR formative research · 2026",
-    "summary": "This formative study demonstrates how participatory UCD with diverse CKD stakeholders can generate a structured, context-sensitive digital platform framework. Renaclic provides a replicable model for early-stage co-design of digital health interventions in chronic disease management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42721212/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "self-management",
-      "user-centered-design",
-      "patient-education-as-topic"
-    ],
-    "date": "2026-09-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42796341",
-    "title": "Sarcopenia and 24-Month All-Cause Mortality in Patients Receiving Maintenance Hemodialysis: A Prospective Observational Cohort Study Applying the Revised European Working Group on Sarcopenia in Older People Criteria",
-    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
-    "summary": "Older age, lower serum albumin and phosphorus concentrations, lower Kt/V, and longer time on maintenance hemodialysis were independently associated with sarcopenia. There was no evidence of a sarcopenia-by-sex interaction in the adjusted RMST analysis (= 0.964).: Confirmed sarcopenia was present in approximately one…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42796341/",
-    "tags": [
-      "sarcopenia",
-      "renal-dialysis"
-    ],
-    "date": "2026-09-09T00:00:00.000Z",
     "pinned": false
   }
 ]

@@ -59,6 +59,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42844270",
+    "title": "Association of environmental xylene exposure with diabetic kidney disease: a cross-sectional analysis and multi-omics evaluation of immune microenvironment mechanisms",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Environmental xylene exposure is independently associated with higher DKD odds. These findings generate the hypothesis that xylene may interact with specific macrophage receptors (ITGAM, CSF1R, CTSS), potentially promoting M2-like macrophage polarization and fibrotic remodeling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844270/",
+    "tags": [
+      "xylenes",
+      "diabetic-nephropathies",
+      "environmental-exposure"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42844235",
+    "title": "Clinical and pathological factors associated with eGFR slope in IgA nephropathy: a single-center retrospective cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "The median eGFR slope was -1.12 mL/min/1.73 m/year, and 35 patients (19.4%) met the operational rapid-progression threshold of < -5 mL/min/1.73 m/year. T2 lesions were linked to faster decline as well, but this estimate derived from only 16 patients (8.9%) and lost statistical significance when analysis was restricted…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844235/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "glomerular-filtration-rate",
+      "kidney"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42838512",
     "title": "Artificial intelligence-powered renal pathology for glomerular disease classification: a systematic review and meta-analysis",
     "subtitle": "Renal failure · 2026",
@@ -1513,6 +1541,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42842032",
+    "title": "Mitochondrial dysfunction of renal tubular epithelial cells in chronic kidney disease-associated fibrosis: from organelle homeostasis to multicellular remodeling",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "Persistent mitochondrial injury can suppress fatty acid oxidation and oxidative phosphorylation, deplete nicotinamide adenine dinucleotide, increase mitochondrial reactive oxygen species, destabilize mitochondrial DNA, and disrupt biogenesis, dynamics, mitochondria-associated membrane signaling, and mitophagy.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842032/",
+    "tags": [
+      "mitochondria",
+      "epithelial-cells",
+      "renal-insufficiency-chronic",
+      "kidney-tubules"
+    ],
+    "date": "2026-10-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42844600",
+    "title": "Acute kidney injury at a tertiary nephrology referral center: predictors of renal recovery and in-hospital mortality",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "AKI was common among hospitalized patients and was associated with substantially increased in-hospital mortality. Vasopressor requirement was the strongest independent predictor of mortality, emphasizing the prognostic impact of hemodynamic instability and critical illness severity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844600/",
+    "tags": [
+      "acute-kidney-injury",
+      "hospital-mortality",
+      "recovery-of-function"
+    ],
+    "date": "2026-10-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42838586",
     "title": "Prevalence, risk factors and renoprotective treatment of chronic kidney disease among internal medicine outpatients at a Central European tertiary care centre: a cross-sectional study",
     "subtitle": "BMJ open · 2026",
@@ -1676,6 +1733,109 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42844908",
+    "title": "Application value of the albumin-to-globulin ratio in patients with wasp stings: A retrospective cohort study",
+    "subtitle": "The Journal of international medical research · 2026",
+    "summary": "Receiver operating characteristic curve analysis was used to evaluate the predictive performance of admission albumin-to-globulin ratio and its coefficient of variation.ResultsAdmission albumin-to-globulin ratio was significantly lower in the severe group (p < 0.05) and negatively correlated with white blood cell…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844908/",
+    "tags": [
+      "insect-bites-and-stings",
+      "acute-kidney-injury",
+      "multiple-organ-failure",
+      "wasps"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42844787",
+    "title": "Associations between eating practices during hemodialysis and nutritional status, dialysis adequacy, intradialytic hypotension, and mental health: A cross-sectional study in Palestine",
+    "subtitle": "The Journal of international medical research · 2026",
+    "summary": "Based on the self-reported data, eating during dialysis was not associated with nutritional status or mental health status. Similarly, observational data revealed no association between eating during dialysis and presence of symptoms, decrease in blood pressure, and adequacy of dialysis.ConclusionsBased on…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844787/",
+    "tags": [
+      "renal-dialysis",
+      "nutritional-status",
+      "mental-health",
+      "hypotension"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42842468",
+    "title": "A territory-wide study on adults hospitalized for rhinovirus infection - mortality, severe adverse respiratory and renal outcomes and relationships with multiple comorbidities",
+    "subtitle": "Journal of medical microbiology · 2026",
+    "summary": "Multiple morbidities in adult patients are associated with severe infections among patients hospitalized for rhinovirus infections.To compare the risks of serious in-hospital outcomes among adults hospitalized for rhinovirus or influenza virus infection and assess the association between multiple morbidities as…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842468/",
+    "tags": [
+      "picornaviridae-infections",
+      "acute-kidney-injury",
+      "respiratory-insufficiency"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42842323",
+    "title": "Programmed cell death protein 1 (PD-1) regulates metabolic activity of regulatory T cells in ischemia-induced acute kidney injury",
+    "subtitle": "Journal of immunology (Baltimore, Md. : 1950) · 2026",
+    "summary": "Loss of PD-1 expression or antibody-mediated blockade of PD-1 attenuated OXPHOS and expression of genes related to mitochondrial metabolism in Tregs. Our findings reveal the metabolic vulnerability of PD-1-deficient Tregs and underscore the importance of PD-1 in Treg-mediated protection against AKI with implications…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842323/",
+    "tags": [
+      "t-lymphocytes-regulatory",
+      "acute-kidney-injury",
+      "programmed-cell-death-1-receptor",
+      "reperfusion-injury"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42841896",
+    "title": "Management of renal failure in earthquake-related crush syndrome: Multicenter intensive care outcomes",
+    "subtitle": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES · 2026",
+    "summary": "This study demonstrates the high incidence of AKI in earthquake-related CS, underscores the need for improved disaster preparedness with adequate dialysis capacity and early risk stratification using serum myoglobin and creatinine levels for optimal management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42841896/",
+    "tags": [
+      "crush-syndrome",
+      "earthquakes",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42841886",
+    "title": "Clinical predictors of mortality in earthquake victims with crush-related acute kidney injury requiring hemodialysis",
+    "subtitle": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES · 2026",
+    "summary": "Mortality among earthquake victims with crush-related renal injury depends primarily on overall disease severity rather than renal function alone. Septic shock, blood chemistry imbalances, and prolonged entrapment were the main determinants of survival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42841886/",
+    "tags": [
+      "earthquakes",
+      "acute-kidney-injury",
+      "renal-dialysis",
+      "crush-injuries"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42841542",
+    "title": "Pre-Transplant CT Body Composition and Graft Outcomes in Pediatric Kidney Transplant Recipients: Revisiting the Adult Paradigm",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "No statistically significant association was detected between pre-transplant body composition parameters and adverse outcomes in this cohort of pediatric kidney transplant recipients. These preliminary findings suggest caution in directly extrapolating adult sarcopenia thresholds to children and highlight the need for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42841542/",
+    "tags": [
+      "kidney-transplantation",
+      "body-composition",
+      "tomography-x-ray-computed",
+      "sarcopenia"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4142,166 +4302,6 @@
       "tissue-donors"
     ],
     "date": "2026-09-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42731886",
-    "title": "Identification and functional characterisation of SCO1 as a mitochondria-related biomarker in lupus nephritis",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "SCO1 showed elevated expression in renal tubules and strong discriminatory ability. It may help preserve tubular cell viability and mitochondrial homeostasis under inflammatory stress, highlighting its potential as a diagnostic biomarker and a candidate for further mechanistic investigation in LN.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42731886/",
-    "tags": [
-      "lupus-nephritis",
-      "mitochondria",
-      "mitochondrial-proteins",
-      "membrane-proteins"
-    ],
-    "date": "2026-09-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42731884",
-    "title": "Efficacy and safety of telitacicept combined with standard of care in patients with proliferative lupus nephritis: a real-world retrospective study",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "This real-world study demonstrates that telitacicept combined with SoC significantly improves renal response rates during the induction phase of proliferative LN while reducing glucocorticoid exposure. Consequently, telitacicept may represent a promising and effective therapeutic option for the management of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42731884/",
-    "tags": [
-      "lupus-nephritis",
-      "glucocorticoids",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-09-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42732007",
-    "title": "Serum hepcidin and erythropoietin in relation to anemia in non-diabetic chronic kidney disease: a cross-sectional study",
-    "subtitle": "Scientific reports · 2026",
-    "summary": "Hepcidin levels remained statistically comparable across the varying stages of CKD and showed a significant negative correlation with hemoglobin (ρ = -0.277, p = 0.012), whereas TSAT demonstrated a modest positive correlation (ρ = 0.188, p = 0.071). Transferrin saturation is independently associated with hemoglobin…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42732007/",
-    "tags": [
-      "hepcidins",
-      "anemia",
-      "erythropoietin",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-12T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42798812",
-    "title": "Association of finerenone with graded proteinuria improvement in type 2 diabetes with chronic kidney disease and proteinuria >1 g/d: a retrospective cohort study",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "In patients with T2DM and proteinuria >1 g/d, finerenone increased the probability of sustained graded proteinuria improvement, shortened the time to improvement, and was not associated with a significantly increased risk of hyperkalemia over 12 months, although the interpretation of safety findings is limited by…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798812/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "proteinuria",
-      "renal-insufficiency-chronic",
-      "naphthyridines"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42798458",
-    "title": "Repurposing a prostate tumor marker: elevated FPSA/TPSA ratio as a novel non-invasive biomarker for declining eGFR in male type 2 diabetes",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "An elevated serum FPSA/TPSA ratio is a robust, non-invasive indicator of declining eGFR in male patients with T2DM and may improve DKD risk stratification and early clinical warning without additional economic burden.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798458/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "glomerular-filtration-rate",
-      "biomarkers-tumor",
-      "prostate-specific-antigen"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42758720",
-    "title": "Coding, modifier, and regulatory effects shape circulating APOL1 levels",
-    "subtitle": "Human molecular genetics · 2026",
-    "summary": "Multiple cis-regulatory variants near APOL1 were independently associated with APOL1 NPX, and are likely to contribute to ancestry-related differences. Together these findings demonstrate that APOL1 genotype is a major determinant of APOL1 NPX, and that G1 and G2 have distinct biological effects.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42758720/",
-    "tags": [
-      "apolipoprotein-l1",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42736794",
-    "title": "Risk of acute kidney injury associated with the albumin-bilirubin score in ICU patients with acute pancreatitis: A cohort study",
-    "subtitle": "Medicine · 2026",
-    "summary": "Multivariable analyses demonstrated a significant linear association between a higher ALBI score and increased risk of AKI. After adjusting for potential confounders, each 1-unit increase in ALBI score was associated with a 109% increase in the risk of AKI (odds ratio [OR] = 2.09; 95% confidence interval…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42736794/",
-    "tags": [
-      "acute-kidney-injury",
-      "pancreatitis",
-      "bilirubin",
-      "serum-albumin"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42736721",
-    "title": "Altered microstructure in end-stage renal disease patients with maintenance hemodialysis: A diffusion kurtosis imaging analysis",
-    "subtitle": "Medicine · 2026",
-    "summary": "Finally, prediction of cognitive function scores associated with end-stage renal disease patients with CI was conducted based on a support vector regression machine. Furthermore, this prediction model shows potential for estimating cognitive scores associated with end-stage renal disease, although further validation…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42736721/",
-    "tags": [
-      "kidney-failure-chronic",
-      "renal-dialysis",
-      "cognitive-dysfunction",
-      "brain"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42730760",
-    "title": "Outcome after renal transplantation utilizing octogenarian donors- retrospective single-center analysis within the Eurotransplant region",
-    "subtitle": "Langenbeck's archives of surgery · 2026",
-    "summary": "Following meticulous donor selection, allocating kidney grafts from donors aged 80 years or older represents a viable strategy to expand the donor pool for ESP patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42730760/",
-    "tags": [
-      "kidney-transplantation",
-      "tissue-donors",
-      "donor-selection"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42728081",
-    "title": "Medical resolution of refractory peritoneal dialysis-associated peritonitis without catheter removal",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Despite appropriate therapy, his effluent leucocyte count, though downward trending, remained >2000/µL on day 5, meeting criteria for refractory peritonitis and prompting recommendation for PD catheter removal. Unexpectedly, his peritonitis resolved by day 15 without catheter removal.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42728081/",
-    "tags": [
-      "peritonitis",
-      "peritoneal-dialysis",
-      "anti-bacterial-agents",
-      "ceftriaxone"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42726788",
-    "title": "Protein mediators of chronic kidney disease in Type 2 diabetes: A mendelian randomization study",
-    "subtitle": "PLoS medicine · 2026",
-    "summary": "Collectively, these findings suggest that T2D influences the risk of CKD, in part, through increased circulating INHBC levels.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42726788/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "renal-insufficiency-chronic",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-09-11T00:00:00.000Z",
     "pinned": false
   }
 ]

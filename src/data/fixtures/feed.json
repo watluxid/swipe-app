@@ -1571,6 +1571,64 @@
     "pinned": false
   },
   {
+    "id": "pmid-42859346",
+    "title": "Chronic kidney disease as a potential risk factor for pituitary hormone dysregulation: a review of the underlying mechanisms",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "CKD potentially represents a risk factor for several disease conditions, such as cardiovascular disease, mineral bone disorder, and electrolyte imbalance. Notably, CKD dysregulates several anterior pituitary hormones, either by directly influencing hypothalamic-pituitary secretion or by altering downstream hormones,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859346/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "pituitary-hormones"
+    ],
+    "date": "2026-10-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42859148",
+    "title": "Early integration of palliative care in outpatient nephrology: exploring healthcare professionals' knowledge, attitudes, and communication practices - an exploratory multi-methods study",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Early integration of palliative care in outpatient nephrology is valued by HCPs, while confidence in identifying palliative care needs and communicating about end-of-life issues was inconsistent, and palliative care remains predominantly reactive in routine care. The MINI approach may support more systematic and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859148/",
+    "tags": [
+      "palliative-care",
+      "health-knowledge-attitudes-practice",
+      "nephrology",
+      "attitude-of-health-personnel"
+    ],
+    "date": "2026-10-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42858064",
+    "title": "The Surgical Management of Prostate Cancer in Renal Transplant Recipients: The Minimally Invasive Approach",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "When the intraoperatively inserted suprapubic catheter was clamped to enable natural urination, renal parameters temporarily increased. This case supports the feasibility of RARP in renal transplant recipients when meticulous technique is used to protect graft function.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42858064/",
+    "tags": [
+      "kidney-transplantation",
+      "prostatic-neoplasms",
+      "prostatectomy",
+      "robotic-surgical-procedures"
+    ],
+    "date": "2026-10-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42858053",
+    "title": "A Visual Protocol for Selecting, Initiating, and Monitoring Hemodialysis or Peritoneal Dialysis in Adults with Uremic-Stage Chronic Kidney Disease",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "The workflow moves from eligibility screening and clinical urgency classification through balanced modality education, teach-back verification, and shared decision-making to modality-specific access planning, initiation, and early safety monitoring, and concludes with a monthly quality-improvement audit.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42858053/",
+    "tags": [
+      "peritoneal-dialysis",
+      "renal-dialysis",
+      "renal-insufficiency-chronic",
+      "uremia"
+    ],
+    "date": "2026-10-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42854065",
     "title": "Short-term clinical efficacy and recorded adverse events of semaglutide combined with dapagliflozin in patients with type 2 diabetes mellitus and chronic kidney disease",
     "subtitle": "Medicine · 2026",
@@ -1785,6 +1843,21 @@
       "kidney-tubules"
     ],
     "date": "2026-10-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42859795",
+    "title": "Doppler Ultrasound-Derived Blood Flow Parameters Associated with Significant Arteriovenous Fistula Stenosis in a Large Vietnamese Hemodialysis Cohort",
+    "subtitle": "Vascular health and risk management · 2026",
+    "summary": "Lower Doppler ultrasound-derived blood flow values at multiple AVF sites were associated with Doppler-defined significant AVF stenosis and may support comprehensive vascular access assessment. Further prospective studies using independent reference standards and clinically relevant outcomes are needed before these…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859795/",
+    "tags": [
+      "renal-dialysis",
+      "arteriovenous-shunt-surgical",
+      "graft-occlusion-vascular",
+      "ultrasonography-doppler"
+    ],
+    "date": "2026-10-06T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3219,6 +3292,33 @@
     "pinned": false
   },
   {
+    "id": "pmid-42857576",
+    "title": "Time-stratified prognostic factors for poor renal outcomes in childhood-onset lupus nephritis: a systematic review and meta-analysis",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Identified prognostic factors provide a reference for stratified management of cLN. Differences in prognostic associations across studies categorized by follow-up duration and higher cumulative proportions of adverse outcomes in studies with longer follow-up highlight the need for longitudinal, dynamic risk assessment…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857576/",
+    "tags": [
+      "lupus-nephritis",
+      "kidney"
+    ],
+    "date": "2026-09-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42856680",
+    "title": "Anti-PLA2R antibody levels and clinical risk factors for predicting relapse in primary membranous nephropathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "In this exploratory study, anti-PLA2R antibody seropositivity and a blunted increase in serum albumin after 3 months of treatment were identified as potential risk factors for relapse among patients with pMN who achieved remission. Larger-scale studies are warranted for further validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856680/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "receptors-phospholipase-a2",
+      "autoantibodies"
+    ],
+    "date": "2026-09-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42798129",
     "title": "Macrophage pyroptosis in lupus nephritis - Novel insights into renal pathogenesis and clinical correlates: A cross-sectional study",
     "subtitle": "Medicine · 2026",
@@ -3274,6 +3374,21 @@
       "galactosyltransferases"
     ],
     "date": "2026-09-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42857346",
+    "title": "The effects of ursodeoxycholic acid on albuminuria in people with type 1 diabetes and diabetic kidney disease: a proof-of-concept study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "In this first-ever human study investigating the potential renoprotective effect of UDCA treatment for 24 weeks in people with T1D and DKD, we did not observe a significant reduction in UAER. Further studies are required to evaluate the role of UDCA in DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857346/",
+    "tags": [
+      "ursodeoxycholic-acid",
+      "diabetes-mellitus-type-1",
+      "albuminuria",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-09-24T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4201,123 +4316,6 @@
       "glomerulonephritis-iga",
       "undifferentiated-connective-tissue-diseases",
       "alpha-galactosidase"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42824439",
-    "title": "CD4(+) T cell subset imbalance contributes to diabetic kidney disease progression: immunopathological mechanisms and targeted therapeutic strategies",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This narrative review synthesizes evidence from PubMed, Web of Science, and EMBASE (inception to March 2026) to provide a comprehensive overview of the immunopathological roles and molecular regulatory networks of major CD4T cell subsets, including T helper type 1, T helper type 2, T helper type 17 and regulatory T…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42824439/",
-    "tags": [
-      "diabetic-nephropathies",
-      "cd4-positive-t-lymphocytes",
-      "t-lymphocyte-subsets"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42824085",
-    "title": "Case Report: Kidney allograft recovery after conversion to belatacept-based immunosuppression in simultaneous heart-kidney transplantation",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Despite intensive anti-rejection treatment, cardiac histology improved and DSA levels decreased, but renal allograft function did not recover. Thereafter, diuresis progressively resumed and dialysis was discontinued, with progressive improvement in renal function, while DSA became progressively undetectable.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42824085/",
-    "tags": [
-      "abatacept",
-      "kidney-transplantation",
-      "heart-transplantation",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42823990",
-    "title": "Age- and sex-specific associations of underweight and excess adiposity with incident CKD in type 2 diabetes: nationwide Korean cohort study",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "In Korean adults aged ≥40 years with T2DM, underweight consistently predicted higher CKD risk, particularly in middle-aged men, whereas the association of excess adiposity with CKD differed by age and sex. These findings may help explain previously inconsistent associations between obesity and CKD risk.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823990/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "thinness",
-      "renal-insufficiency-chronic",
-      "adiposity"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42760513",
-    "title": "Serum long noncoding RNA human plasmacytoma variant translocation 1 (PVT1) expression levels in Egyptians type 2 diabetic patients and its correlation with severity of diabetic nephropathy",
-    "subtitle": "BMC endocrine disorders · 2026",
-    "summary": "lncRNA PVT1 is significantly overexpressed in T2DM patients and correlates with glycemic status and renal dysfunction. It serves as a potential reliable biomarker for DKD severity and progression and represents a potential therapeutic target.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760513/",
-    "tags": [
-      "rna-long-noncoding",
-      "diabetes-mellitus-type-2",
-      "diabetic-nephropathies",
-      "biomarkers"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42754334",
-    "title": "Selective glomerular hypofiltration syndrome: a novel renal phenotype associated with cardiovascular disease and adverse outcomes in diabetic kidney disease",
-    "subtitle": "BMJ open diabetes research & care · 2026",
-    "summary": "SGHS is independently associated with the prevalence of CVD at the time of DKD diagnosis, and independently predicts adverse renal outcomes in patients with DKD. As an easily obtainable parameter, the eGFRcys/eGFRcr ratio may serve as a valuable risk assessment tool in patients with DKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42754334/",
-    "tags": [
-      "glomerular-filtration-rate",
-      "diabetic-nephropathies",
-      "cardiovascular-diseases"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42754276",
-    "title": "Intensification of blood pressure lowering therapeutics based on diuretics versus usual management for uncontrolled hypertension in patients with moderate to severe chronic kidney disease (THINK): protocol for an open label, two-parallel group, cluster randomised controlled, superiority, phase 3 trial",
-    "subtitle": "BMJ open · 2026",
-    "summary": "The primary endpoint is a composite time-to-event endpoint of (1) kidney failure with replacement therapy (KFRT), (2) estimated glomerular filtration rate decline ≥40%, (3) cardiovascular events (myocardial infarction, heart failure hospitalisation, stroke) and (4) all-cause mortality. Secondary endpoints include each…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42754276/",
-    "tags": [
-      "hypertension",
-      "renal-insufficiency-chronic",
-      "diuretics",
-      "antihypertensive-agents"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42753038",
-    "title": "Polyunsaturated Fatty Acids and Diabetic Kidney Disease: What have We Learned so Far?",
-    "subtitle": "Current nutrition reports · 2026",
-    "summary": "Furthermore, structural alterations such as tubulointerstitial fibrosis, mesangial expansion, capillary and tubular dilatation, podocyte foot process effacement, glomerular basal membrane thickening are reduced by PUFAs although some studies showed neutral effects. More studies are needed to understand robust…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42753038/",
-    "tags": [
-      "diabetic-nephropathies",
-      "dietary-supplements",
-      "fatty-acids-unsaturated"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42753037",
-    "title": "Highly viscous ascites prompting reconsideration of cardiorenal syndrome in a patient with advanced CKD after TAVI",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "Right heart catheterization showed preserved cardiac output, whereas echocardiography suggested right-sided pressure overload and systemic venous congestion. Recurrent deterioration of renal function was temporally associated with the reaccumulation of massive ascites, whereas right-sided venous congestion may have…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42753037/",
-    "tags": [
-      "cardio-renal-syndrome",
-      "ascites",
-      "transcatheter-aortic-valve-replacement",
-      "renal-insufficiency-chronic"
     ],
     "date": "2026-09-17T00:00:00.000Z",
     "pinned": false

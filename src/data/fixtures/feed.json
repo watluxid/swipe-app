@@ -59,6 +59,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42860582",
+    "title": "Construction and validation of an identification model for frailty in maintenance hemodialysis patients using multiple machine learning algorithms: a cross-sectional study of retrospectively collected data",
+    "subtitle": "Annals of medicine · 2026",
+    "summary": "The interpretable XGBoost model effectively identified prevalent frailty in MHD patients, demonstrating strong discrimination, calibration, and clinical applicability, and may support systematic frailty screening and individualized assessment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860582/",
+    "tags": [
+      "renal-dialysis",
+      "frailty",
+      "machine-learning",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42851132",
     "title": "Estimated small dense low-density lipoprotein cholesterol and incident myocardial infarction in patients undergoing dialysis: a nationwide cohort study",
     "subtitle": "Annals of medicine · 2026",
@@ -2113,6 +2128,61 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42860884",
+    "title": "Translational Prediction of Hemodialysis Clearance Integrating Molecular Structure and Dialysis Conditions",
+    "subtitle": "Clinical and translational science · 2026",
+    "summary": "CLdata were compiled from published clinical studies, yielding a dataset comprising 46 compounds; 457 measurements; 7 dialysis membrane types; and dialysis parameters, including blood flow rate (Q) and dialysate flow rate (Q). CLcan be predicted from molecular structure and dialysis parameters using a QSPKR-based…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860884/",
+    "tags": [
+      "renal-dialysis"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42860725",
+    "title": "Comment on \"Effects of Perioperative Management on Short-Term Renal Transplant Outcome\"",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "In a recent retrospective cohort study by Wang et al., the perioperative hemodynamic variables were found to be associated with short-term graft function in pediatric renal transplant recipients, especially mean arterial pressure (MAP) before and after the graft reperfusion. The time spent below a target MAP may not…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860725/",
+    "tags": [
+      "kidney-transplantation",
+      "perioperative-care"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42860662",
+    "title": "\"I Think It's Institutional Racism:\" Pediatric Social Workers' Explanations of Racial Disparities in Kidney Transplant Access for Black Children in the United States",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Findings suggest that transplant evaluation processes may reinforce structural racism. Unlike prior studies emphasizing patient-level explanations, participants identified healthcare systems as key contributors to inequity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860662/",
+    "tags": [
+      "kidney-transplantation",
+      "healthcare-disparities",
+      "black-or-african-american",
+      "social-workers"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42860547",
+    "title": "RIPC Protects Against Renal Ischaemia-Reperfusion Injury by Activating SIRT3/Parkin-Mediated Mitophagy",
+    "subtitle": "Journal of cellular and molecular medicine · 2026",
+    "summary": "We used a murine bilateral renal ischaemia-reperfusion injury (IRI) model, including RIPC pretreatment, 3-methyladenine (3-MA) intervention and SIRT3 knockout intervention, and a HK-2 cell hypoxia/reoxygenation (H/R) model, including SIRT3 siRNA knockdown, SIRT3 overexpression and chloroquine (CQ) intervention. RIPC…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860547/",
+    "tags": [
+      "mitophagy",
+      "sirtuin-3",
+      "reperfusion-injury",
+      "ubiquitin-protein-ligases"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4245,79 +4315,6 @@
       "tissue-donors"
     ],
     "date": "2026-09-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42759973",
-    "title": "From quality indicator to quality measurement: design and implementation of an automated audit and feedback tool for chronic kidney disease in Belgian primary care",
-    "subtitle": "BMJ health & care informatics · 2026",
-    "summary": "This study provides building blocks for implementing automated A&F interventions in Belgian EMR systems to improve primary CKD care quality. These building blocks could be applied internationally after validating the QIs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42759973/",
-    "tags": [
-      "electronic-health-records",
-      "primary-health-care",
-      "renal-insufficiency-chronic",
-      "quality-indicators-health-care"
-    ],
-    "date": "2026-09-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42759972",
-    "title": "Leveraging time-series electronic health records with large language models for chronic kidney disease diagnosis in primary care",
-    "subtitle": "BMJ health & care informatics · 2026",
-    "summary": "LLMs applied to time-series EHR data may serve as a clinical decision support tool to improve CKD diagnosis in primary care, with particular value in resource-limited settings.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42759972/",
-    "tags": [
-      "electronic-health-records",
-      "large-language-models",
-      "primary-health-care",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42757634",
-    "title": "Lower-limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
-    "subtitle": "The Cochrane database of systematic reviews · 2026",
-    "summary": "The evidence is very uncertain about the effects of NMES on life participation and death in adults with kidney failure receiving haemodialysis. Low-certainty evidence suggests NMES may result in little to no difference in blood pressure or resting heart rate.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42757634/",
-    "tags": [
-      "renal-dialysis",
-      "electric-stimulation-therapy",
-      "lower-extremity",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-09-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42754788",
-    "title": "Identification and expression validation of key genes of Xiaozhengtongluo formula in the treatment of diabetic nephropathy by Mendelian randomization",
-    "subtitle": "Functional & integrative genomics · 2026",
-    "summary": "Altogether, 29 candidate genes were screened via MR analysis, identifying APOD, IGFBP3, and LPL as significantly associated with DN. In this study, three key genes (APOD, IGFBP3, and LPL) of XZTL in the treatment of DN were finally obtained, providing mechanistic clues for understanding XZTL's multi-target mechanism…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42754788/",
-    "tags": [
-      "diabetic-nephropathies",
-      "drugs-chinese-herbal"
-    ],
-    "date": "2026-09-18T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42824490",
-    "title": "Case Report: Concurrent Fabry disease, IgA nephropathy and undifferentiated connective tissue disease in a female with normal enzyme activity",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This case highlights that routine electron microscopy during renal biopsy is critical for detecting occult FD in females with normal enzyme activity, and is consistent with a biologically plausible hypothesis of Gb3-driven immune dysregulation as a potential shared link among FD, IgAN, and systemic autoimmunity, which…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42824490/",
-    "tags": [
-      "fabry-disease",
-      "glomerulonephritis-iga",
-      "undifferentiated-connective-tissue-diseases",
-      "alpha-galactosidase"
-    ],
-    "date": "2026-09-17T00:00:00.000Z",
     "pinned": false
   }
 ]

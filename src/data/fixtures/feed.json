@@ -1601,6 +1601,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42867023",
+    "title": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure",
+    "subtitle": "The Cochrane database of systematic reviews · 2026",
+    "summary": "Convective dialysis likely reduces all-cause and cardiovascular death. Effects on nonfatal cardiovascular events, fatigue, vascular access failure, and hospitalisation are inconclusive.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867023/",
+    "tags": [
+      "hemodiafiltration",
+      "renal-insufficiency",
+      "renal-dialysis",
+      "hemofiltration"
+    ],
+    "date": "2026-10-13T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42864888",
     "title": "Role of Psychological Resilience on Emotional Health in Kidney and Liver Transplant Recipients",
     "subtitle": "Annals of transplantation · 2026",
@@ -2261,6 +2276,93 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42870386",
+    "title": "Impact of probiotic supplementation on serum klotho levels and inflammatory status in patients with diabetic kidney disease",
+    "subtitle": "The Egyptian journal of immunology · 2026",
+    "summary": "Following intervention, serum alpha-Klotho levels significantly increased in the probiotic group compared to controls (adjusted post-treatment median: 114.15 ng/mL vs. 80.0 ng/mL; adjusted between-group p=0.003). In conclusion, daily Lactobacillus supplementation for 12 weeks upregulates circulating serum…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870386/",
+    "tags": [
+      "probiotics",
+      "diabetic-nephropathies",
+      "inflammation",
+      "glucuronidase"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42867487",
+    "title": "Triglyceride- and Body Weight-Based Nomogram for Early Postoperative Mycophenolate Mofetil Dose Selection Following Kidney Transplantation",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "The nomogram showed a directionally consistent but assumption-dependent reduction in simulated early MPA overexposure. It is a hypothesis-generating pre-TDM tool and should not replace AUC-guided TDM or clinical judgment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867487/",
+    "tags": [
+      "mycophenolic-acid",
+      "kidney-transplantation",
+      "nomograms",
+      "triglycerides"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42867480",
+    "title": "Race-Neutral Glomerular Filtration Rate Projected to Increase Kidney Transplantation for Black Patients: Initial Policy Effects at a Single Center",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Despite lower actual transplant rates during the study period, the WTM group is projected to gain a 25% annual probability of transplant for each additional year of qualifying time. Therefore, while the decision to grant WTM has generated some controversy, short-term outcomes at our center suggest that the OPTN policy…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867480/",
+    "tags": [
+      "kidney-transplantation",
+      "glomerular-filtration-rate",
+      "waiting-lists",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42867478",
+    "title": "Raman Urine Fingerprinting to Predict DGF, Assess Renal Allograft Quality, and Monitor Its State of Health",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In this exploratory study, UMF predicts DGF prior to transplantation and provides information on the state of health of the allograft following transplantation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867478/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection",
+      "delayed-graft-function",
+      "spectrum-analysis-raman"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42867474",
+    "title": "Autophagy - related protein 5: A promising biomarker for disease activity and treatment response in lupus nephritis",
+    "subtitle": "The Egyptian journal of immunology · 2026",
+    "summary": "Treatment was associated with significant ATG5 recovery over 6 months (p < 0.001), with responders demonstrating lower biopsy scores and greater serum ATG5 improvement versus non-responders (p=0.004, p=0.009, respectively). Lower intra-renal ATG5 expression scores are associated with favourable therapeutic responses,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867474/",
+    "tags": [
+      "lupus-nephritis",
+      "autophagy-related-protein-5"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42867446",
+    "title": "Circulating regulatory B-cell subsets in type 2 diabetic nephropathy",
+    "subtitle": "The Egyptian journal of immunology · 2026",
+    "summary": "CD19+ B cell subsets count, including Breg cells (CD19+CD24hiCD38hi) and memory B cell counts (CD19+CD24+CD38-) were quantified using multi-parametric flow cytometry. Moreover, Breg and memory B cell counts were significantly lower in the DN group compared to the DM group.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867446/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "b-lymphocytes-regulatory"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3367,6 +3469,64 @@
     "pinned": false
   },
   {
+    "id": "pmid-42870244",
+    "title": "Stage-dependent alterations in MaR1 in pediatric chronic kidney disease: a potential candidate biomarker",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Serum MaR1 concentrations show a stage-dependent pattern in pediatric CKD, characterized by marked suppression at stage 1 followed by progressive recovery and elevation in advanced stages. These findings suggest that circulating MaR1 may represent a candidate biomarker of disease-related inflammatory dynamics;…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870244/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "docosahexaenoic-acids"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42866368",
+    "title": "Complement system in kidney transplantation: from innate immune surveillance to a therapeutic and genetic engineering target",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Complement-binding donor-specific antibodies may improve risk stratification, whereas the clinical benefits of inhibiting C5, C3, and upstream complement in chronic active antibody-mediated rejection remain uncertain. Therefore, integrated strategies combining genetic complement regulation, pharmacological complement…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42866368/",
+    "tags": [
+      "kidney-transplantation",
+      "immunity-innate",
+      "complement-system-proteins",
+      "graft-rejection"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42865697",
+    "title": "A systematic review and meta-analysis of the effects of non-pharmacological interventions in improving psychological status and sleep quality among hemodialysis patients",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "The available evidence suggests that non-pharmacological interventions may improve depressive symptoms, anxiety symptoms, and sleep quality in patients receiving MHD. However, the certainty of evidence was low for anxiety and sleep quality outcomes and moderate for depressive symptoms, and these findings should be…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42865697/",
+    "tags": [
+      "renal-dialysis",
+      "sleep-quality",
+      "depression",
+      "anxiety"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42865689",
+    "title": "Eculizumab in rapidly progressive glomerulonephritis: a case-series report",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "In this descriptive case series, we observed trends toward improved renal function and hematuria at 3 months in patients with severe RPGN who received eculizumab in addition to standard immunosuppression, with earlier initiation and milder baseline renal impairment appearing to correlate with more favorable outcomes.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42865689/",
+    "tags": [
+      "antibodies-monoclonal-humanized",
+      "glomerulonephritis",
+      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
+      "anti-glomerular-basement-membrane-disease"
+    ],
+    "date": "2026-09-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42829537",
     "title": "Association Between Estimated Glucose Disposal Rate and Chronic Kidney Disease in Elderly Patients with Type 2 Diabetes Mellitus: A Cross-Sectional Study in Zhejiang, China",
     "subtitle": "Clinical interventions in aging · 2026",
@@ -4162,162 +4322,6 @@
       "urinary-tract-infections"
     ],
     "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42767758",
-    "title": "Patient characteristics, treatment patterns and clinical outcomes of immunoglobulin a nephropathy (IgAN) in China: a retrospective cohort study",
-    "subtitle": "BMJ open · 2026",
-    "summary": "Despite early diagnosis and strong guideline adherence, persistent proteinuria and adverse outcomes remain common, underscoring the need for more effective therapies in IgAN.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42767758/",
-    "tags": [
-      "glomerulonephritis-iga"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42767698",
-    "title": "Long-term outcomes and treatments for proliferative lupus nephritis with low-level proteinuria: a multicentre retrospective study in Japan",
-    "subtitle": "Lupus science & medicine · 2026",
-    "summary": "Patients with low-level proteinuria have a favourable long-term prognosis and are treated with less initial immunosuppressant use, suggesting a distinct clinical subgroup of proliferative lupus nephritis. Renal biopsy in the early phase with low-level proteinuria may lead to early diagnosis and treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42767698/",
-    "tags": [
-      "lupus-nephritis",
-      "proteinuria",
-      "immunosuppressive-agents",
-      "glucocorticoids"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42766847",
-    "title": "Facilitators and Barriers to Digital Health Technologies for Self-Management in Patients With Chronic Kidney Disease: Systematic Review Based on the Updated CFIR 2.0 Framework",
-    "subtitle": "Journal of medical Internet research · 2026",
-    "summary": "The use of digital health interventions for CKD self-management is influenced by multilevel factors. However, the evidence base is limited by the predominance of mixed methods designs, the lack of longitudinal studies, and the concentration of studies in high-income countries, which may limit the generalizability of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42766847/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "self-management"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42766238",
-    "title": "Macroalbuminuria as a marker of cardiac damage in patients with type 2 diabetes: insights from multimodality cardiac imaging and biomarkers",
-    "subtitle": "Journal of physiology and biochemistry · 2026",
-    "summary": "In T2D and stage 3 CKD, macroalbuminuria identifies a subgroup with more cardiac structural and functional abnormalities, particularly with elevated sST2. Prospective validation is needed.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42766238/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "albuminuria",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42766229",
-    "title": "Beyond observed changes: how differential item functioning and response shift alter health-related quality of life interpretation in preemptive versus non-preemptive kidney transplant patients",
-    "subtitle": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation · 2026",
-    "summary": "Investigating DIF and RS is essential for accurate PROM interpretation, revealing how patients' perception may evolve following transplantation. These insights inform both statistical analysis and understanding of patients' lived experience.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42766229/",
-    "tags": [
-      "kidney-transplantation",
-      "quality-of-life",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42797051",
-    "title": "Longitudinal Nutritional and Cardiorenal Changes Among Patients Prescribed a Ketoanalogue-Supplemented Very-Low-Protein Diet in Advanced Nondialysis Chronic Kidney Disease with Chronic Heart Failure: A Retrospective Cohort Study",
-    "subtitle": "Nutrients · 2026",
-    "summary": "Ketoanalogue-supplemented very-low-protein diets may reduce metabolic and mineral burden in advanced chronic kidney disease (CKD), but nutritional changes and adherence remain concerns. No maintenance dialysis initiation or death was documented before the final assessment.Body weight and BMI declined despite small…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42797051/",
-    "tags": [
-      "diet-protein-restricted",
-      "heart-failure",
-      "renal-insufficiency-chronic",
-      "nutritional-status"
-    ],
-    "date": "2026-09-20T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42796417",
-    "title": "Lower Admission CALLY Index Is Associated with Contrast-Associated Acute Kidney Injury in Patients with STEMI Undergoing Primary PCI",
-    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
-    "summary": "Receiver operating characteristic analyses compared CALLY with the C-reactive protein-to-albumin ratio (CAR), C-reactive protein (CRP), neutrophil-to-lymphocyte ratio (NLR), and systemic immune-inflammation index (SII).: CA-AKI occurred in 139 patients (15.4%). Its discrimination was greater than that of CRP, NLR, and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42796417/",
-    "tags": [
-      "st-elevation-myocardial-infarction",
-      "contrast-media",
-      "c-reactive-protein",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-20T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42783465",
-    "title": "Global, Regional, and Country Incidence of Peritoneal Dialysis-Associated Peritonitis in the Contemporary Peritoneal Dialysis Practice: A Systematic Review and Meta-Analysis",
-    "subtitle": "Medical sciences (Basel, Switzerland) · 2026",
-    "summary": "Despite substantial heterogeneity, the global incidence rate estimate of PD-associated peritonitis was 0.31 (0.28-0.34) episodes per patient-year (total peritonitis episodes, 88,769; total patient-years at risk, 264,296.30). Regarding the causative microorganisms of PD-associated peritonitis, Gram-positive bacteria…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42783465/",
-    "tags": [
-      "peritonitis",
-      "peritoneal-dialysis"
-    ],
-    "date": "2026-09-20T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42773769",
-    "title": "Systemic Immune-Inflammation Index and Neutrophil-to-Platelet Ratio as Predictors of Intensive Care Requirement and Hospital Stay in Acute Obstructive Pyelonephritis Requiring Percutaneous Nephrostomy",
-    "subtitle": "Urology journal · 2026",
-    "summary": "SII represents an accessible, cost-effective biomarker for early identification of patients at heightened risk of clinical deterioration requiring ICU transfer and prolonged hospitalization in acute obstructive pyelonephritis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773769/",
-    "tags": [
-      "pyelonephritis",
-      "length-of-stay",
-      "neutrophils",
-      "nephrostomy-percutaneous"
-    ],
-    "date": "2026-09-20T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42773768",
-    "title": "Balancing Benefits and Risks: A Systematic Review and Meta-Analysis of ABO-Incompatible Kidney Transplantation",
-    "subtitle": "Urology journal · 2026",
-    "summary": "ABO-incompatible kidney transplantation provides valuable expanded organ access with comparable 1-, 3-, and 10-year survival estimates, but carries elevated risks of rejection, early bleeding, and infections, alongside a noted divergence in 5-year patient survival.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773768/",
-    "tags": [
-      "kidney-transplantation",
-      "abo-blood-group-system",
-      "blood-group-incompatibility",
-      "graft-rejection"
-    ],
-    "date": "2026-09-20T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42794778",
-    "title": "Chronic Stress and the Brain-Kidney Axis in Renal Injury: From Neuroendocrine Dysregulation to Kidney Damage",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Chronic stress is a pervasive psychophysiological burden and an independent risk factor for chronic kidney disease (CKD). Large-scale cohort studies confirm that stress exposure significantly increases CKD risk and accelerates renal decline, even after adjusting for traditional confounders.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42794778/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "brain",
-      "kidney",
-      "neurosecretory-systems"
-    ],
-    "date": "2026-09-19T00:00:00.000Z",
     "pinned": false
   }
 ]

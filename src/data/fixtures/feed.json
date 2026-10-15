@@ -1601,6 +1601,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42873891",
+    "title": "Quinolinic acid contributes to maladaptive kidney injury and acute kidney injury-to-chronic kidney disease transition",
+    "subtitle": "Science translational medicine · 2026",
+    "summary": "After folic acid injury,haploinsufficiency exacerbated kidney injury and fibrosis-related gene expression; aged-haploinsufficient mice exhibited increased fibrosis-associated gene expression without overt renal dysfunction. Conversely, mice deficient in either 3-hydroxyanthranilate 3,4-dioxygenase (HAAO) or kynurenine…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873891/",
+    "tags": [
+      "acute-kidney-injury",
+      "quinolinic-acid",
+      "renal-insufficiency-chronic",
+      "disease-progression"
+    ],
+    "date": "2026-10-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42873799",
+    "title": "Association between the hemoglobin albumin lymphocyte and platelet score and chronic kidney disease: Insights from patient data and animal models",
+    "subtitle": "PloS one · 2026",
+    "summary": "In this cross-sectional study, lower HALP scores are independently associated with a higher prevalence of CKD and albuminuria. As an affordable and readily measurable composite index, a low HALP score may represent a complementary marker of prevalent CKD, while its clinical utility requires prospective validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873799/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "blood-platelets",
+      "lymphocytes",
+      "hemoglobins"
+    ],
+    "date": "2026-10-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42867023",
     "title": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure",
     "subtitle": "The Cochrane database of systematic reviews · 2026",
@@ -2009,6 +2039,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42872422",
+    "title": "Pregnancy complications and risk of cardiometabolic-renal conditions in 1.4 million women in England: longitudinal study",
+    "subtitle": "BMJ medicine · 2026",
+    "summary": "Several pregnancy complications, including those occurring in previous pregnancies, were associated with an increased risk of cardiometabolic-renal conditions in the subsequent years after pregnancy. These findings support obtaining a full reproductive history and using the postpartum period as an opportune time for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42872422/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "cardiovascular-diseases",
+      "pregnancy-complications",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42859795",
     "title": "Doppler Ultrasound-Derived Blood Flow Parameters Associated with Significant Arteriovenous Fistula Stenosis in a Large Vietnamese Hemodialysis Cohort",
     "subtitle": "Vascular health and risk management · 2026",
@@ -2276,6 +2321,36 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42873198",
+    "title": "Evaluating hepatitis C viremia and antiviral treatment barriers in hemodialysis patients in the post-HCV elimination era: Experience from Ain Shams University Hospitals",
+    "subtitle": "The Egyptian journal of immunology · 2026",
+    "summary": "Among anti-HCV-positive patients, active viremia (HCV PCR positive) was confirmed in only 14/113 cases (12.4% of seropositive patients; overall study population prevalence of active viremia: 14/410; 3.4%). HCV PCR positivity was significantly associated with a lack of prior DAA treatment (85.7% vs 6.1%}, p < 0.001)…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873198/",
+    "tags": [
+      "renal-dialysis",
+      "viremia",
+      "hepatitis-c",
+      "antiviral-agents"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42873116",
+    "title": "Identification of a Distinct HLA-DRB1*15:02-DQB1*03:01 Haplotype in a Transplant Pair",
+    "subtitle": "HLA · 2026",
+    "summary": "The HLA typing was performed using the One Lambda AllType NGS 11 Loci Amplification kit (One Lambda, USA). The donor and recipient, as siblings, were found to share the same infrequently documented haplotype A*24:07~C*07:04~B*18:01~DRB5*01:08N~DRB1*15:02~DQA1*06:01~DQB1*03:01~DPA1*02:02~DPB1*02:02:01G.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873116/",
+    "tags": [
+      "haplotypes",
+      "hla-drb1-chains",
+      "hla-dq-beta-chains",
+      "kidney-transplantation"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4249,77 +4324,6 @@
       "glomerulonephritis-membranous",
       "immunosuppressive-agents",
       "models-biological"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42797080",
-    "title": "Development and Feasibility of a Virtual Nutrition Education Intervention for Adults with Non-Dialysis Chronic Kidney Disease",
-    "subtitle": "Nutrients · 2026",
-    "summary": "This educational intervention proposes a feasible structured intervention to improve adherence to a healthy diet, which may contribute to the strengthening of nutritional practice in CKD by promoting a patient-centered approach.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42797080/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "patient-education-as-topic",
-      "diet-healthy"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42776136",
-    "title": "Postoperative Acute Kidney Injury in Cardiovascular Surgery Patients with Prolonged Intensive Care Unit Stay: Impact on Mortality and Outcomes",
-    "subtitle": "Brazilian journal of cardiovascular surgery · 2026",
-    "summary": "Among cardiovascular surgery patients with prolonged ICU stay, postoperative AKI is a strong predictor of in-hospital mortality and adverse resource-related outcomes. Emphasis on prevention, early detection, and optimized perioperative management may improve prognosis in this high-risk population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42776136/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiovascular-surgical-procedures",
-      "postoperative-complications"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42773435",
-    "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury",
-    "subtitle": "BMC veterinary research · 2026",
-    "summary": "Urinary CysC/uCr and Glu/uCr are potential markers of tubular injury in early stages of AKI in dogs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773435/",
-    "tags": [
-      "acute-kidney-injury",
-      "dog-diseases",
-      "snake-bites",
-      "vipera"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42770414",
-    "title": "Kalsifylaksi ved leversykdom og akutt nyresvikt",
-    "subtitle": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke · 2026",
-    "summary": "We present a man in his forties who developed painful reticular purpura and necrotic ulcerations on the proximal lower extremities following alcohol-induced multi-organ failure, including acute renal failure. We believe that important factors contributing to this patient's outcome were his young age and early…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42770414/",
-    "tags": [
-      "calciphylaxis",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-21T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42767791",
-    "title": "Immunoglobulin A-dominant crescentic glomerulonephritis in a teenage refugee with active methicillin-resistant Staphylococcus aureus urinary infection: a diagnostic and therapeutic dilemma",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Immunoglobulin A (IgA)-dominant infection-related glomerulonephritis (IgA-IRGN) and primary IgA nephropathy (IgAN) can show substantial clinicopathological overlap, creating therapeutic uncertainty when crescentic glomerular inflammation occurs alongside active infection. This case highlights the need to balance…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42767791/",
-    "tags": [
-      "methicillin-resistant-staphylococcus-aureus",
-      "glomerulonephritis-iga",
-      "staphylococcal-infections",
-      "urinary-tract-infections"
     ],
     "date": "2026-09-21T00:00:00.000Z",
     "pinned": false

@@ -1657,6 +1657,151 @@
     "pinned": false
   },
   {
+    "id": "pmid-42888640",
+    "title": "Peritoneal catheter fixation versus nonfixation in open surgery: A meta-analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "PD catheter fixation increased the operating time, but it reduced the incidence of catheter displacement and did not increase other complications in open surgery. PD catheter fixation is safe and effective in open surgery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888640/",
+    "tags": [
+      "peritoneal-dialysis",
+      "catheters-indwelling",
+      "catheterization"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888632",
+    "title": "Comparative outcomes of arteriovenous accesses with and without tunneled hemodialysis catheters: A retrospective cohort study",
+    "subtitle": "Medicine · 2026",
+    "summary": "THC usage (odds ratio [OR] = 0.49, 95% confidence interval [CI]: 0.25-0.95, P = .03), graft usage (OR = 0.38, 95% CI: 0.18-0.82, P = .01), and higher hemoglobin levels (OR = 0.80, 95% CI: 0.65-0.96, P = .02) were associated with reduced patency rates. Concurrent THC use was independently associated with reduced…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888632/",
+    "tags": [
+      "renal-dialysis",
+      "vascular-patency",
+      "arteriovenous-shunt-surgical",
+      "catheters-indwelling"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888627",
+    "title": "Persistent hyperparathyroidism and its predictive factors in end-stage renal disease patients after kidney transplantation: A prospective study",
+    "subtitle": "Medicine · 2026",
+    "summary": "Higher pretransplant intact PTH was independently associated with persistent HPT across both multivariable models, whereas the association with dialysis duration was significant only when categorized as ≥1 year. Our findings suggest that high pretransplant intact PTH independently predicts persistent HPT at 6 months,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888627/",
+    "tags": [
+      "kidney-transplantation",
+      "kidney-failure-chronic",
+      "hyperparathyroidism"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888618",
+    "title": "Effect of uric acid and estimated glomerular filtration rate on the Fibrosis-4 index: A cross-sectional and cohort analysis",
+    "subtitle": "Medicine · 2026",
+    "summary": "In multivariable Cox regression analyses, each 1-standard deviation decrease in eGFR was associated with a 21% higher risk of an increased FIB-4 index (hazard ratio [HR], 1.21; 95% confidence interval [CI], 1.14-1.29; P < .001). Reduced eGFR and hyperuricemia were independently associated with an elevated FIB-4 index…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888618/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "uric-acid",
+      "liver-cirrhosis",
+      "fatty-liver"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888531",
+    "title": "Association between the uric acid to high-density lipoprotein cholesterol ratio and diabetic kidney disease in U.S. adults with type 2 diabetes: A cross-sectional study of NHANES 2009 to 2018",
+    "subtitle": "Medicine · 2026",
+    "summary": "Strict DKD required both abnormalities; severe DKD required urinary albumin-to-creatinine ratio ≥300 mg/g. In model 3, the highest versus lowest ln-UHR quartile had an odds ratio of 2.43 (95% confidence interval 1.75-3.38) for original DKD, 4.55 (2.81-7.35) for strict DKD and 2.82 (1.57-5.06) for severe DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888531/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "cholesterol-hdl",
+      "uric-acid"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42887003",
+    "title": "Recruitment, Engagement, Experiences, and Self-Reported Changes in a Digital Patient Activation Intervention to Improve Hemodialysis Session Stability: Mixed Methods Study",
+    "subtitle": "Journal of medical Internet research · 2026",
+    "summary": "Participants constituted a self-selecting group. Patient-clinician communication was a priority, and participants valued peer mentoring.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887003/",
+    "tags": [
+      "renal-dialysis",
+      "patient-participation"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42886383",
+    "title": "Comment on \"Association of peripheral NLRP3 inflammasome activation with prevalent and incident chronic kidney disease in patients with obstructive sleep apnea: a prospective study\"",
+    "subtitle": "Sleep & breathing = Schlaf & Atmung · 2026",
+    "summary": "A single baseline NLRP3 measurement may not reflect long-term biological activity, while adjusted associations do not establish improved prediction beyond established risk factors. These steps would help determine whether circulating NLRP3 offers meaningful incremental value for renal risk stratification in OSA.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886383/",
+    "tags": [
+      "sleep-apnea-obstructive",
+      "nlr-family-pyrin-domain-containing-3-protein",
+      "renal-insufficiency-chronic",
+      "inflammasomes"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42886295",
+    "title": "Retinal and choroidal microvascular changes in hemodialysis and peritoneal dialysis: a comparative OCT and OCTA study",
+    "subtitle": "International ophthalmology · 2026",
+    "summary": "Most OCTA-derived retinal microvascular parameters remained stable following dialysis, whereas small but statistically significant structural changes were observed in CMT and subfoveal choroidal thickness. The magnitude of short-term CMT change differed between HD and PD; however, the mechanism underlying this…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886295/",
+    "tags": [
+      "tomography-optical-coherence",
+      "choroid",
+      "renal-dialysis",
+      "retinal-vessels"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42886277",
+    "title": "Potential role of CTHRC1 in renal fibrosis",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "CTHRC1 may be involved in fibroblast migration, tissue remodeling, extracellular matrix metabolism, and interaction with the TGF-β/Wnt signaling systems during kidney fibrogenesis. This review discusses the potential role of CTHRC1 in renal fibrosis, its relationship with the TGF-β and Wnt/β-catenin pathways, and its…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886277/",
+    "tags": [
+      "extracellular-matrix-proteins",
+      "kidney",
+      "renal-insufficiency-chronic",
+      "kidney-diseases"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42886251",
+    "title": "Assessment of accuracy, quality, and readability of large language models in kidney transplantation practice",
+    "subtitle": "World journal of urology · 2026",
+    "summary": "Current-generation LLMs show high and comparable performance in addressing complex KT-related clinical questions. Their consistent accuracy, quality, and readability support their potential role as adjunctive clinical decision-support tools, provided appropriate physician oversight.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886251/",
+    "tags": [
+      "large-language-models",
+      "kidney-transplantation",
+      "comprehension"
+    ],
+    "date": "2026-10-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42879396",
     "title": "HLA-driven variability in human cytomegalovirus immune recognition: Epitope predictions from a kidney transplant Cohort",
     "subtitle": "PloS one · 2026",
@@ -2536,6 +2681,64 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888886",
+    "title": "Post-Operative Acute Kidney Injury After Pediatric Heart Transplantation and Longitudinal Invasive Assessment of Cardiac Filling Pressures",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Severe post-transplant AKI was independently associated with higher biventricular filling pressures, suggesting a clinically relevant kidney-heart interaction. Larger studies are needed to further define its mechanistic and clinical implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888886/",
+    "tags": [
+      "heart-transplantation",
+      "acute-kidney-injury",
+      "postoperative-complications"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888490",
+    "title": "Urinary Liver-Type Fatty Acid-Binding Protein, Albuminuria, and eGFR Trajectories in Type 2 Diabetes",
+    "subtitle": "Journal of diabetes · 2026",
+    "summary": "Urinary L-FABP was associated with baseline kidney impairment but did not independently predict eGFR trajectory after continuous UACR was taken into account. Urinary L-FABP reflects kidney injury severity, although its incremental prognostic value beyond quantitatively assessed albuminuria was limited in this cohort.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888490/",
+    "tags": [
+      "fatty-acid-binding-proteins",
+      "diabetes-mellitus-type-2",
+      "albuminuria",
+      "glomerular-filtration-rate"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42888180",
+    "title": "Organizational Perspectives on Access to Care Among Persons With End-Stage Kidney Disease After Enrollment in Medicare Advantage",
+    "subtitle": "Health services research · 2026",
+    "summary": "Participant perspectives suggest MA enrollment may differentially impact access depending on dialysis provider size and MA network restrictions. Persons with ESKD may need additional support to make informed insurance enrollment decisions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888180/",
+    "tags": [
+      "kidney-failure-chronic",
+      "health-services-accessibility",
+      "medicare-part-c"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42886738",
+    "title": "Ultrasound-Derived Differential Renal Volume Indexed to Recipient Body Mass Index Predicts One-Year Kidney Graft Function: A Novel Surrogate of Graft-Recipient Size Matching",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Ultrasound-derived donor renal parenchymal volume indexed to recipient BMI represents a simple, non-invasive, and clinically applicable surrogate of graft-recipient size matching. If validated in larger multicenter cohorts, this approach may complement existing clinical parameters for predicting graft function and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886738/",
+    "tags": [
+      "kidney-transplantation",
+      "body-mass-index",
+      "kidney",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4130,209 +4333,6 @@
       "virtual-reality"
     ],
     "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42804043",
-    "title": "Potential anti-inflammatory effect of L-carvone in endothelial dysfunction triggered by uremia related to chronic kidney disease",
-    "subtitle": "Molecular biology reports · 2026",
-    "summary": "Altogether, these findings suggest the beneficial anti-inflammatory effect of CRV in the vascular environment in response to uremic damage in CKD patients, opening perspectives for the study of new targets to better understand the endothelial protection mechanisms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42804043/",
-    "tags": [
-      "uremia",
-      "anti-inflammatory-agents",
-      "renal-insufficiency-chronic",
-      "cyclohexane-monoterpenes"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42803944",
-    "title": "Changes in renal function in patients with chronic kidney disease after ureteroscopy: a systematic review and meta-analysis from EAU endourology",
-    "subtitle": "Urolithiasis · 2026",
-    "summary": "Studies reporting pre- and postoperative eGFR in patients with established CKD or cohorts including patients with reduced baseline renal function undergoing standard URS or RIRS were included. Available evidence does not suggest a clinically meaningful deterioration in renal function following URS or RIRS and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42803944/",
-    "tags": [
-      "ureteroscopy",
-      "renal-insufficiency-chronic",
-      "kidney"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42884643",
-    "title": "Punicalagin Alleviates Diabetic Kidney Injury: Potential Involvement of SESN2-Related Mitophagy and Changes in Pyroptosis-/Ferroptosis-Related Indicators",
-    "subtitle": "Nutrients · 2026",
-    "summary": "PU may modulate mitophagy-related signaling in association with SESN2, accompanied by changes in pyroptosis- and ferroptosis-related markers in diabetes-associated renal injury. This study provides preliminary evidence for the renoprotective effect of PU against DKD, potentially involving SESN2-related mitophagy and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884643/",
-    "tags": [
-      "ferroptosis",
-      "mitophagy",
-      "pyroptosis",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-09-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42801387",
-    "title": "Longitudinal impact of sodium bicarbonate therapy on health-related quality of life in pre-dialysis chronic kidney disease with metabolic acidosis: a pragmatic trial in Malaysia",
-    "subtitle": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation · 2026",
-    "summary": "Sodium bicarbonate therapy did not improve HRQoL in pre-dialysis CKD patients with MA. Patient-reported well-being appeared to be driven by CKD progression, highlighting the practical challenges and limitations of treat-to-target alkali therapy in routine clinical practice.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801387/",
-    "tags": [
-      "sodium-bicarbonate",
-      "quality-of-life",
-      "acidosis",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42801359",
-    "title": "URB597 attenuates experimental sepsis-associated acute kidney injury with reduced renal inflammation, apoptosis, and TLR4/NF-κB activation",
-    "subtitle": "Molecular biology reports · 2026",
-    "summary": "URB597 attenuated renal injury, inflammatory responses, and apoptosis-related alterations in experimental sepsis-associated AKI. These effects were accompanied by reduced renal TLR4/NF-κB pathway activation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801359/",
-    "tags": [
-      "acute-kidney-injury",
-      "toll-like-receptor-4",
-      "sepsis",
-      "benzamides"
-    ],
-    "date": "2026-09-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42801358",
-    "title": "PTBP3 promotes diabetic nephropathy via Smad3-dependent podocyte-mesenchymal transition",
-    "subtitle": "Molecular biology reports · 2026",
-    "summary": "Notably, PTBP3 knockdown ameliorated renal fibrosis and preserved renal function, underscoring the therapeutic potential of targeting podocyte epithelial-mesenchymal transition in DN.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801358/",
-    "tags": [
-      "diabetic-nephropathies",
-      "podocytes",
-      "smad3-protein",
-      "epithelial-mesenchymal-transition"
-    ],
-    "date": "2026-09-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42801339",
-    "title": "Combination therapy with furosemide and metolazone as compared to furosemide alone for treatment of edema in children with nephrotic syndrome: a randomized controlled trial",
-    "subtitle": "European journal of pediatrics · 2026",
-    "summary": "There was no difference in urine output or weight loss with combination therapy. Given the neutral primary outcome and the need to discontinue therapy in a subset of patients, upfront combination therapy is not recommended based on these findings.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801339/",
-    "tags": [
-      "furosemide",
-      "nephrotic-syndrome",
-      "edema",
-      "diuretics"
-    ],
-    "date": "2026-09-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42883871",
-    "title": "Targeting FGF23 to Ameliorate Anemia in Chronic Kidney Disease",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "In conclusion, progressive and concomitant increases in P and FGF23 produce an aggravation of anemia of renal origin. In this setting, the normalization of hematological parameters induced by FGF23 blockade is associated with the inhibition of renal HIF signaling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42883871/",
-    "tags": [
-      "fibroblast-growth-factors",
-      "renal-insufficiency-chronic",
-      "anemia"
-    ],
-    "date": "2026-09-26T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42864606",
-    "title": "Cellular immune response during BK polyomavirus infection in living donor kidney transplant recipients",
-    "subtitle": "BMC immunology · 2026",
-    "summary": "Recipients with a low CD4/CD8 ratio and IRP-positive status were more likely to develop subsequent BKPyV replication, supporting a role for T cell imbalance in susceptibility to viral reactivation. However, the observed differences were modest and substantial overlap between the groups limits the clinical utility of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42864606/",
-    "tags": [
-      "kidney-transplantation",
-      "bk-virus",
-      "polyomavirus-infections",
-      "immunity-cellular"
-    ],
-    "date": "2026-09-26T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42799819",
-    "title": "Clinicopathological spectrum and outcomes of biopsy-proven post-transplant lymphoproliferative disorder after kidney transplantation",
-    "subtitle": "Journal of hematopathology · 2026",
-    "summary": "PTLD is a rare but serious complication following kidney transplantation, associated with substantial morbidity and mortality. Although this study was not powered to identify definitive prognostic factors, exploratory analyses suggested shorter survival among patients with higher IPI categories, supporting further…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42799819/",
-    "tags": [
-      "kidney-transplantation",
-      "lymphoproliferative-disorders",
-      "postoperative-complications"
-    ],
-    "date": "2026-09-26T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42884607",
-    "title": "Ketoanalogues of Essential Amino Acids in Chronic Kidney Disease: From Biochemical Rationale to Conditions for Clinical Effectiveness",
-    "subtitle": "Nutrients · 2026",
-    "summary": "Protein restriction is an established nutritional intervention for selected adults with non-dialysis chronic kidney disease (CKD); a supplemented very-low-protein diet (sVLPD) combines marked protein restriction with essential amino acids and their nitrogen-free keto- and hydroxyanalogues (KAs). Safe implementation…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884607/",
-    "tags": [
-      "amino-acids-essential",
-      "renal-insufficiency-chronic",
-      "diet-protein-restricted",
-      "keto-acids"
-    ],
-    "date": "2026-09-25T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42884289",
-    "title": "Artificial Intelligence and Sensing Technologies for Vascular Access in Hemodialysis: A Narrative Review",
-    "subtitle": "Sensors (Basel, Switzerland) · 2026",
-    "summary": "In this review, the vascular access itself is kept as the unit of analysis, and the evidence is followed across four connected stages: systemic risk stratification; prediction of maturation, dysfunction, and complications from clinical, ultrasound, and multimodal data; longitudinal monitoring with optical, acoustic,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884289/",
-    "tags": [
-      "renal-dialysis",
-      "artificial-intelligence",
-      "vascular-access-devices"
-    ],
-    "date": "2026-09-25T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42857576",
-    "title": "Time-stratified prognostic factors for poor renal outcomes in childhood-onset lupus nephritis: a systematic review and meta-analysis",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Identified prognostic factors provide a reference for stratified management of cLN. Differences in prognostic associations across studies categorized by follow-up duration and higher cumulative proportions of adverse outcomes in studies with longer follow-up highlight the need for longitudinal, dynamic risk assessment…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42857576/",
-    "tags": [
-      "lupus-nephritis",
-      "kidney"
-    ],
-    "date": "2026-09-25T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42856680",
-    "title": "Anti-PLA2R antibody levels and clinical risk factors for predicting relapse in primary membranous nephropathy",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "In this exploratory study, anti-PLA2R antibody seropositivity and a blunted increase in serum albumin after 3 months of treatment were identified as potential risk factors for relapse among patients with pMN who achieved remission. Larger-scale studies are warranted for further validation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42856680/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "receptors-phospholipase-a2",
-      "autoantibodies"
-    ],
-    "date": "2026-09-25T00:00:00.000Z",
     "pinned": false
   }
 ]

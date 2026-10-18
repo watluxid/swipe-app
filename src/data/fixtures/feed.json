@@ -1657,6 +1657,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42892642",
+    "title": "Zyxin protects against hypertensive nephropathy by restraining FAK/Skp2-CDK8/YAP signaling in tubular epithelial cells",
+    "subtitle": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026",
+    "summary": "These findings support a model in which zyxin acts as a protective factor in the renal tubules during HN, suggesting its potential as a novel therapeutic target.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892642/",
+    "tags": [
+      "epithelial-cells",
+      "zyxin",
+      "hypertension-renal",
+      "kidney-tubules"
+    ],
+    "date": "2026-10-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42892624",
+    "title": "Single-cell RNA sequencing identifies a proinflammatory S100a8/a9(+) macrophage subset contributing to acute kidney injury",
+    "subtitle": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026",
+    "summary": "S100a8/a9 plays a regulatory role in CD11bLy6cmacrophage population differentiation, contributing to endotoxemia-induced AKI. S100a8/a9 blockade may be a novel therapeutic strategy for the prevention or attenuation of AKI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892624/",
+    "tags": [
+      "acute-kidney-injury",
+      "calgranulin-a",
+      "calgranulin-b",
+      "macrophages"
+    ],
+    "date": "2026-10-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42891870",
+    "title": "Haplotype structure and functional genotype-phenotype interactions of PON1 (L55M/Q192R) variants in Egyptian children with nephrotic syndrome",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "PON1 genetic variation and reduced PON1 concentrations may contribute to the metabolic phenotype and susceptibility to NS, supporting a potential role for PON1-mediated antioxidant pathways in disease pathophysiology and variation in oxidative stress responses among children.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42891870/",
+    "tags": [
+      "aryldialkylphosphatase",
+      "nephrotic-syndrome"
+    ],
+    "date": "2026-10-17T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42888640",
     "title": "Peritoneal catheter fixation versus nonfixation in open surgery: A meta-analysis",
     "subtitle": "Medicine · 2026",
@@ -2007,6 +2050,21 @@
       "glomerulonephritis"
     ],
     "date": "2026-10-12T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42890371",
+    "title": "Association of the Hemoglobin, Albumin, Lymphocyte, and Platelet Score with Contrast-Associated Acute Kidney Injury and Mortality in Patients Underwent Coronary Angiography: A Multicenter Retrospective Cohort Study",
+    "subtitle": "Vascular health and risk management · 2026",
+    "summary": "The HALP score was independently associated with CA-AKI, all-cause mortality, and cardiovascular mortality among patients undergoing CAG.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890371/",
+    "tags": [
+      "coronary-angiography",
+      "acute-kidney-injury",
+      "contrast-media",
+      "serum-albumin-human"
+    ],
+    "date": "2026-10-11T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2598,6 +2656,50 @@
     "pinned": false
   },
   {
+    "id": "pmid-42890771",
+    "title": "Consent in the dark: Can living kidney donation proceed amid marital infidelity?",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Key issues include the materiality of information for informed consent, risks of psychosocial harm, integrity of caregiving arrangements, and potential institutional complicity in ongoing deception. Transplant programs must balance substantial clinical benefit with ethical stewardship to preserve public confidence and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890771/",
+    "tags": [
+      "living-donors",
+      "kidney-transplantation",
+      "informed-consent",
+      "marriage"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42890522",
+    "title": "Sex-specific clinical profiles in patients with acute ischemic stroke and chronic kidney disease",
+    "subtitle": "Frontiers in neurology · 2026",
+    "summary": "Patients with AIS demonstrated distinct sex-associated clinical profiles according to CKD status. Although several associations were numerically stronger among patients with CKD, formal interaction testing did not establish statistically significant effect modification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890522/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "ischemic-stroke",
+      "sex-characteristics"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42890038",
+    "title": "Differences in urinary biomarker profiles in patients with nephrotic-range proteinuria with and without hypoalbuminemia: a single-center cross-sectional study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Patients with NR with and without hypoalbuminemia exhibited distinct urinary biomarker profiles. Higher uRBP levels in patients without hypoalbuminemia may indicate differences in proximal tubular handling of low-molecular-weight proteins.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890038/",
+    "tags": [
+      "biomarkers",
+      "proteinuria",
+      "hypoalbuminemia",
+      "nephrotic-syndrome"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42884067",
     "title": "Tangerine Peel Polysaccharide Alleviates High-Fat Diet-Induced Renal Lipotoxicity in Association with Gut Microbiota Remodeling in Mice",
     "subtitle": "International journal of molecular sciences · 2026",
@@ -2681,6 +2783,35 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42889286",
+    "title": "Single-cell profiling of peripheral immune remodeling in BK polyomavirus-associated nephropathy after kidney transplantation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "To define peripheral immune signatures associated with distinct clinical states of BKPyV infection, we performed single-cell RNA sequencing of peripheral blood mononuclear cells from kidney transplant recipients across three clinical states: stable graft function (n = 1), BKPyV DNAemia (n = 2), and biopsy-proven…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42889286/",
+    "tags": [
+      "kidney-transplantation",
+      "polyomavirus-infections",
+      "bk-virus",
+      "tumor-virus-infections"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42889216",
+    "title": "The frequency and timing of leukopenia and CMV infections in kidney transplant recipients in Finland - a retrospective observational study",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "CMV DNAemia occurred in 357 (50.6%) R+ and 106 (53.0%) D+/R─ recipients, with median time to CMV DNAemia of 66 days (IQI: 48-110) in R+ and 239 days (IQI: 175-323) in D+/R─ recipients (p < 0.001). In conclusion, PTLN was more common in CMV D+/R─ KTRs and both D+/R─ serostatus and PTLN were linked to greater healthcare…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42889216/",
+    "tags": [
+      "kidney-transplantation",
+      "cytomegalovirus-infections",
+      "leukopenia"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4205,132 +4336,6 @@
       "glomerulonephritis",
       "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
       "anti-glomerular-basement-membrane-disease"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42829537",
-    "title": "Association Between Estimated Glucose Disposal Rate and Chronic Kidney Disease in Elderly Patients with Type 2 Diabetes Mellitus: A Cross-Sectional Study in Zhejiang, China",
-    "subtitle": "Clinical interventions in aging · 2026",
-    "summary": "Lower eGDR was associated with a higher prevalence of study-defined CKD in elderly patients with T2DM, with an approximately linear cross-sectional association. Prospective studies are needed to establish temporality and assess whether eGDR adds information beyond established CKD assessment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829537/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "renal-insufficiency-chronic",
-      "blood-glucose"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42828325",
-    "title": "Leucine Mitigates Diabetic Nephropathy via Its Antioxidant Effect and Modulation of TGF-β/SMAD-3 Signalling Pathway in Streptozotocin-Induced Diabetic Rats",
-    "subtitle": "Drug design, development and therapy · 2026",
-    "summary": "The administration of leucine inhibited renal damage by reducing activation of the profibrotic transforming growth factor beta-1 TGF-β/Smad3 signalling pathway.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42828325/",
-    "tags": [
-      "diabetic-nephropathies",
-      "diabetes-mellitus-experimental",
-      "smad3-protein",
-      "leucine"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42820523",
-    "title": "Characteristics and outcomes of dengue infection in kidney transplant recipients: an integrative review",
-    "subtitle": "Revista do Instituto de Medicina Tropical de Sao Paulo · 2026",
-    "summary": "In kidney transplant recipients with dengue, immunosuppressive therapy can affect their immune response and disease presentation. In total, 30 articles underwent full-text review; eight were excluded-seven lacked kidney transplant recipients with dengue and one had insufficient case details on infected cases.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42820523/",
-    "tags": [
-      "kidney-transplantation",
-      "dengue"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42816835",
-    "title": "Cardiac changes in children with post-streptococcal glomerulonephritis: a prospective observational study",
-    "subtitle": "BMC pediatrics · 2026",
-    "summary": "Transient subclinical functional cardiac changes were evident in pediatric patients with PSGN. These transient changes may impose significant clinically relevant risks, particularly in the acute phase of the disease.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816835/",
-    "tags": [
-      "glomerulonephritis",
-      "streptococcal-infections"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42806171",
-    "title": "Renal risk differences between diffuse large B-cell lymphoma and chronic lymphocytic leukemia/small lymphocytic lymphoma: implications for supportive oncology care",
-    "subtitle": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026",
-    "summary": "DLBCL showed modestly higher AKI risk and CLL/SLL showed modestly higher CKD burden in this demographically matched cohort. Because comorbidities were not matched and absolute differences were small, these findings are hypothesis-generating, supporting attention to renal monitoring in both subtypes pending…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42806171/",
-    "tags": [
-      "leukemia-lymphocytic-chronic-b-cell",
-      "lymphoma-large-b-cell-diffuse",
-      "acute-kidney-injury",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42805656",
-    "title": "Sarcopenia among chronic kidney disease patients attending a renal clinic in Northwest Ethiopia: a cross-sectional study of prevalence, risk factors and clinical implications",
-    "subtitle": "BMJ open · 2026",
-    "summary": "Sarcopenia was predominant among CKD patients and was more common among those with ESRD. It was correlated with metabolic abnormalities, inflammation, oxidative stress and frailty.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42805656/",
-    "tags": [
-      "sarcopenia",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42805649",
-    "title": "Regional citrate anticoagulation combined with nafamostat mesylate for continuous kidney replacement therapy in septic acute kidney injury patients: protocol for a prospective, three-arm, randomised controlled study (RCNM-CKRT)",
-    "subtitle": "BMJ open · 2026",
-    "summary": "While regional citrate anticoagulation (RCA) is recommended first-line, nafamostat mesylate (NM) offers an alternative with potential anti-inflammatory benefits. This trial aims to compare the effects of RCA, NM and their combination on EC lifespan during CKRT in critically ill acute kidney injury (AKI) patients with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42805649/",
-    "tags": [
-      "acute-kidney-injury",
-      "benzamidines",
-      "anticoagulants",
-      "continuous-renal-replacement-therapy"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42804441",
-    "title": "Study variation in estimating Glomerular Filtration Rate (GFR) from serum creatinine, cystatin C, age, and sex",
-    "subtitle": "PloS one · 2026",
-    "summary": "Single-study GFR equations may underestimate cross-study prediction error by ignoring study-level variability, especially in non-CKD populations. Our results largely corroborate the use of pooled datasets and the current form of the CKD-EPI equations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42804441/",
-    "tags": [
-      "glomerular-filtration-rate",
-      "cystatin-c",
-      "creatinine",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42804277",
-    "title": "Effectiveness and Safety of Virtual Reality Interventions for Symptom Management in Adults Undergoing Hemodialysis: Systematic Review and Meta-Analysis of Randomized Controlled Trials",
-    "subtitle": "Journal of medical Internet research · 2026",
-    "summary": "Preliminary evidence suggests that VR-based interventions may reduce arteriovenous fistula cannulation pain and depressive symptoms and may improve selected physical function outcomes, including gait speed and 6-minute walk distance, in adults receiving hemodialysis. No serious VR-related adverse events were reported,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42804277/",
-    "tags": [
-      "renal-dialysis",
-      "virtual-reality"
     ],
     "date": "2026-09-28T00:00:00.000Z",
     "pinned": false

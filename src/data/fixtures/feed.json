@@ -2786,6 +2786,50 @@
     "pinned": false
   },
   {
+    "id": "pmid-42893965",
+    "title": "Retinal Disease Risk With Hypoxia-Inducible Factor Prolyl Hydroxylase Inhibitors Versus Long-Acting Erythropoiesis-Stimulating Agents in Patients With Non-Dialysis Chronic Kidney Disease: A Real-World Database Analysis in Japan",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "HIF-PH inhibitors were not associated with an increased risk of treatment-requiring retinal disease. These real-world data suggest the retinal safety of HIF-PH inhibitors in non-dialysis patients with CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893965/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "retinal-diseases",
+      "hematinics",
+      "prolyl-hydroxylase-inhibitors"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42893541",
+    "title": "When Deviation Is Necessary: Balancing Intervention Fidelity and Contextual Adaptation in Haemodialysis Physiotherapy",
+    "subtitle": "Journal of evaluation in clinical practice · 2026",
+    "summary": "Intervention fidelity in haemodialysis physiotherapy should be understood as a dynamic process that accommodates appropriate contextual adaptation while preserving the core intent of rehabilitation. Recognizing adaptive clinical expertise may strengthen the implementation of evidence-based physiotherapy in complex…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893541/",
+    "tags": [
+      "renal-dialysis",
+      "physical-therapists",
+      "physical-therapy-modalities"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42893532",
+    "title": "Belatacept Conversion in Simultaneous Pancreas-Kidney and Liver-Kidney Transplant Recipients: A Single-Center Feasibility Cohort and Narrative Review",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Late belatacept conversion with a transient low-dose CNI overlap was feasible in selected SPK and LK recipients and was associated with stable-to-improved kidney function without a pancreatic or hepatic safety signal. The uncontrolled design supports feasibility, not efficacy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893532/",
+    "tags": [
+      "abatacept",
+      "graft-rejection",
+      "pancreas-transplantation",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42889286",
     "title": "Single-cell profiling of peripheral immune remodeling in BK polyomavirus-associated nephropathy after kidney transplantation",
     "subtitle": "Frontiers in immunology · 2026",
@@ -4291,51 +4335,6 @@
     "tags": [
       "renal-insufficiency-chronic",
       "docosahexaenoic-acids"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42866368",
-    "title": "Complement system in kidney transplantation: from innate immune surveillance to a therapeutic and genetic engineering target",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Complement-binding donor-specific antibodies may improve risk stratification, whereas the clinical benefits of inhibiting C5, C3, and upstream complement in chronic active antibody-mediated rejection remain uncertain. Therefore, integrated strategies combining genetic complement regulation, pharmacological complement…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42866368/",
-    "tags": [
-      "kidney-transplantation",
-      "immunity-innate",
-      "complement-system-proteins",
-      "graft-rejection"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42865697",
-    "title": "A systematic review and meta-analysis of the effects of non-pharmacological interventions in improving psychological status and sleep quality among hemodialysis patients",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "The available evidence suggests that non-pharmacological interventions may improve depressive symptoms, anxiety symptoms, and sleep quality in patients receiving MHD. However, the certainty of evidence was low for anxiety and sleep quality outcomes and moderate for depressive symptoms, and these findings should be…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42865697/",
-    "tags": [
-      "renal-dialysis",
-      "sleep-quality",
-      "depression",
-      "anxiety"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42865689",
-    "title": "Eculizumab in rapidly progressive glomerulonephritis: a case-series report",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "In this descriptive case series, we observed trends toward improved renal function and hematuria at 3 months in patients with severe RPGN who received eculizumab in addition to standard immunosuppression, with earlier initiation and milder baseline renal impairment appearing to correlate with more favorable outcomes.…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42865689/",
-    "tags": [
-      "antibodies-monoclonal-humanized",
-      "glomerulonephritis",
-      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
-      "anti-glomerular-basement-membrane-disease"
     ],
     "date": "2026-09-28T00:00:00.000Z",
     "pinned": false

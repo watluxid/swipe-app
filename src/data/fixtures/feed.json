@@ -1642,6 +1642,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42895485",
+    "title": "Disarming FcR-dependent neutrophil activation in MPO-ANCA glomerulonephritis",
+    "subtitle": "The Journal of experimental medicine · 2026",
+    "summary": "They developed one-armed antibodies that block pathogenic anti-MPO autoantibodies and prevent Fc receptor-mediated neutrophil activation, thereby attenuating renal injury in a passive transfer model. This nontoxic precision approach for disease treatment and flare prevention addresses a critical unmet need.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895485/",
+    "tags": [
+      "neutrophil-activation",
+      "glomerulonephritis",
+      "receptors-fc",
+      "antibodies-antineutrophil-cytoplasmic"
+    ],
+    "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42895484",
+    "title": "Epitope-diverse autoantibodies induce neutrophil-epithelial niches driving kidney injury in ANCA-associated glomerulonephritis",
+    "subtitle": "The Journal of experimental medicine · 2026",
+    "summary": "Injured epithelial cells expressed chemokines including CXCL6 and CXCL16, defining a microenvironment associated with local immune cell accumulation. Mechanistically, combinations of monoclonal anti-MPO antibodies recognizing distinct epitopes enhanced neutrophil activation and induced pauci-immune crescentic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895484/",
+    "tags": [
+      "glomerulonephritis",
+      "neutrophils",
+      "autoantibodies",
+      "antibodies-antineutrophil-cytoplasmic"
+    ],
+    "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42695405",
     "title": "Targeting integrated cell death networks in sepsis‑associated acute kidney injury: Shared regulatory nodes and diet‑related small molecule modulation (Review)",
     "subtitle": "International journal of molecular medicine · 2026",
@@ -1654,6 +1684,21 @@
       "diet"
     ],
     "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42897130",
+    "title": "Real-world renoprotective effects of polyethylene glycol-loxenatide in type 2 diabetes: a multicenter, ambispective cohort study",
+    "subtitle": "Signal transduction and targeted therapy · 2026",
+    "summary": "This multicenter, ambispective cohort study enrolled 3305 patients with type 2 diabetes mellitus, renal impairment, and elevated cardiovascular risk at six Chinese tertiary institutions (median follow-up 36.4 months; trial registration: ChiCTR2300073001). Polyethylene glycol-loxenatide was associated with a reduced…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42897130/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "polyethylene-glycols",
+      "renal-insufficiency-chronic",
+      "cardiovascular-diseases"
+    ],
+    "date": "2026-10-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2783,6 +2828,103 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42896873",
+    "title": "Prognostic Value of Sudomotor Small-Fiber Function and Large Nerves for Accelerated Renal Decline in Type 2 Diabetes: A Real-World Cohort Study",
+    "subtitle": "Journal of diabetes · 2026",
+    "summary": "A distinct prognostic dissociation exists within the diabetic neuro-renal axis. Sudomotor small-fiber dysfunction primarily reflects established microvascular impairment, whereas large motor nerve degeneration demonstrates independent prognostic value for future accelerated renal decline.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896873/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "diabetic-neuropathies"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42896539",
+    "title": "[Membranous nephropathy]",
+    "subtitle": "Deutsche medizinische Wochenschrift (1946) · 2026",
+    "summary": "In addition, an increase, or the depletion of PLAR1-ab is followed by a relapse, or remission of disease, respectively, making them an ideal biomarker for treatment management. Since spontaneous remission of disease is common, immunosuppressive treatment is recommended only for patients with a high risk for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896539/",
+    "tags": [
+      "glomerulonephritis-membranous"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42896538",
+    "title": "[From Observation to Understanding: C3 Glomerulopathy and Immune-Complex-Associated Membranoproliferative Glomerulonephritis]",
+    "subtitle": "Deutsche medizinische Wochenschrift (1946) · 2026",
+    "summary": "In recent years, the field of glomerulonephritis has become more accessible not only to physicians who need to understand and recognize these conditions, but also to patients who now have new treatment options available to them. For glomerulonephritis with a membranoproliferative phenotype, a better understanding of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896538/",
+    "tags": [
+      "glomerulonephritis-membranoproliferative",
+      "complement-c3",
+      "antigen-antibody-complex",
+      "immune-complex-diseases"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42896537",
+    "title": "[IgA Nephropathy Update 2025/2026]",
+    "subtitle": "Deutsche medizinische Wochenschrift (1946) · 2026",
+    "summary": "Immunoglobulin A nephropathy (IgAN) is the most common form of primary glomerulonephritis and has undergone a therapeutic revolution in just a few years that is unprecedented in nephrology. For the first time, the guidelines define remission as a realistic treatment goal and solidify the so-called \"dual-pillar\"…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896537/",
+    "tags": [
+      "glomerulonephritis-iga"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42896045",
+    "title": "Effects of muscle strength training with blood flow restriction on glomerular function in people with stage 3 chronic kidney disease",
+    "subtitle": "Jornal brasileiro de nefrologia · 2026",
+    "summary": "MST+BFR was not associated with severe adverse effects on serum creatinine/cystatin C levels, eGFR estimates, or urinary creatinine and microalbuminuria levels, but it may significantly increase albuminuria levels.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896045/",
+    "tags": [
+      "resistance-training",
+      "glomerular-filtration-rate",
+      "renal-insufficiency-chronic",
+      "blood-flow-restriction-therapy"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42895210",
+    "title": "tRF-15:31-Arg-CCT-3-1 Improves Diabetic Kidney Disease by Reducing AATF and Alleviating Mesangial Cell Oxidative Stress and Inflammation",
+    "subtitle": "Immunity, inflammation and disease · 2026",
+    "summary": "Collectively, these findings suggest that tRF-15:31 attenuates inflammation and oxidative stress in the STZ-induced DKD model, at least in part through regulation of AATF expression. These findings provide additional mechanistic evidence for tRF-mediated regulation in DKD and support further investigation of the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895210/",
+    "tags": [
+      "oxidative-stress",
+      "diabetic-nephropathies",
+      "mesangial-cells",
+      "inflammation"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42895056",
+    "title": "Detection and Risk Prediction of Diabetes Related Kidney Disease Using Retinal Images: A Systematic Review and Meta-Analysis",
+    "subtitle": "Journal of diabetes · 2026",
+    "summary": "Deep learning models may be useful for detecting and predicting DRKD from retinal images, with or without clinical data. However, the small number of heterogenous studies restricts generalizability.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895056/",
+    "tags": [
+      "deep-learning",
+      "diabetic-nephropathies",
+      "retina"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4194,149 +4336,6 @@
       "nails"
     ],
     "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42814514",
-    "title": "Natural Killer Cells in Kidney Transplantation: Dual Role in Allograft Injury and Immune Adaptation",
-    "subtitle": "Archivum immunologiae et therapiae experimentalis · 2026",
-    "summary": "While T and B cells and donor-specific antibodies (DSA) have been the main focus, accumulating evidence indicates that natural killer (NK) cells play a significant dual role in both graft injury and immune adaptation, including in DSA-negative rejection. NK cells exert a dual, often opposing role in kidney…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814514/",
-    "tags": [
-      "kidney-transplantation",
-      "killer-cells-natural",
-      "graft-rejection"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42814272",
-    "title": "Trained Immunity as a Mechanistic Bridge Between Uremic Toxins, Atherosclerosis, and Vascular Calcification in Chronic Kidney Disease",
-    "subtitle": "Cardiovascular toxicology · 2026",
-    "summary": "Because these trained phenotypes may be epigenetically durable, conventional dialysis and downstream anti-inflammatory therapies may be insufficient to reverse cardiovascular risk in CKD. This review summarizes the graded mechanistic evidence potentially linking uremic toxin-induced trained immunity to atherosclerosis…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814272/",
-    "tags": [
-      "atherosclerosis",
-      "renal-insufficiency-chronic",
-      "uremic-toxins",
-      "trained-immunity"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42814257",
-    "title": "Comparative ultrasonographic and clinical assessment of major salivary glands in patients with chronic kidney disease and healthy controls",
-    "subtitle": "Clinical oral investigations · 2026",
-    "summary": "This study suggests that dimensional and structural changes may occur in the major salivary glands of CKD patients on dialysis. Significant differences in ATCAs of salivary glands and heterogeneity versus controls, independent of age, suggest that CKD may be associated with alterations in gland morphology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814257/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "salivary-glands"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42884660",
-    "title": "High-Protein Intake Impact on Human and Animal Kidney Function Across the Lifespan: Clinical Evidence and Emerging Concepts",
-    "subtitle": "Nutrients · 2026",
-    "summary": "A balance should be maintained between excessive protein intake, which may aggravate existing dysfunctions, and overly restrictive protein consumption, which may lead to sarcopenia in older adults and impaired growth/development in children. A personalized approach is essential, taking into account age, kidney…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884660/",
-    "tags": [
-      "kidney",
-      "renal-insufficiency-chronic",
-      "diet-high-protein",
-      "dietary-proteins"
-    ],
-    "date": "2026-09-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42829710",
-    "title": "Median Effective Concentration of Ropivacaine for Ultrasound-Guided T(11) Thoracic Paravertebral Block in Patients with End-Stage Renal Disease: A Dixon Up-and-Down Dose-Finding Study",
-    "subtitle": "Drug design, development and therapy · 2026",
-    "summary": "The EC50 of ropivacaine for TPVB in ESRD patients undergoing PDC was approximately 0.17%-0.18%, with favorable early recovery and acceptable safety. Given that EC50 reflects efficacy in only 50% of patients, EC90/EC95 studies are needed before definitive dosing recommendations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829710/",
-    "tags": [
-      "ropivacaine",
-      "kidney-failure-chronic",
-      "anesthetics-local",
-      "nerve-block"
-    ],
-    "date": "2026-09-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42829622",
-    "title": "Identification of Risk Factors and Prediction Models for Acute Kidney Injury in Hospitalized Elderly Patients with Heart Failure",
-    "subtitle": "Clinical interventions in aging · 2026",
-    "summary": "In this single-center study with internal validation only, the prediction model demonstrated favorable performance for in-hospital AKI in elderly HF patients and may serve as a candidate tool for early risk stratification. External validation in independent cohorts is required before routine clinical implementation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829622/",
-    "tags": [
-      "heart-failure",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-09-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42810794",
-    "title": "Initial vascular access type and associated factors among incident haemodialysis patients: a multicentre retrospective observational study",
-    "subtitle": "BMJ open · 2026",
-    "summary": "Initial AVF use was uncommon and was associated with baseline clinical status and centre. These observational findings support timely predialysis assessment and individualised vascular-access planning, but they do not show that access type caused subsequent biochemical differences.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42810794/",
-    "tags": [
-      "renal-dialysis",
-      "arteriovenous-shunt-surgical",
-      "central-venous-catheters",
-      "catheterization-central-venous"
-    ],
-    "date": "2026-09-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42809158",
-    "title": "Metabolite-based Analysis of High-Risk Factors on Occurrence of AKI in Patients with Acute Myocardial Infarction",
-    "subtitle": "Journal of cardiovascular translational research · 2026",
-    "summary": "Current methods lack high‑risk identification for acute kidney injury (AKI) after acute myocardial infarction (AMI). LVEF, 5‑MTP, and UMOD are key metabolic indicators for early AKI risk identification.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42809158/",
-    "tags": [
-      "acute-kidney-injury",
-      "myocardial-infarction",
-      "percutaneous-coronary-intervention",
-      "metabolomics"
-    ],
-    "date": "2026-09-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42766751",
-    "title": "Selective ablation of dsDNA-specific plasma cells improves lupus nephritis in NZB/W mice",
-    "subtitle": "Proceedings of the National Academy of Sciences of the United States of America · 2026",
-    "summary": "With a conjugate of a modified antibody to mouse CD138 and 100 bp dsDNA oligonucleotides, we demonstrate the selective depletion of dsDNA-specific antibody secreting plasma cells in NZB/W mice, a mouse model of lupus nephritis. This demonstration of the therapeutic efficacy of antigen-specific ablation of pathogenic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42766751/",
-    "tags": [
-      "plasma-cells",
-      "lupus-nephritis",
-      "dna",
-      "antibodies-antinuclear"
-    ],
-    "date": "2026-09-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42870244",
-    "title": "Stage-dependent alterations in MaR1 in pediatric chronic kidney disease: a potential candidate biomarker",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "Serum MaR1 concentrations show a stage-dependent pattern in pediatric CKD, characterized by marked suppression at stage 1 followed by progressive recovery and elevation in advanced stages. These findings suggest that circulating MaR1 may represent a candidate biomarker of disease-related inflammatory dynamics;…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42870244/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "docosahexaenoic-acids"
-    ],
-    "date": "2026-09-28T00:00:00.000Z",
     "pinned": false
   }
 ]

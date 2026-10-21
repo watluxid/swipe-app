@@ -59,6 +59,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42902602",
+    "title": "Long-term outcome of stenting for the iliac vein stenosis with ipsilateral arterio-venous graft; a case series",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Using BMS is a safe and effective method to treat iliac vein stenosis with ipsilateral AVG.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902602/",
+    "tags": [
+      "stents",
+      "iliac-vein",
+      "arteriovenous-shunt-surgical",
+      "renal-dialysis"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42902599",
+    "title": "Bilateral peripheral CT venography for evaluating central venous lesions in dysfunctional arteriovenous fistulas: feasibility, safety, and radiation dose in hemodialysis patients",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Bilateral peripheral CT venography demonstrated high technical feasibility, acceptable safety, and effective visualization of central venous abnormalities in hemodialysis patients with dysfunctional AVFs. Further prospective studies are needed to validate its diagnostic performance and clinical impact.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902599/",
+    "tags": [
+      "renal-dialysis",
+      "phlebography",
+      "arteriovenous-shunt-surgical",
+      "computed-tomography-angiography"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42885316",
     "title": "Gut microbiota in patients receiving dialysis: Mechanisms, complications and the road to personalized microbiome‑based care (Review)",
     "subtitle": "Molecular medicine reports · 2026",
@@ -1687,6 +1717,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42902549",
+    "title": "Contrast-Associated Acute Kidney Injury in Oncology Patients During Active Chemotherapy: A Saudi Arabian Retrospective Study",
+    "subtitle": "Medical science monitor : international medical journal of experimental and clinical research · 2026",
+    "summary": "CONCLUSIONS CA-AKI incidence was relatively low (1.4%) in oncology patients with preserved baseline renal function undergoing CECT during active chemotherapy. These findings provide preliminary regional data from Saudi Arabia and underscore the need for larger, well-designed prospective studies to better characterize…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902549/",
+    "tags": [
+      "acute-kidney-injury",
+      "contrast-media",
+      "neoplasms"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42902150",
+    "title": "Cardio-renal dysfunction in prediabetes and early type 2 diabetes: insights from myocardial strain and renal Doppler assessment",
+    "subtitle": "BMC cardiovascular disorders · 2026",
+    "summary": "Prediabetes and early T2DM were associated with subclinical abnormalities in myocardial mechanics and renal vascular indices despite preserved conventional cardiac and renal function. Myocardial strain and renal Doppler measures may provide complementary phenotypic information, but prospective validation is required…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902150/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "prediabetic-state",
+      "ventricular-function-left",
+      "kidney"
+    ],
+    "date": "2026-10-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42897130",
     "title": "Real-world renoprotective effects of polyethylene glycol-loxenatide in type 2 diabetes: a multicenter, ambispective cohort study",
     "subtitle": "Signal transduction and targeted therapy · 2026",
@@ -2828,6 +2887,21 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42901880",
+    "title": "C3 Glomerulopathy in Autoinflammatory-Pancytopenia Syndrome: A Case Report",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "Kidney function tests normalized after receiving intravenous methylprednisolone, but proteinuria is still persistent, which indicates that AKI was on top of chronic kidney disease in the presence of C3G. In conclusion, C3G is a new form of kidney involvement associated with AIPCS.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901880/",
+    "tags": [
+      "pancytopenia",
+      "complement-c3",
+      "glomerulonephritis-membranoproliferative",
+      "hereditary-autoinflammatory-diseases"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4262,78 +4336,6 @@
       "glomerulonephritis-membranous",
       "hematopoietic-stem-cell-transplantation",
       "cadherins"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42816092",
-    "title": "Anakinra versus intramuscular methylprednisolone acetate for gout flares in people with chronic kidney disease (ASGARD): a UK randomised multicentre, double-blind, double-dummy controlled feasibility study with economic, qualitative and safety assessment",
-    "subtitle": "BMJ open · 2026",
-    "summary": "We demonstrated the feasibility of conducting a definitive randomised controlled trial with insights from treatment effects, safety data, reconciliation of assessments, economic evaluation and participant experience. Improved case finding in the community, with streamlined processes during gout flare should be…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816092/",
-    "tags": [
-      "gout",
-      "renal-insufficiency-chronic",
-      "interleukin-1-receptor-antagonist-protein",
-      "methylprednisolone-acetate"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42815975",
-    "title": "Associations of dietary macronutrients and energy intake with diabetic kidney disease and all-cause mortality in diabetes: evidence from NHANES",
-    "subtitle": "BMJ open diabetes research & care · 2026",
-    "summary": "In this observational analysis, higher protein (>74 g/day) and fiber intake (>14 g/day) were associated with lower DKD prevalence in diabetes, while maintaining daily energy within 1750-1810 kcal is associated with the lowest all-cause mortality risk. These findings suggest potential reference values for dietary…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42815975/",
-    "tags": [
-      "energy-intake",
-      "diabetic-nephropathies",
-      "nutrients",
-      "diet"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42814994",
-    "title": "Quality and Functional Breadth of Publicly Available Mobile Apps Supporting Self-Management After Kidney Transplantation: Cross-Sectional App Store Evaluation",
-    "subtitle": "JMIR formative research · 2026",
-    "summary": "Few publicly available apps met the eligibility criteria. Although trained-rater MARS assessments were generally favorable, functions involving data evaluation and individualized guidance or intervention were less frequently implemented.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814994/",
-    "tags": [
-      "kidney-transplantation",
-      "mobile-applications",
-      "self-management"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42814869",
-    "title": "The Role of Human Leukocyte Antigen (HLA) Allele Patterns in the Incidence of End-Stage Renal Disease and HLA Antibody Production: Protocol for a Case-Control Study",
-    "subtitle": "JMIR research protocols · 2026",
-    "summary": "This study will evaluate the role of HLA class I and class II allele patterns in the development of ESRD and anti-HLA antibody production, as well as the influence of demographic characteristics, sensitization-related factors (including blood transfusion, pregnancy, and autoimmune disease), and clinical comorbidities…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814869/",
-    "tags": [
-      "kidney-failure-chronic",
-      "hla-antigens"
-    ],
-    "date": "2026-09-30T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42814751",
-    "title": "Assessment of nailfold microcirculation in non-dialysis CKD: Capillaroscopic indicators correlated with renal dysfunction",
-    "subtitle": "PloS one · 2026",
-    "summary": "Results showed that serum creatinine, cystatin C, and CKD stage were independently and positively associated with the capillary number integral, whereas eGFR and hemoglobin were independently and negatively associated with the capillary number integral. In addition, serum creatinine, cystatin C, and CKD stage were…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814751/",
-    "tags": [
-      "microcirculation",
-      "renal-insufficiency-chronic",
-      "microscopic-angioscopy",
-      "nails"
     ],
     "date": "2026-09-30T00:00:00.000Z",
     "pinned": false

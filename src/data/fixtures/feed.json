@@ -1731,6 +1731,77 @@
     "pinned": false
   },
   {
+    "id": "pmid-42909780",
+    "title": "Delayed diagnosis of MEN1 after kidney transplantation: unrecognized pre-transplant features and implications for clinical practice",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "A retrospective review of the patient's medical history revealed several pre-transplant findings suggestive of MEN1 that had not been recognized. The early recognition of MEN1 in KT candidates with recurrent or multiglandular hyperparathyroidism may improve pre-transplant risk assessment and enable appropriate…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909780/",
+    "tags": [
+      "kidney-transplantation",
+      "multiple-endocrine-neoplasia-type-1",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42919210",
+    "title": "Predictors of physical performance decline in patients receiving maintenance hemodialysis: a prospective observational study",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "This prospective study showed that lower femoral bone mineral density and longer hemodialysis vintage were independently associated with physical performance decline in patients receiving maintenance hemodialysis. These findings underscore the potential value of longitudinal physical performance assessment and may…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919210/",
+    "tags": [
+      "renal-dialysis",
+      "physical-functional-performance",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42911966",
+    "title": "Feasibility of a machine learning model for predicting weight gain after kidney transplantation machine learning and weight gain after kidney transplantation",
+    "subtitle": "PloS one · 2026",
+    "summary": "This pioneering study establishes an analytical benchmark and reveals the informational limits of standard clinical datasets for predicting post-transplant weight gain. While Machine Learning application is feasible, current demographic and clinical variables are insufficient for precise individual prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911966/",
+    "tags": [
+      "kidney-transplantation",
+      "weight-gain",
+      "machine-learning"
+    ],
+    "date": "2026-10-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42911875",
+    "title": "Acute Kidney Injury Among Patients with Drug Overdose-Involved Hospitalizations - United States, 2016-2025",
+    "subtitle": "MMWR. Morbidity and mortality weekly report · 2026",
+    "summary": "The percentage of drug overdose-involved hospitalizations with a severe inpatient course increased during 2016-2023 (APC = 1.82%), before decreasing during 2023-2025 (APC = -2.89%). Disproportionately severe inpatient courses among younger patients, who might have more years of life at risk for developing chronic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911875/",
+    "tags": [
+      "drug-overdose",
+      "acute-kidney-injury",
+      "hospitalization"
+    ],
+    "date": "2026-10-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42911313",
+    "title": "Nut Consumption, Kidney Function, Chronic Kidney Disease and Mortality: A Systematic Review",
+    "subtitle": "Current nutrition reports · 2026",
+    "summary": "Higher nut consumption and substitution of red and processed meat with nuts are associated with lower CKD risk or prevalence in some populations. Current evidence suggests that nut consumption, particularly when nuts replace red and processed meat, may be associated with favorable kidney-related outcomes in some…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911313/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "nuts",
+      "kidney",
+      "diet"
+    ],
+    "date": "2026-10-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42908184",
     "title": "Hyponatremic-Hypertensive Syndrome as a Rare Manifestation of Renovascular Hypertension: A Case Series",
     "subtitle": "The American journal of case reports · 2026",
@@ -1742,6 +1813,62 @@
       "renal-artery-obstruction"
     ],
     "date": "2026-10-22T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42920107",
+    "title": "Longitudinal real-time PCR monitoring of CMV DNAemia and renal function in living-donor kidney transplant recipients with low immunological risk",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "In unadjusted analyses, recipients with CMV DNAemia had significantly higher serum creatinine levels at 6 months compared with those with no DNAemia, while the corresponding difference in GFR was not statistically significant. Differences according to preemptive kidney transplantation status were descriptive and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920107/",
+    "tags": [
+      "kidney-transplantation",
+      "dna-viral",
+      "cytomegalovirus-infections",
+      "living-donors"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42919435",
+    "title": "Co-occurrence of aortic dissection and polycystic kidney disease: a case report",
+    "subtitle": "Journal of medical case reports · 2026",
+    "summary": "This case is a reminder to all forensic and clinical pathologists that an extremely uncommon manifestation can occur; therefore, a meticulous approach should always be adopted before corroborating a cause of death, especially in young individuals. The relationship between both conditions in this case remains…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919435/",
+    "tags": [
+      "polycystic-kidney-diseases",
+      "aortic-dissection"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42910856",
+    "title": "Vitamin B12 Intake and Diabetic Kidney Disease: A NHANES-Based Cross-Sectional Study with Transcriptomic Identification of P2RY14",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Diabetic kidney disease (DKD) is a major diabetic complication, and the association between vitamin B12 intake and DKD remains unclear. Restricted cubic spline analysis indicated a significant nonlinear association between vitamin B12 intake and DKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910856/",
+    "tags": [
+      "diabetic-nephropathies",
+      "vitamin-b-12"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42910775",
+    "title": "Herbal-Cake-Separated Moxibustion Ameliorates Renal Fibrosis and Associated Bone Injury in Rats via the TGF-β1/Smad Signaling Pathway",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Compared with controls, model rats showed significantly increased blood urea nitrogen (BUN), serum creatinine (Scr), and kidney index (p < 0.0001); marked renal fibrosis; increased TGF-β1, p-Smad2/3, and Smad2/3; decreased BMP-7; reduced bone mineral density (BMD) and trabecular number; and increased trabecular…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910775/",
+    "tags": [
+      "transforming-growth-factor-beta1",
+      "moxibustion",
+      "kidney",
+      "smad-proteins"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2007,6 +2134,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42919415",
+    "title": "Clinical prediction models in cardiac surgery-associated acute kidney injury: a systematic review and meta-analysis",
+    "subtitle": "Critical care (London, England) · 2026",
+    "summary": "Accurate and well-validated CPMs can facilitate risk stratification for CSA-AKI which can influence clinical practice and research. Thakar 2005 demonstrated very good discrimination for predicting CSA-AKI RRT, whereas more validation studies for the prediction of milder stages of CSA-AKI are warranted.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919415/",
+    "tags": [
+      "acute-kidney-injury",
+      "cardiac-surgical-procedures"
+    ],
+    "date": "2026-10-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42902722",
     "title": "[Preliminary evaluation of the efficacy and safety of telitacicept in children with IgA nephropathy]",
     "subtitle": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics · 2026",
@@ -2046,6 +2186,21 @@
       "gene-expression-regulation"
     ],
     "date": "2026-10-15T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42916032",
+    "title": "Gigantol Ameliorates High-Fat and High-Fructose Diet-Induced Chronic Kidney Disease by Promoting TFEB-Mediated Mitophagy to Suppress Ferroptosis",
+    "subtitle": "Journal of agricultural and food chemistry · 2026",
+    "summary": "Notably, silencing TFEB or blocking mitophagy reversed the effect of gigantol on suppressing ferroptosis and improving renal injury. Overall, this study demonstrates that gigantol alleviates metabolic-dysfunction-related CKD in mice by promoting TFEB-mediated mitophagy to suppress ferroptosis, suggesting that dietary…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916032/",
+    "tags": [
+      "mitophagy",
+      "basic-helix-loop-helix-leucine-zipper-transcription-factors",
+      "renal-insufficiency-chronic",
+      "ferroptosis"
+    ],
+    "date": "2026-10-14T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2903,6 +3058,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42909988",
+    "title": "PEGylated nicotinamide mononucleotide targeted ferroptosis in acute kidney injury by suppressing FAR1 palmitoylation in an ACAA1-dependent manner",
+    "subtitle": "International journal of biological sciences · 2026",
+    "summary": "Furthermore, PEGylation increased the preferential uptake of NMN in mice renal cortex, enhancing its alleviating effect on AKI. Through MALDI-MS-based spatially resolved metabolomics and SEAM analyses, NMN-PEG was found to augment peroxisomal function in PTCs via ACAA1, leading to increased β-oxidation of LCFAs and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909988/",
+    "tags": [
+      "acute-kidney-injury",
+      "ferroptosis",
+      "nicotinamide-mononucleotide",
+      "polyethylene-glycols"
+    ],
+    "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42890771",
     "title": "Consent in the dark: Can living kidney donation proceed amid marital infidelity?",
     "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
@@ -3030,6 +3200,64 @@
       "immunosuppressive-agents"
     ],
     "date": "2026-10-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42912555",
+    "title": "Early Transplant Outcomes and Kidney Donor Profile Index Risk Prediction Performance in Kidneys Recovered Using a Uniform Abdominal Normothermic Regional Perfusion Technique",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In this uniform cohort, aNRP had lower DGF odds than SRR despite higher risk. KDPI-DGF interaction patterns were concordant in SRR-DCD kidneys but less clear in aNRP-DCD; however, formal interaction was not significant.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912555/",
+    "tags": [
+      "kidney-transplantation",
+      "perfusion",
+      "tissue-donors",
+      "delayed-graft-function"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42911878",
+    "title": "Iron and acute kidney injury: potential biomarkers for diagnosis and therapy",
+    "subtitle": "The Journal of pharmacy and pharmacology · 2026",
+    "summary": "Iron metabolism dysregulation and ferroptosis play important roles in AKI pathophysiology. Iron-related proteins represent promising candidates for improving early diagnosis, prognostic evaluation, and targeted treatment of AKI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911878/",
+    "tags": [
+      "acute-kidney-injury",
+      "iron"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42911615",
+    "title": "Discordance Between Fracture Risk and Bone Health Management After Kidney Transplantation: A Nationwide Cohort Study",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Post-transplant bone health management is characterized by delayed assessment and insufficient risk-stratified screening. Risk-adapted strategies are necessary to improve early screening and sustained therapy, particularly for high-risk recipients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911615/",
+    "tags": [
+      "kidney-transplantation",
+      "fractures-bone",
+      "bone-density",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42911593",
+    "title": "Low Daily Protein Intake and Risk of Kidney Failure and Mortality in Chronic Kidney Disease",
+    "subtitle": "JAMA network open · 2026",
+    "summary": "In this cohort study of 1861 patients with nondialysis CKD, low protein intake was not associated with significant nephroprotection and was associated with a higher risk of KFRT and all-cause mortality. These findings suggest that rigid protein restriction should be balanced with nutritional monitoring to prevent…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911593/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "diet-protein-restricted",
+      "dietary-proteins",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4111,234 +4339,6 @@
       "glomerulonephritis-membranous",
       "antigens-cd20",
       "antibodies-monoclonal"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42829224",
-    "title": "A resource consumption analysis of expanded hemodialysis compared to online hemodiafiltration: A provider perspective in Spain",
-    "subtitle": "Nefrologia · 2026",
-    "summary": "HDx with Theranova offers lower resource use and lower costs compared to OL-HDF by reducing the need for specific consumables other than the dialyzer and for water consumption. These findings support the potential benefit of HDx as an efficient dialysis modality that responsibly uses the planet's resources.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829224/",
-    "tags": [
-      "hemodiafiltration",
-      "renal-dialysis",
-      "health-resources"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42828426",
-    "title": "Back-Table Reduction of a Deceased Adult Donor Kidney for Transplantation Into a Small Child: A Six-Year Follow Up",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "In carefully selected circumstances, back-table reduction of a deceased adult donor kidney may be a technically feasible strategy to overcome extreme donor-recipient size mismatch in pediatric kidney transplantation without compromising medium-term graft structure or function.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42828426/",
-    "tags": [
-      "kidney-transplantation"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42825479",
-    "title": "Add-on Moxibustion and Detoxification Enema Alleviates Symptoms and Improves Renal Function in Chronic Kidney Disease: A Retrospective Cohort Study",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "Ccr increased from 24.38 ± 7.21 mL/min/1.73 mto 32.16 ± 5.68 mL/min/1.73 min the treatment group and from 26.15 ± 8.04 mL/min/1.73 mto 29.86 ± 6.29 mL/min/1.73 min the comparison group. Adjunctive moxibustion, combined with a detoxification enema, was associated with improved short-term renal function and reduced TCM…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42825479/",
-    "tags": [
-      "moxibustion",
-      "enema",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42823612",
-    "title": "Early Outpatient bFGF-Based Wound Care for Foot Lesions in Haemodialysis Patients: A Real-World Stepwise Limb-Salvage Strategy From Japan",
-    "subtitle": "International wound journal · 2026",
-    "summary": "Haemodialysis patients face a markedly elevated risk of foot lesions because of coexisting diabetes mellitus (DM), peripheral arterial disease (PAD) and uremia-related impairment of wound healing. To report complete healing and its durability in haemodialysis patients treated with bFGF for foot lesions, and to propose…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823612/",
-    "tags": [
-      "renal-dialysis",
-      "wound-healing",
-      "limb-salvage",
-      "fibroblast-growth-factor-2"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42823134",
-    "title": "Retroperitoneal urinoma presenting as a posterior knee sinus following emphysematous pyelitis",
-    "subtitle": "BMJ case reports · 2026",
-    "summary": "Repeat cross-sectional imaging demonstrated caudal spread of infected retroperitoneal fluid and gas along the iliopsoas and fascial planes into the thigh. Management required multidisciplinary input, broad-spectrum antimicrobial therapy, urinary decompression, radiological drainage, bowel diversion and repeated…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823134/",
-    "tags": [
-      "urinoma",
-      "pyelitis",
-      "emphysema",
-      "intestinal-fistula"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42821141",
-    "title": "Network pharmacology, single-cell transcriptomics, machine learning and experimental validation identifying CHEK2 and HPGD as key therapeutic targets of berberine in diabetic nephropathy",
-    "subtitle": "Functional & integrative genomics · 2026",
-    "summary": "In vitro, berberine normalised CHEK2 and HPGD expression, improved cell viability, reduced apoptosis, and restored structural markers of podocytes (Nephrin, Podocin, WT1), inhibited fibrotic proteins (Collagen I, fibronectin, α-SMA), and alleviated oxidative stress (decreased ROS, decreased MDA, increased SOD,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42821141/",
-    "tags": [
-      "berberine",
-      "diabetic-nephropathies",
-      "checkpoint-kinase-2"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42821127",
-    "title": "Resolution of restless legs syndrome after postdilution online hemodiafiltration using a vitamin E-bonded polysulfone membrane: a report of two cases",
-    "subtitle": "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs · 2026",
-    "summary": "These findings suggest that high-efficiency α1-microglobulin removal and the use of a vitamin E-bonded polysulfone membrane may contribute to improvement in restless legs syndrome through distinct mechanisms. This case report is the first to indicate that the use of a vitamin E-bonded polysulfone membrane during…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42821127/",
-    "tags": [
-      "hemodiafiltration",
-      "vitamin-e",
-      "polymers",
-      "membranes-artificial"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42820717",
-    "title": "Improving Access to Transplant: A Quality Improvement Initiative to Reduce Time From Outpatient Dialysis Initiation to Deceased Donor Kidney Transplant Activation",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Implementation of a structured quality improvement approach was associated with reduced time to transplant activation in pediatric dialysis patients. Improved communication, education, and transplant coordination may represent modifiable factors that may enhance transplant readiness and outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42820717/",
-    "tags": [
-      "kidney-transplantation",
-      "quality-improvement",
-      "renal-dialysis",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42817723",
-    "title": "User Beware: Inaccuracy and Inconsistency of Large Language Models in Providing Precision Dosing Recommendations for Patients With Kidney Impairment-A Case Series",
-    "subtitle": "Pharmacotherapy · 2026",
-    "summary": "Freely available LLMs produce highly variable and often discordant antibiotic dosing recommendations for patients with AKI and receiving CKRT. Although valuable for hypothesis generation and literature retrieval, LLM outputs should not be used in isolation for drug dosing in critically ill patients with kidney…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42817723/",
-    "tags": [
-      "acute-kidney-injury",
-      "anti-bacterial-agents",
-      "cefepime",
-      "meropenem"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42815966",
-    "title": "Inverse correlation between plasma 3-chlorotyrosine and pinch strength in chronic kidney disease patients",
-    "subtitle": "Asia Pacific journal of clinical nutrition · 2026",
-    "summary": "The negative association between plasma 3-CT and pinch strength suggests a link between MPO-mediated inflammation/oxidative stress and fine hand muscle dysfunction, which provides a new perspective for evaluating early, subclinical muscle dysfunction in CKD patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42815966/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "tyrosine",
-      "muscle-strength"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42813962",
-    "title": "Mediation Analysis of Urine Osmolality and Response to Tolvaptan in Autosomal Dominant Polycystic Kidney Disease: A Post Hoc Assessment",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "This study supported short-term change in Uosm as a predictive biomarker of longer-term kidney function in a non-Japanese cohort; the relationship was not significant in the smaller Japanese cohort. Tolvaptan exhibited a direct treatment effect on the growth of kidney volume in both cohorts of ADPKD patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42813962/",
-    "tags": [
-      "tolvaptan",
-      "polycystic-kidney-autosomal-dominant",
-      "antidiuretic-hormone-receptor-antagonists",
-      "kidney"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42813674",
-    "title": "Vampire Problems in Pediatric Kidney Transplantation-Navigating Transformative Experiences and Informed Consent",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "While much is done pre-transplant to educate patients and families on the risks and benefits of transplantation and its associated medical therapies, it can be difficult to truly prepare them for the transformative nature of the transplant- how it will change their lives, their families' lives, and their view of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42813674/",
-    "tags": [
-      "kidney-transplantation",
-      "informed-consent"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42811857",
-    "title": "Trends in Iron Indices among Non-Dialysis Chronic Kidney Disease Patients with Anemia",
-    "subtitle": "Mymensingh medical journal : MMJ · 2026",
-    "summary": "Serum ferritin & TIBC tended to increase and iron and TSAT tended to decrease with the progression of CKD. Iron deficiency is prevalent in ND-CKD patients with anemia in Northern Bangladesh, indicating a need for regular monitoring and tailored management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42811857/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "iron",
-      "anemia",
-      "anemia-iron-deficiency"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42811835",
-    "title": "Predictors of Antibody Response to Hepatitis B Vaccination in Hemodialysis Patients",
-    "subtitle": "Mymensingh medical journal : MMJ · 2026",
-    "summary": "Patients were classified as high responders (anti-HBs ≥100 mIU/ml), poor responders (anti-HBs ≥10 to <100 mIU/ml) and non-responders (anti-HBs <10 mIU/ml). Mean anti-HBs titers were 663±463 mIU/ml in high responders, 31.55±23.24 mIU/ml in poor responders and 3.23±1.98 mIU/ml in non-responders.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42811835/",
-    "tags": [
-      "renal-dialysis",
-      "hepatitis-b-vaccines",
-      "hepatitis-b-antibodies",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42806593",
-    "title": "Rituximab as Rescue or Add-On Therapy for Relapsing or Refractory Lupus Nephritis: A Systematic Review and Meta-Analysis",
-    "subtitle": "Clinical and translational science · 2026",
-    "summary": "Primary outcomes were complete renal response (CRR), partial renal response (PRR), and overall renal response (ORR) at 6, 12, and 24 months; secondary outcomes were changes in proteinuria and serum creatinine. In conclusion, RTX-based rescue or add-on therapy was associated with moderate renal response rates and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42806593/",
-    "tags": [
-      "immunosuppressive-agents",
-      "lupus-nephritis",
-      "rituximab"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42785824",
-    "title": "Patient-provider partnership and advance care planning readiness among non-dialysis patients with chronic kidney disease",
-    "subtitle": "Applied nursing research : ANR · 2026",
-    "summary": "ACP readiness among non-dialysis patients with CKD is not solely determined by disease severity but is closely linked to relational aspects of care. Patient-provider partnership may serve as a key mechanism shaping readiness, underscoring the importance of relationship-centered approaches in facilitating engagement in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42785824/",
-    "tags": [
-      "advance-care-planning",
-      "renal-insufficiency-chronic"
     ],
     "date": "2026-10-01T00:00:00.000Z",
     "pinned": false

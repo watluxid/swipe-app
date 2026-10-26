@@ -59,6 +59,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42928114",
+    "title": "Clinical characteristics and prognosis of IgA nephropathy with predominant light chain deposition",
+    "subtitle": "Renal failure · 2026",
+    "summary": "After adjustment for sex, age, 24-hour urinary protein excretion, and baseline eGFR, a higher κ deposition ratio remained associated with a lower hazard of renal progression (HR [per 1-percentage-point increase] 0.96; 95% CI: 0.94-0.99; = 0.011). A higher κ light-chain deposition ratio was associated with a lower risk…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928114/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "immunoglobulin-kappa-chains",
+      "immunoglobulin-lambda-chains",
+      "kidney"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42928039",
+    "title": "Trends in incident hemodialysis access and mortality in China: results from China Renal Data System 2000-2024",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Over the 25-year period, initial vascular access among Chinese incident HD patients gradually shifted from CVC to AVF/AVG, reflecting ongoing and considerable improvements in vascular access practice in China. CVC use at HD initiation was associated with higher all-cause mortality compared with AVF/AVG.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928039/",
+    "tags": [
+      "renal-dialysis",
+      "arteriovenous-shunt-surgical",
+      "kidney-failure-chronic",
+      "catheterization-central-venous"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42924612",
     "title": "HMGN5 promotes renal tubular inflammation and pyroptosis‑associated signaling in chronic kidney disease via the IFNAR2 axis",
     "subtitle": "International journal of molecular medicine · 2026",
@@ -1761,6 +1791,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42928488",
+    "title": "Bilateral Xanthogranulomatous Pyelonephritis in a Patient With Spina Bifida and Neurogenic Bladder: A Case Report",
+    "subtitle": "The American journal of case reports · 2026",
+    "summary": "Imaging demonstrated severe bilateral hydronephrosis, diffuse renal parenchymal destruction and calcifications, and right-sided staghorn calculi, consistent with advanced bilateral XGP. CONCLUSIONS This case illustrates the severe clinical consequences of advanced bilateral XGP in a high-risk patient with neurogenic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928488/",
+    "tags": [
+      "urinary-bladder-neurogenic",
+      "spinal-dysraphism",
+      "pyelonephritis-xanthogranulomatous"
+    ],
+    "date": "2026-10-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42927542",
+    "title": "Urinary circRNA hsa_circ_0001334: a potential non-invasive early indicator of subsequent renal allograft rejection",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "Our findings suggest a potential involvement of the hsa_circ_0001334/hsa-miR-665/CNR2 axis in immune-mediated injury during kidney allograft rejection. Urinary hsa_circ_0001334 may serve as a potential non-invasive biomarker for early risk stratification of subsequent rejection, though further validation in larger…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927542/",
+    "tags": [
+      "rna-circular",
+      "kidney-transplantation",
+      "graft-rejection"
+    ],
+    "date": "2026-10-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42921780",
     "title": "Effects of E-Coach-Based Chronic Disease Management on Self-Management, Quality of Life, and Mental Health in Maintenance Hemodialysis Patients",
     "subtitle": "Journal of visualized experiments : JoVE · 2026",
@@ -1875,6 +1933,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-42928891",
+    "title": "Traditional Chinese Medicine for Diabetic Kidney Disease: Predominantly Preclinical Evidence, Mechanistic Pathways, and Translational Challenges",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "Across these studies, TCM interventions improved kidney function indices and attenuated glomerular and tubulointerstitial injury. Reported effects included restored antioxidant enzyme activity, reduced pro-inflammatory cytokine production, suppressed profibrotic signaling, increased levels of autophagy-related…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928891/",
+    "tags": [
+      "diabetic-nephropathies",
+      "medicine-chinese-traditional",
+      "drugs-chinese-herbal"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42920107",
     "title": "Longitudinal real-time PCR monitoring of CMV DNAemia and renal function in living-donor kidney transplant recipients with low immunological risk",
     "subtitle": "BMC nephrology · 2026",
@@ -1957,6 +2029,21 @@
       "neoplasms"
     ],
     "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42927069",
+    "title": "HbA1c and LDL-C Time in Therapeutic Range: A Study on All-Cause Mortality in Older Adults with Type 2 Diabetes Mellitus and Chronic Kidney Disease",
+    "subtitle": "Clinical interventions in aging · 2026",
+    "summary": "In older adults with T2DM and CKD, higher LDL-TTR was independently associated with lower mortality, and a significant HbA1c-TTR × LDL-TTR interaction suggested that the inverse association of one TTR measure with mortality was attenuated at higher levels of the other. This interaction was absent in the younger cohort…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927069/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "glycated-hemoglobin",
+      "renal-insufficiency-chronic",
+      "cholesterol-ldl"
+    ],
+    "date": "2026-10-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3350,6 +3437,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42928985",
+    "title": "Cordycepin Regulates the Nrf2/Hmox1 Signaling Pathway to Inhibit Ferroptosis and Improve AKI-CKD",
+    "subtitle": "Cell biochemistry and function · 2026",
+    "summary": "In vitro, HOreduced HK-2 cell viability, downregulated GPX4, Nrf2, and Hmox1, and upregulated ACSL4; COR reversed these effects and improved cell survival. Our finding indicated that COR inhibits ferroptosis via activation of the Nrf2/Hmox1 signaling pathway, thereby attenuating renal injury and fibrosis and slowing…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928985/",
+    "tags": [
+      "ferroptosis",
+      "nf-e2-related-factor-2",
+      "signal-transduction",
+      "heme-oxygenase-1"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42927437",
+    "title": "Clinical Profiles and Early Outcomes of Living Kidney Donors With Pre-Existing Type 2 Diabetes",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Living kidney donation by individuals with T2DM is uncommon but increasing. Though differences in early outcomes for T2DM vs. non-T2DM donors were not statistically significant, these null findings are based on small sample sizes and should not be interpreted as evidence of long-term safety.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927437/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "living-donors",
+      "kidney-transplantation",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42925490",
     "title": "The Influence of Plasma and Peritoneal Antiretroviral Drugs Levels on the Shedding of HIV-1 Into Peritoneal Dialysis Effluent",
     "subtitle": "Journal of medical virology · 2026",
@@ -4222,124 +4339,6 @@
       "liver-transplantation",
       "kidney-transplantation",
       "hyperoxaluria-primary"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42847218",
-    "title": "Beyond the 4 pillars: aldosterone synthase inhibition as a fifth frontier in chronic kidney disease management",
-    "subtitle": "American journal of hypertension · 2026",
-    "summary": "The new drug class of aldosterone synthase inhibitors (ASIs), highly selective agents inhibiting CYP11B2 and thereby reducing circulating aldosterone levels, may offer a novel opportunity to effectively lower BP and reduce organ damage mediated by dysregulated aldosterone. A reduction in albuminuria in early phase 2…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42847218/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "hypertension",
-      "cytochrome-p-450-cyp11b2",
-      "antihypertensive-agents"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42844908",
-    "title": "Application value of the albumin-to-globulin ratio in patients with wasp stings: A retrospective cohort study",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "Receiver operating characteristic curve analysis was used to evaluate the predictive performance of admission albumin-to-globulin ratio and its coefficient of variation.ResultsAdmission albumin-to-globulin ratio was significantly lower in the severe group (p < 0.05) and negatively correlated with white blood cell…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42844908/",
-    "tags": [
-      "insect-bites-and-stings",
-      "acute-kidney-injury",
-      "multiple-organ-failure",
-      "wasps"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42844787",
-    "title": "Associations between eating practices during hemodialysis and nutritional status, dialysis adequacy, intradialytic hypotension, and mental health: A cross-sectional study in Palestine",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "Based on the self-reported data, eating during dialysis was not associated with nutritional status or mental health status. Similarly, observational data revealed no association between eating during dialysis and presence of symptoms, decrease in blood pressure, and adequacy of dialysis.ConclusionsBased on…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42844787/",
-    "tags": [
-      "renal-dialysis",
-      "nutritional-status",
-      "mental-health",
-      "hypotension"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42842468",
-    "title": "A territory-wide study on adults hospitalized for rhinovirus infection - mortality, severe adverse respiratory and renal outcomes and relationships with multiple comorbidities",
-    "subtitle": "Journal of medical microbiology · 2026",
-    "summary": "Multiple morbidities in adult patients are associated with severe infections among patients hospitalized for rhinovirus infections.To compare the risks of serious in-hospital outcomes among adults hospitalized for rhinovirus or influenza virus infection and assess the association between multiple morbidities as…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42842468/",
-    "tags": [
-      "picornaviridae-infections",
-      "acute-kidney-injury",
-      "respiratory-insufficiency"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42842323",
-    "title": "Programmed cell death protein 1 (PD-1) regulates metabolic activity of regulatory T cells in ischemia-induced acute kidney injury",
-    "subtitle": "Journal of immunology (Baltimore, Md. : 1950) · 2026",
-    "summary": "Loss of PD-1 expression or antibody-mediated blockade of PD-1 attenuated OXPHOS and expression of genes related to mitochondrial metabolism in Tregs. Our findings reveal the metabolic vulnerability of PD-1-deficient Tregs and underscore the importance of PD-1 in Treg-mediated protection against AKI with implications…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42842323/",
-    "tags": [
-      "t-lymphocytes-regulatory",
-      "acute-kidney-injury",
-      "programmed-cell-death-1-receptor",
-      "reperfusion-injury"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42841896",
-    "title": "Management of renal failure in earthquake-related crush syndrome: Multicenter intensive care outcomes",
-    "subtitle": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES · 2026",
-    "summary": "This study demonstrates the high incidence of AKI in earthquake-related CS, underscores the need for improved disaster preparedness with adequate dialysis capacity and early risk stratification using serum myoglobin and creatinine levels for optimal management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42841896/",
-    "tags": [
-      "crush-syndrome",
-      "earthquakes",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42841886",
-    "title": "Clinical predictors of mortality in earthquake victims with crush-related acute kidney injury requiring hemodialysis",
-    "subtitle": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES · 2026",
-    "summary": "Mortality among earthquake victims with crush-related renal injury depends primarily on overall disease severity rather than renal function alone. Septic shock, blood chemistry imbalances, and prolonged entrapment were the main determinants of survival.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42841886/",
-    "tags": [
-      "earthquakes",
-      "acute-kidney-injury",
-      "renal-dialysis",
-      "crush-injuries"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42841542",
-    "title": "Pre-Transplant CT Body Composition and Graft Outcomes in Pediatric Kidney Transplant Recipients: Revisiting the Adult Paradigm",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "No statistically significant association was detected between pre-transplant body composition parameters and adverse outcomes in this cohort of pediatric kidney transplant recipients. These preliminary findings suggest caution in directly extrapolating adult sarcopenia thresholds to children and highlight the need for…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42841542/",
-    "tags": [
-      "kidney-transplantation",
-      "body-composition",
-      "tomography-x-ray-computed",
-      "sarcopenia"
     ],
     "date": "2026-10-01T00:00:00.000Z",
     "pinned": false

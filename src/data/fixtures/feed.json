@@ -59,6 +59,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42935188",
+    "title": "Cross-elbow stent placement for refractory arteriovenous fistula stenosis and chronic total occlusion in hemodialysis patients: a single-center retrospective cohort of 42 cases",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Primary outcomes were target lesion primary patency (TLPP), access circuit primary patency (ACPP), access circuit secondary patency, and access circuit assisted primary patency, estimated by Kaplan-Meier. Cross-elbow stenting was technically feasible and provided favorable short- to mid-term patency without…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935188/",
+    "tags": [
+      "renal-dialysis",
+      "arteriovenous-shunt-surgical",
+      "stents",
+      "graft-occlusion-vascular"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42928114",
     "title": "Clinical characteristics and prognosis of IgA nephropathy with predominant light chain deposition",
     "subtitle": "Renal failure · 2026",
@@ -1791,6 +1806,77 @@
     "pinned": false
   },
   {
+    "id": "pmid-42932871",
+    "title": "Early Prediction and Prognosis in Acute Kidney Injury Using a Biomarker-Aware Transformer: Retrospective Multicenter Study",
+    "subtitle": "JMIR medical informatics · 2026",
+    "summary": "BAT-AKI provides generalizable AKI prediction and prognosis with consistent discrimination across institutions, while offering interpretability insights into its predictions, supporting its potential for early warning and AKI care optimization.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932871/",
+    "tags": [
+      "acute-kidney-injury",
+      "biomarkers"
+    ],
+    "date": "2026-10-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42932283",
+    "title": "Hydraulic performance of 14-G hemodialysis catheters versus an 8-Fr arterial cannula in a mock 3-kg small-dog cardiopulmonary bypass circuit",
+    "subtitle": "PloS one · 2026",
+    "summary": "This in vitro study evaluated one 8-French pediatric arterial cannula and six 14-gauge hemodialysis catheter specimens-separate side-hole and sealed specimens at effective lengths of 25, 32, and 38 mm-in a closed-loop mock circuit for a 3-kg small dog. Together, these findings indicate small observed circuit-level…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932283/",
+    "tags": [
+      "cardiopulmonary-bypass",
+      "catheters",
+      "renal-dialysis",
+      "cannula"
+    ],
+    "date": "2026-10-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42932125",
+    "title": "A rare twist after Ex-vivo RIRS: graft parenchymal urine leak in a living donor kidney",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Parenchymal urine leaks following ex-vivo retrograde intrarenal surgery (RIRS) in donor kidneys are exceptionally rare. To the best of our knowledge, this represents the first reported case of graft parenchymal urine leakage following ex-vivo RIRS in a living donor kidney transplant.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932125/",
+    "tags": [
+      "kidney-transplantation",
+      "kidney",
+      "postoperative-complications"
+    ],
+    "date": "2026-10-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42931856",
+    "title": "Intracardiac thrombus and multiple venous thromboses revealing focal segmental glomerulosclerosis",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Computed tomography of the chest, abdomen, and pelvis revealed multiple thrombotic events, including deep vein thrombosis of the lower extremities, partial thrombosis of the left renal vein, and a left ventricular intracardiac thrombus measuring 23 × 20 mm. This case highlights the exceptional occurrence of a left…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931856/",
+    "tags": [
+      "glomerulosclerosis-focal-segmental",
+      "venous-thrombosis",
+      "thrombosis",
+      "heart-diseases"
+    ],
+    "date": "2026-10-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42929381",
+    "title": "Music-based interventions for people with kidney failure undergoing haemodialysis",
+    "subtitle": "The Cochrane database of systematic reviews · 2026",
+    "summary": "Music-based interventions may reduce fatigue, depressive symptoms, and pain in people undergoing haemodialysis in the short term compared with usual care or other comparator interventions. The evidence is very uncertain about the effect of music-based interventions on blood pressure in the short term.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929381/",
+    "tags": [
+      "renal-dialysis",
+      "music-therapy",
+      "renal-insufficiency"
+    ],
+    "date": "2026-10-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42928488",
     "title": "Bilateral Xanthogranulomatous Pyelonephritis in a Patient With Spina Bifida and Neurogenic Bladder: A Case Report",
     "subtitle": "The American journal of case reports · 2026",
@@ -1933,6 +2019,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-42931248",
+    "title": "Long-Term Autoimmune Risk Following Pediatric Acute Pyelonephritis: A Nationwide Cohort Study",
+    "subtitle": "Pathogens (Basel, Switzerland) · 2026",
+    "summary": "Hospitalization for childhood APN was associated with increased autoimmune disease risk through early adolescence. The stronger association with recurrence suggests a dose-response relationship.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931248/",
+    "tags": [
+      "pyelonephritis",
+      "autoimmune-diseases"
+    ],
+    "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42928891",
     "title": "Traditional Chinese Medicine for Diabetic Kidney Disease: Predominantly Preclinical Evidence, Mechanistic Pathways, and Translational Challenges",
     "subtitle": "Drug design, development and therapy · 2026",
@@ -2029,6 +2128,21 @@
       "neoplasms"
     ],
     "date": "2026-10-21T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42934110",
+    "title": "[LGALS3 is an efferocytosis-related biomarker and potential traditional Chinese medicine therapeutic target for diabetic kidney disease complicated with heart failure]",
+    "subtitle": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University · 2026",
+    "summary": "DKD-CHF is associated with inflammatory/metabolic abnormalities and impairment of efferocytosis-mediated immune clearance. LGALS3 is a critical node connecting inflammatory pathways to target organ efferocytosis dysfunction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934110/",
+    "tags": [
+      "heart-failure",
+      "medicine-chinese-traditional",
+      "galectin-3",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-10-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2380,6 +2494,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42931534",
+    "title": "Evaluation of Two Non-Invasive Extracorporeal Strategies for Enhancing Protein-Bound Uremic Toxin Removal During Hemodialysis",
+    "subtitle": "Toxins · 2026",
+    "summary": "No measurable influence on PBUT release was observed during EM field-tests (f = 1-600 MHz, E <= 1 kV/m), but temperature tests (35-40 °C range) showed an absolute increase in IS free fraction of 0.7%/°C. Furthermore, static equilibrium dialysis tests, including IS, p-cresyl sulfate (pCS) and hippuric acid (HA), showed…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931534/",
+    "tags": [
+      "renal-dialysis",
+      "uremic-toxins",
+      "indican",
+      "uremia"
+    ],
+    "date": "2026-10-13T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42867023",
     "title": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure",
     "subtitle": "The Cochrane database of systematic reviews · 2026",
@@ -2422,6 +2551,18 @@
       "kidney-failure-chronic"
     ],
     "date": "2026-10-13T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42930120",
+    "title": "Analytical Evaluation of Simulated Kidney-Disease Profiles: Comparison of a Portable Near-Infrared Spectrophotometer with a Benchtop FT-NIR",
+    "subtitle": "Biosensors · 2026",
+    "summary": "For FT-NIR binary 'healthy/disease' profile discrimination, SVM-RBF yielded a validation AUC of 0.99, accuracy of 0.71 and a specificity of 0.47. The comparison quantifies the information retained and lost when continuous FT-NIR sampling is reduced to six broad discrete channels; validation in clinically characterized…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930120/",
+    "tags": [
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-12T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3437,6 +3578,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42934981",
+    "title": "Support Utilization, Not Availability, Is Associated With Lower Burnout and Presenteeism Among Haemodialysis Nurses: A JD-R Model Study",
+    "subtitle": "Nursing open · 2026",
+    "summary": "In clinical practice, activating support utilization (e.g., help-seeking behaviours) appears more critical than merely providing resources. Trust in leadership may directly safeguard organizational performance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934981/",
+    "tags": [
+      "presenteeism",
+      "renal-dialysis",
+      "burnout-professional",
+      "social-support"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42934835",
+    "title": "Circulating NLRP3 Inflammasome Activation Is Associated With Sepsis-Associated Acute Kidney Injury and Disease Severity: A Prospective Pilot Study",
+    "subtitle": "Immunity, inflammation and disease · 2026",
+    "summary": "Exploratory ROC analyses suggested strong discrimination of concurrent AKI status for ASC, caspase-1, and NLRP3 transcript levels, with the strongest overall performance observed on day 3. The NLRP3 inflammasome pathway is prominently activated in patients with SA-AKI and is closely associated with renal dysfunction…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934835/",
+    "tags": [
+      "nlr-family-pyrin-domain-containing-3-protein",
+      "acute-kidney-injury",
+      "sepsis",
+      "inflammasomes"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42928985",
     "title": "Cordycepin Regulates the Nrf2/Hmox1 Signaling Pathway to Inhibit Ferroptosis and Improve AKI-CKD",
     "subtitle": "Cell biochemistry and function · 2026",
@@ -4166,179 +4337,6 @@
     "tags": [
       "kidney-transplantation",
       "perioperative-care"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42860662",
-    "title": "\"I Think It's Institutional Racism:\" Pediatric Social Workers' Explanations of Racial Disparities in Kidney Transplant Access for Black Children in the United States",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Findings suggest that transplant evaluation processes may reinforce structural racism. Unlike prior studies emphasizing patient-level explanations, participants identified healthcare systems as key contributors to inequity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42860662/",
-    "tags": [
-      "kidney-transplantation",
-      "healthcare-disparities",
-      "black-or-african-american",
-      "social-workers"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42860547",
-    "title": "RIPC Protects Against Renal Ischaemia-Reperfusion Injury by Activating SIRT3/Parkin-Mediated Mitophagy",
-    "subtitle": "Journal of cellular and molecular medicine · 2026",
-    "summary": "We used a murine bilateral renal ischaemia-reperfusion injury (IRI) model, including RIPC pretreatment, 3-methyladenine (3-MA) intervention and SIRT3 knockout intervention, and a HK-2 cell hypoxia/reoxygenation (H/R) model, including SIRT3 siRNA knockdown, SIRT3 overexpression and chloroquine (CQ) intervention. RIPC…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42860547/",
-    "tags": [
-      "mitophagy",
-      "sirtuin-3",
-      "reperfusion-injury",
-      "ubiquitin-protein-ligases"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42855920",
-    "title": "Kidney Transplantation From a Heterozygous CLDN19 Carrier in a Child With FHHNC: A 2-Year Follow-Up",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Given the shortage of deceased donor organs, heterozygous parents may be considered suitable donors for children with FHHNC, provided they undergo comprehensive genetic, biochemical, and radiological evaluation to exclude evidence of tubular dysfunction. However, this conclusion should be limited to carefully selected…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42855920/",
-    "tags": [
-      "kidney-transplantation",
-      "claudins",
-      "nephrocalcinosis",
-      "hypercalciuria"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42854109",
-    "title": "Development and Validation of CKD-MKAP: A Malnutrition Perceived Knowledge, Attitude, and Practice (KAP) Scale for Patients With Chronic Kidney Diseases (CKD) in China",
-    "subtitle": "Nursing open · 2026",
-    "summary": "The CKD-MKAP is a valid and reliable instrument that can be effectively utilized by clinical nurses to evaluate the malnutrition-related KAP among CKD patients in mainland China.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42854109/",
-    "tags": [
-      "health-knowledge-attitudes-practice",
-      "renal-insufficiency-chronic",
-      "malnutrition",
-      "psychometrics"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42852716",
-    "title": "Associations between advanced lung cancer inflammation index score and kidney outcomes in intensive care unit patients with diabetes: A retrospective cohort study",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "Higher log-transformed advanced lung cancer inflammation index scores were associated with a lower hazard of major adverse kidney events within 30 days (hazard ratio, 0.89; 95% confidence interval, 0.82-0.96). Machine-learning interpretation supported the contribution of the advanced lung cancer inflammation index…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42852716/",
-    "tags": [
-      "lung-neoplasms",
-      "acute-kidney-injury",
-      "inflammation",
-      "diabetes-mellitus"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42850689",
-    "title": "A pilot prospective cohort study: Changes in circulating T-lymphocyte subsets during steroid therapy in patients with nephrotic syndrome",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "The current prospective pilot cohort study explored T-cell immune phenotypes associated with steroid responsiveness in patients with nephrotic syndrome.MethodsEleven patients newly diagnosed with nephrotic syndrome between 2023 and 2024, classified as steroid-sensitive or steroid-resistant based on treatment outcomes,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42850689/",
-    "tags": [
-      "nephrotic-syndrome",
-      "t-lymphocyte-subsets",
-      "steroids"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42848908",
-    "title": "Disease Experiences of Adolescents With Chronic Kidney Disease: A Phenomenological Study",
-    "subtitle": "Journal of evaluation in clinical practice · 2026",
-    "summary": "Adolescents with CKD experience multidimensional challenges affecting their physical, psychological, and social lives. Addressing these challenges requires comprehensive and structured support.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42848908/",
-    "tags": [
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42848472",
-    "title": "The Association Between Sublingual Microvascular Dysfunction and Plasminogen Activator Inhibitor-One Levels in Chronic Kidney Disease Patients: An Exploratory Study",
-    "subtitle": "Microcirculation (New York, N.Y. : 1994) · 2026",
-    "summary": "PAI-1 is potentially associated with maladaptive hemodynamic changes in the sublingual microcirculation, implying its dysregulation may potentiate microvascular dysfunction. The results, however, must be interpreted with caution as no associations survived the Benjamini-Hochberg correction.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42848472/",
-    "tags": [
-      "microcirculation",
-      "plasminogen-activator-inhibitor-1",
-      "mouth-floor",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42848402",
-    "title": "Survival Outcomes Following Preemptive vs Nonpreemptive Kidney Transplantation",
-    "subtitle": "JAMA network open · 2026",
-    "summary": "In this study, preemptive transplantation was not associated with improved patient survival but was associated with lower rates of delayed graft function and death-censored graft failure. Findings challenge presumed survival advantages and suggest preemptive strategies should focus on preventing early graft…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42848402/",
-    "tags": [
-      "kidney-transplantation",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42847950",
-    "title": "Effects of mRNA Vaccination on the Progression of Chronic Kidney Disease",
-    "subtitle": "Clinical laboratory · 2026",
-    "summary": "The findings of this five-year retrospective cohort study indicate that neither mRNA-based nor inactivated COVID-19 vaccines accelerate the progression of chronic kidney disease. These results support the renal safety of both vaccine types in patients with chronic kidney disease and may help reduce concerns about…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42847950/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "covid-19-vaccines",
-      "covid-19",
-      "vaccination"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42847324",
-    "title": "Distinct Complement Activation Profiles Between NELL1- and PLA2R-Associated Membranous Nephropathy: A Clinicopathological and Proteomic Study",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "NELL1-associated MN and PLA2R-associated MN differ not only in clinical and histological features but also in glomerular complement deposition. Reduced C3 and C4d deposition in NELL1-associated MN suggests less prominent glomerular complement activation than in PLA2R-associated MN, supporting biological heterogeneity…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42847324/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "receptors-phospholipase-a2",
-      "proteomics",
-      "nerve-tissue-proteins"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42847256",
-    "title": "Sequential Versus Combined Liver-Kidney Transplantation in Pediatric Primary Hyperoxaluria Type 1: A Multi-Center Comparative Cohort Analysis",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Among pediatric patients with primary hyperoxaluria Type 1 who completed both liver and kidney transplantation, sequential transplantation was associated with favorable observed kidney graft outcomes. These findings describe outcomes among recipients who completed both procedures and should not be interpreted as…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42847256/",
-    "tags": [
-      "liver-transplantation",
-      "kidney-transplantation",
-      "hyperoxaluria-primary"
     ],
     "date": "2026-10-01T00:00:00.000Z",
     "pinned": false

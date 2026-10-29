@@ -59,6 +59,18 @@
     "pinned": false
   },
   {
+    "id": "pmid-42951370",
+    "title": "Predicting 12- and 24-month documented CKD progression from routine laboratory data: a single-center temporal evaluation",
+    "subtitle": "Renal failure · 2026",
+    "summary": "This study is proof of concept. Small event counts, follow-up selection and uncertain incremental value limit interpretation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42951370/",
+    "tags": [
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42935188",
     "title": "Cross-elbow stent placement for refractory arteriovenous fistula stenosis and chronic total occlusion in hemodialysis patients: a single-center retrospective cohort of 42 cases",
     "subtitle": "Renal failure · 2026",
@@ -1806,6 +1818,33 @@
     "pinned": false
   },
   {
+    "id": "pmid-42950015",
+    "title": "Acute kidney injury as a systemic disease",
+    "subtitle": "Science translational medicine · 2026",
+    "summary": "Evidence suggests that AKI can initiate long-term renal and cardiovascular disease, even when kidney function appears to recover. We synthesize emerging mechanistic and clinical evidence linking AKI to systemic cardiorenal disease and discuss how biomarkers, imaging, and clinical risk prediction may enable…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950015/",
+    "tags": [
+      "acute-kidney-injury"
+    ],
+    "date": "2026-10-28T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42949128",
+    "title": "Combined Anti-Phospholipase A2 Receptor and Early B-Cell Reconstitution Predict Rituximab Response in Membranous Nephropathy",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "Multivariate analysis identified baseline anti-PLA2R > 155 RU/mL and early B-cell reconstitution as independent risk factors for unsatisfactory RTX response (all P < 0.05). In this retrospective single-center cohort, the combined baseline anti-PLA2R titer and early B-cell reconstitution showed promising discriminative…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949128/",
+    "tags": [
+      "rituximab",
+      "glomerulonephritis-membranous",
+      "receptors-phospholipase-a2",
+      "b-lymphocytes"
+    ],
+    "date": "2026-10-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42945336",
     "title": "Does receiving red yeast rice prescriptions (LipoCol Forte®) increase the risk of end-stage renal disease or not? A retrospective cohort study",
     "subtitle": "PloS one · 2026",
@@ -2722,6 +2761,20 @@
       "hemoglobins"
     ],
     "date": "2026-10-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42948020",
+    "title": "Baseline gut microbiota and short-term response to acupressure combined with thermal stimulation in maintenance hemodialysis patients with functional constipation: an exploratory responder analysis",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "Baseline microbial diversity and community structure were similar between responders and non-responders.andshowed adjusted associations with response, but neither was robust in sensitivity analysis. These findings should therefore be regarded as exploratory rather than predictive.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948020/",
+    "tags": [
+      "constipation",
+      "renal-dialysis",
+      "gastrointestinal-microbiome"
+    ],
+    "date": "2026-10-13T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4125,6 +4178,49 @@
     "pinned": false
   },
   {
+    "id": "pmid-42951829",
+    "title": "Above-Threshold Ambulatory Systolic Pressure and Left Ventricular Mass in Chronic Kidney Disease: Does AUC Add Beyond Mean Pressure?",
+    "subtitle": "Journal of clinical hypertension (Greenwich, Conn.) · 2026",
+    "summary": "The remaining AUC not captured by those period means was not significantly associated with LVMI after adjustment for daytime and nighttime mean SBP (0.69 g/m·per interquartile range; 95% confidence interval, -2.00 to 3.37). Above-threshold AUC was associated with greater LVMI but added limited information beyond…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42951829/",
+    "tags": [
+      "blood-pressure-monitoring-ambulatory",
+      "renal-insufficiency-chronic",
+      "blood-pressure",
+      "hypertrophy-left-ventricular"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42950076",
+    "title": "Benefit Finding in Maintenance Haemodialysis Patients: Associations With Social Support and Life Orientation",
+    "subtitle": "Nursing open · 2026",
+    "summary": "Benefit finding was positively correlated with social support (r = 0.423, p < 0.001) and life orientation (r = 0.236, p < 0.001). Female gender, higher education level, retired status, family support, friend support and life orientation were significant predictors of BF.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950076/",
+    "tags": [
+      "renal-dialysis",
+      "social-support"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42949825",
+    "title": "Hemodynamic Analysis of Modified Splenic Arteriovenous Shunt in Pancreas Transplantation",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "The modified splenic arteriovenous shunt maintains physiological perfusion of the pancreatic allograft without elevating portal venous pressure, and may mitigate the hypoperfusion and blood stasis associated with conventional splenic vessel ligation. Based on the short-term results of this study, this modified…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949825/",
+    "tags": [
+      "pancreas-transplantation",
+      "hemodynamics",
+      "splenic-artery",
+      "splenic-vein"
+    ],
+    "date": "2026-10-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42945230",
     "title": "Vascular Management Strategies and Outcomes of Infectious Arterial Complications Involving the Kidney Transplant Vasculature: A Systematic Review and Evidence-Informed Treatment Framework",
     "subtitle": "Clinical transplantation · 2026",
@@ -4236,109 +4332,6 @@
     "tags": [
       "glomerular-filtration-rate",
       "hematopoietic-stem-cell-transplantation"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42912555",
-    "title": "Early Transplant Outcomes and Kidney Donor Profile Index Risk Prediction Performance in Kidneys Recovered Using a Uniform Abdominal Normothermic Regional Perfusion Technique",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "In this uniform cohort, aNRP had lower DGF odds than SRR despite higher risk. KDPI-DGF interaction patterns were concordant in SRR-DCD kidneys but less clear in aNRP-DCD; however, formal interaction was not significant.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42912555/",
-    "tags": [
-      "kidney-transplantation",
-      "perfusion",
-      "tissue-donors",
-      "delayed-graft-function"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42911878",
-    "title": "Iron and acute kidney injury: potential biomarkers for diagnosis and therapy",
-    "subtitle": "The Journal of pharmacy and pharmacology · 2026",
-    "summary": "Iron metabolism dysregulation and ferroptosis play important roles in AKI pathophysiology. Iron-related proteins represent promising candidates for improving early diagnosis, prognostic evaluation, and targeted treatment of AKI.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42911878/",
-    "tags": [
-      "acute-kidney-injury",
-      "iron"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42911615",
-    "title": "Discordance Between Fracture Risk and Bone Health Management After Kidney Transplantation: A Nationwide Cohort Study",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Post-transplant bone health management is characterized by delayed assessment and insufficient risk-stratified screening. Risk-adapted strategies are necessary to improve early screening and sustained therapy, particularly for high-risk recipients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42911615/",
-    "tags": [
-      "kidney-transplantation",
-      "fractures-bone",
-      "bone-density",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42911593",
-    "title": "Low Daily Protein Intake and Risk of Kidney Failure and Mortality in Chronic Kidney Disease",
-    "subtitle": "JAMA network open · 2026",
-    "summary": "In this cohort study of 1861 patients with nondialysis CKD, low protein intake was not associated with significant nephroprotection and was associated with a higher risk of KFRT and all-cause mortality. These findings suggest that rigid protein restriction should be balanced with nutritional monitoring to prevent…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42911593/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "diet-protein-restricted",
-      "dietary-proteins",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42908048",
-    "title": "Therapeutic Plasma Exchange in a Pediatric Lupus-Associated Thrombotic Microangiopathy: Prolonged Treatment Guided by Serial Biomarker Response",
-    "subtitle": "Journal of clinical apheresis · 2026",
-    "summary": "Class IV lupus nephritis is the most severe form and sometimes complicated by thrombotic microangiopathy (TMA), leading to microangiopathic hemolytic anemia, thrombocytopenia and acute kidney injury (AKI). Serial monitoring showed improvement in hematologic parameters, renal function, and clinical status.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42908048/",
-    "tags": [
-      "plasma-exchange",
-      "thrombotic-microangiopathies",
-      "lupus-nephritis",
-      "lupus-erythematosus-systemic"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42906632",
-    "title": "NAT10-Mediated ac4C Modification of IRF7 Promotes Diabetic Nephropathy Progression",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "NAT10 upregulation promotes DN progression by enhancing IRF7 mRNA stability through ac4C modification, which provides new therapeutic targets for DN treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42906632/",
-    "tags": [
-      "diabetic-nephropathies",
-      "interferon-regulatory-factor-7",
-      "acetyltransferases",
-      "kidney"
-    ],
-    "date": "2026-10-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42905438",
-    "title": "Familial COQ8B-Associated Glomerulopathy: Divergent Long-Term Outcomes and Adult Detection Through Cascade Testing",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "In contrast, a third homozygous sibling was identified through cascade testing at age 24 with preserved kidney function and non-nephrotic proteinuria and has remained free of kidney failure for more than 10 years. This family illustrates the broad clinical spectrum of COQ8B-associated glomerulopathy and shows that…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42905438/",
-    "tags": [
-      "mitochondrial-diseases",
-      "muscle-weakness",
-      "glomerulosclerosis-focal-segmental",
-      "ubiquinone"
     ],
     "date": "2026-10-01T00:00:00.000Z",
     "pinned": false

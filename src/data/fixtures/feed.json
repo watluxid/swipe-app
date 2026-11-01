@@ -1875,6 +1875,122 @@
     "pinned": false
   },
   {
+    "id": "pmid-42963980",
+    "title": "Fruit and Vegetable Prescription Program for Food-Insecure Pediatric Kidney Transplant Recipients: A Pilot Study",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "A produce prescription program was feasible, safe, and highly acceptable among PYA kidney transplant recipients with FI and warrants evaluation in larger studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963980/",
+    "tags": [
+      "kidney-transplantation",
+      "fruit",
+      "vegetables",
+      "food-insecurity"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42963345",
+    "title": "Effects of a Nurse-Led Multicomponent Exercise Intervention for Haemodialysis Patients With Possible or Confirmed Sarcopenia: A Cluster Randomised Trial",
+    "subtitle": "Nursing open · 2026",
+    "summary": "The nurse-led multicomponent exercise intervention was safe and feasible and showed favourable trends in muscle strength and physical function, although statistically significant between-group differences were not retained after correction for multiple comparisons.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963345/",
+    "tags": [
+      "renal-dialysis",
+      "sarcopenia",
+      "exercise-therapy"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42957591",
+    "title": "Huaier Attenuates Renal Injury in Type 2 Diabetic Nephropathy by Ameliorating Mitochondrial Dysfunction and Inhibiting Tubular Epithelial Cell Apoptosis",
+    "subtitle": "Journal of diabetes · 2026",
+    "summary": "Huaier aqueous extract mitigates RTECs apoptosis and renal injury in Type 2 diabetic nephropathy by suppressing the Wnt5a/β-catenin signaling pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957591/",
+    "tags": [
+      "apoptosis",
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "epithelial-cells"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42957259",
+    "title": "Predictors of Cardiovascular Events in Patients Undergoing Maintenance Hemodialysis for Diabetic Kidney Disease: A Two-year Prospective Cohort Study",
+    "subtitle": "In vivo (Athens, Greece) · 2026",
+    "summary": "A history of CV disease and elevated hs-CRP are independent predictors of future CV events in patients on maintenance HD for DKD. While lower DPA levels were associated with CV risk in univariate analysis, larger multicenter studies are needed to fully clarify its prognostic significance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957259/",
+    "tags": [
+      "renal-dialysis",
+      "cardiovascular-diseases",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42957228",
+    "title": "Impact of SPAK Deficiency on Glomerular Injury and Mitochondrial Homeostasis in Adriamycin-Induced FSGS",
+    "subtitle": "In vivo (Athens, Greece) · 2026",
+    "summary": "SPAK deficiency modifies mitochondrial and apoptotic responses but does not attenuate Adriamycin-induced glomerular injury. These findings suggest that SPAK contributes to glomerular homeostasis and that its role in kidney injury is context-dependent.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957228/",
+    "tags": [
+      "glomerulosclerosis-focal-segmental",
+      "mitochondria",
+      "protein-serine-threonine-kinases",
+      "kidney-glomerulus"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42957224",
+    "title": "Renal and Vascular Effects of Selective FGFR4 Inhibition in Folic Acid-induced Kidney Injury in Rats",
+    "subtitle": "In vivo (Athens, Greece) · 2026",
+    "summary": "Folic acid-induced renal injury was associated with early functional vascular impairment despite limited structural and inflammatory alterations. Selective FGFR4 inhibition did not demonstrate a clear therapeutic effect.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957224/",
+    "tags": [
+      "receptor-fibroblast-growth-factor-type-4",
+      "folic-acid",
+      "kidney",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42957221",
+    "title": "In Vivo Dynamics of Immunoregulatory Lymphocyte Reconstitution: A Seven-year Longitudinal Study of Sustained Remission in Class IV Lupus Nephritis Following Rituximab Therapy",
+    "subtitle": "In vivo (Athens, Greece) · 2026",
+    "summary": "The case demonstrates a persistent dissociation between peripheral CD19B-cell repopulation and renal disease activity. The findings suggest that the quality of immune reconstitution, rather than the absolute number of CD19B cells, may be associated with sustained remission after RTX therapy and support the potential…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957221/",
+    "tags": [
+      "lupus-nephritis",
+      "rituximab"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42949643",
+    "title": "Toward a digital urinary biopsy for early risk stratification in diabetic kidney disease: Anchoring shed cells, vesicles, and cell-free DNA to spatial kidney cell states",
+    "subtitle": "Clinical and translational medicine · 2026",
+    "summary": "We therefore present the framework as a structured research hypothesis and define the required validation, from analytical and clinical validity to prospective demonstration of utility, with non-albuminuric DKD, which albuminuria-based screening misses, as the index use case. It offers a testable route to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949643/",
+    "tags": [
+      "diabetic-nephropathies",
+      "cell-free-nucleic-acids",
+      "extracellular-vesicles",
+      "kidney"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42695405",
     "title": "Targeting integrated cell death networks in sepsis‑associated acute kidney injury: Shared regulatory nodes and diet‑related small molecule modulation (Review)",
     "subtitle": "International journal of molecular medicine · 2026",
@@ -1902,6 +2018,35 @@
       "signal-transduction"
     ],
     "date": "2026-10-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42965348",
+    "title": "Association of Multimodal Psychological Nursing with Mental Health and Quality of Life in Cancer Patients with Renal Failure Receiving Hemodialysis",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "At both post-intervention and follow-up assessments, the observation group demonstrated significantly greater improvements than the control group across all outcomes: lower anxiety, depression, and distress scores; higher treatment adherence and self-management; better quality of life on all domains; enhanced hope,…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965348/",
+    "tags": [
+      "quality-of-life",
+      "renal-dialysis",
+      "renal-insufficiency",
+      "neoplasms"
+    ],
+    "date": "2026-10-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42965326",
+    "title": "Genetic Determinants of Estimated Glomerular Filtration Rate: Insights from Large-Scale Genomic Data",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "We identified 1,818 genes causally associated with eGFR, including 953 positively and 865 negatively correlated genes. Further, two-sample MR and reverse MR validated 210 significant genes associated with eGFR.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965326/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "genome-wide-association-study",
+      "genomics"
+    ],
+    "date": "2026-10-30T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4192,148 +4337,6 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42903463",
-    "title": "TGF-β in chronic kidney disease: a controversy for decades",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Emerging evidence indicates that these divergent effects are determined not simply by TGF-β1 abundance, but by its cellular source and target, spatial and temporal context, interactions with other signaling pathways, and the transcriptional cofactors that determine downstream gene expression. We further examine…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42903463/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "transforming-growth-factor-beta",
-      "transforming-growth-factor-beta1"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42848612",
-    "title": "Neural network-based risk score for acute kidney injury after liver transplantation",
-    "subtitle": "Revista do Colegio Brasileiro de Cirurgioes · 2026",
-    "summary": "This ANN-based risk score is a practical tool for early identification of patients at risk of post-LT AKI, supporting timely preventive and therapeutic strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42848612/",
-    "tags": [
-      "liver-transplantation",
-      "acute-kidney-injury",
-      "neural-networks-computer",
-      "postoperative-complications"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42848524",
-    "title": "GLP-1 Receptor Agonists and Risk of Kidney Replacement Therapy and Health Care Utilization in Bipolar Disorder With Chronic Kidney Disease",
-    "subtitle": "The Journal of clinical psychiatry · 2026",
-    "summary": "Versus RAAS inhibitors, GLP-1 RA use was similarly associated with lower observed risk of KRT (aHR 0.66) and HCU (aHR 0.62); after PSM (n=2,539 per group), KRT-free survival was higher (94.68% vs. 89.77%;<.001), while HCU-free survival did not differ significantly (=.15). Benefits were consistent across sex, race, and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42848524/",
-    "tags": [
-      "glucagon-like-peptide-1-receptor-agonists",
-      "bipolar-disorder",
-      "renal-insufficiency-chronic",
-      "renal-replacement-therapy"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42847594",
-    "title": "Machine Learning-Based Prediction of Albuminuria in Diabetic Patients Using Retinal Microvascular Metrics on Optical Coherence Tomography Angiography",
-    "subtitle": "Translational vision science & technology · 2026",
-    "summary": "OCTA parameters are significantly associated with albuminuria in diabetes, and their inclusion in predictive models improves albuminuria identification, supporting OCTA as a noninvasive complementary tool for early detection of DN.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42847594/",
-    "tags": [
-      "albuminuria",
-      "tomography-optical-coherence",
-      "machine-learning",
-      "retinal-vessels"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42833721",
-    "title": "Latent profile analysis of health-related quality of life among patients with chronic kidney disease in Bangladesh: a cross-sectional study",
-    "subtitle": "BMJ open · 2026",
-    "summary": "This study identified three distinct HRQoL profiles among patients with CKD, with income, education, marital status and comorbidity significantly influencing class membership. Integrating patient education, financial support and routine HRQoL assessment into CKD care may help improve overall well-being, particularly…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833721/",
-    "tags": [
-      "quality-of-life",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42832492",
-    "title": "Multidisciplinary providers' perspectives on timely predialysis arteriovenous access preparation: An exploratory mixed-methods study in upper Northern Thailand",
-    "subtitle": "PloS one · 2026",
-    "summary": "Providers in this regional study identified shared priorities for improving timely predialysis AV access preparation, while differing in the meanings and considerations they associated with those priorities. These context-specific, hypothesis-generating findings may inform locally adapted service improvement and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42832492/",
-    "tags": [
-      "renal-dialysis",
-      "arteriovenous-shunt-surgical"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42832476",
-    "title": "Impact of GST and TP53 gene polymorphisms on susceptibility to end stage renal disease: A case-control analysis",
-    "subtitle": "PloS one · 2026",
-    "summary": "Genetic variations in the studied GSTs, along with rs1695 in GSTP1 and rs1042522 in the TP53 gene, may influence the progression of ESRD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42832476/",
-    "tags": [
-      "glutathione-transferase",
-      "kidney-failure-chronic",
-      "genetic-predisposition-to-disease",
-      "polymorphism-single-nucleotide"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42832069",
-    "title": "Nephrotic range proteinuria and rapid progression to end-stage kidney disease in seronegative pauci-immune necrotizing glomerulonephritis masked by cutaneous lesions: a case-based review",
-    "subtitle": "Rheumatology international · 2026",
-    "summary": "Renal biopsy results demonstrated cellular crescents, focal segmental tubular necrosis, intense mononuclear inflammatory infiltrates, and segmental proliferation of Bowman's capsule epithelial cells. This report underscores the diagnostic challenge of ANCA-negative PING, given its absent serologic markers and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42832069/",
-    "tags": [
-      "glomerulonephritis",
-      "proteinuria",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42830549",
-    "title": "When Infection Mimics Vasculitis: Hydralazine-Induced ANCA-Associated Crescentic Glomerulonephritis in the Setting of Active Infective Endocarditis",
-    "subtitle": "The American journal of case reports · 2026",
-    "summary": "Renal biopsy demonstrated pauci-immune crescentic glomerulonephritis consistent with ANCA-associated vasculitis. In patients with infective endocarditis who develop persistent renal dysfunction despite appropriate antimicrobial therapy, particularly in the setting of ANCA positivity and chronic hydralazine use, renal…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42830549/",
-    "tags": [
-      "glomerulonephritis",
-      "hydralazine",
-      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
-      "endocarditis-bacterial"
-    ],
-    "date": "2026-10-05T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42942444",
-    "title": "Chart-Recorded Hourly Patient Fluid-Removal Intensity and 90-Day Mortality After a 12-Hour Landmark During Continuous Renal Replacement Therapy",
-    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
-    "summary": "We evaluated chart-recorded hourly patient fluid-removal intensity and mortality using a 12 h landmark.: This retrospective MIMIC-IV v3.1 cohort included adults meeting recorded survival, hospital-observation, and CRRT criteria at the landmark. Survival and complete-case confidence intervals spanned the null;…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42942444/",
-    "tags": [
-      "continuous-renal-replacement-therapy",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-10-03T00:00:00.000Z",
     "pinned": false
   }
 ]

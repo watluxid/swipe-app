@@ -1875,6 +1875,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42968418",
+    "title": "Excellent Long-Term Outcome in a Staged, Simultaneous Liver-Kidney Transplantation of a Highly Sensitized Pediatric Patient With B and T Cell Positive Crossmatch",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "We present the successful staged SLK of a complex, highly sensitized child in the setting of high titers of Class I/II DSAs against positive XMs. Sophisticated immunologic management and delay of kidney transplantation by 18 h, presumably allowing the liver allograft to absorb circulating DSAs and T-cells, resulted in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968418/",
+    "tags": [
+      "liver-transplantation",
+      "kidney-transplantation",
+      "t-lymphocytes",
+      "b-lymphocytes"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42968396",
+    "title": "Population Pharmacokinetic and Pharmacodynamic Model of Propofol in Patients With Chronic Kidney Disease",
+    "subtitle": "Journal of clinical pharmacology · 2026",
+    "summary": "The average concentration at LOC was significantly higher in stage 4 (6.61 ± 6.28 µg/mL) as compared to stages 1 (2.06 ± 1.69 µg/mL) or stage 2 (1.64 ± 1.77 µg/mL). Average time to eye opening was also higher in stages 3 and 4 (12.9 ± 4.7 and 9.5 ± 3.1 min, respectively) as compared to stages 1 and 2 (7 ± 3.2 and 7.9…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968396/",
+    "tags": [
+      "propofol",
+      "anesthetics-intravenous",
+      "renal-insufficiency-chronic",
+      "models-biological"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42963980",
     "title": "Fruit and Vegetable Prescription Program for Food-Insecure Pediatric Kidney Transplant Recipients: A Pilot Study",
     "subtitle": "Pediatric transplantation · 2026",
@@ -2079,6 +2109,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42968817",
+    "title": "Clearance of Strongyloides stercoralis infection using ivermectin improves kidney function and modulates untargeted urinary metabolomic profile in patients with early-stage chronic kidney disease",
+    "subtitle": "PeerJ · 2026",
+    "summary": "These findings suggest that clearance ofinfection was associated with changes in urinary metabolomic profiles in patients with CKD. Kidney function and urinary metabolomic profiles were observed in patients with early-stage CKD andinfection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968817/",
+    "tags": [
+      "strongyloidiasis",
+      "strongyloides-stercoralis",
+      "ivermectin",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-10-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42956009",
     "title": "Low-level proteinuria at the initial diagnosis of systemic lupus erythematosus significantly increases the risk of developing proteinuria-predominant lupus nephritis",
     "subtitle": "PloS one · 2026",
@@ -2150,6 +2195,19 @@
       "continuity-of-patient-care"
     ],
     "date": "2026-10-29T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42968938",
+    "title": "Targeted-Release Budesonide in Chinese Patients with IgA Nephropathy: A Real-World Retrospective Cohort Study",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "In this Chinese real-world cohort, TRF-budesonide was associated with reduced proteinuria and hematuria over 6 months, with stable to modestly improved kidney function. Exploratory signals related to treatment timing and Oxford T score require prospective validation before they can guide patient selection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968938/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "budesonide"
+    ],
+    "date": "2026-10-28T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4281,60 +4339,6 @@
       "arteriovenous-shunt-surgical",
       "graft-occlusion-vascular",
       "ultrasonography-doppler"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42851766",
-    "title": "Pregnancy complications and risk of cardiometabolic-renal conditions in 1.4 million women in England: longitudinal study",
-    "subtitle": "BMJ medicine · 2026",
-    "summary": "Several pregnancy complications, including those occurring in previous pregnancies, were associated with an increased risk of cardiometabolic-renal conditions in the subsequent years after pregnancy. These findings support obtaining a full reproductive history and using the postpartum period as an opportune time for…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42851766/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "cardiovascular-diseases",
-      "pregnancy-complications",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42844600",
-    "title": "Acute kidney injury at a tertiary nephrology referral center: predictors of renal recovery and in-hospital mortality",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "AKI was common among hospitalized patients and was associated with substantially increased in-hospital mortality. Vasopressor requirement was the strongest independent predictor of mortality, emphasizing the prognostic impact of hemodynamic instability and critical illness severity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42844600/",
-    "tags": [
-      "acute-kidney-injury",
-      "hospital-mortality",
-      "recovery-of-function"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42838586",
-    "title": "Prevalence, risk factors and renoprotective treatment of chronic kidney disease among internal medicine outpatients at a Central European tertiary care centre: a cross-sectional study",
-    "subtitle": "BMJ open · 2026",
-    "summary": "CKD is highly prevalent in tertiary care outpatients and efficiently detected through targeted screening. Suboptimal use of renoprotective therapies highlights a major treatment gap.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42838586/",
-    "tags": [
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42838580",
-    "title": "Prevalence and associated factors of chronic kidney disease among hypertensive patients attending cardiac clinic at a tertiary hospital in Tanzania: a hospital-based cross-sectional study",
-    "subtitle": "BMJ open · 2026",
-    "summary": "Study-defined CKD was identified in about one-fifth of this tertiary-clinic hypertensive sample, and diabetes was the only independent factor identified. The estimate should be interpreted cautiously because the study was single-centre and full Kidney Disease: Improving Global Outcomes confirmation using chronicity…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42838580/",
-    "tags": [
-      "hypertension",
-      "renal-insufficiency-chronic"
     ],
     "date": "2026-10-06T00:00:00.000Z",
     "pinned": false

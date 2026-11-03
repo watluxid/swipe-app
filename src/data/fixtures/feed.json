@@ -59,6 +59,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42971541",
+    "title": "Global burden of chronic kidney disease attributable to hypertension due to high body mass index: projections to 2050",
+    "subtitle": "Renal failure · 2026",
+    "summary": "ASMR increased from 1.09 to 2.19 per 100,000 (EAPC, 4.22%), and ASDR increased from 26.04 to 50.11 per 100,000 (EAPC, 3.63%). Central Sub-Saharan Africa had the highest ASMR (7.66 per 100,000), whereas High-income North America had the fastest increase in ASMR (EAPC, 5.63%).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971541/",
+    "tags": [
+      "body-mass-index",
+      "hypertension",
+      "renal-insufficiency-chronic",
+      "obesity"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42971263",
+    "title": "Association between pancreatic ectopic fat deposition and QCT-assessed bone mass status in patients with chronic kidney disease: a cross-sectional study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "A higher mean pancreatic fat fraction was associated with more severe bone mass categories in patients with CKD after adjustment for the measured covariates. QCT-based pancreatic fat assessment may provide additional information on metabolic features associated with bone mass abnormalities in CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971263/",
+    "tags": [
+      "bone-density",
+      "renal-insufficiency-chronic",
+      "osteoporosis",
+      "pancreas"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42960546",
     "title": "Artificial intelligence and continuous renal replacement therapy",
     "subtitle": "Renal failure · 2026",
@@ -1845,6 +1875,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-42970747",
+    "title": "Context-Dependent Clinical Narrative Signals of Renal Function Deterioration in Cross-Language Settings: Retrospective Multicohort Study",
+    "subtitle": "JMIR medical informatics · 2026",
+    "summary": "Independently constructed clinical-language measures were associated with renal function deterioration across two languages and health care settings. The findings support cross-language replication of an association signal, not formal external validation, measurement equivalence, or clinically useful stand-alone…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970747/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "narration",
+      "kidney-function-tests",
+      "language"
+    ],
+    "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42969229",
+    "title": "Dapagliflozin attenuates progression from prefrailty to frailty in patients with hypertension and chronic kidney disease",
+    "subtitle": "The Journal of clinical investigation · 2026",
+    "summary": "To evaluate the relationship among renal injury, physical performance, and frailty progression in hypertensive older adults with CKD and assess whether dapagliflozin associates with reduced frailty progression, we designed the study DAPA-FORTRESS (DAPAgliflozin and Frailty prOgression in hypeRTension and chRonic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969229/",
+    "tags": [
+      "hypertension",
+      "benzhydryl-compounds",
+      "glucosides",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42895485",
     "title": "Disarming FcR-dependent neutrophil activation in MPO-ANCA glomerulonephritis",
     "subtitle": "The Journal of experimental medicine · 2026",
@@ -1872,6 +1932,34 @@
       "antibodies-antineutrophil-cytoplasmic"
     ],
     "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42973286",
+    "title": "C4d May Predict Treatment Failure and Disease Progression in Primary Focal Segmental Glomerulosclerosis",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "C4d seems to be independently associated with treatment failure and disease progression in pFSGS. Beyond the influence on risk stratification in pFSGS, this study may prompt trials with complement interfering agents in pFSGS.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973286/",
+    "tags": [
+      "glomerulosclerosis-focal-segmental",
+      "complement-c4b",
+      "kidney-glomerulus",
+      "peptide-fragments"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42971932",
+    "title": "Current Status and Temporal Changes in Lupus Nephritis in Japan: Analysis of the Japan Renal Biopsy Registry",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "The recent first-biopsy cohort was older and had a lower proportion of Class IV (±V) lesions than the historical cohort, even after age adjustment. These findings suggest temporal changes in LN in Japan, although the greater proportion of missing histological classification data in the historical cohort should be…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971932/",
+    "tags": [
+      "lupus-nephritis",
+      "kidney"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4252,95 +4340,6 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-10-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42850611",
-    "title": "Serum melatonin levels and their relationship with inflammation and oxidative stress in patients with diabetic nephropathy: a cross-sectional case-control study",
-    "subtitle": "BMC endocrine disorders · 2026",
-    "summary": "Serum melatonin and total antioxidant capacity are concurrently reduced in T2DM, reflecting a coupled deficit of antioxidant defence. However, melatonin and TAS/TOS did not independently distinguish DN from non-DN diabetic patients; conventional renal-function markers and CRP were the dominant correlates of…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42850611/",
-    "tags": [
-      "melatonin",
-      "diabetic-nephropathies",
-      "oxidative-stress",
-      "diabetes-mellitus-type-2"
-    ],
-    "date": "2026-10-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42842032",
-    "title": "Mitochondrial dysfunction of renal tubular epithelial cells in chronic kidney disease-associated fibrosis: from organelle homeostasis to multicellular remodeling",
-    "subtitle": "Molecular biology reports · 2026",
-    "summary": "Persistent mitochondrial injury can suppress fatty acid oxidation and oxidative phosphorylation, deplete nicotinamide adenine dinucleotide, increase mitochondrial reactive oxygen species, destabilize mitochondrial DNA, and disrupt biogenesis, dynamics, mitochondria-associated membrane signaling, and mitophagy.…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42842032/",
-    "tags": [
-      "mitochondria",
-      "epithelial-cells",
-      "renal-insufficiency-chronic",
-      "kidney-tubules"
-    ],
-    "date": "2026-10-07T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42903185",
-    "title": "Complement and immunoglobulin profiles in ANCA-associated vasculitis with renal involvement: a serotype-stratified analysis of disease activity and renal outcomes",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Frank complement consumption was uncommon in this cohort, and neither C3 nor C4 graded renal injury severity, consistent with pauci-immune pathogenesis and in contrast to lupus nephritis. These data do not conflict with published cohorts in which relatively lower C3 predicted adverse renal outcomes; rather, they…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42903185/",
-    "tags": [
-      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
-      "antibodies-antineutrophil-cytoplasmic",
-      "complement-system-proteins",
-      "immunoglobulins"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42903163",
-    "title": "Phenotypic shift from active class IV lupus nephritis to lupus podocytopathy: a case report highlighting the treatment-altering role of repeat kidney biopsy",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This case suggests that in the clinico-serological dissociation phase of LN, repeat kidney biopsy is of significant clinical value for identifying pathological phenotypic shifts, avoiding excessive immunosuppression, and guiding precision medicine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42903163/",
-    "tags": [
-      "lupus-nephritis",
-      "podocytes",
-      "kidney"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42872422",
-    "title": "Pregnancy complications and risk of cardiometabolic-renal conditions in 1.4 million women in England: longitudinal study",
-    "subtitle": "BMJ medicine · 2026",
-    "summary": "Several pregnancy complications, including those occurring in previous pregnancies, were associated with an increased risk of cardiometabolic-renal conditions in the subsequent years after pregnancy. These findings support obtaining a full reproductive history and using the postpartum period as an opportune time for…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42872422/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "cardiovascular-diseases",
-      "pregnancy-complications",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42859795",
-    "title": "Doppler Ultrasound-Derived Blood Flow Parameters Associated with Significant Arteriovenous Fistula Stenosis in a Large Vietnamese Hemodialysis Cohort",
-    "subtitle": "Vascular health and risk management · 2026",
-    "summary": "Lower Doppler ultrasound-derived blood flow values at multiple AVF sites were associated with Doppler-defined significant AVF stenosis and may support comprehensive vascular access assessment. Further prospective studies using independent reference standards and clinically relevant outcomes are needed before these…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859795/",
-    "tags": [
-      "renal-dialysis",
-      "arteriovenous-shunt-surgical",
-      "graft-occlusion-vascular",
-      "ultrasonography-doppler"
-    ],
-    "date": "2026-10-06T00:00:00.000Z",
     "pinned": false
   }
 ]

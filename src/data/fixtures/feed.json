@@ -89,6 +89,34 @@
     "pinned": false
   },
   {
+    "id": "pmid-42982591",
+    "title": "Lipid phenotypes and diabetic kidney disease: a cluster-based study integrating traditional and nontraditional lipid parameters",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Integrating traditional and nontraditional lipid measures may help identify clinically relevant lipid phenotypes associated with DKD and support more targeted renal assessment in T2DM patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982591/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2",
+      "lipids"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42982554",
+    "title": "Association between triglyceride-glucose index and treatment response in primary membranous nephropathy: a retrospective cohort study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Baseline TyG was not independently associated with 12-month remission in PMN and provided minimal incremental predictive value. However, a moderate association cannot be excluded given the confidence interval.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982554/",
+    "tags": [
+      "glomerulonephritis-membranous",
+      "triglycerides",
+      "blood-glucose"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42978550",
     "title": "Health-related quality of life and its domains as independent predictors of all-cause mortality in maintenance hemodialysis: a prospective multicenter cohort study",
     "subtitle": "Renal failure · 2026",
@@ -1991,6 +2019,109 @@
     "pinned": false
   },
   {
+    "id": "pmid-42981042",
+    "title": "USP46 restrains K63-linked polyubiquitination-dependent aggregation and activation of the NLRP3 inflammasome in lupus nephritis",
+    "subtitle": "Proceedings of the National Academy of Sciences of the United States of America · 2026",
+    "summary": "We demonstrate ubiquitin-specific protease 46 (USP46) as a key factor that recognizes NLRP3 as a substrate and restricts nondegradative K63-linked polyubiquitination at lysine residue K930, thereby preventing excessive aggregation, transport to the MTOC, and inflammasome activation. Our findings provide insights into…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981042/",
+    "tags": [
+      "nlr-family-pyrin-domain-containing-3-protein",
+      "lupus-nephritis",
+      "inflammasomes",
+      "endopeptidases"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42981360",
+    "title": "SEQuential tUnneled Catheters and Infective Events in haemodiaLysis: A Five-Year Retrospective Cohort Study (SEQUEL Study)",
+    "subtitle": "PloS one · 2026",
+    "summary": "Repeated catheterization was independently associated with increasing CRBSI risk, and catheter sequence number was the strongest predictor in the fully adjusted model. The femoral site effect was substantially attenuated after adjustment for sequence and was not statistically significant in the registry-index cohort…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981360/",
+    "tags": [
+      "renal-dialysis",
+      "catheter-related-infections",
+      "catheterization-central-venous",
+      "central-venous-catheters"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42981357",
+    "title": "Assessment of coronavirus disease 2019 mRNA vaccine response in kidney transplant recipients",
+    "subtitle": "PloS one · 2026",
+    "summary": "Factors associated with poor vaccine response (seronegativity) and with high antibody titers (antibody titer ≥ 121 U/mL) were determined using multivariable regression models. Multivariable logistic regression analysis showed lower odds of high SARS-CoV-2 antibody titers among patients aged > 51 years compared with…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981357/",
+    "tags": [
+      "kidney-transplantation",
+      "covid-19-vaccines",
+      "covid-19",
+      "sars-cov-2"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42981294",
+    "title": "Diabetes and all-cause mortality in hemodialysis: A comparative survival analysis with complementary machine-learning methods",
+    "subtitle": "PloS one · 2026",
+    "summary": "In this Turkish hemodialysis cohort, diabetes showed a consistent adverse trend toward higher mortality. HbA1c was the dominant modifiable predictor, supporting the integration of structured glycaemic monitoring into routine hemodialysis care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981294/",
+    "tags": [
+      "renal-dialysis",
+      "machine-learning",
+      "kidney-failure-chronic",
+      "diabetes-mellitus"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42980842",
+    "title": "Proton pump inhibitors in prevention of cisplatin-induced nephrotoxicity: a systematic review",
+    "subtitle": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026",
+    "summary": "Current evidence does not allow a clear conclusion regarding the safety or efficacy of PPIs in this setting. While theoretically beneficial, clinical data reveals conflicting results and a potential signal for increased AKI risk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980842/",
+    "tags": [
+      "proton-pump-inhibitors",
+      "cisplatin",
+      "acute-kidney-injury",
+      "antineoplastic-agents"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42980413",
+    "title": "Mulberry Leaf Extract and Its Constituent Kuwanon C Show Therapeutic Potential toward Diabetic Nephropathy, with Associated Modulation of Oxidative Stress and Inflammation",
+    "subtitle": "Journal of agricultural and food chemistry · 2026",
+    "summary": "Transcriptomic analyses revealed that the anti-DN effect of MLE-3 could be associated with its modulation of oxidative stress and inflammation, which was confirmed by further evaluations in both HK-2 and RAW264.7 cells. Moreover, the anti-inflammatory property of MLE-3 was well phenocopied by its primary constituent…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980413/",
+    "tags": [
+      "morus",
+      "oxidative-stress",
+      "plant-extracts",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42980334",
+    "title": "Compound Alpha-Ketoacid Supplementation for Diabetic Nephropathy in a Retrospective Controlled Study",
+    "subtitle": "Journal of visualized experiments : JoVE · 2026",
+    "summary": "This retrospective controlled study evaluated whether adding compound alpha-ketoacid tablets to conventional therapy improves renal function, inflammatory response, fibrosis-related biomarkers, oxidative stress status, therapeutic efficacy, and safety in patients with diabetic nephropathy. Compared with conventional…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980334/",
+    "tags": [
+      "diabetic-nephropathies",
+      "keto-acids"
+    ],
+    "date": "2026-11-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42976328",
     "title": "Predictive and Prognostic Role of Neutrophil-to-Lymphocyte Ratio in Diabetic Nephropathy: Protocol for a Systematic Review and Meta-Analysis",
     "subtitle": "JMIR research protocols · 2026",
@@ -2353,6 +2484,21 @@
       "signal-transduction"
     ],
     "date": "2026-10-31T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42979341",
+    "title": "Anti-N-Methyl-D-Aspartate Receptor Encephalitis Presenting as Acute Psychosis in a Renal Transplant Recipient Under Chronic Immunosuppression",
+    "subtitle": "Psychopharmacology bulletin · 2026",
+    "summary": "Because rigidity and mutism followed an increase in aripiprazole dosage, neuroleptic malignant syndrome was initially suspected; mydriasis, characteristically absent in that condition, together with persistence of the neurological syndrome after antipsychotic withdrawal, redirected the diagnosis. This case illustrates…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979341/",
+    "tags": [
+      "kidney-transplantation",
+      "psychotic-disorders",
+      "immunosuppressive-agents",
+      "anti-n-methyl-d-aspartate-receptor-encephalitis"
+    ],
+    "date": "2026-10-30T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3663,6 +3809,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42980025",
+    "title": "Multi-Omics Analysis Uncovers a Link Between Dysregulated Steroid Hormone Biosynthesis and Pediatric IgA Vasculitis Nephritis",
+    "subtitle": "Frontiers in bioscience (Landmark edition) · 2026",
+    "summary": "Integrated metabolomic and proteomic analyses identified distinct molecular signatures associated with IgAV and IgAVN. Decreased levels of steroids and steroid metabolites and alterations in immune response, coagulation, and lipid metabolic pathways were particularly associated with IgAVN.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980025/",
+    "tags": [
+      "immunoglobulin-a",
+      "steroids",
+      "glomerulonephritis-iga",
+      "vasculitis"
+    ],
+    "date": "2026-10-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42953253",
     "title": "Decoding molecular heterogeneity in lupus nephritis: integrating single-cell and spatial multi-omics for endotype-driven precision therapeutics",
     "subtitle": "Frontiers in immunology · 2026",
@@ -4181,165 +4342,6 @@
       "ciliopathies"
     ],
     "date": "2026-10-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42877742",
-    "title": "Screening for Geriatric Problems in Older Adults Receiving Hemodialysis Using a Self-Administered Battery",
-    "subtitle": "Clinical interventions in aging · 2026",
-    "summary": "The GOLD demonstrated agreement with geriatrician evaluation for many geriatric problems and was feasible to implement in dialysis clinics. These findings suggest potential utility for scalable geriatric screening in dialysis care, although further work is needed to confirm these findings in larger cohorts and to…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42877742/",
-    "tags": [
-      "renal-dialysis",
-      "geriatric-assessment"
-    ],
-    "date": "2026-10-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42877270",
-    "title": "Biodegradable ROS-Responsive TPCD Nanoparticles Mitigate Cisplatin-Induced Acute Kidney Injury via Synergistic Antioxidant and Immunomodulatory Actions",
-    "subtitle": "International journal of nanomedicine · 2026",
-    "summary": "TPCD NPs demonstrate renoprotective effects in cisplatin-induced AKI, likely via combined antioxidant, anti-apoptotic, and immunomodulatory actions. However, the observed renal accumulation requires further quantitative pharmacokinetic validation, and long-term safety and efficacy in other AKI models remain to be…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42877270/",
-    "tags": [
-      "acute-kidney-injury",
-      "cisplatin",
-      "reactive-oxygen-species",
-      "antioxidants"
-    ],
-    "date": "2026-10-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42859346",
-    "title": "Chronic kidney disease as a potential risk factor for pituitary hormone dysregulation: a review of the underlying mechanisms",
-    "subtitle": "Molecular biology reports · 2026",
-    "summary": "CKD potentially represents a risk factor for several disease conditions, such as cardiovascular disease, mineral bone disorder, and electrolyte imbalance. Notably, CKD dysregulates several anterior pituitary hormones, either by directly influencing hypothalamic-pituitary secretion or by altering downstream hormones,…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859346/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "pituitary-hormones"
-    ],
-    "date": "2026-10-10T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42941719",
-    "title": "Special Issue \"Diagnosis and Monitoring of Kidney Disease: From Biology to Biomarkers\"",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "Kidney diseases, particularly chronic kidney disease (CKD), represent a major and growing health challenge, imposing a substantial economic burden and significantly compromising patients' quality of life [...].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42941719/",
-    "tags": [
-      "biomarkers",
-      "kidney-diseases",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42939723",
-    "title": "The Association Between Circulating Myostatin and Skeletal Muscle Mass Varies by Nutritional-Inflammatory Status in Hemodialysis Patients",
-    "subtitle": "Biomolecules · 2026",
-    "summary": "Nutritional and inflammatory status were evaluated using the Nutritional Risk Index for Japanese hemodialysis patients (NRI-JH) and C-reactive protein (CRP), respectively. These findings suggest statistical heterogeneity in the association between circulating MSTN and skeletal muscle mass across…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42939723/",
-    "tags": [
-      "myostatin",
-      "renal-dialysis",
-      "muscle-skeletal",
-      "inflammation"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42921117",
-    "title": "Periostin in diabetic kidney disease: mechanistic insights, biomarkers, and therapeutic perspectives",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Preclinical and observational studies suggest that periostin (POSTN) is associated with DKD progression and may contribute to renal inflammation and fibrosis. Preclinical studies indicate that POSTN promotes inflammatory cell infiltration, myofibroblast activation, and extracellular matrix accumulation, and it has…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42921117/",
-    "tags": [
-      "periostin",
-      "diabetic-nephropathies",
-      "biomarkers",
-      "cell-adhesion-molecules"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42920652",
-    "title": "Preferences for digital health services among patients with chronic kidney disease: a discrete choice experiment",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "Out-of-pocket cost is the primary determinant of digital health service selection among patients with chronic kidney disease. The type of healthcare provider is critical for service appeal.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42920652/",
-    "tags": [
-      "patient-preference",
-      "renal-insufficiency-chronic",
-      "digital-health",
-      "choice-behavior"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42879621",
-    "title": "Actions and financing of renal replacement therapy during the COVID-19 pandemic in Paraná, Brazil: a documentary study",
-    "subtitle": "Ciencia & saude coletiva · 2026",
-    "summary": "Of the 17 documents published between January 2020 and May 2023 selected for analysis, seven (41.18%) addressed financial resources allocated to RRT during the pandemic and 10 (58.82%) described RRT actions. The findings indicate that both funding and actions implemented during the pandemic focused on expanding…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42879621/",
-    "tags": [
-      "covid-19",
-      "renal-replacement-therapy",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42859148",
-    "title": "Early integration of palliative care in outpatient nephrology: exploring healthcare professionals' knowledge, attitudes, and communication practices - an exploratory multi-methods study",
-    "subtitle": "BMC nephrology · 2026",
-    "summary": "Early integration of palliative care in outpatient nephrology is valued by HCPs, while confidence in identifying palliative care needs and communicating about end-of-life issues was inconsistent, and palliative care remains predominantly reactive in routine care. The MINI approach may support more systematic and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859148/",
-    "tags": [
-      "palliative-care",
-      "health-knowledge-attitudes-practice",
-      "nephrology",
-      "attitude-of-health-personnel"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42858064",
-    "title": "The Surgical Management of Prostate Cancer in Renal Transplant Recipients: The Minimally Invasive Approach",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "When the intraoperatively inserted suprapubic catheter was clamped to enable natural urination, renal parameters temporarily increased. This case supports the feasibility of RARP in renal transplant recipients when meticulous technique is used to protect graft function.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42858064/",
-    "tags": [
-      "kidney-transplantation",
-      "prostatic-neoplasms",
-      "prostatectomy",
-      "robotic-surgical-procedures"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42858053",
-    "title": "A Visual Protocol for Selecting, Initiating, and Monitoring Hemodialysis or Peritoneal Dialysis in Adults with Uremic-Stage Chronic Kidney Disease",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "The workflow moves from eligibility screening and clinical urgency classification through balanced modality education, teach-back verification, and shared decision-making to modality-specific access planning, initiation, and early safety monitoring, and concludes with a monthly quality-improvement audit.…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42858053/",
-    "tags": [
-      "peritoneal-dialysis",
-      "renal-dialysis",
-      "renal-insufficiency-chronic",
-      "uremia"
-    ],
-    "date": "2026-10-09T00:00:00.000Z",
     "pinned": false
   }
 ]

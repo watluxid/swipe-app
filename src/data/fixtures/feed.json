@@ -2343,6 +2343,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-42997530",
+    "title": "Pulmonary-Cardiac Involvement in a Patient with IgA Vasculitis",
+    "subtitle": "Methodist DeBakey cardiovascular journal · 2026",
+    "summary": "Skin biopsy confirmed leukocytoclastic vasculitis and bronchoscopy confirmed diffuse alveolar hemorrhage, while multimodality imaging and a negative serologic work-up excluded cardiac sarcoidosis, antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis, and anti-glomerular basement membrane disease. The…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997530/",
+    "tags": [
+      "iga-vasculitis",
+      "lung-diseases",
+      "glomerulonephritis-iga",
+      "heart-diseases"
+    ],
+    "date": "2026-11-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42997433",
+    "title": "Influence of iron metabolism on all-cause death in patients with sepsis-associated acute kidney injury: a retrospective cohort study",
+    "subtitle": "PeerJ · 2026",
+    "summary": "Elevated serum iron and SF concentrations and decreased TRF concentration are important factors affecting the mortality of patients with SA-AKI. Abnormal iron metabolism indexes in patients with SA-AKI may be associated with a high risk of all-cause death.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997433/",
+    "tags": [
+      "acute-kidney-injury",
+      "iron",
+      "sepsis"
+    ],
+    "date": "2026-11-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42980334",
     "title": "Compound Alpha-Ketoacid Supplementation for Diabetic Nephropathy in a Retrospective Controlled Study",
     "subtitle": "Journal of visualized experiments : JoVE · 2026",
@@ -3297,6 +3326,35 @@
       "glucocorticoids"
     ],
     "date": "2026-10-24T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42997246",
+    "title": "Metabolites as key signaling mediators: rethinking diabetic kidney disease from a network perspective",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Recent advances in multidimensional metabolomics technologies-including static profiling, spatial metabolomics, metabolic flux analysis, and multi-omics approaches-enable us to dissect the metabolic network of DKD with unprecedented resolution. It suggests that treatment regimens could be selected based on the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997246/",
+    "tags": [
+      "diabetic-nephropathies",
+      "signal-transduction",
+      "metabolic-networks-and-pathways"
+    ],
+    "date": "2026-10-23T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-42996958",
+    "title": "Monocyte-macrophage sensing of calciprotein particles in CKD-associated vascular calcification: lysosomal stress and inflammasome activation",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Separate vascular studies have reported endothelial dysfunction and smooth muscle cell calcification after CPP exposure, but have not established that myeloid CPP sensing mediates these effects in CKD. Interventions that reduce mineral loading or delay CPP maturation affect some particle-related measures, but their…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996958/",
+    "tags": [
+      "inflammasomes",
+      "vascular-calcification",
+      "renal-insufficiency-chronic",
+      "monocytes"
+    ],
+    "date": "2026-10-23T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4287,64 +4345,6 @@
       "steroids",
       "glomerulonephritis-iga",
       "vasculitis"
-    ],
-    "date": "2026-10-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42953253",
-    "title": "Decoding molecular heterogeneity in lupus nephritis: integrating single-cell and spatial multi-omics for endotype-driven precision therapeutics",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "While the upstream immunological events initiating LN-including loss of self-tolerance, pathogenic autoantibody production, glomerular immune complex deposition, and type I interferon (IFN) activation-are broadly shared, accumulating evidence demonstrates that these convergent triggers give rise to molecularly…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42953253/",
-    "tags": [
-      "lupus-nephritis",
-      "precision-medicine"
-    ],
-    "date": "2026-10-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42953148",
-    "title": "Latent profiles of nutrition literacy among patients receiving peritoneal dialysis and their associations with dietary adherence and nutritional and metabolic indicators: a multicenter cross-sectional study",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "Nutrition literacy among patients receiving PD was heterogeneous, with three profiles differing in sociodemographic and disease-related characteristics, dietary adherence scores, and several nutritional and metabolic indicators. These profiles may provide a descriptive framework for recognizing subgroups with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42953148/",
-    "tags": [
-      "peritoneal-dialysis",
-      "health-literacy",
-      "patient-compliance",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-10-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42952830",
-    "title": "Renal injury phenotypes with ICI-VEGFR-TKI combinations in renal cell carcinoma: active-comparator analyses in FAERS and JADER",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "The reproducible finding is a proteinuria-dominant VEGF-axis reporting pattern, not a validated renal mechanism or comparative incidence estimate. Differential surveillance, sparse comparator events, phenotype misclassification, and shared reporting ecology constrain interpretation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42952830/",
-    "tags": [
-      "carcinoma-renal-cell",
-      "acute-kidney-injury",
-      "protein-kinase-inhibitors",
-      "kidney-neoplasms"
-    ],
-    "date": "2026-10-14T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42952492",
-    "title": "Sphingolipid-renal interplay in coronary artery calcification: ceramide profiling and imaging validation from the CRUISE-MET study",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Specific ceramides, particularly Cer(18:1/16:0), are independently associated with CAC severity, with stronger associations observed in patients with CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42952492/",
-    "tags": [
-      "ceramides",
-      "coronary-artery-disease",
-      "vascular-calcification",
-      "renal-insufficiency-chronic"
     ],
     "date": "2026-10-14T00:00:00.000Z",
     "pinned": false

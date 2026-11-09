@@ -89,6 +89,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43000169",
+    "title": "Sleep characteristics and sarcopenia in patients undergoing peritoneal dialysis: nonlinear associations and a potential adiposity-related pathway",
+    "subtitle": "Renal failure · 2026",
+    "summary": "An indirect association involving PBF was observed for PSQI (ACME = 0.002, = 0.031) and short sleep (ACME = 0.026, = 0.030), but not for long sleep. An indirect association involving PBF was observed for poorer sleep quality and short sleep, but not for long sleep.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000169/",
+    "tags": [
+      "peritoneal-dialysis",
+      "sarcopenia",
+      "adiposity",
+      "sleep-wake-disorders"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42989738",
     "title": "Hospitalization outcomes following planned versus unplanned dialysis initiation: a comparative study of hemodialysis and peritoneal dialysis modalities",
     "subtitle": "Renal failure · 2026",
@@ -2343,6 +2358,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-42999609",
+    "title": "Renal Function, OCT-Defined Coronary Calcification and Stent Optimization in Optical Coherence Tomography-Guided Percutaneous Coronary Intervention: A Single-Center Cross-Sectional Study",
+    "subtitle": "Vascular health and risk management · 2026",
+    "summary": "In this single-center cross-sectional study, the crude association between lower eGFR and OCT-defined calcification was largely explained by age. Under OCT guidance, renal function was not associated with stent optimization, and CI-AKI was infrequent.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999609/",
+    "tags": [
+      "tomography-optical-coherence",
+      "percutaneous-coronary-intervention",
+      "glomerular-filtration-rate",
+      "stents"
+    ],
+    "date": "2026-11-03T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42997530",
     "title": "Pulmonary-Cardiac Involvement in a Patient with IgA Vasculitis",
     "subtitle": "Methodist DeBakey cardiovascular journal · 2026",
@@ -2485,6 +2515,21 @@
       "antibodies-antineutrophil-cytoplasmic"
     ],
     "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43000162",
+    "title": "Association Between Cachexia, Defined Using the Asian Working Group for Cachexia 2023 Criteria, and Exercise Capacity in Patients Undergoing Haemodialysis",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "In outpatients on maintenance HD, cachexia was associated with reduced exercise capacity. Furthermore, lower muscle function was observed in the pre-cachexia and cachexia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000162/",
+    "tags": [
+      "cachexia",
+      "renal-dialysis",
+      "exercise-tolerance",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4302,51 +4347,6 @@
       "glomerulonephritis-iga"
     ],
     "date": "2026-10-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42879396",
-    "title": "HLA-driven variability in human cytomegalovirus immune recognition: Epitope predictions from a kidney transplant Cohort",
-    "subtitle": "PloS one · 2026",
-    "summary": "Our findings provide updated Peruvian HLA data and define regional HCMV antigen-presentation profiles based on predicted MHC-peptide binding affinity (PSBD). Further experimental validation of these high-confidence candidate epitopes and HLA-HCMV association studies will be necessary to determine their immunogenicity…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42879396/",
-    "tags": [
-      "cytomegalovirus",
-      "kidney-transplantation",
-      "hla-antigens",
-      "cytomegalovirus-infections"
-    ],
-    "date": "2026-10-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42878744",
-    "title": "Association of miR-671-3p expression with clinical efficacy and complications in hemodialysis patients",
-    "subtitle": "Journal of molecular histology · 2026",
-    "summary": "Clinical data were used to evaluate the role of miR-671-3p in the diagnosis (ROC) and risk prediction (logistic regression) of VC and MACE. Overexpression of miR-671-3p markedly alleviated calcification-induced decreases in cell viability, increases in apoptosis and calcium content, upregulation of ALP and Runx2, and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42878744/",
-    "tags": [
-      "micrornas",
-      "renal-dialysis",
-      "vascular-calcification",
-      "gene-expression-regulation"
-    ],
-    "date": "2026-10-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42980025",
-    "title": "Multi-Omics Analysis Uncovers a Link Between Dysregulated Steroid Hormone Biosynthesis and Pediatric IgA Vasculitis Nephritis",
-    "subtitle": "Frontiers in bioscience (Landmark edition) · 2026",
-    "summary": "Integrated metabolomic and proteomic analyses identified distinct molecular signatures associated with IgAV and IgAVN. Decreased levels of steroids and steroid metabolites and alterations in immune response, coagulation, and lipid metabolic pathways were particularly associated with IgAVN.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42980025/",
-    "tags": [
-      "immunoglobulin-a",
-      "steroids",
-      "glomerulonephritis-iga",
-      "vasculitis"
-    ],
-    "date": "2026-10-14T00:00:00.000Z",
     "pinned": false
   }
 ]

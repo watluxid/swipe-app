@@ -89,6 +89,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-43001516",
+    "title": "The relevance of genetic disease in kidney transplantation",
+    "subtitle": "Current opinion in organ transplantation · 2026",
+    "summary": "In kidney transplantation cohorts, diagnostic yield increases with clinical selection, from 11% among waitlisted patients tested after excluding those with a documented genetic cause of kidney disease, to 23% in unselected kidney transplant recipients including polycystic kidney disease, to 33-54% in highly selected…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001516/",
+    "tags": [
+      "kidney-transplantation",
+      "genetic-testing",
+      "kidney-diseases"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43000169",
     "title": "Sleep characteristics and sarcopenia in patients undergoing peritoneal dialysis: nonlinear associations and a potential adiposity-related pathway",
     "subtitle": "Renal failure · 2026",
@@ -2078,6 +2092,19 @@
     "pinned": false
   },
   {
+    "id": "pmid-43002268",
+    "title": "Expanding transplant access via robotics: a multi-center American experience with 671 robotic kidney transplants",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "Delayed graft function varied by donor type, ranging from 2.2% (living donor) to 48.3% (donation after circulatory death with rapid recovery). Robotic kidney transplantation was safe and technically reproducible with appropriate perioperative outcomes across three American transplant centers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002268/",
+    "tags": [
+      "kidney-transplantation",
+      "robotic-surgical-procedures"
+    ],
+    "date": "2026-11-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-42994903",
     "title": "Glucocorticoid therapy for acute interstitial nephritis in a patient with diabetic nephropathy: A case report",
     "subtitle": "Medicine · 2026",
@@ -2515,6 +2542,48 @@
       "antibodies-antineutrophil-cytoplasmic"
     ],
     "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43003633",
+    "title": "A 63-Year-Old Man With Dyspnea and Loculated Pleural Effusion",
+    "subtitle": "Chest · 2026",
+    "summary": "A 63-year-old man with a past medical history of hypertension and end-stage renal disease receiving scheduled hemodialysis via a left upper extremity fistula sought treatment for shortness of breath of 1 to 2 years' duration that worsened acutely for 1 day after missing a hemodialysis session. He reported history of…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003633/",
+    "tags": [
+      "dyspnea",
+      "pleural-effusion",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43003399",
+    "title": "Genome-Wide Association Study of Kidney Function Decline in ~100 000 Taiwanese Adults-A Taiwan Biobank Cohort",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "These findings provide insights into the genetic determinants of kidney function and its decline in a Taiwanese population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003399/",
+    "tags": [
+      "kidney",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43000958",
+    "title": "Transplant Care and Immunosuppression Practices at Pediatric Kidney Transplant Centers and Their Association With Re-transplantation After Graft Failure",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Management of pediatric transplant recipients with graft failure is variable at US pediatric kidney transplant centers, and variability in immunosuppression management practices was associated with the likelihood of re-transplantation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000958/",
+    "tags": [
+      "kidney-transplantation",
+      "reoperation",
+      "immunosuppression-therapy",
+      "graft-rejection"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4279,74 +4348,6 @@
       "kidney-diseases"
     ],
     "date": "2026-10-16T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42886251",
-    "title": "Assessment of accuracy, quality, and readability of large language models in kidney transplantation practice",
-    "subtitle": "World journal of urology · 2026",
-    "summary": "Current-generation LLMs show high and comparable performance in addressing complex KT-related clinical questions. Their consistent accuracy, quality, and readability support their potential role as adjunctive clinical decision-support tools, provided appropriate physician oversight.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42886251/",
-    "tags": [
-      "large-language-models",
-      "kidney-transplantation",
-      "comprehension"
-    ],
-    "date": "2026-10-16T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42959041",
-    "title": "Crystalline κ-light-chain proximal tubulopathy in Waldenström macroglobulinemia with an IgA nephropathy pattern: a case report and systematic review",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Kidney biopsy demonstrated crystalline κ-LCPT, with κ-predominant light-chain staining in proximal tubular epithelial cells and organized intracytoplasmic crystals on electron microscopy. This case expands the spectrum of WM-associated renal disease by highlighting crystalline κ-LCPT as a rare clone-related tubular…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959041/",
-    "tags": [
-      "waldenstrom-macroglobulinemia",
-      "glomerulonephritis-iga",
-      "immunoglobulin-kappa-chains",
-      "kidney-tubules-proximal"
-    ],
-    "date": "2026-10-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42959035",
-    "title": "Behavioral-metabolic phenotypes and differential risks of diabetic kidney disease and peripheral neuropathy in type 2 diabetes: a latent class analysis",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Three distinct behavioral-metabolic phenotypes were identified among individuals with T2DM and showed differential associations with DKD and DPN risks. Integrating behavioral patterns, metabolic profiles, and socioeconomic context into risk stratification strategies may enhance early identification and individualized…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959035/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "diabetic-nephropathies",
-      "diabetic-neuropathies"
-    ],
-    "date": "2026-10-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42919415",
-    "title": "Clinical prediction models in cardiac surgery-associated acute kidney injury: a systematic review and meta-analysis",
-    "subtitle": "Critical care (London, England) · 2026",
-    "summary": "Accurate and well-validated CPMs can facilitate risk stratification for CSA-AKI which can influence clinical practice and research. Thakar 2005 demonstrated very good discrimination for predicting CSA-AKI RRT, whereas more validation studies for the prediction of milder stages of CSA-AKI are warranted.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919415/",
-    "tags": [
-      "acute-kidney-injury",
-      "cardiac-surgical-procedures"
-    ],
-    "date": "2026-10-15T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42902722",
-    "title": "[Preliminary evaluation of the efficacy and safety of telitacicept in children with IgA nephropathy]",
-    "subtitle": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics · 2026",
-    "summary": "Telitacicept can effectively reduce proteinuria in children with IgAN and demonstrates an overall favorable safety profile.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42902722/",
-    "tags": [
-      "glomerulonephritis-iga"
-    ],
-    "date": "2026-10-15T00:00:00.000Z",
     "pinned": false
   }
 ]

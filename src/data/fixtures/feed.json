@@ -2239,6 +2239,66 @@
     "pinned": false
   },
   {
+    "id": "pmid-43033383",
+    "title": "Mycotic extrarenal pseudoaneurysm with iliac artery disruption following renal transplantation: a rare case",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Transplant renal artery pseudoaneurysm is a rare but dangerous vascular complication following renal transplantation. Surgical exploration showed complete anastomotic disruption of the transplant renal artery requiring graft nephrectomy and iliac artery reconstruction with an interposition graft that restored the…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033383/",
+    "tags": [
+      "aneurysm-false",
+      "kidney-transplantation",
+      "iliac-artery",
+      "renal-artery"
+    ],
+    "date": "2026-11-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43033341",
+    "title": "Frasier syndrome presenting with persistent Pseudomonas aeruginosa bacteremia during intensive immunosuppressive therapy: a case report",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "However, in routine clinical practice, additional immunosuppression is often initiated before the results of genetic testing become available, thereby potentially increasing the risk of severe infection. This case highlights not only the importance of early genetic testing in SRNS to avoid ineffective…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033341/",
+    "tags": [
+      "pseudomonas-infections",
+      "immunosuppressive-agents",
+      "bacteremia",
+      "nephrotic-syndrome"
+    ],
+    "date": "2026-11-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43033311",
+    "title": "Complete remission achieved by multidisciplinary immunosuppressive therapy including plasma exchange in Kimura disease-associated membranoproliferative glomerulonephritis pattern of injury: a case report",
+    "subtitle": "CEN case reports · 2026",
+    "summary": "Th2-predominant immune responses and increased cytokine production have been implicated in the pathogenesis of KD, and elevated serum IgE levels have been associated with an elevated risk of disease recurrence. Our case suggests that PE may serve as a bridging intervention within multidisciplinary immunosuppressive…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033311/",
+    "tags": [
+      "glomerulonephritis-membranoproliferative",
+      "plasma-exchange",
+      "immunosuppressive-agents",
+      "kimura-disease"
+    ],
+    "date": "2026-11-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43034174",
+    "title": "Early renal adaptation after living kidney donation assessed by multiparametric MRI",
+    "subtitle": "BMC nephrology · 2026",
+    "summary": "Multiparametric MRI identified a distinct pattern of early renal adaptation following kidney donation, characterised by rapid kidney enlargement, reduced tissue-normalised perfusion, and transient increases in ADC and cortical T1. Exploratory associations between early medullary diffusion changes, kidney volume, and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034174/",
+    "tags": [
+      "living-donors",
+      "adaptation-physiological",
+      "nephrectomy",
+      "kidney-transplantation"
+    ],
+    "date": "2026-11-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43026212",
     "title": "AS01(E)-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
     "subtitle": "Nature communications · 2026",
@@ -2457,6 +2517,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-43034765",
+    "title": "Construction of a machine learning-based risk prediction model for acute stroke in maintenance hemodialysis patients",
+    "subtitle": "PeerJ · 2026",
+    "summary": "We successfully developed an interpretable XGBoost-based model that effectively predicts acute stroke risk in MHD patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034765/",
+    "tags": [
+      "stroke",
+      "renal-dialysis",
+      "machine-learning"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43013486",
     "title": "Associations of metabolic score for insulin resistance (METS-IR) with cardiovascular mortality risk in peritoneal dialysis patients",
     "subtitle": "PloS one · 2026",
@@ -2653,6 +2727,20 @@
       "robotic-surgical-procedures"
     ],
     "date": "2026-11-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43030317",
+    "title": "A Narrative Review: Nutrition in Pediatric Nephrology: From Early Kidney Health to Advanced CKD Care",
+    "subtitle": "Nutrients · 2026",
+    "summary": "Both undernutrition and overnutrition are significant challenges in children with chronic kidney disease, and nutritional management encompasses a wide range of measures, from preventing and treating obesity to providing a supportive diet and ensuring adequate protein and energy intake for weight gain and development.…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030317/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "child-nutritional-physiological-phenomena",
+      "nephrology"
+    ],
+    "date": "2026-11-07T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3765,6 +3853,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-43032266",
+    "title": "RSV-specific humoral and cellular immune responses in kidney transplant recipients",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Unsupervised hierarchical clustering distinguished three cytokine production profiles with divergent RSV-specific immune responses, but KTR and controls were equally distributed throughout. Thus, KTR have comparable RSV-specific humoral and cellular immune responses to controls.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032266/",
+    "tags": [
+      "kidney-transplantation",
+      "immunity-cellular",
+      "immunity-humoral",
+      "respiratory-syncytial-virus-infections"
+    ],
+    "date": "2026-10-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43032219",
+    "title": "Research progress on the epidemiology and diagnostic technologies of urinary tract infections in kidney transplant recipients",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "This review introduces advanced detection methods such as next-generation sequencing and clustered regularly interspaced short palindromic repeats (CRISPR), aiming to offer new strategies for diagnosing Post-KT UTIs. Moreover, it reviews recent advancements in the epidemiology, treatment methods, and preventive…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032219/",
+    "tags": [
+      "kidney-transplantation",
+      "urinary-tract-infections",
+      "postoperative-complications"
+    ],
+    "date": "2026-10-30T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43027990",
     "title": "The FGF23-Undercarboxylated Osteocalcin Axis in Predialysis Chronic Kidney Disease: Linking Mineral Homeostasis and Bone Turnover",
     "subtitle": "International journal of molecular sciences · 2026",
@@ -4238,122 +4355,6 @@
       "acute-kidney-injury"
     ],
     "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43027858",
-    "title": "Single-Cell Transcriptomic and Regulatory Network Analyses Identify a Putative HNF4A-OXR1 Association Linked to Podocyte Mitochondrial Dysfunction in Diabetic Kidney Disease",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "In silico OXR1 perturbation increased the predicted injured-state probability from 15% to 82%, while promoter motif analysis provided additional computational support for a putative HNF4A-OXR1 regulatory relationship. These findings highlight OXR1 as a candidate associated with podocyte mitochondrial dysfunction in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43027858/",
-    "tags": [
-      "podocytes",
-      "diabetic-nephropathies",
-      "mitochondria",
-      "hepatocyte-nuclear-factor-4"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43011038",
-    "title": "Do invasive fungal infections affect kidney transplantation outcomes?",
-    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
-    "summary": "Post-transplant IFI was associated with adverse transplant outcomes, with a stronger association earlier in the post-transplant period. Among recipients with IFI, onset within 6 months after transplantation versus later onset and IA versus PJP were associated with poorer outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43011038/",
-    "tags": [
-      "kidney-transplantation",
-      "invasive-fungal-infections"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43011024",
-    "title": "UACR adjustment attenuates associations of selected routine blood markers with documented diabetic retinopathy more than eGFR adjustment: a cross-sectional study in type 2 diabetes",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Adjustment for log UACR attenuated the serum albumin association more than adjustment for eGFR (73.3% versus 34.3%; difference 38.9 percentage points, 95% CI 30.7 to 49.0) and moved the fibrinogen estimate close to one. Serum albumin remained associated with documented DR after restriction to eGFR ≥90 mL/min/1.73…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43011024/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "glomerular-filtration-rate",
-      "diabetic-retinopathy",
-      "albuminuria"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43010906",
-    "title": "Distinct temporal neuropsychiatric outcomes associated with GLP-1 receptor agonists versus SGLT2 inhibitors after acute kidney disease in type 2 diabetes",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Among patients with dialysis-requiring AKD and T2DM, GLP-1RA and SGLT2i use showed outcome-specific associations with subsequent neuropsychiatric events. Although the primary analysis suggested a lower delirium risk with GLP-1RA, this association was not consistently observed in adjusted time-stratified analyses.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43010906/",
-    "tags": [
-      "diabetes-mellitus-type-2",
-      "glucagon-like-peptide-1-receptor-agonists",
-      "sodium-glucose-transporter-2-inhibitors",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42949128",
-    "title": "Combined Anti-Phospholipase A2 Receptor and Early B-Cell Reconstitution Predict Rituximab Response in Membranous Nephropathy",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "Multivariate analysis identified baseline anti-PLA2R > 155 RU/mL and early B-cell reconstitution as independent risk factors for unsatisfactory RTX response (all P < 0.05). In this retrospective single-center cohort, the combined baseline anti-PLA2R titer and early B-cell reconstitution showed promising discriminative…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42949128/",
-    "tags": [
-      "rituximab",
-      "glomerulonephritis-membranous",
-      "receptors-phospholipase-a2",
-      "b-lymphocytes"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42945336",
-    "title": "Does receiving red yeast rice prescriptions (LipoCol Forte®) increase the risk of end-stage renal disease or not? A retrospective cohort study",
-    "subtitle": "PloS one · 2026",
-    "summary": "RYR intake may be linked to a decreased likelihood of progressing to ESRD. Despite these promising results, factors such as medication adherence necessitate cautious interpretation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42945336/",
-    "tags": [
-      "kidney-failure-chronic",
-      "biological-products"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42945221",
-    "title": "SIRT5 deficiency exacerbates sepsis acute renal injury by activating ACSL4/FTH1 axis dependent ferroptosis",
-    "subtitle": "PloS one · 2026",
-    "summary": "Notably, knockdown of ACSL4 in SIRT5‑deficient HK‑2 cells effectively reversed lipid peroxidation, iron accumulation, and cell death, establishing ACSL4 as a key downstream effector of SIRT5‑mediated ferroptosis suppression. Our findings reveal a previously unrecognized SIRT5-ACSL4/FTH1 regulatory axis that governs…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42945221/",
-    "tags": [
-      "ferroptosis",
-      "sepsis",
-      "acute-kidney-injury",
-      "coenzyme-a-ligases"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42944837",
-    "title": "Protein-losing enteropathy as a rare presentation of small bowel T-cell post-transplant lymphoproliferative disease",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "Monomorphic epitheliotropic intestinal T-cell lymphoma (MEITL) is a rare primary intestinal lymphoma which most commonly involves the small bowel. Even though the upper gastrointestinal endoscopy, colonoscopy and abdominal computed tomography did not show any significant lesions, the patient developed sudden bowel…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42944837/",
-    "tags": [
-      "protein-losing-enteropathies",
-      "lymphoproliferative-disorders",
-      "intestine-small",
-      "kidney-transplantation"
-    ],
-    "date": "2026-10-27T00:00:00.000Z",
     "pinned": false
   }
 ]

@@ -2415,6 +2415,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43036584",
+    "title": "Pain severity and quality of life among patients undergoing hemodialysis",
+    "subtitle": "PeerJ · 2026",
+    "summary": "Pain adversely affects multiple aspects of QOL in HD patients. Comprehensive interventions focusing on pain management and socioeconomic support are essential to improve QOL outcomes in this adult population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036584/",
+    "tags": [
+      "quality-of-life",
+      "renal-dialysis",
+      "pain",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-12T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43019376",
     "title": "Resilience and its mediating role in the association between family functioning and symptom experience in kidney transplant recipients: A cross-sectional study",
     "subtitle": "PloS one · 2026",
@@ -2741,6 +2756,19 @@
       "nephrology"
     ],
     "date": "2026-11-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43035303",
+    "title": "[The auxiliary diagnostic value of combined indicators based on dihydrolipoamide S-acetyltransferase in early diabetic kidney disease]",
+    "subtitle": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine] · 2026",
+    "summary": "Receiver operating characteristic curve (ROC) analysis was employed to evaluate the diagnostic performance of DLAT in combination with other indicators for diabetic kidney disease (DKD), specifically for eDKD. In conclusion,the non-invasive combined detection of blood biomarkers DLAT, KIM-1, and the Cu/Zn ratio holds…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035303/",
+    "tags": [
+      "diabetic-nephropathies",
+      "acetyltransferases"
+    ],
+    "date": "2026-11-06T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3267,6 +3295,48 @@
       "antibodies-antineutrophil-cytoplasmic"
     ],
     "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43036177",
+    "title": "Paired kidney allograft biopsies reveal a senescence-associated tubular epithelial phenotype and granzyme B-rich inflammation after treatment of BK polyomavirus nephropathy",
+    "subtitle": "The journal of pathology. Clinical research · 2026",
+    "summary": "Cell-free and exploratory co-culture experiments in LTa-transformed tubular epithelial cells were performed to assess whether LTa is susceptible to granzyme B. Follow-up biopsies demonstrated increased chronic injury and interstitial inflammation, accompanied by expansion of tubular epithelial cells with low LTa…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036177/",
+    "tags": [
+      "kidney-transplantation",
+      "polyomavirus-infections",
+      "bk-virus",
+      "granzymes"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43035263",
+    "title": "[Clinical practice guideline for adult primary membranous nephropathy in China (2026)]",
+    "subtitle": "Zhonghua nei ke za zhi · 2026",
+    "summary": "The guideline proposes a clinical diagnostic strategy based on screening for secondary causes and testing for anti-phospholipase A2 receptor (PLA2R) antibodies; a risk stratification approach centered on proteinuria, serum albumin, kidney function, and anti-PLA2R antibody levels; and a stratified treatment strategy…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035263/",
+    "tags": [
+      "glomerulonephritis-membranous"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43035853",
+    "title": "Association Between Sleep Quality and Personality Traits in Patients With Chronic Kidney Disease Stages 1-4: A Cross-Sectional Study",
+    "subtitle": "Nursing open · 2026",
+    "summary": "Poor sleep quality is prevalent among patients with CKD Stages 1-4. Neuroticism and psychoticism showed associations with sleep quality, suggesting that personality traits may serve as complementary psychosocial factors to consider when evaluating sleep difficulties in this population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035853/",
+    "tags": [
+      "sleep-quality",
+      "personality",
+      "renal-insufficiency-chronic",
+      "sleep-wake-disorders"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4282,77 +4352,6 @@
     "tags": [
       "glomerulonephritis-iga",
       "budesonide"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42957989",
-    "title": "Ratio of Red Blood Cell Distribution Width to Albumin Level and Mortality Outcomes in Population with Chronic Kidney Disease",
-    "subtitle": "Kidney & blood pressure research · 2026",
-    "summary": "These findings suggested that increased RAR robustly associated with elevated risks for all-cause and cause-specific mortality in CKD population. Future clinical trials are demanded to validate the present findings and figure out the underlying mechanisms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42957989/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "serum-albumin",
-      "erythrocyte-indices"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42955576",
-    "title": "Acute pericarditis caused by Kocuria kristinae with successful withdrawal from hemodialysis: a case report",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "Following the implementation of drainage and antimicrobial therapy, pericardial effusion decreased, venous congestion was alleviated, and urine output increased. This case suggests that a massive pericardial effusion with venous congestion can delay renal recovery in severe AKI, whereas successful pericardial drainage…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42955576/",
-    "tags": [
-      "pericarditis",
-      "acute-kidney-injury",
-      "renal-dialysis",
-      "micrococcaceae"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42955487",
-    "title": "Renal vein thrombosis with inferior vena cava extension and pulmonary embolism in a patient with acute pyelonephritis: a case report and updated literature review",
-    "subtitle": "CEN case reports · 2026",
-    "summary": "A PubMed search identified 23 previously published cases of acute pyelonephritis-associated RVT, pooled with the present case (n = 24) and analyzed separately from five xanthogranulomatous pyelonephritis-associated cases. In cases where infection and RVT coexist, the temporal relationship and causality may remain…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42955487/",
-    "tags": [
-      "pyelonephritis",
-      "pulmonary-embolism",
-      "venous-thrombosis",
-      "vena-cava-inferior"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42954158",
-    "title": "Multiparametric Magnetic Resonance Imaging in a Prospective Cohort of Living Kidney Donors, Recipients, and Healthy Controls and Correlations With Markers of Renal Function, Fibrosis, and Aging (MPRENAL): Protocol for a Longitudinal Observational Study",
-    "subtitle": "JMIR research protocols · 2026",
-    "summary": "Successful completion of this study is expected to provide robust histological validation of mpMRI and establish its utility as a noninvasive tool for monitoring renal health.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42954158/",
-    "tags": [
-      "living-donors",
-      "kidney-transplantation",
-      "multiparametric-magnetic-resonance-imaging",
-      "kidney"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42950015",
-    "title": "Acute kidney injury as a systemic disease",
-    "subtitle": "Science translational medicine · 2026",
-    "summary": "Evidence suggests that AKI can initiate long-term renal and cardiovascular disease, even when kidney function appears to recover. We synthesize emerging mechanistic and clinical evidence linking AKI to systemic cardiorenal disease and discuss how biomarkers, imaging, and clinical risk prediction may enable…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42950015/",
-    "tags": [
-      "acute-kidney-injury"
     ],
     "date": "2026-10-28T00:00:00.000Z",
     "pinned": false

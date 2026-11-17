@@ -2239,6 +2239,32 @@
     "pinned": false
   },
   {
+    "id": "pmid-43038236",
+    "title": "Temporal trends in the incidence of chronic kidney disease from 1992 to 2021: An age-period-cohort analysis using GBD 2021 data and projections until 2031",
+    "subtitle": "PloS one · 2026",
+    "summary": "This study suggests that the burden of CKD incidence increased over the past 30 years and could continue to rise in the coming decade. The middle SDI regions may warrant particular concern.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038236/",
+    "tags": [
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43038181",
+    "title": "Sleep quality patterns and associated factors in patients undergoing maintenance hemodialysis: A latent class analysis",
+    "subtitle": "PloS one · 2026",
+    "summary": "Latent class analysis based on the seven components of the Pittsburgh Sleep Quality Index identified three distinct sleep quality classes: \"good overall sleep quality\" (Class 1, 52.8%), \"insomnia with daytime dysfunction\" (Class 2, 36.7%), and \"poor overall sleep quality with low sleep efficiency\" (Class 3, 10.5%).…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038181/",
+    "tags": [
+      "renal-dialysis",
+      "sleep-quality",
+      "sleep-wake-disorders"
+    ],
+    "date": "2026-11-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43033383",
     "title": "Mycotic extrarenal pseudoaneurysm with iliac artery disruption following renal transplantation: a rare case",
     "subtitle": "CEN case reports · 2026",
@@ -3298,6 +3324,61 @@
     "pinned": false
   },
   {
+    "id": "pmid-43040213",
+    "title": "Body Mass Index Associated With the Lowest Renal Risk Across Levels of Kidney Function in Chronic Kidney Disease: A Nationwide Cohort Study",
+    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
+    "summary": "The association between BMI and renal outcomes differed across CKD stages, with a higher nadir BMI observed at lower baseline eGFR levels. These findings suggest that kidney function should be considered when interpreting BMI in individuals with CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040213/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "glomerular-filtration-rate",
+      "body-mass-index",
+      "kidney"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43038017",
+    "title": "Association between a C-Reactive Protein-Triglyceride Glucose Index and Chronic Kidney Disease in US Adults",
+    "subtitle": "Clinical laboratory · 2026",
+    "summary": "The novel C-reactive protein-triglyceride glucose index, a composite measure of inflammation and metabolic dysregulation, is strongly and independently associated with a higher prevalence of CKD among US adults. This index may serve as a valuable and simple tool for early identification of individuals at high risk for…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038017/",
+    "tags": [
+      "c-reactive-protein",
+      "renal-insufficiency-chronic",
+      "blood-glucose",
+      "triglycerides"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43037998",
+    "title": "Integrative Analysis of GEO Datasets Identifies Key Genes in Chronic Hepatitis B and Chronic Kidney Disease",
+    "subtitle": "Clinical laboratory · 2026",
+    "summary": "This study identifies potential biomarkers and molecular mechanisms linking HBV and CKD, providing a valuable foundation for early diagnosis and targeted therapeutic development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037998/",
+    "tags": [
+      "hepatitis-b-chronic",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43035264",
+    "title": "[Guideline for the diagnosis, treatment and management of drug-induced kidney injury (2026)]",
+    "subtitle": "Zhonghua nei ke za zhi · 2026",
+    "summary": "To enhance awareness and standardize protocols for risk screening, early identification, diagnosis, prevention, and treatment, the Chinese Society of Clinical Pharmacy and the Chinese Society of Renal Diseases convened a multidisciplinary panel of experts to establish an editorial committee responsible for developing…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035264/",
+    "tags": [
+      "acute-kidney-injury"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43036177",
     "title": "Paired kidney allograft biopsies reveal a senescence-associated tubular epithelial phenotype and granzyme B-rich inflammation after treatment of BK polyomavirus nephropathy",
     "subtitle": "The journal of pathology. Clinical research · 2026",
@@ -4268,92 +4349,6 @@
       "pyroptosis"
     ],
     "date": "2026-10-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42954264",
-    "title": "[Hospital-community care coordination and therapeutic optimization in patients receiving maintenance hemodialysis]",
-    "subtitle": "Nephrologie & therapeutique · 2026",
-    "summary": "Patients undergoing maintenance hemodialysis are frequently exposed to polypharmacy due to multiple comorbidities, increasing the risk of adverse drug events and medication discrepancies between hospital and community care. Integrating clinical pharmacists into a structured therapeutic optimization process may improve…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42954264/",
-    "tags": [
-      "renal-dialysis",
-      "medication-reconciliation",
-      "inappropriate-prescribing",
-      "continuity-of-patient-care"
-    ],
-    "date": "2026-10-29T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43017147",
-    "title": "Case Report: A rare case of biopsy-proven lupus nephritis complicated by Graves' disease in a 39-year-old man",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Basic research suggests that GD and SLE may share overlapping genetic and immunological pathways; however, whether these shared mechanisms contribute to their clinical coexistence remains uncertain. The patient demonstrated early clinical and laboratory improvement during follow-up, although the limited follow-up…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43017147/",
-    "tags": [
-      "graves-disease",
-      "lupus-nephritis"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43017039",
-    "title": "IKK-β inhibitor TPCA-1 increases Gd-IgA1 production and decreases C1GALT1 expression in EBV-immortalized B cells from human donors",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Using EBV-immortalized B cells derived from peripheral-blood mononuclear cells of IgAN patients and healthy controls, we report that inhibition of p65 NF-κB by an IKK-β inhibitor, TPCA-1, reduced phosphorylation of p65 NF-κB and decreased production of IgA1 and, conversely, increased Gd-IgA1 production. Flow-cytometry…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43017039/",
-    "tags": [
-      "galactosyltransferases",
-      "i-kappa-b-kinase",
-      "b-lymphocytes",
-      "glomerulonephritis-iga"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43016614",
-    "title": "Successful treatment of anti-glomerular basement membrane antibody disease combined with membranous nephropathy using rituximab: a case report",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Three years later, he developed rapidly progressive glomerulonephritis, and kidney biopsy confirmed anti-GBM disease superimposed on pre-existing MN. This case expands the clinical spectrum of overlapping anti-GBM disease and MN and suggests that patients with MN in remission require long-term serial monitoring for…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43016614/",
-    "tags": [
-      "glomerulonephritis-membranous",
-      "anti-glomerular-basement-membrane-disease",
-      "rituximab",
-      "immunosuppressive-agents"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43016527",
-    "title": "Primary hyperoxaluria type 2 presenting with febuxostat-associated acute tubular injury in a kidney transplant recipient: a case report",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "This case highlights that PH2 can present as recurrent oxalate nephropathy after kidney transplantation. Febuxostat may have contributed to the clinical presentation, but its causal role remains unproven.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43016527/",
-    "tags": [
-      "febuxostat",
-      "kidney-transplantation",
-      "hyperoxaluria-primary",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42968938",
-    "title": "Targeted-Release Budesonide in Chinese Patients with IgA Nephropathy: A Real-World Retrospective Cohort Study",
-    "subtitle": "Drug design, development and therapy · 2026",
-    "summary": "In this Chinese real-world cohort, TRF-budesonide was associated with reduced proteinuria and hematuria over 6 months, with stable to modestly improved kidney function. Exploratory signals related to treatment timing and Oxford T score require prospective validation before they can guide patient selection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42968938/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "budesonide"
-    ],
-    "date": "2026-10-28T00:00:00.000Z",
     "pinned": false
   }
 ]

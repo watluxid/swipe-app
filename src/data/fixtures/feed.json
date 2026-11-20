@@ -1,5 +1,19 @@
 [
   {
+    "id": "pmid-43059392",
+    "title": "Pyruvate dehydrogenase kinase 4 in acute kidney injury and the acute kidney injury‑to‑chronic kidney disease transition: A key metabolic regulatory hub and potential therapeutic target (Review)",
+    "subtitle": "Molecular medicine reports · 2027",
+    "summary": "In renal tubular epithelial cells and other renal cell types, increased PDK4 mRNA expression and/or PDK4 protein abundance has been associated with enhanced inhibitory signalling through the PDK4‑PDH complex axis, typically reflected by increased phosphorylation of the PDH E1α subunit, reduced total PDH complex…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059392/",
+    "tags": [
+      "acute-kidney-injury",
+      "renal-insufficiency-chronic",
+      "pyruvate-dehydrogenase-acetyl-transferring-kinase"
+    ],
+    "date": "2027-01-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43018129",
     "title": "SCF-cyclin F ubiquitin ligase attenuates diabetic kidney disease podocyte injury by targeting EIF4A3 for ubiquitination and degradation to suppress circ_0000285 expression",
     "subtitle": "Autoimmunity · 2026",
@@ -2311,6 +2325,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43055978",
+    "title": "TRIM21 drives ferroptosis in sepsis-induced acute kidney injury through ubiquitination-dependent degradation of SIRT5",
+    "subtitle": "Molecular biology reports · 2026",
+    "summary": "This study identifies TRIM21 as a previously unrecognized regulator of ferroptosis in S-AKI, at least partly, via promoting ubiquitination and degradation of SIRT5 in renal tubular epithelial cells. However, because whole-body TRIM21 knockout mice were used, the renal protection observed in vivo cannot be solely…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055978/",
+    "tags": [
+      "ferroptosis",
+      "sepsis",
+      "acute-kidney-injury",
+      "sirtuins"
+    ],
+    "date": "2026-11-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43049943",
     "title": "Urinary exosomal C5b-9 as a non-invasive biomarker for diagnosis and monitoring of pediatric IgA nephropathy: a single-center prospective study",
     "subtitle": "European journal of pediatrics · 2026",
@@ -3220,6 +3249,89 @@
     "pinned": false
   },
   {
+    "id": "pmid-43054384",
+    "title": "Targeting pyroptosis: therapeutic potential in the immune-inflammatory imbalance of chronic kidney disease",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Across CKD phenotypes, human studies support pathway activation and cell-type-specific associations, whereas most causal evidence for pyroptosis itself derives from experimental models; this distinction is essential because inflammasome activation or cytokine elevation alone does not establish gasdermin-mediated lytic…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054384/",
+    "tags": [
+      "pyroptosis",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43054379",
+    "title": "Construction of a hemodialysis quality assessment and feedback mechanism based on nursing behavior data",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "The proposed methodology integrates a Nursing Behavior-Informed Hemodialysis Quality Assessment Model (NB-HQAM) and an Adaptive Feedback Mechanism (AFM) to systematically evaluate nursing behavior patterns and generate structured feedback recommendations. The AFM provides a structured mechanism for translating model…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054379/",
+    "tags": [
+      "renal-dialysis",
+      "quality-assurance-health-care",
+      "feedback"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43054079",
+    "title": "Recurrence of immunoglobulin A nephropathy after kidney transplantation: a therapeutic gap in the era of targeted therapies",
+    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
+    "summary": "Two large registries suggested that maintenance corticosteroids reduce recurrence, but this association was not confirmed in propensity-matched or multicenter studies, and induction immunosuppression was not adequately accounted for. Mechanistically, IgAN is increasingly viewed as a disorder of B-cell and plasma-cell…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054079/",
+    "tags": [
+      "kidney-transplantation",
+      "glomerulonephritis-iga"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43054032",
+    "title": "Association of low physical performance assessed by five-time chair stand test with new-onset and severity of chronic kidney disease: hybrid evidence from public health and clinical settings",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "In this hypothesis-generating analysis, low physical performance, as indicated by prolonged CST time, was positively associated with new-onset CKD in middle-aged and older Chinese adults. A similar pattern was observed in male patients with CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054032/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "physical-functional-performance"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43054022",
+    "title": "Application of endovascular stent graft in ABO-incompatible living donor kidney transplantation: a case report",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Consequently, a self-expandable endovascular covered stent was implanted into the external iliac artery via the right femoral artery under intervention. This study demonstrates that renal graft implanted on the endovascular stent is a feasible therapeutic option for recipients with severe iliac arteriosclerosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054022/",
+    "tags": [
+      "kidney-transplantation",
+      "living-donors",
+      "abo-blood-group-system",
+      "stents"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43053938",
+    "title": "Hemodialysis patients exhibit T-cell activation accompanied by an enhanced frequency of IFN-γ(+)CD4(+)/CD8(+) T cells",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Phenotypically, the changes in CD4T-cell subsets were more significant than those observed for CD8T cells, with activated T cells (CD4CD38, CD4HLA-DR, and CD8CD38T cells) increased and functional T cells (CD4CD28T cells) decreased in proportion and quantity. In summary, maintenance HD is associated with dysregulation…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053938/",
+    "tags": [
+      "interferon-gamma",
+      "lymphocyte-activation",
+      "cd8-positive-t-lymphocytes",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-11-04T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43009321",
     "title": "Diagnostic utility of apolipoprotein E immunohistochemistry in C3 glomerulonephritis, dense deposit disease, and their intermediate phenotypes",
     "subtitle": "American journal of clinical pathology · 2026",
@@ -3596,6 +3708,64 @@
       "antibodies-antineutrophil-cytoplasmic"
     ],
     "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43059291",
+    "title": "Overweight and Rapid Weight Gain Following Pediatric Kidney Transplantation in Chinese Children",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "Significant weight gain is common following pediatric kidney transplant. Early screening, identification, and timely intervention are keys to halt disease progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059291/",
+    "tags": [
+      "kidney-transplantation",
+      "weight-gain",
+      "overweight",
+      "postoperative-complications"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43059047",
+    "title": "Non-Albuminuric Diabetic Kidney Disease: Pathophysiology and Clinical Implications",
+    "subtitle": "Diabetes & metabolism journal · 2026",
+    "summary": "This non-albuminuric phenotype accounts for approximately 20%-40% of diabetic kidney disease and 39%-55% of cases with reduced kidney function and is increasingly prevalent. Histological, imaging, and biomarker studies suggest less prominent classic glomerular injury and greater contributions from intrarenal vascular…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059047/",
+    "tags": [
+      "diabetic-nephropathies",
+      "diabetes-mellitus-type-2"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43056213",
+    "title": "Renal denervation in patients with chronic kidney diseases: current evidence and future perspectives",
+    "subtitle": "Journal of cardiovascular medicine (Hagerstown, Md.) · 2026",
+    "summary": "In recent years, RDN has demonstrated promising therapeutic potential for the management of patients with CKD. This review comprehensively summarizes the latest advances in the efficacy and safety of RDN in patients with CKD, and proposes critical perspectives to address the existing challenges.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056213/",
+    "tags": [
+      "sympathectomy",
+      "renal-insufficiency-chronic",
+      "kidney",
+      "hypertension"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43056212",
+    "title": "Renal outcomes with pre-percutaneous coronary intervention Impella in acute myocardial infarction with cardiogenic shock: a meta-analysis",
+    "subtitle": "Journal of cardiovascular medicine (Hagerstown, Md.) · 2026",
+    "summary": "Pre-PCI Impella support in AMI-CS was not significantly associated with differences in renal outcomes, although these results are sensitive to the exclusion of specific studies. Larger studies are needed to confirm these findings, and account for underlying confounding variables, to clarify the underlying mechanism.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056212/",
+    "tags": [
+      "heart-assist-devices",
+      "percutaneous-coronary-intervention",
+      "shock-cardiogenic",
+      "myocardial-infarction"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4174,180 +4344,6 @@
       "sodium-glucose-transporter-2-inhibitors",
       "volatile-organic-compounds",
       "diabetic-nephropathies"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42973286",
-    "title": "C4d May Predict Treatment Failure and Disease Progression in Primary Focal Segmental Glomerulosclerosis",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "C4d seems to be independently associated with treatment failure and disease progression in pFSGS. Beyond the influence on risk stratification in pFSGS, this study may prompt trials with complement interfering agents in pFSGS.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42973286/",
-    "tags": [
-      "glomerulosclerosis-focal-segmental",
-      "complement-c4b",
-      "kidney-glomerulus",
-      "peptide-fragments"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42971932",
-    "title": "Current Status and Temporal Changes in Lupus Nephritis in Japan: Analysis of the Japan Renal Biopsy Registry",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "The recent first-biopsy cohort was older and had a lower proportion of Class IV (±V) lesions than the historical cohort, even after age adjustment. These findings suggest temporal changes in LN in Japan, although the greater proportion of missing histological classification data in the historical cohort should be…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42971932/",
-    "tags": [
-      "lupus-nephritis",
-      "kidney"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42968418",
-    "title": "Excellent Long-Term Outcome in a Staged, Simultaneous Liver-Kidney Transplantation of a Highly Sensitized Pediatric Patient With B and T Cell Positive Crossmatch",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "We present the successful staged SLK of a complex, highly sensitized child in the setting of high titers of Class I/II DSAs against positive XMs. Sophisticated immunologic management and delay of kidney transplantation by 18 h, presumably allowing the liver allograft to absorb circulating DSAs and T-cells, resulted in…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42968418/",
-    "tags": [
-      "liver-transplantation",
-      "kidney-transplantation",
-      "t-lymphocytes",
-      "b-lymphocytes"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42968396",
-    "title": "Population Pharmacokinetic and Pharmacodynamic Model of Propofol in Patients With Chronic Kidney Disease",
-    "subtitle": "Journal of clinical pharmacology · 2026",
-    "summary": "The average concentration at LOC was significantly higher in stage 4 (6.61 ± 6.28 µg/mL) as compared to stages 1 (2.06 ± 1.69 µg/mL) or stage 2 (1.64 ± 1.77 µg/mL). Average time to eye opening was also higher in stages 3 and 4 (12.9 ± 4.7 and 9.5 ± 3.1 min, respectively) as compared to stages 1 and 2 (7 ± 3.2 and 7.9…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42968396/",
-    "tags": [
-      "propofol",
-      "anesthetics-intravenous",
-      "renal-insufficiency-chronic",
-      "models-biological"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42963980",
-    "title": "Fruit and Vegetable Prescription Program for Food-Insecure Pediatric Kidney Transplant Recipients: A Pilot Study",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "A produce prescription program was feasible, safe, and highly acceptable among PYA kidney transplant recipients with FI and warrants evaluation in larger studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963980/",
-    "tags": [
-      "kidney-transplantation",
-      "fruit",
-      "vegetables",
-      "food-insecurity"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42963345",
-    "title": "Effects of a Nurse-Led Multicomponent Exercise Intervention for Haemodialysis Patients With Possible or Confirmed Sarcopenia: A Cluster Randomised Trial",
-    "subtitle": "Nursing open · 2026",
-    "summary": "The nurse-led multicomponent exercise intervention was safe and feasible and showed favourable trends in muscle strength and physical function, although statistically significant between-group differences were not retained after correction for multiple comparisons.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963345/",
-    "tags": [
-      "renal-dialysis",
-      "sarcopenia",
-      "exercise-therapy"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42957591",
-    "title": "Huaier Attenuates Renal Injury in Type 2 Diabetic Nephropathy by Ameliorating Mitochondrial Dysfunction and Inhibiting Tubular Epithelial Cell Apoptosis",
-    "subtitle": "Journal of diabetes · 2026",
-    "summary": "Huaier aqueous extract mitigates RTECs apoptosis and renal injury in Type 2 diabetic nephropathy by suppressing the Wnt5a/β-catenin signaling pathway.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42957591/",
-    "tags": [
-      "apoptosis",
-      "diabetic-nephropathies",
-      "diabetes-mellitus-type-2",
-      "epithelial-cells"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42957259",
-    "title": "Predictors of Cardiovascular Events in Patients Undergoing Maintenance Hemodialysis for Diabetic Kidney Disease: A Two-year Prospective Cohort Study",
-    "subtitle": "In vivo (Athens, Greece) · 2026",
-    "summary": "A history of CV disease and elevated hs-CRP are independent predictors of future CV events in patients on maintenance HD for DKD. While lower DPA levels were associated with CV risk in univariate analysis, larger multicenter studies are needed to fully clarify its prognostic significance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42957259/",
-    "tags": [
-      "renal-dialysis",
-      "cardiovascular-diseases",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42957228",
-    "title": "Impact of SPAK Deficiency on Glomerular Injury and Mitochondrial Homeostasis in Adriamycin-Induced FSGS",
-    "subtitle": "In vivo (Athens, Greece) · 2026",
-    "summary": "SPAK deficiency modifies mitochondrial and apoptotic responses but does not attenuate Adriamycin-induced glomerular injury. These findings suggest that SPAK contributes to glomerular homeostasis and that its role in kidney injury is context-dependent.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42957228/",
-    "tags": [
-      "glomerulosclerosis-focal-segmental",
-      "mitochondria",
-      "protein-serine-threonine-kinases",
-      "kidney-glomerulus"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42957224",
-    "title": "Renal and Vascular Effects of Selective FGFR4 Inhibition in Folic Acid-induced Kidney Injury in Rats",
-    "subtitle": "In vivo (Athens, Greece) · 2026",
-    "summary": "Folic acid-induced renal injury was associated with early functional vascular impairment despite limited structural and inflammatory alterations. Selective FGFR4 inhibition did not demonstrate a clear therapeutic effect.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42957224/",
-    "tags": [
-      "receptor-fibroblast-growth-factor-type-4",
-      "folic-acid",
-      "kidney",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42957221",
-    "title": "In Vivo Dynamics of Immunoregulatory Lymphocyte Reconstitution: A Seven-year Longitudinal Study of Sustained Remission in Class IV Lupus Nephritis Following Rituximab Therapy",
-    "subtitle": "In vivo (Athens, Greece) · 2026",
-    "summary": "The case demonstrates a persistent dissociation between peripheral CD19B-cell repopulation and renal disease activity. The findings suggest that the quality of immune reconstitution, rather than the absolute number of CD19B cells, may be associated with sustained remission after RTX therapy and support the potential…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42957221/",
-    "tags": [
-      "lupus-nephritis",
-      "rituximab"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42949643",
-    "title": "Toward a digital urinary biopsy for early risk stratification in diabetic kidney disease: Anchoring shed cells, vesicles, and cell-free DNA to spatial kidney cell states",
-    "subtitle": "Clinical and translational medicine · 2026",
-    "summary": "We therefore present the framework as a structured research hypothesis and define the required validation, from analytical and clinical validity to prospective demonstration of utility, with non-albuminuric DKD, which albuminuria-based screening misses, as the index use case. It offers a testable route to…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42949643/",
-    "tags": [
-      "diabetic-nephropathies",
-      "cell-free-nucleic-acids",
-      "extracellular-vesicles",
-      "kidney"
     ],
     "date": "2026-11-01T00:00:00.000Z",
     "pinned": false

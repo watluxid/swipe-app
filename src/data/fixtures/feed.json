@@ -118,6 +118,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43066946",
+    "title": "Increased risk of arteriovenous fistula thrombosis in haemodialysis patients with ANCA-associated vasculitis: a retrospective comparative study",
+    "subtitle": "Annals of medicine · 2026",
+    "summary": "AAV was associated with a higher hazard of AVF thrombosis in patients undergoing maintenance HD compared with non-vasculitic ESKD, even after adjustment for age. However, the limited number of thrombotic events and potential residual confounding warrant cautious interpretation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066946/",
+    "tags": [
+      "renal-dialysis",
+      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis",
+      "kidney-failure-chronic",
+      "thrombosis"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43064479",
     "title": "Central Venous Stenosis: Etiology, Risk Factors, and Strategies for Prevention",
     "subtitle": "Techniques in vascular and interventional radiology · 2026",
@@ -3944,6 +3959,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-43066640",
+    "title": "Revisiting Perioperative Tacrolimus Concentration Changes After Kidney Transplantation Through Detailed Clinical Observation",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Perioperative Tac concentration changes showed features suggesting a temporally continuous process. These findings suggest the possible involvement of underlying factors contributing to similar fluctuations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066640/",
+    "tags": [
+      "kidney-transplantation",
+      "tacrolimus",
+      "immunosuppressive-agents",
+      "graft-rejection"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43066637",
+    "title": "Molecular Diagnostics-Guided Immunosuppression Minimization to Belatacept Monotherapy in Kidney Transplant Recipients",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Molecular diagnostics-guided immunosuppression minimization was safe in carefully selected belatacept-treated kidney transplant recipients, supporting further evaluation of biomarker-guided strategies to individualize long-term immunosuppression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066637/",
+    "tags": [
+      "kidney-transplantation",
+      "abatacept",
+      "immunosuppressive-agents",
+      "graft-rejection"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43065231",
     "title": "ANCA-Negative Pauci-Immune Crescentic Glomerulonephritis With Atypical Endothelial Injury in a Patient With Long-Standing Rheumatoid Arthritis",
     "subtitle": "Nephrology (Carlton, Vic.) · 2026",
@@ -4299,49 +4344,6 @@
       "frailty",
       "geriatric-assessment",
       "kidney-failure-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43019031",
-    "title": "Chronic kidney disease-associated pruritus in chronic hemodialysis patients: Real world treatment approaches in a large Turkish cohort",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "Antihistamines were the most prescribed agents (64.0%), followed by topical therapies (17.3%), selective serotonin reuptake inhibitors (9.3%), and gabapentinoids (9.3%).ConclusionsAlthough treatment rates increased with symptom severity, evidence-based therapies such as gabapentinoids and advanced antipruritic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43019031/",
-    "tags": [
-      "pruritus",
-      "renal-dialysis",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43016085",
-    "title": "Evaluating CKD-EPI Pakistan Against Standard Equations Using Diethylenetriaminepentaacetic Acid-Measured Glomerular Filtration Rate",
-    "subtitle": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP · 2026",
-    "summary": "The CKD-EPI Pakistan equation provided the most accurate and reliable GFR estimates among healthy Pakistani adults, indicating the benefit of region-specific calibration. However, international validation studies are required to confirm broader applicability and support global clinical guideline adjustments.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43016085/",
-    "tags": [
-      "glomerular-filtration-rate",
-      "pentetic-acid",
-      "renal-insufficiency-chronic",
-      "creatinine"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43009330",
-    "title": "[Analysis of clinical characteristics and lymphocyte subsets of patients with hemodialysis complicated by tuberculosis infection]",
-    "subtitle": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology · 2026",
-    "summary": "Based on the results of T-cell spot test for tuberculosis infection and/or purified protein derivative tuberculin test, the participants were divided into four groups: hemodialysis with active tuberculosis group (active tuberculosis group, 55 cases), hemodialysis with latent tuberculosis infection group (latent…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43009330/",
-    "tags": [
-      "renal-dialysis",
-      "tuberculosis",
-      "lymphocyte-subsets"
     ],
     "date": "2026-11-01T00:00:00.000Z",
     "pinned": false

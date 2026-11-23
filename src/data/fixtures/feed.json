@@ -118,6 +118,78 @@
     "pinned": false
   },
   {
+    "id": "pmid-43070414",
+    "title": "FGF23 in chronic kidney disease progression: biomarker or mediator?",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Evidence suggests that elevated FGF23 is associated with adverse renal outcomes. Longitudinal data further demonstrate that rising FGF23 trajectories are associated with adverse renal outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070414/",
+    "tags": [
+      "fibroblast-growth-factor-23",
+      "renal-insufficiency-chronic",
+      "fibroblast-growth-factors"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43070055",
+    "title": "Innovations in intradialytic hypotension management: pathophysiology, precision monitoring, and emerging therapeutic strategies",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Advanced monitoring approaches, including continuous noninvasive blood pressure measurement, volume assessment tools, and integrated dialysis machine feedback systems, enable improved detection of subclinical and evolving hypotension. Recent machine learning and artificial intelligence models leveraging clinical and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070055/",
+    "tags": [
+      "hypotension",
+      "renal-dialysis",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43070028",
+    "title": "Design and rationale of a prospective cohort study integrating cardiovascular, metabolic, and cognitive outcomes across the spectrum of chronic kidney disease: the Vasc-CKD study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Participants will be followed systematically for two years, with the collection of hard clinical endpoints, including major adverse cardiovascular events (MACE), initiation of dialysis, and all-cause mortality.Previous research in CKD has largely examined these domains in isolation-for example, studies focusing on…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070028/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cardiovascular-diseases",
+      "cognitive-dysfunction"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43068965",
+    "title": "Associations between urate‑lowering strategies and kidney function trajectories: a real‑world comparative study",
+    "subtitle": "Renal failure · 2026",
+    "summary": "In multivariable logistic regression, compared with benzbromarone, both dotinurad (odds ratio [OR]: 0.34, 95% confidence interval [CI]: 0.16-0.75) and allopurinol (OR: 0.55, 95% CI: 0.31-0.99) were associated with lower odds of rapid eGFR decline. In Cox analyses, compared with benzbromarone, dotinurad was associated…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068965/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "benzbromarone",
+      "hyperuricemia",
+      "uricosuric-agents"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43068951",
+    "title": "Ferroptosis-related endothelial protection by Danhong injection in cerebral and renal ischemia/reperfusion injury: network pharmacology and validation in endothelial cells",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Using network pharmacology, molecular docking, molecular dynamics simulation, andexperiments, this study investigated shared targets and pathways associated with cerebral and renal ischemia/reperfusion (I/R) injury and evaluated whether DHI exerted a shared ferroptosis-related endothelial protective effect in bEnd3…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068951/",
+    "tags": [
+      "ferroptosis",
+      "reperfusion-injury",
+      "drugs-chinese-herbal",
+      "endothelial-cells"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43066946",
     "title": "Increased risk of arteriovenous fistula thrombosis in haemodialysis patients with ANCA-associated vasculitis: a retrospective comparative study",
     "subtitle": "Annals of medicine · 2026",
@@ -2514,6 +2586,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43069921",
+    "title": "Proteinuria Reduction and Preservation of Renal Function During 9 months of Targeted-Release Budesonide (Nefecon) in IgA Nephropathy: A Single-Centre Real-World Observational Study",
+    "subtitle": "Drug design, development and therapy · 2026",
+    "summary": "In routine practice, 9 months of Nefecon was associated with a reduction in proteinuria that was sustained throughout the treatment period, with stable renal function, in a real-world IgAN population. Because of the retrospective, single-centre, single-arm design, the relatively short follow-up without post-treatment…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069921/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "proteinuria",
+      "budesonide",
+      "kidney"
+    ],
+    "date": "2026-11-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43049943",
     "title": "Urinary exosomal C5b-9 as a non-invasive biomarker for diagnosis and monitoring of pediatric IgA nephropathy: a single-center prospective study",
     "subtitle": "European journal of pediatrics · 2026",
@@ -4262,88 +4349,6 @@
       "renal-insufficiency-chronic",
       "blood-glucose",
       "triglycerides"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43037998",
-    "title": "Integrative Analysis of GEO Datasets Identifies Key Genes in Chronic Hepatitis B and Chronic Kidney Disease",
-    "subtitle": "Clinical laboratory · 2026",
-    "summary": "This study identifies potential biomarkers and molecular mechanisms linking HBV and CKD, providing a valuable foundation for early diagnosis and targeted therapeutic development.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43037998/",
-    "tags": [
-      "hepatitis-b-chronic",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43035264",
-    "title": "[Guideline for the diagnosis, treatment and management of drug-induced kidney injury (2026)]",
-    "subtitle": "Zhonghua nei ke za zhi · 2026",
-    "summary": "To enhance awareness and standardize protocols for risk screening, early identification, diagnosis, prevention, and treatment, the Chinese Society of Clinical Pharmacy and the Chinese Society of Renal Diseases convened a multidisciplinary panel of experts to establish an editorial committee responsible for developing…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43035264/",
-    "tags": [
-      "acute-kidney-injury"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43036177",
-    "title": "Paired kidney allograft biopsies reveal a senescence-associated tubular epithelial phenotype and granzyme B-rich inflammation after treatment of BK polyomavirus nephropathy",
-    "subtitle": "The journal of pathology. Clinical research · 2026",
-    "summary": "Cell-free and exploratory co-culture experiments in LTa-transformed tubular epithelial cells were performed to assess whether LTa is susceptible to granzyme B. Follow-up biopsies demonstrated increased chronic injury and interstitial inflammation, accompanied by expansion of tubular epithelial cells with low LTa…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43036177/",
-    "tags": [
-      "kidney-transplantation",
-      "polyomavirus-infections",
-      "bk-virus",
-      "granzymes"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43035263",
-    "title": "[Clinical practice guideline for adult primary membranous nephropathy in China (2026)]",
-    "subtitle": "Zhonghua nei ke za zhi · 2026",
-    "summary": "The guideline proposes a clinical diagnostic strategy based on screening for secondary causes and testing for anti-phospholipase A2 receptor (PLA2R) antibodies; a risk stratification approach centered on proteinuria, serum albumin, kidney function, and anti-PLA2R antibody levels; and a stratified treatment strategy…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43035263/",
-    "tags": [
-      "glomerulonephritis-membranous"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43035853",
-    "title": "Association Between Sleep Quality and Personality Traits in Patients With Chronic Kidney Disease Stages 1-4: A Cross-Sectional Study",
-    "subtitle": "Nursing open · 2026",
-    "summary": "Poor sleep quality is prevalent among patients with CKD Stages 1-4. Neuroticism and psychoticism showed associations with sleep quality, suggesting that personality traits may serve as complementary psychosocial factors to consider when evaluating sleep difficulties in this population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43035853/",
-    "tags": [
-      "sleep-quality",
-      "personality",
-      "renal-insufficiency-chronic",
-      "sleep-wake-disorders"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43025856",
-    "title": "Mapping Frailty Assessment Tools and Domains in Adults Undergoing Hemodialysis: A Scoping Review",
-    "subtitle": "Geriatrics & gerontology international · 2026",
-    "summary": "The findings revealed substantial heterogeneity in frailty assessment approaches, with the Frailty Phenotype, FRAIL scale, and Clinical Frailty Scale being the most commonly used instruments. These findings underscore the need for standardized, multidimensional frailty assessment approaches to improve patient-centered…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43025856/",
-    "tags": [
-      "renal-dialysis",
-      "frailty",
-      "geriatric-assessment",
-      "kidney-failure-chronic"
     ],
     "date": "2026-11-01T00:00:00.000Z",
     "pinned": false

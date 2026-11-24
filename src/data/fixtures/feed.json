@@ -118,6 +118,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43074690",
+    "title": "Digital health interventions for hospitalization, serum albumin, and peritonitis in patients undergoing peritoneal dialysis: a systematic review and meta-analysis",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Digital health interventions may reduce all-cause hospitalization in PD, but certainty is low and the magnitude and causal basis are uncertain. Effects on technique failure are uncertain, and those on peritonitis, serum albumin, and other outcomes are very uncertain.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074690/",
+    "tags": [
+      "peritoneal-dialysis",
+      "hospitalization",
+      "peritonitis",
+      "serum-albumin"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43070414",
     "title": "FGF23 in chronic kidney disease progression: biomarker or mediator?",
     "subtitle": "Renal failure · 2026",
@@ -3237,6 +3252,51 @@
     "pinned": false
   },
   {
+    "id": "pmid-43074806",
+    "title": "Five-year cumulative TDF exposure is associated with CKD in people living with HIV: a propensity score-matched study supporting UACR-based renal screening",
+    "subtitle": "Frontiers in cellular and infection microbiology · 2026",
+    "summary": "Cumulative TDF exposure is independently associated with CKD in Chinese PLWH; five years of therapy may serve as a practical cut-point for intensifying renal surveillance. UACR, as an accessible screening biomarker, was more frequently abnormal than eGFR in identifying early renal injury and may be integrated into…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074806/",
+    "tags": [
+      "hiv-infections",
+      "tenofovir",
+      "renal-insufficiency-chronic",
+      "anti-hiv-agents"
+    ],
+    "date": "2026-11-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43074759",
+    "title": "Dysbiosis of the commensal microbiota in IgA nephropathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Furthermore, previous studies investigating the commensal microbiota on mucosal surfaces have identified multiple bacterial taxa that are significantly associated with IgAN; however, few bacterial species have been consistently reproduced across studies. Moreover, most previous studies have relied on 16S rRNA amplicon…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074759/",
+    "tags": [
+      "dysbiosis",
+      "glomerulonephritis-iga",
+      "microbiota",
+      "gastrointestinal-microbiome"
+    ],
+    "date": "2026-11-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43074758",
+    "title": "Explainable machine learning for predicting kidney disease progression defined by changes in estimated glomerular filtration rate in type 2 diabetes: a single-centre retrospective study",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "Routine baseline data provided modest discrimination, part of which reflected optimism from feature selection performed before cross-validation. The incremental clinical value of the model has not been established, and external, preferably prospective, validation is required before clinical use.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074758/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "glomerular-filtration-rate",
+      "machine-learning",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-11-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43018013",
     "title": "Role of the complement system in normocomplementemic glomerulopathies",
     "subtitle": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas · 2026",
@@ -4046,6 +4106,96 @@
     "pinned": false
   },
   {
+    "id": "pmid-43075672",
+    "title": "Donor-Derived Cell-Free DNA and Donor-Specific Antibodies at the Time of Biopsy in Pediatric Kidney Transplant Recipients: A Multi-Center Analysis",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "In this predominantly for-cause biopsy cohort, dd-cfDNA was associated with biopsy-proven rejection and with DSA positivity, including in biopsies without rejection. Prospective studies are needed to define the role of dd-cfDNA in pediatric surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075672/",
+    "tags": [
+      "kidney-transplantation",
+      "cell-free-nucleic-acids",
+      "graft-rejection",
+      "isoantibodies"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43074684",
+    "title": "Induction Immunosuppression Practices for Pediatric Kidney Transplant Recipients in India",
+    "subtitle": "Pediatric transplantation · 2026",
+    "summary": "The study highlights the heterogeneity of induction immunosuppression practices in India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074684/",
+    "tags": [
+      "kidney-transplantation",
+      "immunosuppressive-agents",
+      "immunosuppression-therapy",
+      "practice-patterns-physicians"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43074504",
+    "title": "What Is the Cause of Hydronephrosis and Dilated Ureter After Pig-to-Baboon Kidney Transplantation?",
+    "subtitle": "Xenotransplantation · 2026",
+    "summary": "This may (i) minimize distal ureteral ischemia, and (ii) reduce the risk of bowel herniation posterior to the ureter. We cautiously suggest that hydronephrosis may be less problematic in human recipients of pig kidney grafts due to (i) the greater age and size of the pig graft, (ii) retroperitoneal graft placement;…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074504/",
+    "tags": [
+      "kidney-transplantation",
+      "hydronephrosis",
+      "ureter",
+      "transplantation-heterologous"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43073700",
+    "title": "Does Chronic Renal Venous Hypertension Cause Subclinical Parenchymal Injury? Early and 1-Year Outcomes of Living Kidney Donation From Patients With Nutcracker Syndrome",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In selected patients with NCS and chronic pain but no clinically significant urinary abnormalities at donor evaluation, the donated kidneys showed no urinary evidence of subclinical parenchymal injury before donation and maintained a near-normal urinalysis 1 year after transplantation, with acceptable early function…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073700/",
+    "tags": [
+      "living-donors",
+      "renal-nutcracker-syndrome",
+      "kidney-transplantation",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43073618",
+    "title": "Metabolic Equivalents and Cardiac Metrics Predict Delisting Better Than Traditional Frailty Measures and Enhance the Nationally Utilized Kidney Transplant Decision Aid",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "All the information needed to predict delisting in our cohort can occur during a single evaluation visit including a robust history/physical exam, measurement of treadmill METs, and blood draw. The addition of cardiac information and METs significantly improved the predictiveness of the SRTR-KTDA.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073618/",
+    "tags": [
+      "kidney-transplantation",
+      "decision-support-techniques",
+      "waiting-lists",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43071527",
+    "title": "Bovine Pericardial Patch-Assisted Renal Artery Reconstruction in Living-Donor Kidney Transplantation: Technical Features, Vascular Safety, and Five-Year Outcomes in 88 Recipients",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "In selected living-donor grafts with unfavorable arterial anatomy, bovine pericardial patch reconstruction provided an immediately available biological platform for Carrel-like inflow creation and simplified recipient implantation. The technique should be viewed as one option among established reconstructive…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43071527/",
+    "tags": [
+      "kidney-transplantation",
+      "living-donors",
+      "renal-artery",
+      "pericardium"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43066640",
     "title": "Revisiting Perioperative Tacrolimus Concentration Changes After Kidney Transplantation Through Detailed Clinical Observation",
     "subtitle": "Clinical transplantation · 2026",
@@ -4201,154 +4351,6 @@
       "liver-transplantation",
       "graft-rejection",
       "tissue-donors"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43052062",
-    "title": "Metabolomics reveals multiple predictors of survival and kidney recovery in hospital-acquired acute kidney injury: A prospective, single-center observational study",
-    "subtitle": "The Journal of international medical research · 2026",
-    "summary": "The aim of this prospective, exploratory, observational study was to identify novel metabolomics-based predictive biomarkers for acute kidney injury.MethodsThis prospective, non-interventional observational cohort study enrolled individuals with de novo acute kidney injury according to the Kidney Disease Improving…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43052062/",
-    "tags": [
-      "acute-kidney-injury",
-      "metabolomics",
-      "kidney"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43049699",
-    "title": "BLCAP Maintains TGF-β/BMP Signaling Balance to Regulate Renal Cellular Homeostasis",
-    "subtitle": "Journal of cellular physiology · 2026",
-    "summary": "Loss of BLCAP reduced BMPR1A and BMPR2 expression in both HEK293 cells and human renal proximal tubular epithelial cells (hRPTECs), and attenuated SMAD1/5/8 phosphorylation and suppressed downstream antifibrotic genes ID1 and ID2 were observed in HEK293 cells. In zebrafish embryos, BLCAP depletion increased TGF-β…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43049699/",
-    "tags": [
-      "bone-morphogenetic-proteins",
-      "kidney",
-      "renal-insufficiency-chronic",
-      "transforming-growth-factor-beta"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43046671",
-    "title": "Bladder Management in Pediatric Kidney Transplantation: A Narrative Systematic Review With a Hypothesis-Generating Phenotype Framework",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Seven risk factors were associated with adverse outcomes; children with three or more factors had higher UTI rates and lower 5-year graft survival than those with fewer factors. Clean intermittent catheterization and Mitrofanoff procedures were associated with better long-term graft survival despite higher UTI rates.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43046671/",
-    "tags": [
-      "kidney-transplantation",
-      "kidney-failure-chronic",
-      "postoperative-complications",
-      "lower-urinary-tract-symptoms"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43046595",
-    "title": "Early Post-Transplant Course and Ravulizumab in Pediatric Atypical Hemolytic Uremic Syndrome: A Case Report",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "This case suggests that prophylactic ravulizumab may be effective in preventing aHUS recurrence in pediatric kidney transplant recipients, even in complex genetic scenarios. Further research is needed to optimize dosing strategies and assess long-term outcomes of ravulizumab in pediatric kidney transplantation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43046595/",
-    "tags": [
-      "kidney-transplantation",
-      "atypical-hemolytic-uremic-syndrome",
-      "kidney-failure-chronic",
-      "antibodies-monoclonal-humanized"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43046491",
-    "title": "Reconsidering Age Boundaries in Kidney Transplant Allocation: Advantages and Limitations of a Strict Age Cutoff Versus Continuous Prioritization Models for Childhood-Onset Kidney Disease",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Conversely, a \"continuous\" age prioritization would not only address the disproportionate risks of dialysis and benefits of transplant in the youngest children, but also improve access for vulnerable young adult candidates with childhood onset kidney disease. Both prioritization strategies would serve to benefit…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43046491/",
-    "tags": [
-      "kidney-transplantation",
-      "health-care-rationing",
-      "patient-selection",
-      "tissue-and-organ-procurement"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43045632",
-    "title": "Spontaneous Renal Rupture Requiring Nephrectomy in a Patient With IgA Nephropathy",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "This case suggests that renal rupture may have been promoted by renal vascular injury due to severe hypertension, uraemia, anticoagulation and corticosteroid-related tissue fragility. This case highlights that life-threatening renal rupture can occur even without tumour or vascular malformation and may arise from…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43045632/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "nephrectomy",
-      "hemorrhage",
-      "kidney-diseases"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43043679",
-    "title": "Evaluating Urinary Volatile Organic Compounds as a Novel Metabolomic Biomarker to Differentiate Between Acute Tubular Necrosis and Acute Graft Rejection Following Kidney Transplantation",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Our novel data suggests potential clinical utility of urinary VOCs as a non-invasive metabolomic biomarker to differentiate between ATN and acute rejection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43043679/",
-    "tags": [
-      "kidney-transplantation",
-      "graft-rejection",
-      "biomarkers",
-      "volatile-organic-compounds"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43043102",
-    "title": "Muscle-Kidney Crosstalk in Chronic Kidney Disease: From Molecular Mechanisms to Clinical Translation",
-    "subtitle": "European journal of clinical investigation · 2026",
-    "summary": "The muscle-kidney axis integrates mechanistic and clinical observations. Experimental pathway manipulation and prognostic associations should be distinguished from therapeutic benefit in humans.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43043102/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "muscle-skeletal",
-      "kidney"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43040213",
-    "title": "Body Mass Index Associated With the Lowest Renal Risk Across Levels of Kidney Function in Chronic Kidney Disease: A Nationwide Cohort Study",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "The association between BMI and renal outcomes differed across CKD stages, with a higher nadir BMI observed at lower baseline eGFR levels. These findings suggest that kidney function should be considered when interpreting BMI in individuals with CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43040213/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "glomerular-filtration-rate",
-      "body-mass-index",
-      "kidney"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43038017",
-    "title": "Association between a C-Reactive Protein-Triglyceride Glucose Index and Chronic Kidney Disease in US Adults",
-    "subtitle": "Clinical laboratory · 2026",
-    "summary": "The novel C-reactive protein-triglyceride glucose index, a composite measure of inflammation and metabolic dysregulation, is strongly and independently associated with a higher prevalence of CKD among US adults. This index may serve as a valuable and simple tool for early identification of individuals at high risk for…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43038017/",
-    "tags": [
-      "c-reactive-protein",
-      "renal-insufficiency-chronic",
-      "blood-glucose",
-      "triglycerides"
     ],
     "date": "2026-11-01T00:00:00.000Z",
     "pinned": false

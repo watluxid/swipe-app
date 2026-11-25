@@ -2457,6 +2457,47 @@
     "pinned": false
   },
   {
+    "id": "pmid-43079881",
+    "title": "Association of Urine Specific Gravity With Hemoglobin Concentration in Chronic Kidney Disease, Independent of eGFR and Proteinuria",
+    "subtitle": "Medical science monitor : international medical journal of experimental and clinical research · 2026",
+    "summary": "We evaluated whether lower urine SG is independently associated with lower hemoglobin concentration after adjustment for eGFR, proteinuria, and other clinical covariates. CONCLUSIONS Higher urine SG was independently associated with higher hemoglobin in non-dialysis CKD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079881/",
+    "tags": [
+      "hemoglobins",
+      "renal-insufficiency-chronic",
+      "proteinuria"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43079159",
+    "title": "Robot-assisted kidney autotransplantation across indications and platforms: a systematic review and sparse-event meta-analysis",
+    "subtitle": "Journal of robotic surgery · 2026",
+    "summary": "We assessed reported safety and clinical outcomes of robot-assisted kidney autotransplantation across indications, techniques and potentially overlapping reports. Technical graft success does not establish symptom relief or comparative effectiveness.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079159/",
+    "tags": [
+      "kidney-transplantation",
+      "robotic-surgical-procedures"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43078948",
+    "title": "An upregulated Ano9 variant causes multiple renal defects and chronic kidney disease",
+    "subtitle": "Pflugers Archiv : European journal of physiology · 2026",
+    "summary": "To investigate the role of ANO9 in kidney function, we analyzed Ano9-knockout (KO) mice and knockin mice expressing the CKD-associated human variant ANO9-T604A (murine Ano9-T595A). Our findings suggest that dysregulated ANO9 expression and/or defective endosomal sorting caused by the Ano9-T595A variant promotes renal…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078948/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "anoctamins",
+      "kidney"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43064842",
     "title": "Admission systemic inflammatory response index and prognostic nutritional index in children with diabetic ketoacidosis-associated acute kidney injury: an exploratory retrospective study",
     "subtitle": "European journal of pediatrics · 2026",
@@ -3121,6 +3162,47 @@
       "respiratory-insufficiency"
     ],
     "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43080271",
+    "title": "Belimumab added to multi-target therapy in lupus nephritis: a retrospective cohort study of efficacy, divergent temporal response patterns, and safety",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Both regimens substantially improved renal and serological outcomes over 12 months with an acceptable safety profile. Although the addition of belimumab did not significantly outperform multi-target therapy alone, the two regimens exhibited distinct, mechanistically coherent temporal signatures: inhibition of the BAFF…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080271/",
+    "tags": [
+      "lupus-nephritis",
+      "antibodies-monoclonal-humanized",
+      "immunosuppressive-agents"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43080237",
+    "title": "Association between the TyG-SIRI index and diabetic kidney disease: a cross-sectional study with external validation",
+    "subtitle": "Frontiers in endocrinology · 2026",
+    "summary": "TyG-SIRI was independently associated with DKD in diabetic patients. In both cohorts, TyG-SIRI offers modest gains in risk stratification, calibration, and net benefit, suggesting potential utility, yet moderate improvement requires prospective validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080237/",
+    "tags": [
+      "diabetic-nephropathies",
+      "insulin-resistance",
+      "biomarkers"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43080025",
+    "title": "[Association between chronic kidney disease complicated with metabolic disorders and all-cause mortality in Hainan centenarians]",
+    "subtitle": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi · 2026",
+    "summary": "Multivariate Cox proportional hazards regression analysis showed that, compared with the centenarians without CKD, the risks for all-cause mortality increased in the CKD patients complicated with purine and pyrimidine metabolism abnormalities, complicated with lipid metabolism abnormalities, and complicated with 1…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080025/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "metabolic-diseases"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3960,6 +4042,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43078500",
+    "title": "Granzyme K+CD8 T cells exacerbate renal inflammation and fibrosis in chronic kidney disease",
+    "subtitle": "Journal of immunology (Baltimore, Md. : 1950) · 2026",
+    "summary": "In fibrotic kidneys, Gzmk deficiency was associated with reduced accumulation and activation of renal T cells, as well as with attenuated macrophage inflammatory responses. Further scRNA-seq analysis identified a potential differentiation trajectory from Tcf7+ naïve/central memory T-like cells through effector memory…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078500/",
+    "tags": [
+      "cd8-positive-t-lymphocytes",
+      "renal-insufficiency-chronic",
+      "granzymes",
+      "kidney"
+    ],
+    "date": "2026-11-02T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43041786",
     "title": "Association of pre-transplant CT-derived perirenal fat measurements with post-transplant diabetes mellitus after kidney transplantation",
     "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
@@ -4106,6 +4203,36 @@
     "pinned": false
   },
   {
+    "id": "pmid-43080172",
+    "title": "Does HIV Status Influence Kidney Transplant Access for U.S. Veterans?",
+    "subtitle": "Clinical transplantation · 2026",
+    "summary": "Within the VHA standardized national transplant system, VLWH experience prolonged waitlisting delays and reduced likelihood of kidney transplantation, suggesting persistent barriers along the transplant continuum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080172/",
+    "tags": [
+      "kidney-transplantation",
+      "veterans",
+      "hiv-infections",
+      "kidney-failure-chronic"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43079704",
+    "title": "Low Skeletal Muscle Index on Preoperative CT Is Independently Associated With Acute Kidney Injury After Percutaneous Nephrolithotomy",
+    "subtitle": "International journal of urology : official journal of the Japanese Urological Association · 2026",
+    "summary": "CT-defined low SMI is independently associated with predominantly mild AKI after PNL. As it is obtainable from the routine preoperative CT, it may complement uric acid and stone complexity in identifying patients who warrant closer renal monitoring.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079704/",
+    "tags": [
+      "nephrolithotomy-percutaneous",
+      "acute-kidney-injury",
+      "muscle-skeletal",
+      "postoperative-complications"
+    ],
+    "date": "2026-11-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43075672",
     "title": "Donor-Derived Cell-Free DNA and Donor-Specific Antibodies at the Time of Biopsy in Pediatric Kidney Transplant Recipients: A Multi-Center Analysis",
     "subtitle": "Pediatric transplantation · 2026",
@@ -4221,136 +4348,6 @@
       "abatacept",
       "immunosuppressive-agents",
       "graft-rejection"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43065231",
-    "title": "ANCA-Negative Pauci-Immune Crescentic Glomerulonephritis With Atypical Endothelial Injury in a Patient With Long-Standing Rheumatoid Arthritis",
-    "subtitle": "Nephrology (Carlton, Vic.) · 2026",
-    "summary": "We herein report a case of ANCA-negative pauci-immune crescentic glomerulonephritis with atypical endothelial injury, clinically compatible with renal-limited AAV in a 70-year-old Japanese woman with long-standing RA. Even in the absence of MPO-ANCA or PR3-ANCA, ANCA-negative pauci-immune crescentic glomerulonephritis…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43065231/",
-    "tags": [
-      "arthritis-rheumatoid",
-      "glomerulonephritis",
-      "antibodies-antineutrophil-cytoplasmic",
-      "anti-neutrophil-cytoplasmic-antibody-associated-vasculitis"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43064533",
-    "title": "Serum Proteomic Profiling Identifies Candidate Biomarkers Associated With Tripterygium wilfordii Hook F Treatment in Lupus Nephritis",
-    "subtitle": "Proteomics. Clinical applications · 2026",
-    "summary": "C7, MSN, and ADIPOQ showed treatment-associated changes and may represent candidate markers for further investigation. Exploratory ROC and correlation analyses supported their potential clinical relevance, particularly C7 in relation to renal parameters.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43064533/",
-    "tags": [
-      "lupus-nephritis",
-      "tripterygium",
-      "proteomics",
-      "blood-proteins"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43064400",
-    "title": "Dysregulation of Amino Acid Metabolism in Diabetic Kidney Disease: Pathogenic Mechanisms and Emerging Therapeutic Strategies",
-    "subtitle": "Journal of diabetes · 2026",
-    "summary": "It comprehensively summarizes the main molecular pathways of amino acid metabolism disorders mediating the progression of DKD through podocytes, renal tubular epithelial cells, and glomerular endothelial cells. These findings enhance our understanding of the impact of DKD on amino acid metabolism, provide a new…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43064400/",
-    "tags": [
-      "amino-acids",
-      "diabetic-nephropathies"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43059291",
-    "title": "Overweight and Rapid Weight Gain Following Pediatric Kidney Transplantation in Chinese Children",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "Significant weight gain is common following pediatric kidney transplant. Early screening, identification, and timely intervention are keys to halt disease progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43059291/",
-    "tags": [
-      "kidney-transplantation",
-      "weight-gain",
-      "overweight",
-      "postoperative-complications"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43059047",
-    "title": "Non-Albuminuric Diabetic Kidney Disease: Pathophysiology and Clinical Implications",
-    "subtitle": "Diabetes & metabolism journal · 2026",
-    "summary": "This non-albuminuric phenotype accounts for approximately 20%-40% of diabetic kidney disease and 39%-55% of cases with reduced kidney function and is increasingly prevalent. Histological, imaging, and biomarker studies suggest less prominent classic glomerular injury and greater contributions from intrarenal vascular…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43059047/",
-    "tags": [
-      "diabetic-nephropathies",
-      "diabetes-mellitus-type-2"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43056213",
-    "title": "Renal denervation in patients with chronic kidney diseases: current evidence and future perspectives",
-    "subtitle": "Journal of cardiovascular medicine (Hagerstown, Md.) · 2026",
-    "summary": "In recent years, RDN has demonstrated promising therapeutic potential for the management of patients with CKD. This review comprehensively summarizes the latest advances in the efficacy and safety of RDN in patients with CKD, and proposes critical perspectives to address the existing challenges.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43056213/",
-    "tags": [
-      "sympathectomy",
-      "renal-insufficiency-chronic",
-      "kidney",
-      "hypertension"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43056212",
-    "title": "Renal outcomes with pre-percutaneous coronary intervention Impella in acute myocardial infarction with cardiogenic shock: a meta-analysis",
-    "subtitle": "Journal of cardiovascular medicine (Hagerstown, Md.) · 2026",
-    "summary": "Pre-PCI Impella support in AMI-CS was not significantly associated with differences in renal outcomes, although these results are sensitive to the exclusion of specific studies. Larger studies are needed to confirm these findings, and account for underlying confounding variables, to clarify the underlying mechanism.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43056212/",
-    "tags": [
-      "heart-assist-devices",
-      "percutaneous-coronary-intervention",
-      "shock-cardiogenic",
-      "myocardial-infarction"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43052699",
-    "title": "Pediatric Kidney Transplantation in the Setting of Inferior Vena Cava Thrombosis or Atresia: A Single-Center Case Series and Considerations for Operative Planning",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "IVC occlusion should not be considered an absolute contraindication to pediatric kidney transplantation. Success depends on dedicated preoperative vascular imaging, multidisciplinary review, identification of feasible outflow targets, and intraoperative readiness to adapt to the operative plan.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43052699/",
-    "tags": [
-      "kidney-transplantation",
-      "vena-cava-inferior",
-      "venous-thrombosis"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43052531",
-    "title": "The Outcomes of Simultaneous Liver and Kidney Transplantation with a Positive Crossmatch during Safety Net Policy Era in the United States",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Organ crossmatch positivity in a selected group of SLKT recipients is not associated with worse patient or graft outcomes in the kidney safety net era.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43052531/",
-    "tags": [
-      "kidney-transplantation",
-      "liver-transplantation",
-      "graft-rejection",
-      "tissue-donors"
     ],
     "date": "2026-11-01T00:00:00.000Z",
     "pinned": false

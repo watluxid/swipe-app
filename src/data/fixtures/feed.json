@@ -118,6 +118,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43085362",
+    "title": "Association between self-reported severe headache or migraine and mortality among chronic kidney disease patients with or without obesity in the United States: a retrospective cohort study using data from the National Health and Nutrition Examination Survey (NHANES) 1999-2004",
+    "subtitle": "Renal failure · 2026",
+    "summary": "Adjusted analysis showed higher mortality risk in CKD patients with self-reported severe headache or migraine (Hazard Ratio [HR] = 1.57, 95% CI: 1.14-2.16). Significant multiplicative ( = 0.002) and additive interactions (relative excess risk due to interaction [RERI] = 1.04, 95% CI: 0.33-1.76; attributable proportion…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43085362/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "migraine-disorders",
+      "obesity",
+      "headache"
+    ],
+    "date": "2026-12-01T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43074690",
     "title": "Digital health interventions for hospitalization, serum albumin, and peritonitis in patients undergoing peritoneal dialysis: a systematic review and meta-analysis",
     "subtitle": "Renal failure · 2026",
@@ -2457,6 +2472,106 @@
     "pinned": false
   },
   {
+    "id": "pmid-43084656",
+    "title": "GDF15 impacts chronic kidney disease and associated weight loss through distinct mechanisms",
+    "subtitle": "Science advances · 2026",
+    "summary": "A monoclonal antibody that neutralizes circulating GDF15 markedly restores food intake and preserves body weight, demonstrating the therapeutic potential of targeting GDF15 in CKD-associated weight loss. Together, these findings demonstrate GDF15-GFRAL as a potential therapeutic target for CKD-associated weight loss…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084656/",
+    "tags": [
+      "growth-differentiation-factor-15",
+      "weight-loss",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43086519",
+    "title": "Fosb mediates inflammation-related tubular senescence and maladaptive repair to drive the AKI-to-CKD transition",
+    "subtitle": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026",
+    "summary": "The Fosb-RBM11-PP2A-Drp1 axis drives inflammation-related maladaptive repair and chronic progression after AKI, representing a promising target to block the AKI-to-CKD transition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086519/",
+    "tags": [
+      "acute-kidney-injury",
+      "kidney-tubules",
+      "proto-oncogene-proteins-c-fos",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43084590",
+    "title": "Identification of shared hub genes suggests involvement of purine metabolism and immune dysregulation in Alzheimer's disease comorbid with chronic kidney disease",
+    "subtitle": "PloS one · 2026",
+    "summary": "Using GEO transcriptomic datasets, we performed weighted gene co-expression network analysis (WGCNA) to identify AD functional modules, then intersected module genes with CKD differentially expressed genes to obtain AD-CKD-related genes. This study identifies five candidate hub genes for AD-CKD comorbidity, suggests…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084590/",
+    "tags": [
+      "alzheimer-disease",
+      "renal-insufficiency-chronic",
+      "purines"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43084516",
+    "title": "Integrated bulk, single-nucleus, spatial transcriptomic, and proteomic analyses identify Crot-associated proximal-tubule peroxisomal dysregulation in murine renal ischemia-reperfusion injury",
+    "subtitle": "PloS one · 2026",
+    "summary": "Acute murine renal IRI is accompanied by suppression of proximal-tubule peroxisomal lipid-handling programs. Convergent bulk, single-nucleus, metabolic-modeling, spatial, and protein evidence prioritizes Crot for mechanistic investigation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084516/",
+    "tags": [
+      "peroxisomes",
+      "reperfusion-injury",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43084171",
+    "title": "Reduced tubular expression of PRDX1, PRDX5, and PRDX6 is associated with oxidative stress in FSGS",
+    "subtitle": "Journal of molecular histology · 2026",
+    "summary": "Consistently, reduced tubular expression of PRDX1, PRDX5, and PRDX6 was also observed in renal specimens from patients with FSGS. Reduced tubular PRDX1, PRDX5, and PRDX6 expression was associated with renal oxidative stress in the experimental model and was also observed in human FSGS specimens.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084171/",
+    "tags": [
+      "peroxiredoxins",
+      "oxidative-stress",
+      "peroxiredoxin-vi",
+      "glomerulosclerosis-focal-segmental"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43084008",
+    "title": "Long-term renal outcomes and systemic complications in chronic hypoparathyroidism under conventional therapy: a multicenter cohort study",
+    "subtitle": "Endocrine · 2026",
+    "summary": "Although conventional therapy promotes adequate metabolic control, clinically relevant complications persist, most notably progressive renal decline affecting nearly one-third of the cohort. CKD progression was associated with older age, longer disease duration, and a higher burden of SAH and DM, indicating a…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084008/",
+    "tags": [
+      "hypoparathyroidism",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43083985",
+    "title": "Pituitary-gonadal hormone profiles in maintenance dialysis: dialysis modality and factors associated with low testosterone in men",
+    "subtitle": "Endocrine · 2026",
+    "summary": "Maintenance dialysis is associated with alterations in pituitary-gonadal hormone profiles. Although testosterone concentrations were similar between dialysis modalities, higher prolactin concentrations were associated with low testosterone in male dialysis patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083985/",
+    "tags": [
+      "testosterone",
+      "renal-dialysis",
+      "prolactin",
+      "peritoneal-dialysis"
+    ],
+    "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43079881",
     "title": "Association of Urine Specific Gravity With Hemoglobin Concentration in Chronic Kidney Disease, Independent of eGFR and Proteinuria",
     "subtitle": "Medical science monitor : international medical journal of experimental and clinical research · 2026",
@@ -2495,6 +2610,34 @@
       "kidney"
     ],
     "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43092082",
+    "title": "Protective Effects of Curcumin and Quercetin Against Vancomycin-Induced Acute Kidney Injury in Rats",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "VCM significantly impaired renal function, increased renal MDA, NO, TNF-α, IL-6, IL-1β, Bax, and caspase-3, and decreased GSH, SOD, CAT, Bcl-2, and Nrf2 immunoreactivity. CUR and QUR significantly attenuated these alterations, while their combined administration produced the most pronounced improvement across renal…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092082/",
+    "tags": [
+      "acute-kidney-injury",
+      "curcumin",
+      "vancomycin",
+      "quercetin"
+    ],
+    "date": "2026-11-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091684",
+    "title": "Induction Protocol Era and Early Biopsy-Proven Rejection in PRA-Negative Living-Donor Kidney Transplantation: A Single-Center Propensity-Matched Before-After Comparison",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "The observed incidence rate of any BK viremia was higher in the rATG era (14.3 vs. 2.7 per 100 patient-years), although unequal follow-up limits interpretation.: Early BPR occurred in nearly one in eleven PRA-negative living-donor recipients given basiliximab. The rATG era was associated with fewer recorded early…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091684/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection"
+    ],
+    "date": "2026-11-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2627,6 +2770,61 @@
     "pinned": false
   },
   {
+    "id": "pmid-43092976",
+    "title": "Effect of Perioperative Glutamine Supplementation on Acute Kidney Injury in Infants Undergoing Elective Cardiac Surgery: A Randomized Controlled Trial",
+    "subtitle": "Nutrients · 2026",
+    "summary": "Secondary outcomes included the requirement for peritoneal dialysis (PD), diuretic use, serum creatinine (Scr), neutrophil gelatinase-associated lipocalin (NGAL), cystatin C, procalcitonin, and the lengths of ICU and hospital stay.The incidence of KDIGO-defined AKI was lower in the GLN group than in the control group…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092976/",
+    "tags": [
+      "acute-kidney-injury",
+      "glutamine",
+      "cardiac-surgical-procedures",
+      "perioperative-care"
+    ],
+    "date": "2026-11-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43092017",
+    "title": "Exploratory Plasma Multiomic Profiles Associated with Chronic Kidney Disease in Patients with Severe Aortic Stenosis",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "Therefore, characterizing circulating molecular differences associated with CKD in patients with AS may help define the molecular phenotype of this high-risk comorbidity. Our findings show differences in the circulating proteomic and metabolomic profiles of patients with AS with and without CKD, suggesting that…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092017/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "aortic-valve-stenosis"
+    ],
+    "date": "2026-11-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091668",
+    "title": "Proliferative Lupus Nephritis in Patients with Minimal Urinary Abnormalities: A Narrative Review",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Available studies report proliferative lesions in a variable but significant proportion of patients with proteinuria below the 0.5 g/day threshold currently recommended by major guidelines for biopsy indication, raising concerns about delayed diagnosis and treatment. The cumulative evidence suggests that current…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091668/",
+    "tags": [
+      "lupus-nephritis"
+    ],
+    "date": "2026-11-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43089465",
+    "title": "Multiscale Transcriptomic Analysis of IgA Nephropathy Identifies SLC3A2 as a Key Disulfidptosis-Related Gene in Proximal Tubules",
+    "subtitle": "Genes · 2026",
+    "summary": "Finally, we performed pseudotime and virtual knockout analyses on proximal tubular clusters to map the hub genes onto the injury trajectory and regulatory network.: Among the 14 evaluated cellular stress programs, disulfidptosis emerged as the most prominently up-regulated transcriptomic signature. Virtual knockout…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43089465/",
+    "tags": [
+      "disulfidptosis",
+      "kidney-tubules-proximal",
+      "glomerulonephritis-iga",
+      "transcriptome"
+    ],
+    "date": "2026-11-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43055978",
     "title": "TRIM21 drives ferroptosis in sepsis-induced acute kidney injury through ubiquitination-dependent degradation of SIRT5",
     "subtitle": "Molecular biology reports · 2026",
@@ -2639,6 +2837,33 @@
       "sirtuins"
     ],
     "date": "2026-11-19T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43092957",
+    "title": "Reframing the Trimethylamine-Trimethylamine N-Oxide Axis in Chronic Kidney Disease: A Life-Course Perspective",
+    "subtitle": "Nutrients · 2026",
+    "summary": "Elevated circulating trimethylamine N-oxide (TMAO) is a well-established biomarker of cardiorenal risk; however, accumulating evidence reveals a \"causality paradox\" that supports a paradigm shift toward the integrated trimethylamine (TMA)-TMAO axis. Finally, we propose a four-stage cyclic precision medicine framework…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092957/",
+    "tags": [
+      "methylamines",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091656",
+    "title": "Association Between Estimated Glomerular Filtration Rate and Local Carotid Arterial Stiffness in a Cardiometabolic Risk Population",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Age, diabetes, and blood pressure were associated with higher PWVβ. However, pressure analyses were secondary and could not distinguish physiological pressure dependence from associations arising through shared calculation inputs.The study did not identify an independent cross-sectional eGFR-PWVβ association.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091656/",
+    "tags": [
+      "glomerular-filtration-rate",
+      "vascular-stiffness",
+      "carotid-arteries"
+    ],
+    "date": "2026-11-18T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2668,6 +2893,21 @@
       "exosomes"
     ],
     "date": "2026-11-18T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43092939",
+    "title": "Association of Serum Zinc with Infection Risk in Patients Undergoing Maintenance Hemodialysis: The Osaka Dialysis Complication Study (ODCS)",
+    "subtitle": "Nutrients · 2026",
+    "summary": "Each 5 μg/dL higher serum zinc level was associated with a lower risk of respiratory infection hospitalization (subdistribution hazard ratio, 0.876; 95% confidence interval, 0.787-0.974;= 0.014), with a significant interaction between serum zinc and albumin category (for interaction = 0.020). No significant…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092939/",
+    "tags": [
+      "renal-dialysis",
+      "zinc",
+      "respiratory-tract-infections",
+      "infections"
+    ],
+    "date": "2026-11-17T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2745,6 +2985,35 @@
     "pinned": false
   },
   {
+    "id": "pmid-43091891",
+    "title": "The Mechanisms of CD8(+) T Cells in Kidney Injury",
+    "subtitle": "International journal of molecular sciences · 2026",
+    "summary": "Kidney injury encompasses a range of pathological conditions including acute kidney injury (AKI), chronic kidney disease (CKD), and the transition from AKI to CKD. Accumulating evidence suggests that CD8T cells may contribute to kidney injury progression in specific experimental and clinical contexts via diverse…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091891/",
+    "tags": [
+      "cd8-positive-t-lymphocytes",
+      "acute-kidney-injury",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43083737",
+    "title": "Measurement and Clinical Interpretation of Uremic Solutes in Pediatric Chronic Kidney Disease: A Narrative Review",
+    "subtitle": "Toxins · 2026",
+    "summary": "In the 4C cohort, total IS was associated with CKD progression and selected vascular measures, whereas corresponding adjusted associations were not established for pCS. The research priority is to determine whether repeated, standardized measurements add early prognostic information beyond established clinical markers…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083737/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "sulfuric-acid-esters",
+      "cresols",
+      "uremic-toxins"
+    ],
+    "date": "2026-11-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43038236",
     "title": "Temporal trends in the incidence of chronic kidney disease from 1992 to 2021: An age-period-cohort analysis using GBD 2021 data and projections until 2031",
     "subtitle": "PloS one · 2026",
@@ -2768,6 +3037,32 @@
       "sleep-wake-disorders"
     ],
     "date": "2026-11-16T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091628",
+    "title": "Aldosterone Synthase Inhibitors in Chronic Kidney Disease",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Across studies, ASIs achieved effective aldosterone suppression, reductions in systolic blood pressure and favorable effects on albuminuria. While upstream inhibition is mechanistically attractive and may offer theoretical advantages, definitive evidence demonstrating reductions in hard renal and cardiovascular…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091628/",
+    "tags": [
+      "renal-insufficiency-chronic",
+      "cytochrome-p-450-cyp11b2"
+    ],
+    "date": "2026-11-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091627",
+    "title": "Long-Term Kidney Outcomes in COVID-19 Survivors with and Without Acute Kidney Injury",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Kidney function decline occurred in 23 of 44 patients with AKI (52.3%) and 3 of 56 patients without AKI (5.4%); the AKI group also had lower follow-up eGFR and greater eGFR decline. In multivariable analysis, AKI remained independently associated with the primary outcome (adjusted RR 7.92, 95% CI 2.41-25.98;< 0.001).:…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091627/",
+    "tags": [
+      "acute-kidney-injury",
+      "covid-19"
+    ],
+    "date": "2026-11-14T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2828,6 +3123,21 @@
       "kidney-transplantation"
     ],
     "date": "2026-11-14T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091620",
+    "title": "Association of Sarcopenia Risk with Depressive and Anxiety Symptoms in Patients on Maintenance Hemodialysis: A Cross-Sectional Study",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Associations were assessed with Kendall's τ, 45 laboratory variables were summarized with principal component analysis, and predictors of HADS depression (HADS-D) and anxiety (HADS-A) scores were examined with multiple linear regression and Akaike-weighted multimodel inference.: An increased risk of sarcopenia (SARC-F…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091620/",
+    "tags": [
+      "sarcopenia",
+      "renal-dialysis",
+      "depression",
+      "anxiety"
+    ],
+    "date": "2026-11-13T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2990,6 +3300,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43090039",
+    "title": "Potential Renoprotective Effects of Honokiol",
+    "subtitle": "Biomolecules · 2026",
+    "summary": "These models include diabetic nephropathy, CKD by adenine administration, unilateral ureteral obstruction (UUO)-induced renal fibrosis, renal ischemia-reperfusion, and sepsis-induced acute kidney injury, as well as cyclosporin A, cadmium, and cisplatin renal toxicity. These studies indicate that honokiol demonstrates…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43090039/",
+    "tags": [
+      "lignans",
+      "biphenyl-compounds",
+      "acute-kidney-injury",
+      "protective-agents"
+    ],
+    "date": "2026-11-12T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43041969",
     "title": "A Randomised Controlled Trial of Tripterygium Wilfordii Polyglycoside in the Long-Term Treatment of Stage IV Diabetic Kidney Disease (DKD)",
     "subtitle": "Drug design, development and therapy · 2026",
@@ -3121,6 +3446,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43092852",
+    "title": "Plasma Erythritol Levels and Renal Function Decline in Patients with Type 2 Diabetes: A Retrospective Cohort Study with In Vitro Experiments",
+    "subtitle": "Nutrients · 2026",
+    "summary": "Erythritol increased IL-6 secretion from RPTECs at 1 and 10 μmol/L.Plasma erythritol may serve as a functional biomarker and risk marker for subsequent renal function decline in patients with type 2 diabetes and relatively preserved kidney function. Its association with plasma IL-6 concentrations and its effects on…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092852/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "erythritol",
+      "kidney",
+      "diabetic-nephropathies"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43034765",
     "title": "Construction of a machine learning-based risk prediction model for acute stroke in maintenance hemodialysis patients",
     "subtitle": "PeerJ · 2026",
@@ -3162,6 +3502,20 @@
       "respiratory-insufficiency"
     ],
     "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43090028",
+    "title": "Mitochondrial Injury and Inflammation-Fibrosis Coupling in Diabetic Kidney Disease: Cell Type-Specific Mechanisms and Therapeutic Implications",
+    "subtitle": "Biomolecules · 2026",
+    "summary": "Experimental studies support individual connections between mitochondrial danger signaling, regulated cell death, senescence, and fibrosis, but rarely establish the entire temporal sequence in a single model. In assessing established therapies, experimental agents, and botanical preparations, we distinguish clinical…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43090028/",
+    "tags": [
+      "diabetic-nephropathies",
+      "mitochondria",
+      "inflammation"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3334,6 +3688,20 @@
     "pinned": false
   },
   {
+    "id": "pmid-43091593",
+    "title": "In-Hospital Complications Associated with Mortality in Patients Hospitalized for COVID-19: A Prospective Single-Center Cohort Study",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Separate logistic regressions evaluated mortality and acute kidney injury (AKI), with AKI specifications including or excluding baseline renal laboratory predictors.In-hospital mortality was 22.5%. AKI, shock, and renal replacement therapy were associated with high conditional mortality.Admission-assessment variables…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091593/",
+    "tags": [
+      "covid-19",
+      "hospital-mortality",
+      "acute-kidney-injury"
+    ],
+    "date": "2026-11-09T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43074806",
     "title": "Five-year cumulative TDF exposure is associated with CKD in people living with HIV: a propensity score-matched study supporting UACR-based renal screening",
     "subtitle": "Frontiers in cellular and infection microbiology · 2026",
@@ -3435,6 +3803,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43091574",
+    "title": "Timing of Continuous Renal Replacement Therapy, Cumulative Fluid Balance, and 90-Day Major Adverse Kidney Events in Sepsis-Associated Acute Kidney Injury",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "Each additional litre of fluid balance was associated with higher odds of MAKE-90 (1.34, 1.10-1.62;= 0.003), a lower subdistribution hazard of liberation (0.86, 0.78-0.94), and a higher subdistribution hazard of death before liberation (1.23, 1.07-1.40). There was no evidence of non-linearity in the fluid-balance…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091574/",
+    "tags": [
+      "acute-kidney-injury",
+      "sepsis",
+      "water-electrolyte-balance",
+      "continuous-renal-replacement-therapy"
+    ],
+    "date": "2026-11-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43030317",
     "title": "A Narrative Review: Nutrition in Pediatric Nephrology: From Early Kidney Health to Advanced CKD Care",
     "subtitle": "Nutrients · 2026",
@@ -3446,6 +3829,21 @@
       "nephrology"
     ],
     "date": "2026-11-07T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43089396",
+    "title": "Beyond Pierson Syndrome-Spectrum of LAMB2 Defect in Childhood",
+    "subtitle": "Genes · 2026",
+    "summary": "The patient subsequently progressed to end-stage kidney disease and underwent deceased-donor kidney transplantation at 15 years and 3 months of age with standard triple immunosuppression (tacrolimus, glucocorticoids, and mycophenolate mofetil).:-associated nephropathy should be considered in children with early-onset…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43089396/",
+    "tags": [
+      "nephrotic-syndrome",
+      "pupil-disorders",
+      "laminin",
+      "abnormalities-multiple"
+    ],
+    "date": "2026-11-06T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3577,6 +3975,21 @@
       "proteome"
     ],
     "date": "2026-11-06T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43091551",
+    "title": "Intraoperative Hemodynamic Trajectories and Postoperative Acute Kidney Injury After Total Knee Arthroplasty",
+    "subtitle": "Medicina (Kaunas, Lithuania) · 2026",
+    "summary": "The greater-relative-decline phenotype had a higher initial MAP but lower median and minimum MAP, more frequent MAP < 65 mmHg, and a nearly twofold greater maximum MAP decline. The between-group comparison was descriptive, and the regression estimate was highly imprecise; these findings were considered exploratory and…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091551/",
+    "tags": [
+      "arthroplasty-replacement-knee",
+      "acute-kidney-injury",
+      "postoperative-complications",
+      "hemodynamics"
+    ],
+    "date": "2026-11-05T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3924,432 +4337,6 @@
       "diabetic-nephropathies"
     ],
     "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43047428",
-    "title": "Associations of renal complement deposition with oxford MEST-C pathological lesions and renal outcomes in Iga nephropathy: a meta-analysis",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Renal deposition of C3, C4d, and C1q was associated with pathological lesions and adverse renal prognosis in IgAN. C4d showed the strongest association with chronic tubulointerstitial injury and progression, C3 may reflect overall complement activation, and C1q may indicate a high-risk immunopathological phenotype.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43047428/",
-    "tags": [
-      "glomerulonephritis-iga",
-      "complement-c3",
-      "complement-c1q",
-      "kidney"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42999609",
-    "title": "Renal Function, OCT-Defined Coronary Calcification and Stent Optimization in Optical Coherence Tomography-Guided Percutaneous Coronary Intervention: A Single-Center Cross-Sectional Study",
-    "subtitle": "Vascular health and risk management · 2026",
-    "summary": "In this single-center cross-sectional study, the crude association between lower eGFR and OCT-defined calcification was largely explained by age. Under OCT guidance, renal function was not associated with stent optimization, and CI-AKI was infrequent.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42999609/",
-    "tags": [
-      "tomography-optical-coherence",
-      "percutaneous-coronary-intervention",
-      "glomerular-filtration-rate",
-      "stents"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42997530",
-    "title": "Pulmonary-Cardiac Involvement in a Patient with IgA Vasculitis",
-    "subtitle": "Methodist DeBakey cardiovascular journal · 2026",
-    "summary": "Skin biopsy confirmed leukocytoclastic vasculitis and bronchoscopy confirmed diffuse alveolar hemorrhage, while multimodality imaging and a negative serologic work-up excluded cardiac sarcoidosis, antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis, and anti-glomerular basement membrane disease. The…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42997530/",
-    "tags": [
-      "iga-vasculitis",
-      "lung-diseases",
-      "glomerulonephritis-iga",
-      "heart-diseases"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42997433",
-    "title": "Influence of iron metabolism on all-cause death in patients with sepsis-associated acute kidney injury: a retrospective cohort study",
-    "subtitle": "PeerJ · 2026",
-    "summary": "Elevated serum iron and SF concentrations and decreased TRF concentration are important factors affecting the mortality of patients with SA-AKI. Abnormal iron metabolism indexes in patients with SA-AKI may be associated with a high risk of all-cause death.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42997433/",
-    "tags": [
-      "acute-kidney-injury",
-      "iron",
-      "sepsis"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42980334",
-    "title": "Compound Alpha-Ketoacid Supplementation for Diabetic Nephropathy in a Retrospective Controlled Study",
-    "subtitle": "Journal of visualized experiments : JoVE · 2026",
-    "summary": "This retrospective controlled study evaluated whether adding compound alpha-ketoacid tablets to conventional therapy improves renal function, inflammatory response, fibrosis-related biomarkers, oxidative stress status, therapeutic efficacy, and safety in patients with diabetic nephropathy. Compared with conventional…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42980334/",
-    "tags": [
-      "diabetic-nephropathies",
-      "keto-acids"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42976328",
-    "title": "Predictive and Prognostic Role of Neutrophil-to-Lymphocyte Ratio in Diabetic Nephropathy: Protocol for a Systematic Review and Meta-Analysis",
-    "subtitle": "JMIR research protocols · 2026",
-    "summary": "This systematic review sought to synthesize the available evidence on the association between NLR and DN occurrence, severity, and prognosis in T2DM, examining its potential as a biomarker and the sources of variability across studies. If the anticipated associations are supported, NLR may warrant evaluation within…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976328/",
-    "tags": [
-      "diabetic-nephropathies",
-      "neutrophils",
-      "lymphocytes"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42975732",
-    "title": "Cell-specific responses to copper stress and cuproptosis in renal fibrosis",
-    "subtitle": "Apoptosis : an international journal on programmed cell death · 2026",
-    "summary": "Renal fibrosis is not driven by a single cell type but results from sustained interactions among resident renal cells, infiltrating immune cells, matrix-producing fibroblasts, and other cell populations. Finally, this review summarizes potential therapeutic strategies targeting copper homeostasis and…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42975732/",
-    "tags": [
-      "cuproptosis",
-      "copper",
-      "kidney",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42975616",
-    "title": "Weighted co-expression reveals early circadian and metabolic dysregulation in precystic kidneys",
-    "subtitle": "Journal of molecular medicine (Berlin, Germany) · 2026",
-    "summary": "Transcription-factor enrichment revealed distinct regulatory axes: circadian control by BMAL1, metabolic regulation through SREBP2 (encoded by Srebf2), and inflammatory/cytokine signaling mediated by STAT3, p53, and NF-κB. These regulatory programs diverged transcriptionally within two weeks of Pkd1 loss, establishing…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42975616/",
-    "tags": [
-      "circadian-rhythm",
-      "kidney",
-      "polycystic-kidney-autosomal-dominant"
-    ],
-    "date": "2026-11-03T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43078500",
-    "title": "Granzyme K+CD8 T cells exacerbate renal inflammation and fibrosis in chronic kidney disease",
-    "subtitle": "Journal of immunology (Baltimore, Md. : 1950) · 2026",
-    "summary": "In fibrotic kidneys, Gzmk deficiency was associated with reduced accumulation and activation of renal T cells, as well as with attenuated macrophage inflammatory responses. Further scRNA-seq analysis identified a potential differentiation trajectory from Tcf7+ naïve/central memory T-like cells through effector memory…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43078500/",
-    "tags": [
-      "cd8-positive-t-lymphocytes",
-      "renal-insufficiency-chronic",
-      "granzymes",
-      "kidney"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43041786",
-    "title": "Association of pre-transplant CT-derived perirenal fat measurements with post-transplant diabetes mellitus after kidney transplantation",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "Right maximum perirenal fat thickness (adjusted OR 1.04, 95% CI 1.00-1.08;= 0.028) and anterior subcutaneous fat thickness (adjusted OR 1.05, 95% CI 1.02-1.09;= 0.005) were also independently associated with PTDM, whereas other CT-derived adiposity measurements were not. Pre-transplant right anterior perirenal fat…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43041786/",
-    "tags": [
-      "kidney-transplantation",
-      "diabetes-mellitus"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43041687",
-    "title": "Endothelin signaling in diabetic kidney disease: therapeutic targeting and translational advances",
-    "subtitle": "Frontiers in endocrinology · 2026",
-    "summary": "Endothelin-1 (ET-1), a vasoactive peptide produced by intrinsic renal cells, drives the progression of DKD through endothelin A receptor (ETAR)-mediated hemodynamic, podocyte, mesangial, and tubulointerstitial injury, whereas protective endothelin B receptor signaling is impaired. This narrative review integrates the…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43041687/",
-    "tags": [
-      "diabetic-nephropathies",
-      "signal-transduction",
-      "endothelins",
-      "diabetes-mellitus-type-2"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43041391",
-    "title": "Association between sleep patterns and diagnosed chronic kidney disease: a cohort study in China",
-    "subtitle": "Frontiers in neurology · 2026",
-    "summary": "Unhealthy sleep patterns increased the risk of suffering from diagnosed CKD. Short and fragmented sleep showed the most robust association, whereas the association for frequent napping/snoring was attenuated after PSM.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43041391/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "sleep-wake-disorders",
-      "sleep-quality",
-      "sleep"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43028077",
-    "title": "TSPO and LRBA Expression Is Associated with Acute Renal Allograft Rejection: An Integrative Transcriptomic Analysis",
-    "subtitle": "International journal of molecular sciences · 2026",
-    "summary": "We performed external cohort validation, survival analysis, immune deconvolution, single-cell RNA sequencing analysis, virtual knockout analysis, and quantitative PCR in mouse renal allografts. Quantitative PCR confirmed increased TSPO and decreased LRBA expression in mouse renal allografts with acute rejection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43028077/",
-    "tags": [
-      "graft-rejection",
-      "kidney-transplantation",
-      "receptors-gaba",
-      "transcriptome"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43008072",
-    "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats",
-    "subtitle": "Journal of veterinary internal medicine · 2026",
-    "summary": "Ultrasonographic renal dimensions may support CKD diagnosis in cats, but biological and observer variability must be considered.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43008072/",
-    "tags": [
-      "cat-diseases",
-      "renal-insufficiency-chronic",
-      "kidney"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43007674",
-    "title": "Ibuprofen Use and Acute Kidney Injury Among Adults Admitted to the Hospital",
-    "subtitle": "JAMA network open · 2026",
-    "summary": "This study in an inpatient cohort found that ibuprofen was associated with higher rates of AKI and KRT, but this excess risk was concentrated in patients at high risk. Patients at low risk may be able to receive ibuprofen safely yet were often prescribed oxycodone.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43007674/",
-    "tags": [
-      "ibuprofen",
-      "acute-kidney-injury",
-      "anti-inflammatory-agents-non-steroidal"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42970747",
-    "title": "Context-Dependent Clinical Narrative Signals of Renal Function Deterioration in Cross-Language Settings: Retrospective Multicohort Study",
-    "subtitle": "JMIR medical informatics · 2026",
-    "summary": "Independently constructed clinical-language measures were associated with renal function deterioration across two languages and health care settings. The findings support cross-language replication of an association signal, not formal external validation, measurement equivalence, or clinically useful stand-alone…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42970747/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "narration",
-      "kidney-function-tests",
-      "language"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42969229",
-    "title": "Dapagliflozin attenuates progression from prefrailty to frailty in patients with hypertension and chronic kidney disease",
-    "subtitle": "The Journal of clinical investigation · 2026",
-    "summary": "To evaluate the relationship among renal injury, physical performance, and frailty progression in hypertensive older adults with CKD and assess whether dapagliflozin associates with reduced frailty progression, we designed the study DAPA-FORTRESS (DAPAgliflozin and Frailty prOgression in hypeRTension and chRonic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42969229/",
-    "tags": [
-      "hypertension",
-      "benzhydryl-compounds",
-      "glucosides",
-      "renal-insufficiency-chronic"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42895485",
-    "title": "Disarming FcR-dependent neutrophil activation in MPO-ANCA glomerulonephritis",
-    "subtitle": "The Journal of experimental medicine · 2026",
-    "summary": "They developed one-armed antibodies that block pathogenic anti-MPO autoantibodies and prevent Fc receptor-mediated neutrophil activation, thereby attenuating renal injury in a passive transfer model. This nontoxic precision approach for disease treatment and flare prevention addresses a critical unmet need.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42895485/",
-    "tags": [
-      "neutrophil-activation",
-      "glomerulonephritis",
-      "receptors-fc",
-      "antibodies-antineutrophil-cytoplasmic"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42895484",
-    "title": "Epitope-diverse autoantibodies induce neutrophil-epithelial niches driving kidney injury in ANCA-associated glomerulonephritis",
-    "subtitle": "The Journal of experimental medicine · 2026",
-    "summary": "Injured epithelial cells expressed chemokines including CXCL6 and CXCL16, defining a microenvironment associated with local immune cell accumulation. Mechanistically, combinations of monoclonal anti-MPO antibodies recognizing distinct epitopes enhanced neutrophil activation and induced pauci-immune crescentic…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42895484/",
-    "tags": [
-      "glomerulonephritis",
-      "neutrophils",
-      "autoantibodies",
-      "antibodies-antineutrophil-cytoplasmic"
-    ],
-    "date": "2026-11-02T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43080172",
-    "title": "Does HIV Status Influence Kidney Transplant Access for U.S. Veterans?",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Within the VHA standardized national transplant system, VLWH experience prolonged waitlisting delays and reduced likelihood of kidney transplantation, suggesting persistent barriers along the transplant continuum.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43080172/",
-    "tags": [
-      "kidney-transplantation",
-      "veterans",
-      "hiv-infections",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43079704",
-    "title": "Low Skeletal Muscle Index on Preoperative CT Is Independently Associated With Acute Kidney Injury After Percutaneous Nephrolithotomy",
-    "subtitle": "International journal of urology : official journal of the Japanese Urological Association · 2026",
-    "summary": "CT-defined low SMI is independently associated with predominantly mild AKI after PNL. As it is obtainable from the routine preoperative CT, it may complement uric acid and stone complexity in identifying patients who warrant closer renal monitoring.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43079704/",
-    "tags": [
-      "nephrolithotomy-percutaneous",
-      "acute-kidney-injury",
-      "muscle-skeletal",
-      "postoperative-complications"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43075672",
-    "title": "Donor-Derived Cell-Free DNA and Donor-Specific Antibodies at the Time of Biopsy in Pediatric Kidney Transplant Recipients: A Multi-Center Analysis",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "In this predominantly for-cause biopsy cohort, dd-cfDNA was associated with biopsy-proven rejection and with DSA positivity, including in biopsies without rejection. Prospective studies are needed to define the role of dd-cfDNA in pediatric surveillance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43075672/",
-    "tags": [
-      "kidney-transplantation",
-      "cell-free-nucleic-acids",
-      "graft-rejection",
-      "isoantibodies"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43074684",
-    "title": "Induction Immunosuppression Practices for Pediatric Kidney Transplant Recipients in India",
-    "subtitle": "Pediatric transplantation · 2026",
-    "summary": "The study highlights the heterogeneity of induction immunosuppression practices in India.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43074684/",
-    "tags": [
-      "kidney-transplantation",
-      "immunosuppressive-agents",
-      "immunosuppression-therapy",
-      "practice-patterns-physicians"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43074504",
-    "title": "What Is the Cause of Hydronephrosis and Dilated Ureter After Pig-to-Baboon Kidney Transplantation?",
-    "subtitle": "Xenotransplantation · 2026",
-    "summary": "This may (i) minimize distal ureteral ischemia, and (ii) reduce the risk of bowel herniation posterior to the ureter. We cautiously suggest that hydronephrosis may be less problematic in human recipients of pig kidney grafts due to (i) the greater age and size of the pig graft, (ii) retroperitoneal graft placement;…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43074504/",
-    "tags": [
-      "kidney-transplantation",
-      "hydronephrosis",
-      "ureter",
-      "transplantation-heterologous"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43073700",
-    "title": "Does Chronic Renal Venous Hypertension Cause Subclinical Parenchymal Injury? Early and 1-Year Outcomes of Living Kidney Donation From Patients With Nutcracker Syndrome",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "In selected patients with NCS and chronic pain but no clinically significant urinary abnormalities at donor evaluation, the donated kidneys showed no urinary evidence of subclinical parenchymal injury before donation and maintained a near-normal urinalysis 1 year after transplantation, with acceptable early function…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43073700/",
-    "tags": [
-      "living-donors",
-      "renal-nutcracker-syndrome",
-      "kidney-transplantation",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43073618",
-    "title": "Metabolic Equivalents and Cardiac Metrics Predict Delisting Better Than Traditional Frailty Measures and Enhance the Nationally Utilized Kidney Transplant Decision Aid",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "All the information needed to predict delisting in our cohort can occur during a single evaluation visit including a robust history/physical exam, measurement of treadmill METs, and blood draw. The addition of cardiac information and METs significantly improved the predictiveness of the SRTR-KTDA.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43073618/",
-    "tags": [
-      "kidney-transplantation",
-      "decision-support-techniques",
-      "waiting-lists",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43071527",
-    "title": "Bovine Pericardial Patch-Assisted Renal Artery Reconstruction in Living-Donor Kidney Transplantation: Technical Features, Vascular Safety, and Five-Year Outcomes in 88 Recipients",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "In selected living-donor grafts with unfavorable arterial anatomy, bovine pericardial patch reconstruction provided an immediately available biological platform for Carrel-like inflow creation and simplified recipient implantation. The technique should be viewed as one option among established reconstructive…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43071527/",
-    "tags": [
-      "kidney-transplantation",
-      "living-donors",
-      "renal-artery",
-      "pericardium"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43066640",
-    "title": "Revisiting Perioperative Tacrolimus Concentration Changes After Kidney Transplantation Through Detailed Clinical Observation",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Perioperative Tac concentration changes showed features suggesting a temporally continuous process. These findings suggest the possible involvement of underlying factors contributing to similar fluctuations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43066640/",
-    "tags": [
-      "kidney-transplantation",
-      "tacrolimus",
-      "immunosuppressive-agents",
-      "graft-rejection"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43066637",
-    "title": "Molecular Diagnostics-Guided Immunosuppression Minimization to Belatacept Monotherapy in Kidney Transplant Recipients",
-    "subtitle": "Clinical transplantation · 2026",
-    "summary": "Molecular diagnostics-guided immunosuppression minimization was safe in carefully selected belatacept-treated kidney transplant recipients, supporting further evaluation of biomarker-guided strategies to individualize long-term immunosuppression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43066637/",
-    "tags": [
-      "kidney-transplantation",
-      "abatacept",
-      "immunosuppressive-agents",
-      "graft-rejection"
-    ],
-    "date": "2026-11-01T00:00:00.000Z",
     "pinned": false
   }
 ]

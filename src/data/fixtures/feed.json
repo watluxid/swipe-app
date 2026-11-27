@@ -2472,6 +2472,21 @@
     "pinned": false
   },
   {
+    "id": "pmid-43099113",
+    "title": "BTB and CNC homology 1 deficiency mitigated ischemia/reperfusion-induced acute kidney injury in a glutaredoxin-2-dependent manner",
+    "subtitle": "Journal of molecular medicine (Berlin, Germany) · 2026",
+    "summary": "Bach1 deletion upregulated Grx2 expression both in vivo and in vitro, leading to improvements in mitochondrial dysfunction and renal proximal tubule injury. Furthermore, HPPE, a Bach1 inhibitor, enhanced Grx2 expression in H/R-injured HK-2 cells, thereby alleviating mitochondrial dysfunction and renal proximal tubule…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43099113/",
+    "tags": [
+      "glutaredoxins",
+      "reperfusion-injury",
+      "acute-kidney-injury",
+      "basic-leucine-zipper-transcription-factors"
+    ],
+    "date": "2026-11-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43084656",
     "title": "GDF15 impacts chronic kidney disease and associated weight loss through distinct mechanisms",
     "subtitle": "Science advances · 2026",
@@ -2483,6 +2498,35 @@
       "renal-insufficiency-chronic"
     ],
     "date": "2026-11-27T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43099579",
+    "title": "CAR T cell therapy for multiple myeloma in a kidney transplant recipient: a case report",
+    "subtitle": "Journal of hematology & oncology · 2026",
+    "summary": "CAR T-cell therapy has demonstrated improved efficacy in relapsed/refractory multiple myeloma compared with standard systemic treatments. We describe how immunosuppressant therapy was managed, providing a preliminary blueprint for effective CAR T-cell use in this complex patient population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43099579/",
+    "tags": [
+      "multiple-myeloma",
+      "kidney-transplantation",
+      "immunotherapy-adoptive"
+    ],
+    "date": "2026-11-26T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43097189",
+    "title": "Hemodialysis and pin-site cranial bone injury following Mayfield three-pin fixation: a retrospective matched study",
+    "subtitle": "Neurosurgical review · 2026",
+    "summary": "Pin-site cranial bone injury occurred in 4 of 6 hemodialysis patients (66.7%) and 3 of 28 non-hemodialysis patients (10.7%), indicating a statistically significant association with hemodialysis (two-sided exact p = 0.0044). These findings suggest that hemodialysis may be associated with increased susceptibility to…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097189/",
+    "tags": [
+      "skull-fractures",
+      "renal-dialysis",
+      "craniotomy",
+      "bone-nails"
+    ],
+    "date": "2026-11-26T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2610,6 +2654,20 @@
       "kidney"
     ],
     "date": "2026-11-25T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43094594",
+    "title": "Extracellular Vesicles in Renal Fibrosis: Mechanisms, Biomarkers, and Nanotherapeutics in Chronic Kidney Disease",
+    "subtitle": "International journal of nanomedicine · 2026",
+    "summary": "Protective EV preparations have reduced fibrosis in experimental kidney disease models, while engineering strategies are being developed to improve therapeutic cargo loading and delivery to renal target cells. This narrative review integrates both profibrotic and antifibrotic EV mechanisms in CKD-associated renal…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094594/",
+    "tags": [
+      "extracellular-vesicles",
+      "renal-insufficiency-chronic",
+      "kidney"
+    ],
+    "date": "2026-11-20T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -2767,6 +2825,20 @@
       "receptors-purinergic-p2"
     ],
     "date": "2026-11-20T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43095440",
+    "title": "Association of a Type 2 diabetes polygenic risk score with glycemic control and diabetic kidney disease in youth-onset Type 2 diabetes",
+    "subtitle": "Pediatric diabetes · 2026",
+    "summary": "In continuous analyses, each increase of 1 standard deviation in the population structure-adjusted PRS was associated with a 0.41 percentage point higher mean follow-up HbA1c after adjustment for baseline HbA1c, follow-up duration, age at diagnosis, and sex (= 0.41; 95% confidence interval [CI]: 0.08-0.75;= 0.017).…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095440/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "glycemic-control"
+    ],
+    "date": "2026-11-19T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -3446,6 +3518,79 @@
     "pinned": false
   },
   {
+    "id": "pmid-43095499",
+    "title": "Clinical and biochemical outcomes following structured patient education in hemodialysis: a Kenyan secondary analysis",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "Structured education was associated with lower IDWG and lower sodium, but with higher, not lower, adjusted serum potassium; phosphorus, urea, and creatinine showed no consistent overall association. The lower sodium should not be read as a benefit, because the intervention group's mean endline concentration was below…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095499/",
+    "tags": [
+      "renal-dialysis",
+      "patient-education-as-topic"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43095277",
+    "title": "Cell-type-divergent redox injury in rheumatoid arthritis and systemic lupus erythematosus/lupus nephritis: evidence for ferroptosis-related remodeling and immune amplification",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Even within RA and SLE/LN, however, the maturity of cell-specific mechanistic evidence is uneven: the macrophage HMGB1-TLR4-STAT3 amplification circuit has been demonstrated in a single mechanistic RA study, whereas individual upstream regulators of podocyte ferroptosis-like injury in LN remain incompletely replicated…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095277/",
+    "tags": [
+      "ferroptosis",
+      "arthritis-rheumatoid",
+      "lupus-nephritis",
+      "lupus-erythematosus-systemic"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43095066",
+    "title": "From gut to glomerulus: the mucosa-Gd-IgA1-complement axis as an integrated treatment roadmap for IgA vasculitis nephritis, and the limits of extrapolation from IgA nephropathy",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Viewed through the axis, the complement and injury markers it sheds can be specified, node by node, as a candidate, hypothesis-generating non-invasive panel that pairs complement fragments, Gd-IgA1, urinary IgA and tubular-injury markers with histology and is offered to be tested rather than used, whilst agents in…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095066/",
+    "tags": [
+      "glomerulonephritis-iga",
+      "immunoglobulin-a",
+      "iga-vasculitis",
+      "kidney-glomerulus"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43094770",
+    "title": "The infectious disease burden in kidney transplant recipients: a 20-year multicenter cohort study on non-graft-failure hospitalizations in eastern China",
+    "subtitle": "Frontiers in public health · 2026",
+    "summary": "Infectious diseases are the leading cause of non-graft-failure hospitalizations and all in-hospital deaths in this cohort occurred during infection-related admissions. Sepsis at admission is a critical prognostic sentinel, mandating immediate protocolized recognition and escalation of care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094770/",
+    "tags": [
+      "kidney-transplantation",
+      "hospitalization",
+      "communicable-diseases",
+      "cost-of-illness"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43094722",
+    "title": "Hemodialysis is associated with changes in plasma protein N-glycan profile: possibly promoting expression of anti-inflammatory traits",
+    "subtitle": "Frontiers in immunology · 2026",
+    "summary": "Hemodialysis may have a measurable anti-inflammatory effect in patients undergoing chronic treatment. Changes in the N-glycosylation profile of total plasma proteins may represent potential biomarkers for assessing hemodialysis effectiveness and predicting clinical outcomes in HD patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094722/",
+    "tags": [
+      "renal-dialysis",
+      "polysaccharides",
+      "blood-proteins",
+      "renal-insufficiency-chronic"
+    ],
+    "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
     "id": "pmid-43092852",
     "title": "Plasma Erythritol Levels and Renal Function Decline in Patients with Type 2 Diabetes: A Retrospective Cohort Study with In Vitro Experiments",
     "subtitle": "Nutrients · 2026",
@@ -3502,6 +3647,36 @@
       "respiratory-insufficiency"
     ],
     "date": "2026-11-11T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43096092",
+    "title": "TIM-3 Combined With Pan-Immune-Inflammation Value for Predicting Acute Rejection Risk After Kidney Transplantation",
+    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
+    "summary": "Postoperative urinary sTIM-3 and PIV are independent predictors of acute rejection after kidney transplantation. The predictive model incorporating the donor-recipient age difference and HLA mismatch number demonstrated good performance in discrimination, calibration, and clinical utility, providing a non-invasive…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096092/",
+    "tags": [
+      "kidney-transplantation",
+      "graft-rejection",
+      "hepatitis-a-virus-cellular-receptor-2",
+      "inflammation"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
+    "pinned": false
+  },
+  {
+    "id": "pmid-43096091",
+    "title": "Development and Validation of a Diagnostic Prediction Model for Diabetic Kidney Disease in Overweight and Obese Patients With Type 2 Diabetes Mellitus",
+    "subtitle": "British journal of hospital medicine (London, England : 2005) · 2026",
+    "summary": "The five-predictor nomogram demonstrated acceptable discriminative performance for prevalent DKD in patients with T2DM and overweight or obesity, offering a tool to facilitate the identification of patients requiring further diagnostic assessment. Nevertheless, broader external validation and evaluation of its…",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096091/",
+    "tags": [
+      "diabetes-mellitus-type-2",
+      "diabetic-nephropathies",
+      "overweight",
+      "obesity"
+    ],
+    "date": "2026-11-10T00:00:00.000Z",
     "pinned": false
   },
   {
@@ -4161,180 +4336,6 @@
       "renal-dialysis",
       "quality-assurance-health-care",
       "feedback"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43054079",
-    "title": "Recurrence of immunoglobulin A nephropathy after kidney transplantation: a therapeutic gap in the era of targeted therapies",
-    "subtitle": "Transplant international : official journal of the European Society for Organ Transplantation · 2026",
-    "summary": "Two large registries suggested that maintenance corticosteroids reduce recurrence, but this association was not confirmed in propensity-matched or multicenter studies, and induction immunosuppression was not adequately accounted for. Mechanistically, IgAN is increasingly viewed as a disorder of B-cell and plasma-cell…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43054079/",
-    "tags": [
-      "kidney-transplantation",
-      "glomerulonephritis-iga"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43054032",
-    "title": "Association of low physical performance assessed by five-time chair stand test with new-onset and severity of chronic kidney disease: hybrid evidence from public health and clinical settings",
-    "subtitle": "Frontiers in public health · 2026",
-    "summary": "In this hypothesis-generating analysis, low physical performance, as indicated by prolonged CST time, was positively associated with new-onset CKD in middle-aged and older Chinese adults. A similar pattern was observed in male patients with CKD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43054032/",
-    "tags": [
-      "renal-insufficiency-chronic",
-      "physical-functional-performance"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43054022",
-    "title": "Application of endovascular stent graft in ABO-incompatible living donor kidney transplantation: a case report",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Consequently, a self-expandable endovascular covered stent was implanted into the external iliac artery via the right femoral artery under intervention. This study demonstrates that renal graft implanted on the endovascular stent is a feasible therapeutic option for recipients with severe iliac arteriosclerosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43054022/",
-    "tags": [
-      "kidney-transplantation",
-      "living-donors",
-      "abo-blood-group-system",
-      "stents"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43053938",
-    "title": "Hemodialysis patients exhibit T-cell activation accompanied by an enhanced frequency of IFN-γ(+)CD4(+)/CD8(+) T cells",
-    "subtitle": "Frontiers in immunology · 2026",
-    "summary": "Phenotypically, the changes in CD4T-cell subsets were more significant than those observed for CD8T cells, with activated T cells (CD4CD38, CD4HLA-DR, and CD8CD38T cells) increased and functional T cells (CD4CD28T cells) decreased in proportion and quantity. In summary, maintenance HD is associated with dysregulation…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43053938/",
-    "tags": [
-      "interferon-gamma",
-      "lymphocyte-activation",
-      "cd8-positive-t-lymphocytes",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43009321",
-    "title": "Diagnostic utility of apolipoprotein E immunohistochemistry in C3 glomerulonephritis, dense deposit disease, and their intermediate phenotypes",
-    "subtitle": "American journal of clinical pathology · 2026",
-    "summary": "Apolipoprotein E IHC is a useful adjunct in distinguishing DDD from C3GN and may help identify intermediate cases with features overlapping with DDD. However, ApoE positivity is not specific for DDD and should be interpreted in conjunction with EM and other clinicopathologic findings.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43009321/",
-    "tags": [
-      "apolipoproteins-e",
-      "glomerulonephritis-membranoproliferative",
-      "complement-c3"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-43004992",
-    "title": "Mitochondrial Dysfunction in Renal Proximal Tubule Injury: Mechanisms, Pathophysiology, and Therapeutic Opportunities",
-    "subtitle": "The Yale journal of biology and medicine · 2026",
-    "summary": "There is growing evidence that multitargeting mitochondria by combining different pathways may offer more effective protection against tubular injury and the progression of tubular disease. Collectively, mitochondrial defects in renal tubule injury represent a promising target for innovative, organelle-centered…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43004992/",
-    "tags": [
-      "mitochondria",
-      "kidney-tubules-proximal",
-      "acute-kidney-injury"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42985917",
-    "title": "Successful ABO-incompatible renal transplantation of blood group A1 donor into A2 recipient with anti-A1 isoagglutinins: case report and review of literature",
-    "subtitle": "American journal of clinical pathology · 2026",
-    "summary": "Kidney transplantation across the A1/A2 blood group barrier may be safe in the setting of low-titer anti-A1 antibodies, even when detectable in the antiglobulin phase, and may not require desensitization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42985917/",
-    "tags": [
-      "kidney-transplantation",
-      "abo-blood-group-system",
-      "blood-group-incompatibility",
-      "kidney-failure-chronic"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42981360",
-    "title": "SEQuential tUnneled Catheters and Infective Events in haemodiaLysis: A Five-Year Retrospective Cohort Study (SEQUEL Study)",
-    "subtitle": "PloS one · 2026",
-    "summary": "Repeated catheterization was independently associated with increasing CRBSI risk, and catheter sequence number was the strongest predictor in the fully adjusted model. The femoral site effect was substantially attenuated after adjustment for sequence and was not statistically significant in the registry-index cohort…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42981360/",
-    "tags": [
-      "renal-dialysis",
-      "catheter-related-infections",
-      "catheterization-central-venous",
-      "central-venous-catheters"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42981357",
-    "title": "Assessment of coronavirus disease 2019 mRNA vaccine response in kidney transplant recipients",
-    "subtitle": "PloS one · 2026",
-    "summary": "Factors associated with poor vaccine response (seronegativity) and with high antibody titers (antibody titer ≥ 121 U/mL) were determined using multivariable regression models. Multivariable logistic regression analysis showed lower odds of high SARS-CoV-2 antibody titers among patients aged > 51 years compared with…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42981357/",
-    "tags": [
-      "kidney-transplantation",
-      "covid-19-vaccines",
-      "covid-19",
-      "sars-cov-2"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42981294",
-    "title": "Diabetes and all-cause mortality in hemodialysis: A comparative survival analysis with complementary machine-learning methods",
-    "subtitle": "PloS one · 2026",
-    "summary": "In this Turkish hemodialysis cohort, diabetes showed a consistent adverse trend toward higher mortality. HbA1c was the dominant modifiable predictor, supporting the integration of structured glycaemic monitoring into routine hemodialysis care.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42981294/",
-    "tags": [
-      "renal-dialysis",
-      "machine-learning",
-      "kidney-failure-chronic",
-      "diabetes-mellitus"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42980842",
-    "title": "Proton pump inhibitors in prevention of cisplatin-induced nephrotoxicity: a systematic review",
-    "subtitle": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026",
-    "summary": "Current evidence does not allow a clear conclusion regarding the safety or efficacy of PPIs in this setting. While theoretically beneficial, clinical data reveals conflicting results and a potential signal for increased AKI risk.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42980842/",
-    "tags": [
-      "proton-pump-inhibitors",
-      "cisplatin",
-      "acute-kidney-injury",
-      "antineoplastic-agents"
-    ],
-    "date": "2026-11-04T00:00:00.000Z",
-    "pinned": false
-  },
-  {
-    "id": "pmid-42980413",
-    "title": "Mulberry Leaf Extract and Its Constituent Kuwanon C Show Therapeutic Potential toward Diabetic Nephropathy, with Associated Modulation of Oxidative Stress and Inflammation",
-    "subtitle": "Journal of agricultural and food chemistry · 2026",
-    "summary": "Transcriptomic analyses revealed that the anti-DN effect of MLE-3 could be associated with its modulation of oxidative stress and inflammation, which was confirmed by further evaluations in both HK-2 and RAW264.7 cells. Moreover, the anti-inflammatory property of MLE-3 was well phenocopied by its primary constituent…",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42980413/",
-    "tags": [
-      "morus",
-      "oxidative-stress",
-      "plant-extracts",
-      "diabetic-nephropathies"
     ],
     "date": "2026-11-04T00:00:00.000Z",
     "pinned": false
